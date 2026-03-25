@@ -1,0 +1,19 @@
+{
+  "company": "ネクスト・ステージ・コンピューティング株式会社",
+  "company_en": "Next Stage Computing Co., Ltd.",
+  "website": "http://www.nscomputing.co.jp",
+  "people": [
+    {
+      "name": "内山 勇次郎",
+      "name_en": "Uchiyama Yujiro",
+      "role": "代表取締役社長 (Representative Director & President)",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "notes": {
+    "people_found": "CEO name found on company website. No LinkedIn or Twitter profiles found via web search.",
+    "social_search": "Manual verification on LinkedIn/Twitter recommended for social profiles."
+  },
+  "last_updated": "2026-03-25"
+}
