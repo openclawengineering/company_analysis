@@ -1,0 +1,41 @@
+{
+  "company": "Gigalogy",
+  "website": "https://gigalogy.com",
+  "people": [
+    {
+      "name": "Mosleh Uddin",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/mosleh-uddin",
+      "twitter": null
+    },
+    {
+      "name": "Moin Uddin",
+      "role": "Co-Founder & CTO",
+      "linkedin": "https://www.linkedin.com/in/muddin1/",
+      "twitter": null
+    },
+    {
+      "name": "Rawmy Jurshad",
+      "role": "Product Manager",
+      "linkedin": "https://www.linkedin.com/in/rawmy-jurshad-553859a1/",
+      "twitter": null
+    },
+    {
+      "name": "Moe Maruyama",
+      "role": "Customer Success Manager",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "Md Rokon Uz Zaman",
+      "role": "Head of Operations (Dhaka)",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "notes": {
+    "twitter_search": "X (Twitter) accounts not found via web search. Manual verification on X platform recommended.",
+    "linkedin_access": "Some LinkedIn profiles may require login to view full details."
+  },
+  "last_updated": "2026-03-25"
+}
