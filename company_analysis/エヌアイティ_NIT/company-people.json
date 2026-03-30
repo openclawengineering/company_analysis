@@ -1,0 +1,148 @@
+{
+  "company": {
+    "name_jp": "エヌ・ティ・ティ アイティ株式会社",
+    "name_en": "NTT IT Corporation",
+    "name_short": "NTT-IT",
+    "current_status": "Merged into NTTテクノクロス (NTT TechnoCross) as of April 1, 2017",
+    "original_headquarters": {
+      "address": "〒231-0032 神奈川県横浜市中区不老町二丁目9番地1 関内ワイズビル4階",
+      "building": "関内ワイズビル",
+      "city": "横浜市中区"
+    },
+    "yokohama_office": {
+      "address": "〒220-0012 神奈川県横浜市西区みなとみらい4-4-5 横浜アイマークプレイス",
+      "building": "横浜アイマークプレイス",
+      "city": "横浜市西区",
+      "phone": "045-212-7000"
+    }
+  },
+  "presidents_history": [
+    {
+      "order": 1,
+      "name_jp": "山崎眞一",
+      "name_en": "Shinichi Yamazaki",
+      "title": "代表取締役社長",
+      "tenure_start": "1987年6月",
+      "notes": "Founding president"
+    },
+    {
+      "order": 2,
+      "name_jp": "鶴保征城",
+      "name_en": "Seijo Tsuruho",
+      "title": "代表取締役社長",
+      "tenure_start": "1997年6月",
+      "notes": ""
+    },
+    {
+      "order": 3,
+      "name_jp": "鈴木滋彦",
+      "name_en": "Shigehiko Suzuki",
+      "title": "代表取締役社長",
+      "tenure_start": "2003年6月",
+      "notes": ""
+    },
+    {
+      "order": 4,
+      "name_jp": "伊土誠一",
+      "name_en": "Seiichi Ido",
+      "title": "代表取締役社長",
+      "tenure_start": "2007年6月",
+      "notes": ""
+    },
+    {
+      "order": 5,
+      "name_jp": "山田伸一",
+      "name_en": "Shinichi Yamada",
+      "title": "代表取締役社長",
+      "tenure_start": "2011年6月",
+      "notes": ""
+    },
+    {
+      "order": 6,
+      "name_jp": "長谷雅彦",
+      "name_en": "Masahiko Hase",
+      "title": "代表取締役社長",
+      "tenure_start": "約2013年頃",
+      "tenure_end": "2017年3月31日",
+      "notes": "Final president before merger"
+    }
+  ],
+  "final_president": {
+    "name_jp": "長谷雅彦",
+    "name_en": "Masahiko Hase",
+    "title": "代表取締役社長",
+    "notes": "Led the company through the merger with NTTソフトウェア"
+  },
+  "corporate_structure": {
+    "parent_company": {
+      "name_jp": "日本電信電話株式会社",
+      "name_en": "Nippon Telegraph and Telephone Corporation",
+      "ownership_percentage": 100
+    },
+    "group_affiliation": "NTTグループ",
+    "research_group": "研究所系4社 (Research Institute-related 4 Companies)",
+    "related_companies": [
+      "NTTソフトウェア株式会社",
+      "NTTエレクトロニクス株式会社",
+      "NTTアドバンステクノロジ株式会社"
+    ]
+  },
+  "employee_data": {
+    "count": 224,
+    "as_of": "2013年3月31日",
+    "notes": "Final employee count before merger"
+  },
+  "capital": {
+    "amount": 300000000,
+    "currency": "JPY",
+    "amount_display": "3億円"
+  },
+  "successor_company": {
+    "name_jp": "NTTテクノクロス株式会社",
+    "name_en": "NTT TechnoCross Corporation",
+    "established": "2017年4月1日",
+    "website": "https://www.ntt-tx.co.jp",
+    "formed_by": "Merger of NTTソフトウェア and NTTアイティ"
+  },
+  "key_executives": [
+    {
+      "name_jp": "長谷雅彦",
+      "name_en": "Masahiko Hase",
+      "position": "代表取締役社長 (Representative Director & President)",
+      "period": "Until March 2017"
+    }
+  ],
+  "business_divisions": [
+    "マジックコネクト事業",
+    "ミーティングプラザ事業",
+    "メディア アナリティクス事業",
+    "画像事業",
+    "音声事業",
+    "ヘルスケア事業",
+    "メディア・インテグレーション事業",
+    "サイネージ事業"
+  ],
+  "data_sources": [
+    {
+      "type": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/NTTアイティ",
+      "accessed": "2026-03-30"
+    },
+    {
+      "type": "NTTテクノクロス Corporate Website",
+      "url": "https://www.ntt-tx.co.jp",
+      "accessed": "2026-03-30"
+    },
+    {
+      "type": "NTTテクノクロス History Page",
+      "url": "https://www.ntt-tx.co.jp/corporate/history_ntts.html",
+      "accessed": "2026-03-30"
+    }
+  ],
+  "analysis_metadata": {
+    "created_date": "2026-03-30",
+    "created_by": "OpenClaw Subagent",
+    "task_label": "KIA Analysis: エヌアイティ",
+    "notes": "Based on available public information. The company 株式会社エヌアイティ (NIT Co., Ltd.) appears to be related to NTTアイティ (NTT IT Corporation), which merged into NTTテクノクロス in 2017."
+  }
+}

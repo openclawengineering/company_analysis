@@ -1,0 +1,166 @@
+{
+  "company": "株式会社インフォコム (Infocom Corporation)",
+  "company_id": "4348",
+  "updated": "2026-03-30",
+  "executives": [
+    {
+      "name": "黒田 淳",
+      "name_en": "Jun Kuroda",
+      "title": "代表取締役社長 CEO",
+      "title_en": "President and CEO",
+      "birth_date": "1965-04-05",
+      "background": [
+        "1988: 京都コンピュータ学院卒",
+        "1988: 日商岩井インフォコムシステムズ（現インフォコム）入社",
+        "2007: 同 モバイル事業本部テレコムSI部長",
+        "2008: 同 エンタープライズ事業部長",
+        "2013: ㈱アムタス代表取締役社長",
+        "2017: 当社常務執行役員",
+        "2020: 同CSRO",
+        "2020: 同取締役",
+        "2023: 同代表取締役社長 CEO (現任)"
+      ]
+    },
+    {
+      "name": "久保井 基隆",
+      "title": "取締役 CSRO",
+      "title_en": "Director, CSRO"
+    },
+    {
+      "name": "神崎 信行",
+      "title": "取締役 CSO",
+      "title_en": "Director, CSO",
+      "note": "CFO、CHO、CSROに協力"
+    },
+    {
+      "name": "佐藤 文敏",
+      "title": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name": "岡田 好輝",
+      "title": "取締役",
+      "title_en": "Director"
+    }
+  ],
+  "auditors": [
+    {
+      "name": "仲田 和正",
+      "title": "監査役",
+      "title_en": "Corporate Auditor"
+    },
+    {
+      "name": "東谷 孝行",
+      "title": "監査役",
+      "title_en": "Corporate Auditor"
+    }
+  ],
+  "executive_officers": [
+    {
+      "name": "森岡 務",
+      "title": "常務執行役員",
+      "title_en": "Executive Managing Director",
+      "position": "エンタープライズサービス事業本部長"
+    }
+  ],
+  "board_composition": {
+    "total_directors": 5,
+    "internal_directors": 3,
+    "outside_directors": 0,
+    "corporate_auditors": 2,
+    "note": "Board composition subject to change with new ownership structure"
+  },
+  "previous_executives": [
+    {
+      "name": "竹原",
+      "title": "元代表取締役社長",
+      "note": "Former CEO before Kuroda"
+    },
+    {
+      "name": "里見",
+      "title": "元常務取締役",
+      "note": "Former Executive Managing Director"
+    },
+    {
+      "name": "尾崎",
+      "title": "元取締役",
+      "note": "Former Director"
+    },
+    {
+      "name": "間狩",
+      "title": "元取締役",
+      "note": "Former Director"
+    },
+    {
+      "name": "津田",
+      "title": "元社外取締役",
+      "note": "Former Outside Director"
+    },
+    {
+      "name": "藤田",
+      "title": "元社外取締役",
+      "note": "Former Outside Director"
+    }
+  ],
+  "ownership_structure": {
+    "current_parent": "日鉄ソリューションズ株式会社 (Nippon Steel Solutions Corporation)",
+    "acquired_date": "2025-07",
+    "previous_parent": "Teijin Corporation (帝人)",
+    "previous_parent_period": "Until October 2024",
+    "intermediate_owner": "Blackstone Inc. (ブラックストーン)",
+    "blackstone_acquisition": {
+      "date": "2024-06-18",
+      "price_per_share": "6060 JPY",
+      "total_value": "275.7 billion JPY",
+      "note": "Blackstone's largest acquisition in Japan"
+    },
+    "delisting": {
+      "date": "2024-10-16",
+      "from": "Tokyo Stock Exchange Prime Market",
+      "listed_years": "20+"
+    }
+  },
+  "key_personnel_notes": {
+    "leadership_transition": "Significant management changes following Blackstone acquisition (2024) and NSSOL acquisition (2025)",
+    "corporate_governance": "Board composition adapted to new ownership structure with increased emphasis on IT and healthcare expertise",
+    "specializations": [
+      "Healthcare IT",
+      "System Integration",
+      "Enterprise ERP Solutions",
+      "Digital Content Platforms"
+    ]
+  },
+  "group_company_leadership": {
+    "grandit": {
+      "president": "石倉 努",
+      "note": "Merged with Infocom in April 2025"
+    },
+    "infocom_technologies": {
+      "note": "Merged with Infocom West Japan in April 2025 to form Infocom Technologies Corporation"
+    },
+    "medical_create": {
+      "note": "Group company since October 2021, specializing in healthcare solutions"
+    },
+    "alter_booth": {
+      "note": "Group company with Microsoft Azure specialization"
+    }
+  },
+  "contact_information": {
+    "pr_ir_office": {
+      "director": "今福 浩",
+      "title": "広報・IR室長",
+      "phone": "03-6866-3160"
+    }
+  },
+  "headquarters": {
+    "address": "〒107-0052 東京都港区赤坂9-7-2 ミッドタウン・イースト10階",
+    "phone": "03-6866-3160",
+    "website": "https://www.infocom.co.jp"
+  },
+  "notes": [
+    "Executive structure subject to ongoing changes due to ownership transition",
+    "Company became subsidiary of Nippon Steel Solutions Corporation in July 2025",
+    "Network business (including Mecha-Comi) separated from group in July 2025",
+    "Board composition may vary from pre-acquisition structure due to private company status"
+  ]
+}
