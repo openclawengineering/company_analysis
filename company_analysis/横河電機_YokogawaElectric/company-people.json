@@ -1,0 +1,327 @@
+{
+  "company": {
+    "name_jp": "横河電機株式会社",
+    "name_en": "Yokogawa Electric Corporation",
+    "founded": "1915-09-01",
+    "incorporated": "1920-12-01",
+    "headquarters": "Tokyo, Japan"
+  },
+  "executives": [
+    {
+      "name": "Hitoshi Nara",
+      "name_jp": "奈良 均",
+      "title": "Representative Executive Officer",
+      "role": "Board representation and corporate governance"
+    },
+    {
+      "name": "Kunimasa Shigeno",
+      "name_jp": "重野 国雅",
+      "title": "President & CEO, Representative Executive Officer",
+      "role": "Chief Executive Officer and President"
+    },
+    {
+      "name": "Koji Nakaoka",
+      "name_jp": "中岡 浩二",
+      "title": "Executive Vice President & Executive Officer",
+      "responsibility": "Energy & Sustainability Business Headquarters"
+    },
+    {
+      "name": "Kazuhiko Takeoka",
+      "name_jp": "竹岡 和彦",
+      "title": "Senior Vice President & Executive Officer",
+      "responsibility": "Digital Solutions Headquarters"
+    },
+    {
+      "name": "Hiroshi Tanoguchi",
+      "name_jp": "田野口 浩",
+      "title": "Senior Vice President & Executive Officer",
+      "responsibility": "Yokogawa Products Headquarters"
+    },
+    {
+      "name": "Hiroshi Nakao",
+      "name_jp": "中尾 浩",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Life Business Headquarters"
+    },
+    {
+      "name": "Hiroshi Nagai",
+      "name_jp": "長井 浩",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "President of Yokogawa Manufacturing Corporation"
+    },
+    {
+      "name": "Michiko Nakajima",
+      "name_jp": "中島 美智子",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Accounting & Treasury Headquarters"
+    },
+    {
+      "name": "Yoko Fujita",
+      "name_jp": "藤田 陽子",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Business Strategy Headquarters"
+    },
+    {
+      "name": "Toshiyuki Suzuki",
+      "name_jp": "鈴木 敏之",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "President of Yokogawa Test & Measurement Corporation"
+    },
+    {
+      "name": "Akira Fukuda",
+      "name_jp": "福田 章",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Corporate Administration Headquarters, Regional Chief Executive for India and South Asia"
+    },
+    {
+      "name": "Kevin McMillen",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Regional Chief Executive for North America and South America, President of Yokogawa Corporation of America"
+    },
+    {
+      "name": "Naohisa Endo",
+      "name_jp": "遠藤 直久",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Materials Business Headquarters"
+    },
+    {
+      "name": "Yasumasa Ogawa",
+      "name_jp": "小川 保正",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Head of Projects & Services Business Div., Digital Solutions Headquarters"
+    },
+    {
+      "name": "Norinao Sato",
+      "name_jp": "佐藤 則直",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Regional Chief Executive for Middle East and Africa, President of Yokogawa Middle East & Africa B.S.C.(c)"
+    },
+    {
+      "name": "Yoshiaki Asakura",
+      "name_jp": "朝倉 義明",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Global Business Service Headquarters"
+    },
+    {
+      "name": "Masaharu Maeda",
+      "name_jp": "前田 正治",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Head of Solutions Business Div., Digital Solutions Headquarters"
+    },
+    {
+      "name": "Masataka Tomonaga",
+      "name_jp": "朝永 正孝",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Human Resources and General Affairs Headquarters"
+    },
+    {
+      "name": "Mitsuhiro Yamamoto",
+      "name_jp": "山本 光洋",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Head of Systems Business Div., Digital Solutions Headquarters"
+    },
+    {
+      "name": "Seita Hagihara",
+      "name_jp": "萩原 誠太",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Regional Chief Executive for Europe, Russia and CIS, President of Yokogawa Europe B.V."
+    },
+    {
+      "name": "Hiroaki Kanokogi",
+      "name_jp": "鹿子木 宏明",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Head of Digital Strategy Div., Digital Solutions Headquarters, President of Yokogawa Digital Corporation"
+    },
+    {
+      "name": "Taku Kitahara",
+      "name_jp": "北原 拓",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "IT Strategy Headquarters"
+    },
+    {
+      "name": "Ikuo Kimura",
+      "name_jp": "木村 郁夫",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Regional Chief Executive for Japan, President of Yokogawa Solution Service Corporation"
+    },
+    {
+      "name": "Nobuyoshi Miyasaka",
+      "name_jp": "宮坂 伸悦",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Marketing Headquarters"
+    },
+    {
+      "name": "Kin Wah Chay",
+      "title": "Vice President & Executive Officer",
+      "responsibility": "Regional Chief Executive for ASEAN, Pacific, China, and Korea, President of Yokogawa Engineering Asia Pte. Ltd."
+    }
+  ],
+  "founders": [
+    {
+      "name": "Tamisuke Yokogawa",
+      "name_jp": "横河 民輔",
+      "title": "Doctor of Architectural Engineering",
+      "role": "Founder",
+      "founding_year": 1915,
+      "contribution": "Established electric meter research institute in Shibuya, Tokyo"
+    },
+    {
+      "name": "Ichiro Yokogawa",
+      "name_jp": "横河 一郎",
+      "role": "Co-founder",
+      "founding_year": 1915
+    },
+    {
+      "name": "Shin Aoki",
+      "name_jp": "青木 新",
+      "role": "Co-founder",
+      "founding_year": 1915
+    }
+  ],
+  "organization_structure": {
+    "business_segments": [
+      {
+        "name": "Energy & Sustainability Business Headquarters",
+        "executive": "Koji Nakaoka",
+        "focus": "Oil & Gas, Power, Renewable Energy, Energy Management"
+      },
+      {
+        "name": "Materials Business Headquarters",
+        "executive": "Naohisa Endo",
+        "focus": "Chemicals, Metals, Paper, Manufacturing"
+      },
+      {
+        "name": "Life Business Headquarters",
+        "executive": "Hiroshi Nakao",
+        "focus": "Pharmaceuticals, Food, Water Treatment"
+      }
+    ],
+    "functional_headquarters": [
+      {
+        "name": "Digital Solutions Headquarters",
+        "executives": ["Kazuhiko Takeoka", "Yasumasa Ogawa", "Masaharu Maeda", "Mitsuhiro Yamamoto", "Hiroaki Kanokogi"]
+      },
+      {
+        "name": "Yokogawa Products Headquarters",
+        "executive": "Hiroshi Tanoguchi"
+      },
+      {
+        "name": "Business Strategy Headquarters",
+        "executive": "Yoko Fujita"
+      },
+      {
+        "name": "Accounting & Treasury Headquarters",
+        "executive": "Michiko Nakajima"
+      },
+      {
+        "name": "Corporate Administration Headquarters",
+        "executive": "Akira Fukuda"
+      },
+      {
+        "name": "Human Resources and General Affairs Headquarters",
+        "executive": "Masataka Tomonaga"
+      },
+      {
+        "name": "IT Strategy Headquarters",
+        "executive": "Taku Kitahara"
+      },
+      {
+        "name": "Marketing Headquarters",
+        "executive": "Nobuyoshi Miyasaka"
+      },
+      {
+        "name": "Global Business Service Headquarters",
+        "executive": "Yoshiaki Asakura"
+      }
+    ]
+  },
+  "regional_leadership": [
+    {
+      "region": "Japan",
+      "executive": "Ikuo Kimura",
+      "position": "Regional Chief Executive, President of Yokogawa Solution Service Corporation"
+    },
+    {
+      "region": "North America and South America",
+      "executive": "Kevin McMillen",
+      "position": "Regional Chief Executive, President of Yokogawa Corporation of America"
+    },
+    {
+      "region": "Europe, Russia and CIS",
+      "executive": "Seita Hagihara",
+      "position": "Regional Chief Executive, President of Yokogawa Europe B.V."
+    },
+    {
+      "region": "Middle East and Africa",
+      "executive": "Norinao Sato",
+      "position": "Regional Chief Executive, President of Yokogawa Middle East & Africa B.S.C.(c)"
+    },
+    {
+      "region": "India and South Asia",
+      "executive": "Akira Fukuda",
+      "position": "Regional Chief Executive"
+    },
+    {
+      "region": "ASEAN, Pacific, China, and Korea",
+      "executive": "Kin Wah Chay",
+      "position": "Regional Chief Executive, President of Yokogawa Engineering Asia Pte. Ltd."
+    }
+  ],
+  "key_subsidiaries": [
+    {
+      "name": "Yokogawa Solution Service Corporation",
+      "president": "Ikuo Kimura",
+      "focus": "Sales, engineering, and services for Japan industrial automation business"
+    },
+    {
+      "name": "Yokogawa Manufacturing Corporation",
+      "president": "Hiroshi Nagai",
+      "focus": "Manufacturing operations"
+    },
+    {
+      "name": "Yokogawa Test & Measurement Corporation",
+      "president": "Toshiyuki Suzuki",
+      "focus": "Test and measurement instruments business"
+    },
+    {
+      "name": "Yokogawa Digital Corporation",
+      "president": "Hiroaki Kanokogi",
+      "focus": "Digital solutions business"
+    },
+    {
+      "name": "Yokogawa Corporation of America",
+      "president": "Kevin McMillen",
+      "focus": "North American operations"
+    },
+    {
+      "name": "Yokogawa Europe B.V.",
+      "president": "Seita Hagihara",
+      "focus": "European operations"
+    },
+    {
+      "name": "Yokogawa Engineering Asia Pte. Ltd.",
+      "president": "Kin Wah Chay",
+      "focus": "ASEAN operations"
+    },
+    {
+      "name": "Yokogawa Middle East & Africa B.S.C.(c)",
+      "president": "Norinao Sato",
+      "focus": "Middle East and Africa operations"
+    }
+  ],
+  "statistics": {
+    "total_employees": 17670,
+    "total_subsidiaries_affiliates": 128,
+    "countries_of_operation": 62,
+    "consolidated_net_sales_jpy": "562.4 billion yen",
+    "paid_in_capital_jpy": "43.4 billion yen",
+    "data_as_of": "2025-03-31"
+  },
+  "metadata": {
+    "last_updated": "2026-03-30",
+    "data_source": "Official company website and investor relations materials",
+    "executive_count": 25,
+    "female_executives": 2,
+    "female_executive_percentage": "8.0%"
+  }
+}
