@@ -1,0 +1,280 @@
+{
+  "company_name": {
+    "japanese": "株式会社ISTソフトウェア",
+    "english": "IST Software Co., Ltd."
+  },
+  "as_of_date": "2025年6月26日 (June 26, 2025)",
+  "executives": [
+    {
+      "name": {
+        "japanese": "瀬端 伸一",
+        "reading": "せばた しんいち",
+        "english": "Shinichi Sebata"
+      },
+      "position": {
+        "japanese": "代表取締役社長",
+        "english": "President and Representative Director"
+      },
+      "role": "CEO/President",
+      "primary_contact": true
+    },
+    {
+      "name": {
+        "japanese": "染谷 光四郎",
+        "reading": "そや こうしろう",
+        "english": "Koshiro Soya"
+      },
+      "position": {
+        "japanese": "取締役相談役",
+        "english": "Director and Advisor"
+      },
+      "role": "Senior Advisor"
+    },
+    {
+      "name": {
+        "japanese": "小松 貴宏",
+        "reading": "こまつ たかひろ",
+        "english": "Takahiro Komatsu"
+      },
+      "position": {
+        "japanese": "常務取締役",
+        "english": "Managing Director"
+      },
+      "role": "Managing Director"
+    },
+    {
+      "name": {
+        "japanese": "安藤 泰三",
+        "reading": "あんどう たいぞう",
+        "english": "Taizo Ando"
+      },
+      "position": {
+        "japanese": "取締役",
+        "english": "Director"
+      },
+      "role": "Director"
+    },
+    {
+      "name": {
+        "japanese": "立島 直記",
+        "reading": "たちしま なおき",
+        "english": "Naoki Tachishima"
+      },
+      "position": {
+        "japanese": "取締役",
+        "english": "Director"
+      },
+      "role": "Director"
+    },
+    {
+      "name": {
+        "japanese": "吉澤 誠",
+        "reading": "よしざわ まこと",
+        "english": "Makoto Yoshizawa"
+      },
+      "position": {
+        "japanese": "取締役",
+        "english": "Director"
+      },
+      "role": "Director"
+    }
+  ],
+  "auditors": [
+    {
+      "name": {
+        "japanese": "五十嵐 由紀夫",
+        "reading": "いがらし ゆきお",
+        "english": "Yukio Igarashi"
+      },
+      "position": {
+        "japanese": "常勤監査役",
+        "english": "Full-time Statutory Auditor"
+      },
+      "role": "Statutory Auditor"
+    },
+    {
+      "name": {
+        "japanese": "今井 克幸",
+        "reading": "いまい かつゆき",
+        "english": "Katsuyuki Imai"
+      },
+      "position": {
+        "japanese": "監査役",
+        "english": "Statutory Auditor"
+      },
+      "role": "Statutory Auditor"
+    }
+  ],
+  "key_personnel": {
+    "total_executives": 6,
+    "total_auditors": 2,
+    "corporate_officers_count": 8
+  },
+  "parent_company": {
+    "name": "株式会社アイネット",
+    "english_name": "I-NET Corp.",
+    "ownership_percentage": "100%",
+    "stock_exchange": "東京証券取引所第一部 (Tokyo Stock Exchange First Section)"
+  },
+  "office_locations": [
+    {
+      "type": "本社",
+      "english_type": "Headquarters",
+      "address": {
+        "postal_code": "144-8721",
+        "full_address": "東京都大田区蒲田5-37-1 ニッセイ アロマ スクエア13F",
+        "english_address": "Nissei Aroma Square 13F, 5-37-1 Kamata, Ota-ku, Tokyo 144-8721, Japan"
+      },
+      "contact": {
+        "phone": "03-5480-7211",
+        "fax": "03-5480-6712"
+      }
+    },
+    {
+      "type": "仙台オフィス",
+      "english_type": "Sendai Office",
+      "address": {
+        "postal_code": "980-0803",
+        "full_address": "仙台市青葉区国分町3-4-33 仙台定禅寺ビル2F",
+        "english_address": "Sendai Zenjoji Building 2F, 3-4-33 Kokubuncho, Aoba-ku, Sendai 980-0803, Japan"
+      },
+      "contact": {
+        "phone": "022-221-5263",
+        "fax": "022-217-2417"
+      }
+    },
+    {
+      "type": "名古屋オフィス",
+      "english_type": "Nagoya Office",
+      "address": {
+        "postal_code": "460-0003",
+        "full_address": "名古屋市中区錦1-11-11 名古屋インターシティ4F",
+        "english_address": "Nagoya Intercity 4F, 1-11-11 Nishiki, Naka-ku, Nagoya 460-0003, Japan"
+      },
+      "contact": {
+        "phone": "052-211-8021",
+        "fax": "052-211-8031"
+      }
+    },
+    {
+      "type": "大阪オフィス",
+      "english_type": "Osaka Office",
+      "address": {
+        "postal_code": "530-0015",
+        "full_address": "大阪市北区中崎西2-4-12 梅田センタービル 22F",
+        "english_address": "Umeda Center Building 22F, 2-4-12 Nakazakinishi, Kita-ku, Osaka 530-0015, Japan"
+      },
+      "contact": {
+        "phone": "06-6147-2727"
+      }
+    },
+    {
+      "type": "福岡オフィス",
+      "english_type": "Fukuoka Office",
+      "address": {
+        "postal_code": "812-0013",
+        "full_address": "福岡市博多区博多駅東3-13-21 エフビル6F",
+        "english_address": "F Building 6F, 3-13-21 Hakata-ekihigashi, Hakata-ku, Fukuoka 812-0013, Japan"
+      },
+      "contact": {
+        "phone": "092-441-1400",
+        "fax": "092-441-1472"
+      }
+    }
+  ],
+  "company_statistics": {
+    "founding_date": {
+      "started_business": "1972年3月30日 (March 30, 1972)",
+      "established": "1976年7月24日 (July 24, 1976)"
+    },
+    "capital": {
+      "amount": 1,018,
+      "unit": "million yen",
+      "japanese": "1億1,800万円 (資本金1億円)"
+    },
+    "employees": {
+      "total": 515,
+      "as_of": "2025年4月1日 (April 1, 2025)",
+      "gender_ratio": {
+        "male": "79%",
+        "female": "21%"
+      },
+      "average_age": 41,
+      "average_years_of_service": 15,
+      "female_manager_ratio": "12%"
+    },
+    "financials": {
+      "revenue": {
+        "amount": 8,129,
+        "unit": "million yen",
+        "fiscal_year": "2025年3月期 (March 2025)",
+        "japanese": "81億2,900万円"
+      },
+      "assets": {
+        "amount": 5,313,
+        "unit": "million yen",
+        "as_of": "2025年3月31日"
+      },
+      "shareholders_equity": {
+        "amount": 4,199,
+        "unit": "million yen",
+        "as_of": "2025年3月31日"
+      },
+      "self_capital_ratio": "79%"
+    }
+  },
+  "certifications": [
+    {
+      "name": "ISO 9001",
+      "description": "Quality Management System",
+      "registration_number": "RB-Q16007",
+      "note": "Excludes Osaka Office"
+    },
+    {
+      "name": "ISO/IEC 27001",
+      "description": "Information Security Management System",
+      "registration_number": "JQA-IM2106"
+    },
+    {
+      "name": "ISO/IEC 27017",
+      "description": "Cloud Security Controls",
+      "registration_number": "JQA-IC0144"
+    },
+    {
+      "name": "Privacy Mark",
+      "description": "Personal Information Protection",
+      "registration_number": "11820557(10)"
+    },
+    {
+      "name": "Eruboshi (Highest Level)",
+      "description": "Act on Promotion of Women's Participation and Advancement in the Workplace",
+      "obtained": "2018年7月 (July 2018)"
+    },
+    {
+      "name": "Platinum Kurumin",
+      "description": "Next-Generation Childcare Support Act",
+      "obtained": "2018年11月 (November 2018)"
+    },
+    {
+      "name": "Health Enterprise Gold",
+      "description": "Health Enterprise Declaration Tokyo Promotion Council",
+      "obtained": "2018年12月 (December 2018)"
+    },
+    {
+      "name": "Health Management Excellence Corporation",
+      "description": "Ministry of Economy, Trade and Industry",
+      "obtained": ["2020", "2026"]
+    }
+  ],
+  "affiliations": [
+    "一般社団法人情報サービス産業協会 (JISA)",
+    "一般社団法人神奈川情報サービス産業協会 (KIA)",
+    "一般社団法人宮城県情報サービス産業協会 (MISA)",
+    "一般社団法人福岡県情報サービス産業協会 (FISA)",
+    "富士通系ソフトウェア業グループ (FSA)",
+    "東京商工会議所",
+    "横浜商工会議所",
+    "一般社団法人生成AI活用普及協会 (GUGA)"
+  ],
+  "data_discrepancy_note": "Important: The task-provided website (ist-s.co.jp) refers to a security company (株式会社イスト) in Yokohama, not this software company. This analysis is based on the correct software company (株式会社ISTソフトウェア) at www.ist-software.co.jp which matches the business fields described."
+}
