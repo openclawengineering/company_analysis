@@ -1,0 +1,95 @@
+{
+  "company": {
+    "name_jp": "株式会社タカハシ電機工業",
+    "name_en": "Takahashi Electric Industry Co., Ltd.",
+    "name_reading": "タカハシデンキコウギョウ",
+    "website": "http://www.takaden.co.jp/",
+    "address": {
+      "postal_code": "220-0073",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward": "西区",
+      "town": "浅間町",
+      "street": "2-110-3",
+      "full_address_jp": "〒220-0073 神奈川県横浜市西区浅間町2-110-3",
+      "full_address_en": "2-110-3 Asamacho, Nishi-ku, Yokohama, Kanagawa 220-0073, Japan"
+    }
+  },
+  "business": {
+    "primary_industries": [
+      "受託開発ソフトウェア",
+      "組み込みソフトウェア",
+      "情報処理サービス"
+    ],
+    "primary_industries_en": [
+      "Contract Software Development",
+      "Embedded Software",
+      "Information Processing Services"
+    ],
+    "business_type": "B2B Software Development",
+    "specializations": [
+      "Embedded systems development",
+      "Firmware development",
+      "Control software",
+      "System integration",
+      "Information processing solutions"
+    ]
+  },
+  "recruitment": {
+    "has_recruitment": true,
+    "recruitment_types": [
+      "中途採用"
+    ],
+    "recruitment_types_en": [
+      "Mid-career Recruitment"
+    ],
+    "notes": "Actively recruiting experienced professionals"
+  },
+  "people": {
+    "executives": [],
+    "employees": [],
+    "notes": "Executive and employee information not publicly available. Company appears to be a small-to-medium enterprise with limited public disclosure."
+  },
+  "financials": {
+    "capital": {
+      "amount": null,
+      "currency": "JPY",
+      "notes": "Not publicly disclosed"
+    },
+    "employee_count": {
+      "count": null,
+      "estimated_range": "10-50",
+      "notes": "Estimated based on industry patterns for similar embedded software SMEs in Yokohama area"
+    }
+  },
+  "media_mentions": {
+    "found": false,
+    "articles": [],
+    "notes": "No significant media coverage found in public sources. Company maintains a low public profile typical of specialized B2B software subcontractors."
+  },
+  "research_metadata": {
+    "research_date": "2026-03-30",
+    "data_sources": [
+      "Company-provided information",
+      "Web search",
+      "Industry analysis"
+    ],
+    "confidence_level": "medium",
+    "data_availability": "limited",
+    "notes": [
+      "Website domain (takaden.co.jp) appears to redirect to or be shared with a different company (株式会社鷹電 in Saitama)",
+      "Limited online presence suggests the company operates primarily through direct business relationships",
+      "Typical of Japanese SME software companies serving as subcontractors"
+    ]
+  },
+  "contacts": {
+    "primary_website": "http://www.takaden.co.jp/",
+    "website_notes": "Domain may not be owned by this company - redirects to different business",
+    "recommendations": [
+      "Direct phone inquiry to registered address",
+      "Visit company office",
+      "Contact through Japanese corporate registry (法人番号公表サイト)",
+      "Inquire through industry associations"
+    ]
+  }
+}

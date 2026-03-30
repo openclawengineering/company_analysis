@@ -1,0 +1,193 @@
+{
+  "company": {
+    "name_jp": "関越ソフトウェア株式会社",
+    "name_en": "Kanetsu Software Co., Ltd.",
+    "website": "https://kanetsu-sw.co.jp",
+    "founded": "1985-07",
+    "capital_jpy": 50000000,
+    "employees": 518,
+    "employees_as_of": "2024-07"
+  },
+  "locations": [
+    {
+      "type": "headquarters",
+      "name_jp": "本社",
+      "postal_code": "214-0014",
+      "address_jp": "神奈川県川崎市多摩区登戸3398-1 大樹生命登戸ビル6F",
+      "address_en": "Taiju Life Noborito Building 6F, 3398-1 Noborito, Tama-ku, Kawasaki-shi, Kanagawa 214-0014, Japan",
+      "tel": "044-931-5018",
+      "fax": "044-931-5028",
+      "access": "JR Nambu Line / Odakyu Line - Noborito Station (生田緑地口), 2 min walk"
+    },
+    {
+      "type": "branch",
+      "name_jp": "新潟支店",
+      "name_en": "Niigata Branch",
+      "postal_code": "950-0917",
+      "address_jp": "新潟県新潟市中央区天神1-17-1 けやきビル801号",
+      "address_en": "Keyaki Building 801, 1-17-1 Tenjin, Chuo-ku, Niigata-shi, Niigata 950-0917, Japan",
+      "tel": "025-240-3010",
+      "fax": "025-240-3015",
+      "access": "JR Niigata Station (South Exit), 4 min walk"
+    }
+  ],
+  "executives": [
+    {
+      "name_jp": "矢島 猛男",
+      "name_en": "Takeo Yajima",
+      "position_jp": "代表取締役社長",
+      "position_en": "Representative Director & President",
+      "role": "CEO"
+    },
+    {
+      "name_jp": "青木 新一",
+      "name_en": "Shinichi Aoki",
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "role": "Board Member"
+    },
+    {
+      "name_jp": "松山 泰久",
+      "name_en": "Yasuhisa Matsuyama",
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "role": "Board Member"
+    },
+    {
+      "name_jp": "上地 晶子",
+      "name_en": "Akiko Uechi",
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "role": "Board Member"
+    },
+    {
+      "name_jp": "柿沼 慶一",
+      "name_en": "Keiichi Kakinuma",
+      "position_jp": "監査役",
+      "position_en": "Corporate Auditor",
+      "role": "Auditor"
+    },
+    {
+      "name_jp": "矢島 みよし",
+      "name_en": "Miyoshi Yajima",
+      "position_jp": "相談役",
+      "position_en": "Advisor",
+      "role": "Senior Advisor"
+    },
+    {
+      "name_jp": "丸山 幸彦",
+      "name_en": "Yukihiko Maruyama",
+      "position_jp": "相談役",
+      "position_en": "Advisor",
+      "role": "Senior Advisor"
+    }
+  ],
+  "business_fields": [
+    "受託開発ソフトウェア (Contract Software Development)",
+    "情報処理サービス (Information Processing Services)",
+    "その他の情報サービス (Other Information Services)",
+    "ネットワーク・通信関連 (Network/Communications)",
+    "SES (System Engineering Services)",
+    "インターネット利用サポート (Internet Support Services)"
+  ],
+  "services": {
+    "operations_support": [
+      "電算室運用管理業務 (Computer Center Operations Management)",
+      "ネットワーク運用業務 (Network Operations)",
+      "ヘルプデスク業務 (Help Desk Services)",
+      "OAサポート業務 (OA Support Services)",
+      "アウトソーシング業務 (Outsourcing Services)"
+    ],
+    "development_support": [
+      "アプリケーション設計・開発・保守 (Application Design/Development/Maintenance)",
+      "金融関連開発・保守 (Financial Systems Development/Maintenance)",
+      "C/S系ネットワーク構築 (Client-Server Network Construction)",
+      "オープン系業務アプリケーション開発 (Open System Business Application Development)"
+    ],
+    "other": [
+      "半導体設計 (Semiconductor Design)",
+      "システム導入コンサルティング (System Implementation Consulting)",
+      "現状システム調査・分析 (Current System Investigation/Analysis)",
+      "文書作成業務 (Document Creation Services)"
+    ]
+  },
+  "major_clients": {
+    "it_vendors": [
+      "Fujitsu Group (富士通グループ)",
+      "Hitachi Group (日立グループ)",
+      "NEC Group (NECグループ)",
+      "NTT Group (NTTグループ)",
+      "NTT Data Group (NTTデータグループ)",
+      "SCSK Group (SCSKグループ)",
+      "TIS INTEC Group (TISインテックグループ)",
+      "CEC Group",
+      "CTC Group",
+      "ID Group"
+    ],
+    "financial": [
+      "Sumitomo Mitsui Banking Group (三井住友銀行グループ)",
+      "Mitsubishi UFJ Bank (三菱UFJ銀行)",
+      "Mizuho Bank (みずほ銀行)",
+      "Gunma Bank Group (群馬銀行グループ)",
+      "Dai-Yoroku Bank Group (第四北越銀行グループ)",
+      "Kawasaki Credit Union (川崎信用金庫)",
+      "Niigata Credit Union (新潟信用組合)"
+    ],
+    "other_major": [
+      "Toshiba Group (東芝グループ)",
+      "Ricoh Group (リコーグループ)",
+      "Toyota Motor Group (トヨタ自動車グループ)",
+      "JR Group (JRグループ)",
+      "Japan Post Group (日本郵政グループ)",
+      "Dentsu Group (電通グループ)",
+      "Persol Group (パーソルグループ)",
+      "Toppan Forms Group (トッパン・フォームズグループ)"
+    ]
+  },
+  "certifications": [
+    "Privacy Mark (プライバシーマーク) - JIPDEC",
+    "ISMS (Information Security Management System)",
+    "Japan IBM SSO Certification",
+    "Worker Dispatch Business License (派14-301531)"
+  ],
+  "memberships": [
+    "JISA (一般社団法人情報サービス産業協会)",
+    "KIA (一般社団法人神奈川県情報サービス産業協会)",
+    "NSIC (新潟市ソフトウエア産業協議会)"
+  ],
+  "milestones": [
+    {"year": 1985, "month": 7, "event": "Company founded with 4M JPY capital"},
+    {"year": 1987, "event": "Started software development business"},
+    {"year": 1992, "event": "Obtained Japan IBM SSO certification"},
+    {"year": 2003, "event": "Joined Kanagawa Information Service Industry Association (KIA)"},
+    {"year": 2006, "event": "Obtained Privacy Mark certification"},
+    {"year": 2007, "event": "Opened Niigata Branch; Joined JISA"},
+    {"year": 2008, "event": "Capital increased to 50M JPY"},
+    {"year": 2014, "event": "ISMS certification obtained"},
+    {"year": 2017, "event": "Worker Dispatch Business License obtained"},
+    {"year": 2021, "month": 7, "event": "Merged with Kanetsu Information System Co., Ltd."},
+    {"year": 2025, "event": "40th Anniversary"}
+  ],
+  "technologies": {
+    "languages": ["C/C++/C#", "Objective-C", "Java", "COBOL", "VB", "VB.NET", "Python", "Kotlin", "HTML", "JavaScript", "CSS", "PHP", "Perl", "Assembler", "PL/I", "Swift", "VBA"],
+    "os": ["Windows", "macOS", "Linux", "AIX", "Oracle Solaris", "z/OS", "CentOS", "Ubuntu", "Android", "iOS"],
+    "databases": ["Oracle Database", "SQL Server", "MySQL", "PostgreSQL", "IBM DB2", "FileMaker", "SQLite"]
+  },
+  "recent_news": [
+    {"date": "2026-01-06", "title": "27卒向け　オープンカンパニー開催のご案内", "type": "recruitment"},
+    {"date": "2025-12-23", "title": "【重要なお知らせ】当社名・当社代表者名を騙った迷惑メールにご注意ください", "type": "alert"},
+    {"date": "2025-07-15", "title": "【高校生向け】応募前会社見学会のご案内", "type": "recruitment"}
+  ],
+  "analysis_metadata": {
+    "compiled_date": "2026-03-30",
+    "sources": [
+      "https://kanetsu-sw.co.jp",
+      "https://kanetsu-sw.co.jp/company/about/",
+      "https://kanetsu-sw.co.jp/company/history/",
+      "https://kanetsu-sw.co.jp/company/philosophy/",
+      "https://kanetsu-sw.co.jp/service/",
+      "https://job.mynavi.jp",
+      "https://www.nsic.jp"
+    ]
+  }
+}

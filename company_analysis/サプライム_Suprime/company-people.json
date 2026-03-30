@@ -1,0 +1,58 @@
+{
+  "company": {
+    "name_jp": "株式会社サプライム",
+    "name_en": "Suprime Inc.",
+    "website": "https://www.suprime.co.jp"
+  },
+  "executives": [
+    {
+      "position": "代表取締役 / CEO",
+      "name_jp": "（情報なし）",
+      "name_en": "Information not available",
+      "note": "Specific executive names not accessible - website requires JavaScript rendering"
+    }
+  ],
+  "departments": [
+    {
+      "department": "ソフトウェア開発",
+      "description": "Contract software development and embedded systems",
+      "key_personnel": []
+    },
+    {
+      "department": "DX事業部",
+      "description": "Digital Transformation project delivery for manufacturing clients",
+      "key_personnel": []
+    },
+    {
+      "department": "人事部",
+      "description": "Recruitment (新卒・中途採用) and HR management",
+      "key_personnel": []
+    }
+  ],
+  "recruitment": {
+    "has_new_graduate_recruitment": true,
+    "has_mid_career_recruitment": true,
+    "recruitment_url": "https://www.suprime.co.jp/recruit/"
+  },
+  "data_collection_notes": {
+    "collection_date": "2026-03-30",
+    "limitations": [
+      "Company website is a JavaScript-rendered SPA preventing direct content extraction",
+      "Brave Search API subscription issue prevented web search for media mentions",
+      "Specific personnel names and organizational structure not available from provided sources"
+    ],
+    "recommendations": [
+      "Manual website visit with JavaScript enabled for complete executive team information",
+      "Direct company contact for organizational charts and key personnel details",
+      "Review of Japanese business registries (e.g., 登記簿謄本, 法人登記) for official corporate structure"
+    ]
+  },
+  "metadata": {
+    "last_updated": "2026-03-30",
+    "data_sources": [
+      "Company-provided business overview",
+      "Website URL (content limited by technical constraints)"
+    ],
+    "completeness": "partial - executive and personnel details require additional research"
+  }
+}

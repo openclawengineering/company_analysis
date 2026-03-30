@@ -1,0 +1,138 @@
+{
+  "company_name": {
+    "japanese": "株式会社サンアイエンジニアリング",
+    "english": "Sanai Engineering Co., Ltd."
+  },
+  "company_code": "sang",
+  "last_updated": "2026-03-30",
+  "data_source": "https://www.sang.co.jp/company.html",
+  
+  "executives": [
+    {
+      "name_japanese": "若林 義昭",
+      "name_english": "Yoshiaki Wakabayashi",
+      "title_japanese": "代表取締役",
+      "title_english": "Representative Director / President",
+      "role": "CEO/President",
+      "is_representative": true
+    }
+  ],
+  
+  "departments": [
+    {
+      "name_japanese": "システム開発サービス",
+      "name_english": "System Development Services",
+      "description": "Business application development, web systems, EC sites, mobility systems",
+      "functions": [
+        "ビジネスアプリケーション開発 (Business Application Development)",
+        "WEBシステム・ECサイト構築 (Web Systems & E-commerce Site Development)",
+        "モビリティシステム開発 (Mobility System Development)"
+      ]
+    },
+    {
+      "name_japanese": "第三者検証サービス",
+      "name_english": "Third-Party Verification Services",
+      "description": "Quality verification and security testing by specialized engineers",
+      "certifications": ["JSTQB"],
+      "functions": [
+        "品質検証 (Quality Verification)",
+        "セキュリティ検証 (Security Verification)"
+      ]
+    },
+    {
+      "name_japanese": "サポートサービス",
+      "name_english": "Support Services",
+      "description": "System construction, operation support, and office work outsourcing",
+      "functions": [
+        "システムの構築・導入支援 (System Construction & Installation Support)",
+        "システムの運用・サポート (System Operation & Support)",
+        "一般事務・オフィスワーク代行 (General Office Work Outsourcing)"
+      ]
+    }
+  ],
+  
+  "employee_statistics": {
+    "total_count": 37,
+    "note": "As reported on company website"
+  },
+  
+  "hiring_information": {
+    "new_graduate_recruitment": {
+      "available": true,
+      "website": "https://job.mynavi.jp/27/pc/search/corp101925/outline.html",
+      "features": [
+        "Shortest hiring process: 2 weeks to informal offer",
+        "125+ annual holidays",
+        "3-month new employee training",
+        "No document screening required",
+        "Open to both liberal arts and science graduates (文理不問)",
+        "No ES (Entry Sheet) required",
+        "No transfers"
+      ]
+    },
+    "mid_career_recruitment": {
+      "available": true,
+      "note": "Mid-career hiring available"
+    }
+  },
+  
+  "professional_associations": [
+    {
+      "name_japanese": "神奈川県情報サービス産業協会",
+      "name_english": "Kanagawa Prefecture Information Service Industry Association",
+      "type": "Industry Association"
+    },
+    {
+      "name_japanese": "川崎商工会議所",
+      "name_english": "Kawasaki Chamber of Commerce and Industry",
+      "type": "Chamber of Commerce"
+    }
+  ],
+  
+  "certifications_and_licenses": [
+    {
+      "type": "Labor Dispatch Business",
+      "name_japanese": "労働者派遣事業",
+      "license_number": "派14-300952",
+      "description": "Licensed to provide worker dispatching services"
+    },
+    {
+      "type": "Information Security",
+      "standard": "ISO 27001",
+      "name_japanese": "情報セキュリティマネジメントシステム",
+      "registration_number": "IS541599",
+      "description": "Information Security Management System certification"
+    }
+  ],
+  
+  "company_recognitions": [
+    {
+      "name_japanese": "健康優良企業",
+      "name_english": "Health Excellence Company",
+      "date": "2024-10-29",
+      "issuer": "Kanagawa Prefecture",
+      "description": "Recognition for comprehensive health management initiatives"
+    },
+    {
+      "name_japanese": "健康経営優良法人2025",
+      "name_english": "Health Management Excellent Corporation 2025",
+      "division": "Small and Medium Enterprise Division",
+      "year": 2025,
+      "description": "Certification for excellent health management practices"
+    },
+    {
+      "name_japanese": "かわさきSDGsパートナー",
+      "name_english": "Kawasaki SDGs Partner",
+      "year": 2025,
+      "description": "Registration as a company working toward SDGs"
+    }
+  ],
+  
+  "notes": [
+    "Company founded May 20, 1978 (Showa 53) and incorporated October 22, 1991 (Heisei 3)",
+    "Company philosophy based on 'Three Loves' (三つの愛): customers, business partners, and employees",
+    "Specializes in core business systems, embedded systems (automotive), and third-party verification",
+    "Maintains low public profile with focus on B2B services",
+    "Strong emphasis on employee health, wellbeing, and work-life balance"
+  ]
+}

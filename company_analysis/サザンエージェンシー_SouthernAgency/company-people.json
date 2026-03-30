@@ -1,0 +1,240 @@
+{
+  "company": {
+    "name_jp": "株式会社サザン・エージェンシー",
+    "name_en": "Southern Agency Co., Ltd.",
+    "website": "https://www.sacgrp.co.jp/"
+  },
+  "leadership": [
+    {
+      "name_jp": "小島 一幸",
+      "name_en": "Kazuyuki Kojima",
+      "position_jp": "代表者",
+      "position_en": "Representative / President",
+      "department": "Executive Leadership",
+      "since": null,
+      "background": null,
+      "notes": "Listed as company representative in official company documentation"
+    }
+  ],
+  "departments": [
+    {
+      "name_jp": "川崎事業所",
+      "name_en": "Kawasaki Office",
+      "location": {
+        "address_jp": "〒210-0014 神奈川県川崎市川崎区貝塚1-4-16 LM川崎貝塚2F",
+        "address_en": "LM Kawasaki Kaizuka 2F, 1-4-16 Kaizuka, Kawasaki-ku, Kawasaki-shi, Kanagawa 210-0014, Japan",
+        "phone": "044-221-0767",
+        "fax": "044-230-5070"
+      },
+      "functions": [
+        "Software Development",
+        "Hardware Design",
+        "Recruitment",
+        "Business Operations"
+      ],
+      "key_roles": [
+        {
+          "role": "採用担当",
+          "role_en": "Recruitment Contact",
+          "contact": "044-221-0767"
+        }
+      ]
+    },
+    {
+      "name_jp": "金沢事業所",
+      "name_en": "Kanazawa Office",
+      "location": {
+        "address_jp": "〒920-0062 石川県金沢市割出町646-1 百山ビル1F",
+        "address_en": "Hyakuyama Building 1F, 646-1 Waridashimachi, Kanazawa-shi, Ishikawa 920-0062, Japan",
+        "phone": "076-239-1647",
+        "fax": "076-239-1829"
+      },
+      "functions": [
+        "Software Development",
+        "Technical Support"
+      ],
+      "key_roles": []
+    }
+  ],
+  "recruitment": {
+    "new_graduates": {
+      "positions": [
+        {
+          "title_jp": "プログラマー",
+          "title_en": "Programmer",
+          "salary_min": 195000,
+          "salary_note": "Starting salary for technical college/junior college graduates, excluding overtime and allowances"
+        },
+        {
+          "title_jp": "システムエンジニア",
+          "title_en": "System Engineer",
+          "salary_min": 195000,
+          "salary_note": "Starting salary for technical college/junior college graduates, excluding overtime and allowances"
+        }
+      ],
+      "work_locations": [
+        "Kawasaki Office",
+        "Client sites (Tokyo/Kanagawa)"
+      ],
+      "work_hours": "9:00-18:00 (Flextime available)",
+      "benefits": [
+        "Performance allowance",
+        "Skill allowance",
+        "Position allowance",
+        "Certification allowance",
+        "Full transportation coverage",
+        "Annual salary increase (June)",
+        "Semi-annual bonuses (July, December)",
+        "Social insurance (Employment, Workers' Comp, Health, Pension)"
+      ],
+      "required_documents": [
+        "Resume (履歴書)",
+        "Academic transcript (成績証明書)",
+        "Graduation certificate (卒業見込証明書)",
+        "Health certificate (健康診断書)"
+      ],
+      "selection_process": [
+        "Interview",
+        "Written examination"
+      ],
+      "application_methods": [
+        "Email",
+        "Postal mail"
+      ]
+    },
+    "experienced_hires": {
+      "positions": [
+        {
+          "title_jp": "ファームウェアエンジニア",
+          "title_en": "Firmware Engineer",
+          "salary_range": "230,000 - 450,000 JPY",
+          "salary_note": "Based on experience and skills"
+        },
+        {
+          "title_jp": "アプリケーションソフトエンジニア",
+          "title_en": "Application Software Engineer",
+          "salary_range": "230,000 - 450,000 JPY",
+          "salary_note": "Based on experience and skills"
+        },
+        {
+          "title_jp": "ハードウェア設計エンジニア",
+          "title_en": "Hardware Design Engineer",
+          "salary_range": "230,000 - 450,000 JPY",
+          "salary_note": "Based on experience and skills"
+        },
+        {
+          "title_jp": "ネットワークエンジニア",
+          "title_en": "Network Engineer",
+          "salary_range": "230,000 - 450,000 JPY",
+          "salary_note": "Based on experience and skills"
+        }
+      ],
+      "required_skills": {
+        "languages": [
+          "C",
+          "C++",
+          "C#",
+          "VB",
+          ".NET",
+          "Java",
+          "COBOL",
+          "VHDL",
+          "Verilog"
+        ],
+        "min_experience": "1+ years",
+        "target_candidates": "From junior engineers to veteran technical experts"
+      },
+      "required_documents": [
+        "Resume (履歴書)",
+        "Work history (職務経歴書)"
+      ]
+    },
+    "contact": {
+      "office": "Kawasaki Office",
+      "department": "採用担当 (Recruitment)",
+      "phone": "044-221-0767",
+      "email": null
+    }
+  },
+  "technical_team": {
+    "expertise_areas": [
+      {
+        "area": "Embedded Software Development",
+        "technologies": [
+          "Firmware",
+          "Middleware",
+          "Device Drivers",
+          "Control Systems",
+          "Communication Systems"
+        ],
+        "applications": [
+          "Mobile phones/Smartphones",
+          "Car navigation",
+          "Digital cameras",
+          "Home appliances",
+          "Industrial communication equipment"
+        ]
+      },
+      {
+        "area": "Business Software Development",
+        "technologies": [
+          "Core system migration",
+          "Web applications",
+          "Database systems"
+        ],
+        "applications": [
+          "Attendance management",
+          "Sales systems",
+          "Inventory management",
+          "Production management",
+          "Public sector systems"
+        ]
+      },
+      {
+        "area": "Hardware Design",
+        "technologies": [
+          "Analog circuit design",
+          "Digital circuit design",
+          "FPGA",
+          "LSI",
+          "PCB design",
+          "AD/DA conversion"
+        ],
+        "applications": [
+          "Control systems",
+          "Communication equipment",
+          "Space/aerospace applications"
+        ]
+      },
+      {
+        "area": "Network Infrastructure",
+        "technologies": [
+          "Server construction",
+          "Network security",
+          "Firewall implementation",
+          "24/7 monitoring"
+        ],
+        "applications": [
+          "Windows servers",
+          "Web servers",
+          "Mail servers",
+          "Enterprise networks"
+        ]
+      }
+    ]
+  },
+  "notes": {
+    "data_source": "Company official website and public business databases",
+    "last_updated": "2026-03-30",
+    "completeness": "Limited - specific individual names beyond the president are not publicly disclosed. Department structure inferred from job postings and office locations.",
+    "employee_count": "Not publicly disclosed",
+    "key_executives_missing": [
+      "Vice Presidents",
+      "Department Heads",
+      "Technical Directors",
+      "HR Manager",
+      "CFO/Financial Officers"
+    ],
+    "privacy_note": "Japanese companies often limit disclosure of individual employee information beyond top leadership"
+  }
+}
