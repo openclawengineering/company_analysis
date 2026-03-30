@@ -1,0 +1,170 @@
+{
+  "company": {
+    "name_ja": "株式会社ワークスアプリケーションズ",
+    "name_en": "Works Applications Co., Ltd.",
+    "short_name": "WAP",
+    "stock_code": "4327",
+    "exchange": "東証プライム"
+  },
+  "executives": [
+    {
+      "name_ja": "秦 修",
+      "name_en": "Osamu Hata",
+      "title": "代表取締役 最高経営責任者 (CEO)",
+      "birth_year": 1972,
+      "birthplace": "東京都",
+      "career": [
+        "市場調査会社、会計コンサルティング会社を経て",
+        "2000年1月 デル株式会社入社、主に財務関連業務に従事",
+        "2017年 ワークスアプリケーションズ取締役CFO",
+        "2019年 代表取締役最高執行責任者(COO)",
+        "2021年9月28日 現職(CEO)就任"
+      ]
+    },
+    {
+      "name_ja": "藤井 信介",
+      "name_en": "Shinsuke Fujii",
+      "title": "執行役員 CTO",
+      "role": "最高技術責任者"
+    },
+    {
+      "name_ja": "竹内 剛史",
+      "name_en": "Takefumi Takeuchi",
+      "title": "執行役員 CFO",
+      "role": "最高財務責任者"
+    },
+    {
+      "name_ja": "小松原 真一郎",
+      "name_en": "Shinichiro Komatsubara",
+      "title": "執行役員 CMO",
+      "role": "最高マーケティング責任者"
+    },
+    {
+      "name_ja": "石川 翔悟",
+      "name_en": "Shogo Ishikawa",
+      "title": "執行役員",
+      "role": "ERP事業本部"
+    },
+    {
+      "name_ja": "池亀 佑亮",
+      "name_en": "Yusuke Igame",
+      "title": "執行役員",
+      "role": "Ariel事業本部"
+    },
+    {
+      "name_ja": "古谷 章",
+      "name_en": "Akira Furuya",
+      "title": "執行役員",
+      "role": "Works Applications Singapore Pte. Ltd."
+    },
+    {
+      "name_ja": "中井 陽一郎",
+      "name_en": "Yoichiro Nakai",
+      "title": "執行役員",
+      "role": "エンタープライズ営業本部"
+    },
+    {
+      "name_ja": "池本 尚吾",
+      "name_en": "Shogo Ikemoto",
+      "title": "執行役員",
+      "role": "ERPコンサル事業本部"
+    },
+    {
+      "name_ja": "米川 繁輝",
+      "name_en": "Shigeki Yonekawa",
+      "title": "執行役員",
+      "role": "カスタマーサクセス本部"
+    },
+    {
+      "name_ja": "山野井 武史",
+      "name_en": "Takefumi Yamanoi",
+      "title": "執行役員",
+      "role": "カスタマーサクセス本部"
+    },
+    {
+      "name_ja": "平山 俊大",
+      "name_en": "Toshihiro Hirayama",
+      "title": "執行役員",
+      "role": "コーポレート本部"
+    },
+    {
+      "name_ja": "外村 卓也",
+      "name_en": "Takuya Hokemura",
+      "title": "執行役員",
+      "role": "プロダクトマネジメント本部"
+    },
+    {
+      "name_ja": "府川 雄治",
+      "name_en": "Yuji Fukawa",
+      "title": "執行役員",
+      "role": "ERPコンサル事業本部"
+    },
+    {
+      "name_ja": "土屋 英司",
+      "name_en": "Eiji Tsuchiya",
+      "title": "執行役員",
+      "role": "HMS本部"
+    }
+  ],
+  "board_members": [
+    {
+      "name_ja": "藤原 総一郎",
+      "name_en": "Soichiro Fujiwara",
+      "title": "社外取締役"
+    },
+    {
+      "name_ja": "東 明浩",
+      "name_en": "Akihiro Azuma",
+      "title": "社外取締役"
+    },
+    {
+      "name_ja": "西巻 裕一朗",
+      "name_en": "Yuichiro Nishimaki",
+      "title": "監査役（社外）"
+    }
+  ],
+  "key_people_notes": [
+    {
+      "note": "経営陣情報は2025年7月1日現在（取締役・監査役）および2026年2月1日現在（執行役員）の情報に基づく"
+    },
+    {
+      "note": "CEO秦修氏は、経営危機を乗り越え「WAP Forward 2.0」ビジョンを掲げ、同社を成長軌道に戻した"
+    },
+    {
+      "note": "無形資産価値（製品への期待、会社への信頼、人的資本）を経営の中心に据える方針を推進"
+    }
+  ],
+  "employee_statistics": {
+    "total_employees_consolidated": 3202,
+    "total_employees_solo": 885,
+    "average_age": 35.0,
+    "as_of": "2025年6月"
+  },
+  "related_companies": [
+    {
+      "name": "株式会社Works Human Intelligence",
+      "description": "2019年8月にHR関連事業を承継した会社",
+      "relationship": "会社分割により設立"
+    },
+    {
+      "name": "株式会社ワークスアプリケーションズ・フロンティア",
+      "description": "建設業向けERP「HUE C2」を展開",
+      "relationship": "2022年12月にMBOにより独立"
+    },
+    {
+      "name": "エイアイエムコンサルティング株式会社",
+      "description": "虎ノ門ヒルズ森タワー6Fに所在",
+      "relationship": "関連会社"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-03-30",
+    "data_sources": [
+      "https://www.worksap.co.jp/about/profile/",
+      "https://www.worksap.co.jp/about/philosophy/",
+      "https://www.worksap.co.jp/about/ceo/",
+      "https://japan.zdnet.com/article/35238506/",
+      "https://www.weeklybcn.com/journal/keyperson/detail/20220211_188994.html"
+    ]
+  }
+}
