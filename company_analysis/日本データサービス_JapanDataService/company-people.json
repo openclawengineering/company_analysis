@@ -1,0 +1,172 @@
+{
+  "company": {
+    "name_jp": "株式会社日本デジタル放送システムズ",
+    "name_en": "Japan Digital Broadcasting Engineering Systems Co., Ltd.",
+    "abbreviation": "J-DS",
+    "website": "https://j-ds.co.jp",
+    "note": "Actual company found at j-ds.co.jp - differs from originally requested company"
+  },
+  "disclaimer": {
+    "website_mismatch": "The URL www.j-ds.co.jp redirects to Japan Digital Broadcasting Engineering Systems, NOT Japan Data Service (software company)",
+    "address_discrepancy": "Building name differs: NKビル vs KNビル (actual building name)"
+  },
+  "executives": [
+    {
+      "name_jp": "稲田 智徳",
+      "name_en": "Inada Tomonori",
+      "title": "代表取締役社長",
+      "title_en": "Representative Director & President",
+      "background": "Formerly from Fuji Television, Responsible for Business Management"
+    },
+    {
+      "name_jp": "林 直樹",
+      "name_en": "Hayashi Naoki",
+      "title": "常務取締役",
+      "title_en": "Managing Director",
+      "background": "Formerly from Nippon Television"
+    },
+    {
+      "name_jp": "河野 志朗",
+      "name_en": "Kono Shiro",
+      "title": "常務取締役",
+      "title_en": "Managing Director",
+      "background": "Currently on secondment from TBS Television"
+    },
+    {
+      "name_jp": "月岡 章",
+      "name_en": "Tsukioka Akira",
+      "title": "取締役",
+      "title_en": "Director",
+      "background": "Formerly from TV Asahi"
+    }
+  ],
+  "non_executive_directors": [
+    {
+      "name_jp": "石塚 功",
+      "name_en": "Ishizuka Isao",
+      "title": "取締役(非常勤)",
+      "title_en": "Non-Executive Director",
+      "position": "Director & Executive Officer, Technology General Manager",
+      "company": "Nippon Television"
+    },
+    {
+      "name_jp": "髙木 武彦",
+      "name_en": "Takagi Takehiko",
+      "title": "取締役(非常勤)",
+      "title_en": "Non-Executive Director",
+      "position": "Technology Bureau Chief",
+      "company": "TV Asahi"
+    },
+    {
+      "name_jp": "平林 雅之",
+      "name_en": "Hirabayashi Masayuki",
+      "title": "取締役(非常勤)",
+      "title_en": "Non-Executive Director",
+      "position": "Media Technology Bureau Chief",
+      "company": "TBS Television"
+    },
+    {
+      "name_jp": "齋藤 一",
+      "name_en": "Saito Hajime",
+      "title": "取締役(非常勤)",
+      "title_en": "Non-Executive Director",
+      "position": "Tech Operations Bureau Chief",
+      "company": "TV Tokyo"
+    },
+    {
+      "name_jp": "西川 寛",
+      "name_en": "Nishikawa Hiroshi",
+      "title": "取締役(非常勤)",
+      "title_en": "Non-Executive Director",
+      "position": "Tech Art Design Bureau Chief",
+      "company": "Fuji Television"
+    }
+  ],
+  "auditors": [
+    {
+      "name_jp": "小丸 港市",
+      "name_en": "Komaru Kōichi",
+      "title": "監査役(非常勤)",
+      "title_en": "Corporate Auditor (Part-time)",
+      "position": "Managing Director, Accounting",
+      "company": "TV Tokyo"
+    }
+  ],
+  "shareholders": {
+    "broadcaster_group": {
+      "ownership_percentage": 51.0,
+      "companies": [
+        {"name": "Nippon Television", "percentage": 10.20},
+        {"name": "TV Asahi Holdings", "percentage": 10.20},
+        {"name": "TBS Holdings", "percentage": 10.20},
+        {"name": "TV Tokyo", "percentage": 10.20},
+        {"name": "Fuji Media Holdings", "percentage": 10.20}
+      ]
+    },
+    "maintenance_construction_group": {
+      "ownership_percentage": 33.0,
+      "companies": [
+        {"name": "Tanaka Electric", "percentage": 8.0},
+        {"name": "NEC Netsu-Es-AI", "percentage": 6.0},
+        {"name": "Denki Kogyo", "percentage": 4.0},
+        {"name": "Kato Electric Works", "percentage": 4.0},
+        {"name": "Sumitomo Electric", "percentage": 4.0},
+        {"name": "Furukawa Electric", "percentage": 4.0},
+        {"name": "Japan Electronics Systems", "percentage": 3.0}
+      ]
+    }
+  },
+  "similar_companies_found": [
+    {
+      "name_jp": "日本データーサービス株式会社",
+      "name_en": "Japan Data Service Inc.",
+      "website": "https://www.ndsinc.co.jp",
+      "location": "Sapporo, Hokkaido",
+      "founded": 1971,
+      "capital": "20 million yen",
+      "employees": 161,
+      "ceo": "石原 知樹 (Ishihara Tomoki)",
+      "business": "Construction/Infrastructure Software"
+    },
+    {
+      "name_jp": "株式会社日本ビジネスデータープロセシングセンター",
+      "name_en": "Japan Business Data Processing Center",
+      "website": "https://ssl.nihon-data.jp",
+      "location": "Kobe/Tokyo",
+      "founded": 1968,
+      "ceo": "池 智太郎 (Ike Tomotaro)",
+      "business": "IT/Healthcare/Public Sector"
+    }
+  ],
+  "employees": {
+    "total": 25,
+    "as_of": "2025-10",
+    "qualified_staff": {
+      "professional_engineers": 1,
+      "first_class_land_radio_engineers": 20,
+      "second_class_land_radio_engineers": 4,
+      "telecommunications_managers": 6,
+      "first_class_telecom_construction_supervisors": 5,
+      "second_class_telecom_construction_supervisors": 2,
+      "first_class_electrical_construction_supervisors": 3,
+      "second_class_electrical_construction_supervisors": 2,
+      "second_class_construction_supervisors": 1,
+      "supervising_engineers_communication": 7,
+      "supervising_engineers_electrical": 4
+    }
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-30",
+    "data_sources": [
+      "https://j-ds.co.jp",
+      "https://j-ds.co.jp/html/company.html",
+      "https://j-ds.co.jp/html/company_outline.html",
+      "Tavily Search API"
+    ],
+    "limitations": [
+      "Brave Search API authentication failed",
+      "Company at provided website differs from requested company",
+      "No media mentions found for exact company name"
+    ]
+  }
+}
