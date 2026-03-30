@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name_ja": "株式会社クオリカパーソネルアーチ",
+    "name_en": "QUOLICA PERSONNEL ARCH CO., LTD",
+    "website": "https://www.quolica.co.jp"
+  },
+  "data_collected_at": "2026-03-30",
+  "data_source": "https://www.quolica.co.jp/profile/index.html",
+  "disclaimer": "Note: The task specified a software development company in Yokohama, but the website belongs to a headhunting firm in Tokyo. This data reflects the actual company at the provided URL.",
+  "executives": [
+    {
+      "name_ja": "石岡 仁",
+      "name_en": "Ishioka Hitoshi",
+      "title": "代表取締役CEO",
+      "title_en": "Representative Director & CEO"
+    },
+    {
+      "name_ja": "日比野 潤禧",
+      "name_en": "Hibino Junki",
+      "title": "取締役",
+      "title_en": "Director"
+    }
+  ],
+  "advisors": [
+    {
+      "name_ja": "武山 益良",
+      "name_en": "Takeyama Masuyoshi",
+      "title": "顧問",
+      "title_en": "Advisor",
+      "background": [
+        "元：株式会社パソナ 東京支援部長",
+        "元：東京都しごとセンター 副統括部長",
+        "現：株式会社就職支援室 代表取締役"
+      ]
+    },
+    {
+      "name_ja": "海野 健",
+      "name_en": "Unno Ken",
+      "title": "顧問",
+      "title_en": "Advisor",
+      "background": [
+        "現：NPO法人 発達わんぱく会 顧問",
+        "青山こどもの発達とこころのクリニック 小児科医"
+      ]
+    },
+    {
+      "name_ja": "林 簡",
+      "name_en": "Hayashi Kan",
+      "title": "顧問",
+      "title_en": "Advisor",
+      "background": [
+        "元：労働大臣秘書官",
+        "現：株式会社グローバルインサイト 取締役"
+      ]
+    }
+  ],
+  "related_companies": [
+    {
+      "name_ja": "株式会社イクエコ",
+      "name_en": "IKUECO Co., Ltd.",
+      "website": "https://ikueco.co.jp/",
+      "business": "アパレル廃棄処分品の買取、卸売、小売事業、環境福祉社会貢献活動等"
+    }
+  ],
+  "key_contacts": {
+    "phone": "03-6455-5548",
+    "fax": "03-6455-5549",
+    "email": "info@quolica.co.jp",
+    "address": {
+      "postal_code": "150-0043",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "street": "道玄坂1-15-3 プリメーラ道玄坂1004"
+    }
+  },
+  "notes": {
+    "advisor_network_size": "20名以上の業界に精通した顧問",
+    "specialization": "化粧品・食品・繊維・アパレル・ヘルスケア・メディカルデバイス業界",
+    "service_types": [
+      "エグゼクティブサーチ（リテイン型）",
+      "エグゼクティブリクルートメント（成功報酬型）",
+      "新卒採用代行",
+      "障害者雇用サポート",
+      "市場調査",
+      "M&A・企業サポート"
+    ]
+  }
+}
