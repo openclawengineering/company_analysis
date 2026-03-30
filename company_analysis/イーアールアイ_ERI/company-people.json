@@ -1,0 +1,48 @@
+{
+  "company": {
+    "name_ja": "株式会社イーアールアイ",
+    "name_en": "ERi inc.",
+    "analyzed_date": "2026-03-30"
+  },
+  "leadership": [
+    {
+      "name_ja": "水野 剛",
+      "name_en": "Takeshi Mizuno",
+      "position_ja": "代表取締役",
+      "position_en": "Representative Director",
+      "took_office": "2024-06",
+      "status": "current",
+      "notes": "Succeeded the founder as Representative Director in June 2024. Emphasizes shifting from a product/service provider to a more valuable proposal-type engineering partner."
+    }
+  ],
+  "management_team": [
+    {
+      "name_ja": "水野 剛",
+      "name_en": "Takeshi Mizuno",
+      "position_ja": "代表取締役",
+      "position_en": "Representative Director",
+      "took_office": "2024-06",
+      "status": "current"
+    }
+  ],
+  "founder": {
+    "name_ja": "創業者（氏名非公開）",
+    "name_en": "Founder (Name not publicly disclosed)",
+    "notes": "The founder was succeeded by Takeshi Mizuno as Representative Director in June 2024. Specific name not disclosed in public sources."
+  },
+  "board_of_directors": [],
+  "executive_officers": [],
+  "key_personnel": [],
+  "advisors": [],
+  "notes": [
+    "Detailed information about the complete management team, board of directors, and executive officers was not publicly available on the company's website or other accessible sources.",
+    "The company operates as a 100% subsidiary of Mid Holdings Co., Ltd., which may influence governance structure.",
+    "ERi inc. maintains a relatively small management structure with 36 employees total, which suggests a streamlined organization.",
+    "For more detailed personnel information, direct contact with the company would be required."
+  ],
+  "last_updated": "2026-03-30",
+  "data_sources": [
+    "https://www.erii.co.jp/company/overview/",
+    "https://www.erii.co.jp/company/message/"
+  ]
+}
