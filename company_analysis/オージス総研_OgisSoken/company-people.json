@@ -1,0 +1,263 @@
+{
+  "company": {
+    "name_jp": "株式会社オージス総研",
+    "name_en": "OGIS-RI Co., Ltd.",
+    "website": "https://www.ogis-ri.co.jp",
+    "established": "1983-06-29",
+    "capital_jpy": 440000000,
+    "parent_company": "Osaka Gas Co., Ltd.",
+    "employees": 1521,
+    "employee_date": "2025-03-31"
+  },
+  "executives": [
+    {
+      "name_en": "Kazuhiko Yoshimura",
+      "name_jp": "吉村 和彦",
+      "position_en": "President",
+      "position_jp": "代表取締役社長",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "key_personnel": [
+    {
+      "category": "IBM Champions",
+      "description": "Employees certified as IBM Champion 2025",
+      "count": 1,
+      "year": 2025
+    },
+    {
+      "category": "AWS Certified Engineers",
+      "description": "Employees awarded 'Japan AWS All Certifications Engineers'",
+      "awards": [
+        {
+          "year": 2025,
+          "award_name": "2025 Japan AWS All Certifications Engineers"
+        },
+        {
+          "year": 2025,
+          "award_name": "2025 Japan AWS Jr. Champions"
+        },
+        {
+          "year": 2024,
+          "award_name": "2024 Japan AWS All Certifications Engineers"
+        }
+      ]
+    }
+  ],
+  "organizational_structure": {
+    "business_divisions": [
+      {
+        "name": "Systems Development",
+        "areas": [
+          "IoT",
+          "System Integration",
+          "Development Efficiency",
+          "Embedded Development"
+        ]
+      },
+      {
+        "name": "IT Infrastructure Operations & Maintenance",
+        "areas": [
+          "Cloud Services",
+          "System Operations",
+          "Data Center",
+          "Outsourcing"
+        ]
+      },
+      {
+        "name": "Security",
+        "areas": [
+          "Authentication & ID Management",
+          "Device Security",
+          "Network Security",
+          "Web & Email Security"
+        ]
+      },
+      {
+        "name": "Business Applications",
+        "areas": [
+          "Production & Sales",
+          "Finance & Accounting",
+          "HR & General Affairs"
+        ]
+      },
+      {
+        "name": "Business Analysis",
+        "areas": [
+          "Data Analysis & Utilization",
+          "Business Support"
+        ]
+      },
+      {
+        "name": "Consulting",
+        "areas": [
+          "IT Consulting",
+          "Business Process",
+          "Product/Service Development",
+          "HR & Organizational Development",
+          "Agile"
+        ]
+      }
+    ],
+    "specialized_units": [
+      {
+        "name": "IT Training & Learning",
+        "description": "Global IT skills and career support",
+        "offerings": [
+          "Agile Development Training",
+          "Embedded/IoT Security Training",
+          "SAFe® Training",
+          "e-Learning",
+          "Systems Modeling Training",
+          "Object-Oriented/UML Modeling",
+          "Java Training",
+          "C++ Training",
+          "Software Testing",
+          "Web/JavaScript Training",
+          "C Language Training",
+          "IT Literacy",
+          "DevOps Training",
+          "New Employee Training",
+          "Marketing Courses"
+        ]
+      }
+    ]
+  },
+  "workforce_demographics": {
+    "total_employees": 1521,
+    "as_of": "2025-03-31",
+    "recruitment_programs": [
+      {
+        "type": "New Graduate Recruitment",
+        "name_jp": "新卒採用",
+        "active": true
+      },
+      {
+        "type": "Career Recruitment",
+        "name_jp": "中途採用",
+        "active": true
+      },
+      {
+        "type": "Disability Recruitment",
+        "name_jp": "障がい者採用",
+        "active": true
+      }
+    ]
+  },
+  "corporate_governance": {
+    "parent_company": "Osaka Gas Co., Ltd. (100% ownership)",
+    "corporate_purpose_established": "2023-06-20",
+    "csr_initiatives": [
+      {
+        "name": "はじまるくんパソコン寄贈プログラム",
+        "name_en": "Hajimarukun PC Donation Program",
+        "description": "Donates refurbished PCs to disability welfare facilities",
+        "units_donated": 5000,
+        "milestone_date": "2024-08-27"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "健康経営優良法人2023",
+        "name_en": "Health & Productivity Management Outstanding Organization 2023",
+        "category": "Large Enterprise Division",
+        "year": 2023
+      },
+      {
+        "name": "ISO20022",
+        "description": "Compliant foreign remittance services",
+        "year": 2025
+      }
+    ]
+  },
+  "recent_executive_changes": [
+    {
+      "date": "2026-04-01",
+      "announcement_date": "2026-03-13",
+      "type": "Executive Personnel Changes and Organizational Restructuring"
+    },
+    {
+      "date": "2025-04-01",
+      "announcement_date": "2025-03-13",
+      "type": "Executive Personnel Changes and Organizational Restructuring"
+    },
+    {
+      "date": "2024-08-01",
+      "announcement_date": "2024-08-01",
+      "type": "Executive Personnel Changes and Organizational Restructuring"
+    },
+    {
+      "date": "2024-04-01",
+      "announcement_date": "2024-03-07",
+      "type": "Executive Personnel Changes"
+    },
+    {
+      "date": "2023-10-01",
+      "announcement_date": "2023-09-20",
+      "type": "Executive Personnel Changes and Organizational Restructuring"
+    }
+  ],
+  "strategic_partnerships": [
+    {
+      "partner": "Ubicom Holdings",
+      "type": "Capital and Business Alliance",
+      "date": "2024-02-05",
+      "purpose": "Strategic partnership acceleration for Asia-Pacific region business expansion"
+    },
+    {
+      "partner": "Fixpoint",
+      "type": "Capital and Business Partnership",
+      "date": "2023-07-05",
+      "purpose": "Technology partnership"
+    },
+    {
+      "partner": "CyberCommand",
+      "type": "Business Partnership",
+      "date": "2023-07-31",
+      "purpose": "Security education business mutual cooperation"
+    }
+  ],
+  "awards_and_recognition": [
+    {
+      "award": "BOXIL SaaS AWARD 2024",
+      "category": "File Transfer Service",
+      "ranking": "1st Place",
+      "product": "オフィス宅ふぁいる便",
+      "year": 2024
+    },
+    {
+      "award": "BOXIL SaaS AWARD 2023",
+      "category": "File Transfer Service",
+      "product": "オフィス宅ふぁいる便",
+      "year": 2023
+    },
+    {
+      "award": "ONE CAREER Recruitment Review Award 2023",
+      "category": "Regional Division",
+      "ranking": "Silver Award",
+      "year": 2023
+    },
+    {
+      "award": "6th Osaka Prefecture Gender Equality Business Awards",
+      "ranking": "Excellence Award",
+      "year": 2024
+    }
+  ],
+  "data_sources": [
+    {
+      "type": "official_website",
+      "url": "https://www.ogis-ri.co.jp",
+      "accessed": "2026-03-30"
+    },
+    {
+      "type": "company_profile",
+      "url": "https://www.ogis-ri.co.jp/en/",
+      "accessed": "2026-03-30"
+    },
+    {
+      "type": "news_releases",
+      "url": "https://www.ogis-ri.co.jp/news/",
+      "accessed": "2026-03-30"
+    }
+  ]
+}
