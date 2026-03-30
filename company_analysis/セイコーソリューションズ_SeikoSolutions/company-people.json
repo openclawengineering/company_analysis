@@ -1,0 +1,346 @@
+{
+  "company": {
+    "name_jp": "セイコーソリューションズ株式会社",
+    "name_en": "Seiko Solutions Inc.",
+    "website": "https://www.seiko-sol.co.jp",
+    "established": "2012-12-13",
+    "business_start": "2013-04-01",
+    "capital": "500,000,000 JPY",
+    "parent_company": "セイコーグループ株式会社 (Seiko Group Corporation)",
+    "ownership": "100% wholly owned by Seiko Group Corporation"
+  },
+  "employees": {
+    "non_consolidated": 708,
+    "consolidated": 1759,
+    "as_of": "2025-07-01"
+  },
+  "leadership": {
+    "president": {
+      "name": "関根 淳",
+      "name_en": "Jun Sekine",
+      "title": "代表取締役社長",
+      "title_en": "President and CEO"
+    },
+    "board_of_directors": [
+      {
+        "name": "関根 淳",
+        "title": "代表取締役社長"
+      },
+      {
+        "name": "滝澤 しめす",
+        "title": "取締役 専務執行役員"
+      },
+      {
+        "name": "松岡信親",
+        "title": "取締役 執行役員"
+      },
+      {
+        "name": "中山知之",
+        "title": "取締役 執行役員"
+      },
+      {
+        "name": "高橋修司",
+        "title": "取締役"
+      },
+      {
+        "name": "一村誠",
+        "title": "取締役"
+      },
+      {
+        "name": "米山拓",
+        "title": "取締役"
+      },
+      {
+        "name": "服部英夫",
+        "title": "取締役"
+      }
+    ],
+    "audit_supervisory_board": [
+      {
+        "name": "大岡昭博",
+        "title": "監査役"
+      },
+      {
+        "name": "河野勉",
+        "title": "監査役"
+      },
+      {
+        "name": "中尾稔",
+        "title": "監査役"
+      }
+    ],
+    "executive_officers": [
+      {
+        "name": "新川勉",
+        "title": "専務執行役員"
+      },
+      {
+        "name": "中村正雄",
+        "title": "上級執行役員"
+      },
+      {
+        "name": "佐伯繁",
+        "title": "上級執行役員"
+      },
+      {
+        "name": "那須野秀人",
+        "title": "上級執行役員"
+      },
+      {
+        "name": "宮田満",
+        "title": "上級執行役員"
+      }
+    ]
+  },
+  "locations": {
+    "headquarters": {
+      "name": "本社",
+      "address": "1-8 Nakase, Mihama-ku, Chiba-shi, Chiba 261-8507, Japan",
+      "tel": "+81-43-273-3111"
+    },
+    "tokyo_head_office": {
+      "name": "東京本社",
+      "address": "3-6-1 Hatchobori, Chuo-ku, Tokyo 104-0032, Japan",
+      "tel": "+81-3-6779-8950"
+    },
+    "branch_offices": [
+      {
+        "name": "八重洲オフィス",
+        "address": "1-9-9 Hatchobori, Chuo-ku, Tokyo 104-0032, Japan"
+      },
+      {
+        "name": "福住オフィス",
+        "address": "2-4-3 Fukuzumi, Koto-ku, Tokyo 135-0032, Japan",
+        "tel": "+81-3-5620-6811"
+      },
+      {
+        "name": "葛西オフィス",
+        "address": "3-6-4 Rinkai-cho, Edogawa-ku, Tokyo 134-0086, Japan",
+        "tel": "+81-3-6778-1450"
+      },
+      {
+        "name": "名古屋支社",
+        "address": "1-7-5 Kanayama-cho, Atsuta-ku, Nagoya-shi, Aichi 456-0002, Japan",
+        "tel": "+81-52-681-7161"
+      },
+      {
+        "name": "大阪支社",
+        "address": "4-2-15 Bakuroumachi, Chuo-ku, Osaka-shi, Osaka 541-0059, Japan",
+        "tel": "+81-6-6245-2240"
+      },
+      {
+        "name": "中国四国支社",
+        "address": "1-23 Kyobashi-cho, Minami-ku, Hiroshima-shi, Hiroshima 732-0828, Japan",
+        "tel": "+81-82-534-7560"
+      },
+      {
+        "name": "福山支社",
+        "address": "JFE Kanri Center (annex), 1 Kokan-cho, Fukuyama-shi, Hiroshima 721-0931, Japan",
+        "tel": "+81-84-946-6022"
+      },
+      {
+        "name": "九州支社",
+        "address": "2-11-15 Asano, Kokurakita-ku, Kitakyushu-shi, Fukuoka 802-0001, Japan",
+        "tel": "+81-93-511-5396"
+      },
+      {
+        "name": "福岡支社",
+        "address": "1-4-4 Hakataekimae, Hakata-ku, Fukuoka-shi, Fukuoka 812-0011, Japan",
+        "tel": "+81-92-481-6631"
+      }
+    ]
+  },
+  "business_fields": [
+    "受託開発ソフトウェア",
+    "パッケージソフトウェア",
+    "情報処理サービス",
+    "ネットワーク・通信関連"
+  ],
+  "products_and_services": [
+    {
+      "category": "IT System Performance Management",
+      "products": ["ES/1 neo", "ES/1 Shelty"]
+    },
+    {
+      "category": "AI-Predictive Management",
+      "products": ["LUiNa"]
+    },
+    {
+      "category": "Generative AI Services",
+      "products": ["Seiko Futureworks", "AI-SalesDX"]
+    },
+    {
+      "category": "Network Equipment/Services",
+      "products": ["Time Servers", "NTP Clocks", "Load Balancers (Netwiser)", "Console Servers (SmartCS)", "Protocol Converters", "IoT Routers (SkyBridge)"]
+    },
+    {
+      "category": "IT Operations Automation",
+      "products": ["IT Operations Automation Services"]
+    },
+    {
+      "category": "IoT Infrastructure",
+      "products": ["LTE Communication Modules", "IoT Platform/Devices"]
+    },
+    {
+      "category": "Data Integration",
+      "products": ["OMO Solution (SETSUGU)"]
+    },
+    {
+      "category": "Food Industry Systems",
+      "products": ["Ordering Systems", "Linkto Mobile Service"]
+    },
+    {
+      "category": "Time Recorders",
+      "products": ["Time Recorder Equipment", "esTIME"]
+    },
+    {
+      "category": "Mobility/Telematics",
+      "products": ["Drive Cloud+", "Mobility+"]
+    },
+    {
+      "category": "Payment Services",
+      "products": ["CREPiCO", "Payment System Integration Software"]
+    },
+    {
+      "category": "Financial/Distribution",
+      "products": ["ROS³", "CAPS", "SEGTRAN"]
+    },
+    {
+      "category": "Medical/Healthcare",
+      "products": ["COESSE", "ReadyCall", "POS Register System", "Electronic Consent Service"]
+    },
+    {
+      "category": "Food Manufacturing",
+      "products": ["Captain Brain"]
+    },
+    {
+      "category": "Monitoring/Control",
+      "products": ["GreenTALK"]
+    },
+    {
+      "category": "Time Stamps/Electronic Signatures",
+      "products": ["Seiko Trust Services", "eviDaemon"]
+    },
+    {
+      "category": "Business Services",
+      "products": ["BPO Services", "Address Package", "Pension Package"]
+    },
+    {
+      "category": "Consumer Services",
+      "products": ["GIGANTES Dictionary", "Seiko Dictionary App"]
+    }
+  ],
+  "key_clients": {
+    "industries": [
+      "Financial Institutions (Regional Banks)",
+      "Broadcasting/Media",
+      "Healthcare/Medical",
+      "Transportation",
+      "Manufacturing",
+      "Food Industry",
+      "Retail/Distribution",
+      "Government/Municipalities"
+    ],
+    "examples": [
+      "Tokaido Shinkansen",
+      "Japan Post Bank",
+      "Multiple Regional Banks",
+      "Medical Institutions",
+      "Broadcasting Stations",
+      "Manufacturing Companies"
+    ]
+  },
+  "subsidiaries": [
+    {
+      "name": "IIM Corporation",
+      "website": "http://www.iim.co.jp",
+      "description": "Enterprise system performance management software"
+    },
+    {
+      "name": "CSM Solution Co., Ltd.",
+      "website": "https://www.cosmo.co.jp",
+      "description": "Software development and embedded systems"
+    },
+    {
+      "name": "Total System Engineering Co., Ltd.",
+      "website": "https://www.tse21.jp",
+      "description": "System engineering and EDI services"
+    },
+    {
+      "name": "Instruction Co., Ltd.",
+      "website": "https://www.inst.or.jp",
+      "description": "Cloud-based business system development"
+    },
+    {
+      "name": "BackStore Co., Ltd.",
+      "website": "https://www.backstore.jp",
+      "description": "Cloud backup services"
+    },
+    {
+      "name": "Prestige Co., Ltd.",
+      "website": "http://www.e-prestige.co.jp",
+      "description": "SES services for mega-bank groups"
+    },
+    {
+      "name": "Computer Science Corporation",
+      "website": "https://www.cscnet.co.jp",
+      "description": "IT infrastructure and security services"
+    },
+    {
+      "name": "GCC CO., LTD.",
+      "website": "https://www.cosmo-gcc.co.jp",
+      "description": "IT services for central Japan region"
+    },
+    {
+      "name": "INFRONT Inc.",
+      "website": "https://infrontinc.co.jp",
+      "description": "Business system development and data analysis"
+    }
+  ],
+  "recent_news": [
+    {
+      "date": "2026-03-16",
+      "title": "インフォームドコンセントをLINEで完結",
+      "description": "Electronic consent service now supports LINE integration for medical institutions"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "電子同意サービス 医療法人社団厚潤会 日野駅前病院で利用開始"
+    },
+    {
+      "date": "2025-12-22",
+      "title": "Seiko Futureworks AI Interviewer released",
+      "description": "AI-based knowledge transfer from Q&A to process-oriented approach"
+    },
+    {
+      "date": "2025-11-18",
+      "title": "First successful digital cancel processing PTP broadcast signal transmission experiment",
+      "description": "Domestic first using same-channel FPU for PTP-based broadcast TS signal transmission"
+    },
+    {
+      "date": "2025-10-01",
+      "title": "Loan Cloud Platform 3.0 released",
+      "description": "New service integrating AI, fraud detection, and collateral assessment"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "INFRONT Inc. acquired as subsidiary",
+      "description": "Strengthening business system development capabilities"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Seiko Futureworks AI review platform launched",
+      "description": "AI-powered review platform for quality and knowledge transfer"
+    }
+  ],
+  "philosophy": {
+    "mission": "すべてはお客さまのイノベーションのために (Everything for our customers' innovation)",
+    "values": [
+      "常に時代の一歩先を行く (Always one step ahead of the times)",
+      "お客様の視点に立ったソリューション (Customer-centric solutions)",
+      "ダイバーシティーの尊重 (Respect for diversity)",
+      "多角化されたソリューション (Diversified solutions)"
+    ]
+  },
+  "data_source": "Company website (seiko-sol.co.jp) and public announcements",
+}
