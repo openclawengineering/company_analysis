@@ -1,0 +1,274 @@
+{
+  "company": {
+    "name_jp": "三菱電機インフォメーションシステムズ株式会社",
+    "name_en": "Mitsubishi Electric Information Systems Corporation",
+    "abbreviation": "MIND",
+    "current_status": "Merged into 三菱電機デジタルイノベーション株式会社 (Mitsubishi Electric Digital Innovation Corporation) as of April 2025",
+    "website": "https://www.mind.co.jp/",
+    "current_website": "https://www.mitsubishielectric.co.jp/medigital/"
+  },
+  "executives": [
+    {
+      "name_jp": "武田 聡",
+      "name_en": "Satoshi Takeda",
+      "title_jp": "代表取締役 取締役社長",
+      "title_en": "Representative Director, President & CEO",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "佐野 吉邦",
+      "name_en": "Yoshikuni Sano",
+      "title_jp": "取締役副社長",
+      "title_en": "Director, Vice President",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "楓 淳一",
+      "name_en": "Junichi Kaede",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "加茂井 薫",
+      "name_en": "Kaoru Kamoi",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "重野 俊浩",
+      "name_en": "Toshihiro Shigeno",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "塩川 智宏",
+      "name_en": "Tomohiro Shiokawa",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "小野山 歩",
+      "name_en": "Ayumu Onoyama",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "牛野 達司",
+      "name_en": "Tatsuji Ushino",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "諏訪 啓",
+      "name_en": "Kei Suwa",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "雲田 憲太郎",
+      "name_en": "Kentaro Kumota",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "二川 賢一",
+      "name_en": "Kenichi Futagawa",
+      "title_jp": "常任監査役",
+      "title_en": "Standing Corporate Auditor",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "松田 進",
+      "name_en": "Susumu Matsuda",
+      "title_jp": "常任監査役",
+      "title_en": "Standing Corporate Auditor",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "山下 洋徳",
+      "name_en": "Hironori Yamashita",
+      "title_jp": "監査役（非常勤）",
+      "title_en": "Corporate Auditor (Part-time)",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    },
+    {
+      "name_jp": "早川 純平",
+      "name_en": "Junpei Hayakawa",
+      "title_jp": "監査役（非常勤）",
+      "title_en": "Corporate Auditor (Part-time)",
+      "company": "三菱電機デジタルイノベーション株式会社"
+    }
+  ],
+  "key_figures": {
+    "employees": "約6,000人 (Approximately 6,000 as of April 2025)",
+    "capital": "12.5億円 (1.25 billion JPY)",
+    "parent_company": "三菱電機株式会社 (100% ownership)"
+  },
+  "recruitment": {
+    "new_graduate": {
+      "jp": "新卒採用",
+      "en": "New Graduate Recruitment",
+      "available": true
+    },
+    "mid_career": {
+      "jp": "中途採用",
+      "en": "Mid-Career Recruitment",
+      "available": true
+    },
+    "recruitment_platform": "HRMOS (BizReach)"
+  },
+  "subsidiaries": [
+    {
+      "name_jp": "株式会社スーパーコミュニケーションズ",
+      "name_en": "Super Communications Inc.",
+      "abbreviation": "SCI",
+      "website": "http://www.supercoms.co.jp/"
+    },
+    {
+      "name_jp": "株式会社メルコテクノ横浜",
+      "name_en": "Melco Techno Yokohama Corporation",
+      "website": "http://www.mt-yokohama.com/"
+    },
+    {
+      "name_jp": "株式会社テクノウェア",
+      "name_en": "Technoware Corporation",
+      "abbreviation": "TEW",
+      "website": "https://www.tew.co.jp/"
+    },
+    {
+      "name_jp": "クラウドセントリック株式会社",
+      "name_en": "Cloud Centric Corporation",
+      "abbreviation": "C3",
+      "website": "https://www.cloudcentric.co.jp/",
+      "established": "2023 (Joint venture with Skyarch Networks)"
+    },
+    {
+      "name_jp": "エムビーテクノ株式会社",
+      "name_en": "MB Techno Corporation",
+      "abbreviation": "MBT",
+      "website": "http://www.mbt.co.jp/"
+    }
+  ],
+  "business_domains": [
+    {
+      "name_jp": "製造DXソリューション事業",
+      "name_en": "Manufacturing DX Solutions Business"
+    },
+    {
+      "name_jp": "インフラ・セキュリティーソリューション事業",
+      "name_en": "Infrastructure & Security Solutions Business"
+    },
+    {
+      "name_jp": "ソリューションサービス事業",
+      "name_en": "Solution Services Business"
+    }
+  ],
+  "business_fields_original": [
+    "受託開発ソフトウェア (Contract Software Development)",
+    "パッケージソフトウェア (Package Software)",
+    "組み込みソフトウェア (Embedded Software)",
+    "情報処理サービス (Information Processing Services)",
+    "ネットワーク・通信関連 (Network & Communication)",
+    "SES (System Engineering Services)"
+  ],
+  "major_products": [
+    "kizkia - AI-based video analysis solution",
+    "kizkia-Meter - Automated meter reading solution",
+    "kizkia-Knight - Nursing care monitoring service",
+    "AnyCOMPASS - Cloud-based electronic medication history service",
+    "ARDIO - Social insurance labor system",
+    "ALIVE SOLUTION - HR/General Affairs total system",
+    "HYPERSOL Series - Manufacturing industry solutions",
+    "DIAPRISM - OLAP server for multi-dimensional analysis",
+    "MistyGuard Series - Information security solutions",
+    "CENTRAGE Series - Virtualization-enabled office computer",
+    "CloudMinder - Hybrid cloud service",
+    "DIAPLANET - Smart control cloud service for IoT",
+    "@Sign - Electronic transaction service",
+    "酒快Do/酒Do楽 - Sales management for liquor/food distribution",
+    "MIND Cyber Fusion Center - Advanced security operations"
+  ],
+  "offices": [
+    {
+      "name": "本社 (Headquarters)",
+      "address": "〒100-8310 東京都千代田区丸の内二丁目7番3号（東京ビル）"
+    },
+    {
+      "name": "丸の内事務所",
+      "address": "東京都千代田区丸の内二丁目7番3号（東京ビル）"
+    },
+    {
+      "name": "三田事務所",
+      "address": "〒108-0073 東京都港区三田3-5-19 東京三田ガーデンタワー 4階"
+    },
+    {
+      "name": "芝浦事務所",
+      "address": "〒108-0023 東京都港区芝浦4-6-8 田町ファーストビル"
+    },
+    {
+      "name": "中野事務所",
+      "address": "〒164-0012 東京都中野区本町1-32-2 ハーモニータワー"
+    },
+    {
+      "name": "湘南システムセンター",
+      "address": "神奈川県鎌倉市上町屋325"
+    },
+    {
+      "name": "中部オフィス/中部支社",
+      "address": "愛知県名古屋市中区丸の内1-17-29 メイフィス丸の内ビル"
+    },
+    {
+      "name": "関西オフィス/関西支社",
+      "address": "大阪府大阪市北区中之島6-2-40 中之島インテス"
+    },
+    {
+      "name": "北海道支店",
+      "address": "北海道札幌市中央区北4条西6-1 毎日札幌会館 6階"
+    },
+    {
+      "name": "東北支店",
+      "address": "宮城県仙台市青葉区柏木1-2-45 フォレスト仙台ビル 6F"
+    },
+    {
+      "name": "北陸支店",
+      "address": "石川県金沢市堀川新町2-1 井門金沢ビル4階"
+    },
+    {
+      "name": "中国支店",
+      "address": "広島県広島市中区本通7-19 広島ダイヤモンドビル 5階"
+    },
+    {
+      "name": "四国支店",
+      "address": "香川県高松市天神前10-12 香川天神前ビル 4F"
+    },
+    {
+      "name": "九州支社",
+      "address": "福岡県福岡市中央区天神3-9-33 KG天神ビル6F"
+    },
+    {
+      "name": "大分支店",
+      "address": "大分県大分市萩原2-2-35"
+    }
+  ],
+  "merger_history": {
+    "date": "April 2025",
+    "merged_entities": [
+      "三菱電機インフォメーションシステムズ株式会社 (MIND)",
+      "三菱電機インフォメーションネットワーク株式会社 (Mitsubishi Electric Information Network Corporation)",
+      "三菱電機ITソリューションズ株式会社 (Mitsubishi Electric IT Solutions Corporation)"
+    ],
+    "new_entity": "三菱電機デジタルイノベーション株式会社 (Mitsubishi Electric Digital Innovation Corporation)"
+  },
+  "data_source": {
+    "primary": "https://www.mitsubishielectric.co.jp/medigital/",
+    "last_updated": "2026-03-30"
+  }
+}
