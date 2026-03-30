@@ -1,0 +1,69 @@
+{
+  "company_name": {
+    "japanese": "大和総研ビジネス・イノベーション株式会社",
+    "english": "Daiwa Institute of Research Business Innovation Ltd.",
+    "abbreviation": "DIRBI"
+  },
+  "status": "Merged",
+  "status_details": "Company was merged back into parent company 株式会社大和総研 in 2021 and no longer exists as a separate entity",
+  "operational_period": {
+    "founded": "2008",
+    "merged": "2021",
+    "duration_years": 13
+  },
+  "personnel": {
+    "note": "Due to the 2021 merger and the nature of subsidiary operations, specific personnel records for DIRBI are not publicly available. All former DIRBI personnel were integrated into the parent company.",
+    "key_executives": {
+      "note": "Historical executive information for DIRBI is not publicly available in consolidated records."
+    },
+    "parent_company_executives": {
+      "note": "During DIRBI's existence (2008-2021), it operated under the oversight of 株式会社大和総研 executives. Current executive information is available on the parent company's website.",
+      "contact_for_information": {
+        "company": "株式会社大和総研 (Daiwa Institute of Research Ltd.)",
+        "website": "https://www.dir.co.jp/",
+        "investor_relations": "https://www.dir.co.jp/ir/"
+      }
+    }
+  },
+  "organizational_structure": {
+    "parent_company": "株式会社大和総研 (Daiwa Institute of Research Ltd.)",
+    "group": "大和証券グループ (Daiwa Securities Group)",
+    "merger_history": [
+      {
+        "year": "2008",
+        "event": "大和総研 split into three companies, DIRBI was founded"
+      },
+      {
+        "year": "2013",
+        "event": "ファイテックフォース (FaitecForce) merged into DIRBI"
+      },
+      {
+        "year": "2021",
+        "event": "DIRBI merged back into parent company 大和総研 along with other subsidiaries"
+      }
+    ]
+  },
+  "employee_count": {
+    "note": "Employee count not publicly available for DIRBI specifically. Following the 2021 merger, all former DIRBI employees became employees of 株式会社大和総研.",
+    "parent_company_context": "株式会社大和総研 has thousands of employees across Research, Consulting, and System business divisions."
+  },
+  "current_employment": {
+    "status": "Merged",
+    "details": "All former DIRBI employees are now part of 株式会社大和総研",
+    "recruitment": "For current employment opportunities in the former DIRBI business areas, refer to 株式会社大和総研 recruitment pages:"
+  },
+  "contact_information": {
+    "company": "株式会社大和総研 (Daiwa Institute of Research Ltd.)",
+    "address": "〒135-8460 東京都江東区冬木15番6号 大和総研ビル",
+    "phone": "(03) 5620-5100",
+    "website": "https://www.dir.co.jp/",
+    "recruitment_website": "https://www.dir.co.jp/recruit/"
+  },
+  "data_limitations": [
+    "DIRBI was a subsidiary company, and detailed personnel records are not publicly available",
+    "Company was merged in 2021, consolidating all records into the parent company",
+    "Historical subsidiary-specific executive information is not maintained in public records post-merger",
+    "For current personnel information, inquiries should be directed to 株式会社大和総研"
+  ],
+  "last_updated": "2026-03-30"
+}
