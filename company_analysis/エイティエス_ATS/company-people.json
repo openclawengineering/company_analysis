@@ -1,0 +1,105 @@
+{
+  "company": {
+    "name_jp": "株式会社エイ・ティ・エス",
+    "name_en": "ATS Co., Ltd.",
+    "name_reading": "エイ・ティ・エス",
+    "website": "http://www.ats-yokohama.co.jp",
+    "address": {
+      "postal_code": "222-0033",
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward": "港北区",
+      "district": "新横浜",
+      "street": "3-7-24",
+      "full_address_jp": "〒222-0033 神奈川県横浜市港北区新横浜3-7-24",
+      "full_address_en": "3-7-24 Shin-Yokohama, Kohoku-ku, Yokohama-shi, Kanagawa 222-0033, Japan"
+    }
+  },
+  "business_fields": [
+    {
+      "name_jp": "受託開発ソフトウェア",
+      "name_en": "Contract Software Development",
+      "description": "Custom software development services for client requirements"
+    },
+    {
+      "name_jp": "パッケージソフトウェア",
+      "name_en": "Package Software",
+      "description": "Pre-built software solutions and licensed products"
+    },
+    {
+      "name_jp": "組み込みソフトウェア",
+      "name_en": "Embedded Software",
+      "description": "Embedded systems and firmware development"
+    },
+    {
+      "name_jp": "情報処理サービス",
+      "name_en": "Information Processing Services",
+      "description": "Data processing and IT infrastructure support"
+    }
+  ],
+  "recruitment": {
+    "has_new_graduate": true,
+    "has_mid_career": true,
+    "programs": [
+      {
+        "type": "新卒採用",
+        "type_en": "New Graduate Recruitment"
+      },
+      {
+        "type": "中途採用",
+        "type_en": "Mid-Career Recruitment"
+      }
+    ]
+  },
+  "people": {
+    "executives": [],
+    "key_personnel": [],
+    "notable_employees": [],
+    "note": "Personnel information not publicly available. Company website was inaccessible during research."
+  },
+  "financials": {
+    "capital": null,
+    "capital_currency": "JPY",
+    "employee_count": null,
+    "founded_year": null,
+    "note": "Financial and employee information not publicly available"
+  },
+  "research_metadata": {
+    "research_date": "2026-03-30",
+    "data_sources": [
+      "Web search queries",
+      "Industry association listings (KIA)",
+      "Public business directories"
+    ],
+    "limitations": [
+      "Company website (www.ats-yokohama.co.jp) was inaccessible",
+      "Limited public information available",
+      "No media mentions found",
+      "Personnel details not available"
+    ],
+    "recommendations": [
+      "Contact company directly for detailed information",
+      "Check Kanagawa Prefecture business registries",
+      "Monitor website for restoration",
+      "Review Japanese business databases"
+    ]
+  },
+  "media_mentions": {
+    "found": false,
+    "articles": [],
+    "note": "No significant media coverage found at time of research"
+  },
+  "industry_context": {
+    "region": "Kanagawa Prefecture, Yokohama City",
+    "business_hub": "Shin-Yokohama",
+    "industry_association": "Likely member of 神奈川県情報サービス産業協会 (KIA)",
+    "market_position": "Regional IT service provider",
+    "likely_client_industries": [
+      "Manufacturing",
+      "Automotive",
+      "Electronics",
+      "Enterprise/Business",
+      "Telecommunications"
+    ]
+  }
+}
