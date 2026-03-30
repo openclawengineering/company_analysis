@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社バイキングテクノロジー",
+    "name_en": "Viking Technology Co., Ltd.",
+    "status": "UNVERIFIED",
+    "data_reliability": "LOW",
+    "website_accessible": false
+  },
+  "executive_team": [],
+  "key_personnel": [],
+  "board_of_directors": [],
+  "employees": {
+    "total_count": null,
+    "by_department": {},
+    "by_location": {}
+  },
+  "recruitment": {
+    "new_graduate_recruitment": {
+      "status": "UNVERIFIED",
+      "programs": [],
+      "contact": null
+    },
+    "mid_career_recruitment": {
+      "status": "UNVERIFIED",
+      "open_positions": [],
+      "contact": null
+    },
+    "internship_program": {
+      "status": "UNVERIFIED",
+      "programs": [],
+      "contact": null
+    }
+  },
+  "notes": [
+    "No executive or personnel information could be verified through public sources",
+    "Company website is not accessible (DNS error/NXDOMAIN)",
+    "No business registry data available",
+    "No media coverage or public announcements found",
+    "No job postings or recruitment information found on major job sites",
+    "This company may have closed, changed names, merged, or may not currently exist"
+  ],
+  "data_sources": [],
+  "last_updated": "2026-03-30"
+}
