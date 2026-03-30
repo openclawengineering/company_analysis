@@ -1,0 +1,150 @@
+{
+  "company": {
+    "name_jp": "NECソリューションイノベータ株式会社",
+    "name_en": "NEC Solution Innovators, Ltd.",
+    "website": "https://www.nec-si.co.jp/",
+    "parent_company": "NEC Corporation",
+    "group": "NEC Group"
+  },
+  "contact": {
+    "headquarters": {
+      "postal_code": "220-0004",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "district": "北幸2-9-18",
+      "building": "横浜西口NKビル6F",
+      "full_address_jp": "〒220-0004 神奈川県横浜市西区北幸2-9-18 横浜西口NKビル6F",
+      "country": "Japan"
+    }
+  },
+  "business_fields": [
+    {
+      "name_jp": "受託開発ソフトウェア",
+      "name_en": "Contract Software Development",
+      "description": "Custom software development and system integration"
+    },
+    {
+      "name_jp": "パッケージソフトウェア",
+      "name_en": "Package Software",
+      "description": "Ready-made software solutions and business applications"
+    },
+    {
+      "name_jp": "組み込みソフトウェア",
+      "name_en": "Embedded Software",
+      "description": "Firmware and embedded systems development"
+    },
+    {
+      "name_jp": "情報処理サービス",
+      "name_en": "Information Processing Services",
+      "description": "Data processing and IT infrastructure services"
+    },
+    {
+      "name_jp": "ネットワーク・通信関連",
+      "name_en": "Network & Communications",
+      "description": "Network systems and telecommunications software"
+    },
+    {
+      "name_jp": "SES",
+      "name_en": "System Engineering Services",
+      "description": "Technical staffing and system engineering support"
+    }
+  ],
+  "recruitment": {
+    "new_graduates": {
+      "jp": "新卒採用",
+      "en": "New Graduate Recruitment",
+      "status": "Active"
+    },
+    "mid_career": {
+      "jp": "中途採用",
+      "en": "Mid-Career Recruitment",
+      "status": "Active"
+    }
+  },
+  "corporate_data": {
+    "capital": {
+      "amount": null,
+      "currency": "JPY",
+      "note": "Data not available - verify with company registry"
+    },
+    "employee_count": {
+      "total": null,
+      "engineers": null,
+      "note": "Data not available - verify with company sources"
+    },
+    "established": {
+      "date": null,
+      "note": "Data not available - verify with company registry"
+    }
+  },
+  "leadership": {
+    "executives": [],
+    "note": "Leadership information not available - website inaccessible"
+  },
+  "key_departments": [
+    {
+      "name": "Software Development",
+      "description": "Contract and package software development"
+    },
+    {
+      "name": "Embedded Systems",
+      "description": "Firmware and embedded software"
+    },
+    {
+      "name": "Network Solutions",
+      "description": "Network and communications systems"
+    },
+    {
+      "name": "System Engineering",
+      "description": "SES and technical support services"
+    }
+  ],
+  "target_industries": [
+    "Government and Public Sector",
+    "Financial Services",
+    "Telecommunications",
+    "Manufacturing",
+    "Healthcare",
+    "Infrastructure",
+    "Transportation"
+  ],
+  "data_collection": {
+    "analysis_date": "2026-03-30",
+    "data_sources": [
+      "Provided company information",
+      "NEC Group knowledge base"
+    ],
+    "limitations": [
+      "Web search API unavailable",
+      "Company website inaccessible",
+      "Browser automation failed",
+      "Limited access to Japanese corporate databases"
+    ],
+    "verification_needed": [
+      "Company history and establishment date",
+      "Exact capital amount",
+      "Employee count",
+      "Leadership team",
+      "Client list",
+      "Company philosophy and mission",
+      "Recent media coverage",
+      "Financial performance"
+    ]
+  },
+  "next_steps": {
+    "recommended_actions": [
+      "Visit company website directly: https://www.nec-si.co.jp/",
+      "Search Japanese business databases (帝国データバンク, 東京商工リサーチ)",
+      "Review NEC Corporation annual reports for subsidiary information",
+      "Check Japanese recruitment sites (リクナビ, マイナビ) for company details",
+      "Search LinkedIn for employee insights",
+      "Contact company directly for corporate materials"
+    ],
+    "search_resources": [
+      "https://www.nec.co.jp/ (Parent company)",
+      "https://company.nikkei.com/ (Nikkei Company Profile)",
+      "https://www.tdb.co.jp/ (Teikoku Databank)",
+      "https://www.tsr-net.co.jp/ (Tokyo Shoko Research)"
+    ]
+  }
+}
