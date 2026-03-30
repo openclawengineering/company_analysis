@@ -1,0 +1,46 @@
+{
+  "company": {
+    "name_jp": "株式会社ルネサンス",
+    "name_en": "Renaissance Co., Ltd.",
+    "website": "http://www.ren.co.jp"
+  },
+  "executives": [],
+  "key_personnel": [],
+  "departments": [
+    {
+      "name": "Software Development",
+      "description": "Contract software development services",
+      "personnel": []
+    },
+    {
+      "name": "Package Software",
+      "description": "Proprietary software products",
+      "personnel": []
+    },
+    {
+      "name": "Information Processing Services",
+      "description": "IT services and data processing",
+      "personnel": []
+    }
+  ],
+  "recruitment": {
+    "new_graduate": {
+      "available": true,
+      "positions": [],
+      "details": "新卒採用を行っている"
+    },
+    "mid_career": {
+      "available": true,
+      "positions": [],
+      "details": "中途採用を行っている"
+    }
+  },
+  "notes": [
+    "Company website (ren.co.jp) is not publicly accessible (HTTP 401)",
+    "No executive or personnel information available from public sources",
+    "Search results dominated by fitness company with same name (Renaissance Inc., stock code 2378)",
+    "Company appears to be a private SME with limited online presence"
+  ],
+  "data_source": "Web research - limited availability due to access restrictions",
+  "last_updated": "2026-03-30"
+}
