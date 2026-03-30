@@ -1,0 +1,62 @@
+{
+  "company": {
+    "name_ja": "株式会社イーエスブイ",
+    "name_en": "ESV Co., Ltd.",
+    "name_reading": "Kabushiki-gaisha Īesubui"
+  },
+  "last_updated": "2026-03-30",
+  "data_availability": {
+    "executives": "not_found",
+    "board_members": "not_found",
+    "key_employees": "not_found",
+    "total_identified": 0
+  },
+  "research_notes": {
+    "website_accessible": false,
+    "corporate_registry_checked": true,
+    "news_sources_checked": true,
+    "job_postings_checked": true,
+    "findings": "No publicly available information about company executives, board members, or key employees was found. The company website is inaccessible, and no executive profiles were identified in corporate databases or news articles."
+  },
+  "executives": [],
+  "board_members": [],
+  "key_employees": [],
+  "recruitment_contacts": {
+    "new_graduate": {
+      "available": true,
+      "contact": "Not available"
+    },
+    "mid_career": {
+      "available": true,
+      "contact": "Not available"
+    }
+  },
+  "data_sources": [
+    {
+      "source": "Company Website (esv.co.jp)",
+      "status": "inaccessible",
+      "date_checked": "2026-03-30"
+    },
+    {
+      "source": "Japanese Corporate Registry Search",
+      "status": "no_match",
+      "date_checked": "2026-03-30"
+    },
+    {
+      "source": "News Archive Search",
+      "status": "no_results",
+      "date_checked": "2026-03-30"
+    },
+    {
+      "source": "Job Posting Sites",
+      "status": "not_found",
+      "date_checked": "2026-03-30"
+    }
+  ],
+  "recommendations": [
+    "Verify company operational status through direct contact",
+    "Check Japanese Ministry of Justice corporate registry",
+    "Contact Kawasaki Chamber of Commerce for verification",
+    "Search alternative company name variations or romanizations"
+  ]
+}
