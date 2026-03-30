@@ -1,0 +1,162 @@
+{
+  "company": {
+    "name_jp": "SBテクノロジー株式会社",
+    "name_en": "SB Technology Corp.",
+    "former_name": "ソフトバンク・テクノロジー株式会社 (SoftBank Technology Corp.)",
+    "abbreviation": "SBT",
+    "stock_code": "4726 (delisted September 2024)",
+    "founded": "1990-10-16",
+    "website": "https://www.softbanktech.co.jp/"
+  },
+  "executives": [
+    {
+      "name_jp": "阿多親市",
+      "name_en": "Shinichi Ata",
+      "title_jp": "代表取締役社長",
+      "title_en": "Representative Director and President",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name_jp": "阿多親市",
+      "name_en": "Shinichi Ata",
+      "title": "代表取締役社長 (Representative Director and President)",
+      "department": "Executive Management",
+      "notes": "Current President and CEO leading the company through the merger process with SoftBank Corporation"
+    }
+  ],
+  "parent_company": {
+    "name_jp": "ソフトバンク株式会社",
+    "name_en": "SoftBank Corp.",
+    "relationship": "100% ownership (as of September 10, 2024)",
+    "group": "SoftBank Group",
+    "merger_plan": "SB Technology to be merged into SoftBank Corp. on April 1, 2026"
+  },
+  "subsidiaries": [
+    {
+      "name_jp": "サイバートラスト株式会社",
+      "name_en": "Cybertrust Corporation",
+      "relationship": "Consolidated subsidiary",
+      "business": "Cybersecurity and SSL certificate services",
+      "acquired": "April 2014"
+    },
+    {
+      "name_jp": "M-SOLUTIONS株式会社",
+      "name_en": "M-SOLUTIONS Corporation",
+      "relationship": "Consolidated subsidiary",
+      "business": "Mobile solutions and application development",
+      "acquired": "March 2001 (as E-Cosmo Corporation)"
+    },
+    {
+      "name_jp": "亞洲電子商務科技有限公司",
+      "name_en": "Asia E-Commerce Technology Co., Ltd.",
+      "relationship": "Consolidated subsidiary",
+      "business": "E-commerce platform development",
+      "location": "Taiwan"
+    },
+    {
+      "name_jp": "株式会社環",
+      "name_en": "Kabushiki Kaisha Tamaki",
+      "relationship": "Consolidated subsidiary",
+      "business": "IT services"
+    },
+    {
+      "name_jp": "アソラテック株式会社",
+      "name_en": "Asoratech Corporation",
+      "relationship": "Consolidated subsidiary",
+      "business": "Technology solutions"
+    },
+    {
+      "name_jp": "リデン株式会社",
+      "name_en": "Riden Corporation",
+      "relationship": "Consolidated subsidiary",
+      "business": "IT services"
+    },
+    {
+      "name_jp": "ソリューションビジネステクノロジーコリア株式会社",
+      "name_en": "Solution Business Technology Korea Co., Ltd.",
+      "relationship": "Consolidated subsidiary",
+      "business": "IT services in Korean market",
+      "location": "South Korea"
+    }
+  ],
+  "historical_executives": [
+    {
+      "name_jp": "孫正義",
+      "name_en": "Masayoshi Son",
+      "title": "Representative Director (SoftBank Group level)",
+      "notes": "Chairman and CEO of SoftBank Group, ultimate controlling shareholder"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner": "Microsoft Corporation",
+      "status": "Gold Certified Partner",
+      "achievements": [
+        "Microsoft Japan Partner of the Year (2014-2023, 10 consecutive years)",
+        "Specialization in Microsoft 365, Azure, and Dynamics 365"
+      ],
+      "relationship_type": "Strategic technology partner"
+    },
+    {
+      "partner": "Symantec (Broadcom)",
+      "status": "Norton Store operator",
+      "business": "E-commerce for Symantec/Norton security products",
+      "relationship_type": "Distribution and e-commerce partner"
+    }
+  ],
+  "workforce": {
+    "total_employees_consolidated": 1447,
+    "total_employees_standalone": "Not specified",
+    "as_of": "2024-03-31",
+    "recruitment": {
+      "new_graduates": true,
+      "mid_career": true,
+      "recruitment_website": "https://www.softbanktech.co.jp/corp/hr/recruit"
+    }
+  },
+  "contact_information": {
+    "headquarters": {
+      "address_jp": "〒160-8430 東京都新宿区新宿6丁目27番30号 新宿イーストサイドスクエア17階",
+      "address_en": "Shinjuku Eastside Square 17F, 6-27-30 Shinjuku, Shinjuku-ku, Tokyo 160-8430, Japan",
+      "coordinates": {
+        "latitude": 35.6966583,
+        "longitude": 139.7085417
+      }
+    },
+    "social_media": {
+      "twitter": "https://x.com/SBTechCorp",
+      "facebook": "https://www.facebook.com/SBTechCorp/",
+      "youtube": "https://www.youtube.com/channel/UCI0LlTTWamZ87FAs5IWTv_w"
+    }
+  },
+  "financial_summary": {
+    "capital_jpy": "1,270,000,000",
+    "capital_formatted": "12億70百万円",
+    "revenue_consolidated_jpy": "65,704,000,000",
+    "revenue_consolidated_formatted": "657億4百万円",
+    "revenue_standalone_jpy": "56,585,000,000",
+    "revenue_standalone_formatted": "565億85百万円",
+    "fiscal_year_end": "March 31",
+    "as_of": "2024-03-31"
+  },
+  "company_status": {
+    "listing_status": "Delisted",
+    "delisting_date": "2024-09-06",
+    "exchange": "Tokyo Stock Exchange Prime Market (formerly)",
+    "current_status": "Wholly-owned subsidiary of SoftBank Corporation",
+    "merger_schedule": {
+      "date": "2026-04-01",
+      "type": "Absorption merger into SoftBank Corporation",
+      "process": "Simple merger/abbreviated merger"
+    }
+  },
+  "data_sources": [
+    "Wikipedia Japan - SBテクノロジー",
+    "Company IR documents (2024)",
+    "SoftBank Corporation press releases",
+    "Company website"
+  ],
+  "last_updated": "2026-03-30"
+}
