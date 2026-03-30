@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name_jp": "株式会社システムアイ",
+    "name_en": "System I Co., Ltd.",
+    "website": "https://systemi.co.jp/"
+  },
+  "executives": [
+    {
+      "name_jp": "葛川 敬祐",
+      "name_en": "Keisuke Kuzukawa",
+      "title_jp": "代表取締役",
+      "title_en": "Representative Director / President",
+      "notes": "元バンドマン (Former band musician) - Featured in media for Bandman Recruitment program"
+    },
+    {
+      "name_jp": "後藤 岳",
+      "name_en": "Gaku Goto",
+      "title_jp": "執行役員",
+      "title_en": "Executive Officer"
+    },
+    {
+      "name_jp": "垂水 明子",
+      "name_en": "Akiko Tarumi",
+      "title_jp": "執行役員",
+      "title_en": "Executive Officer"
+    },
+    {
+      "name_jp": "緒方 聡",
+      "name_en": "Satoshi Ogata",
+      "title_jp": "執行役員兼CTO",
+      "title_en": "Executive Officer & CTO",
+      "notes": "Appointed August 2022"
+    },
+    {
+      "name_jp": "上野 拓",
+      "name_en": "Taku Ueno",
+      "title_jp": "取締役（非常勤）",
+      "title_en": "Director (Part-time/Outside)"
+    },
+    {
+      "name_jp": "西岡田 信裕",
+      "name_en": "Nobuhiro Nishiokada",
+      "title_jp": "取締役（非常勤）",
+      "title_en": "Director (Part-time/Outside)"
+    },
+    {
+      "name_jp": "難波 貞暁",
+      "name_en": "Sadaaki Namba",
+      "title_jp": "監査役（非常勤）",
+      "title_en": "Statutory Auditor (Part-time/Outside)"
+    }
+  ],
+  "advisors": [
+    {
+      "name_jp": "波多野 徹",
+      "name_en": "Toru Hatano",
+      "title_jp": "顧問",
+      "title_en": "Advisor"
+    },
+    {
+      "name_jp": "仲田 喜昭",
+      "name_en": "Yoshiaki Nakata",
+      "title_jp": "顧問",
+      "title_en": "Advisor"
+    },
+    {
+      "name_jp": "志渡澤 和典",
+      "name_en": "Kazunori Shidozawa",
+      "title_jp": "顧問",
+      "title_en": "Advisor"
+    }
+  ],
+  "organization": {
+    "total_employees": 376,
+    "employee_count_date": "2025-04-01",
+    "foreign_engineers": 50,
+    "foreign_engineers_date": "2023-09-01",
+    "certifications": {
+      "aws_certified_specialists": "多数在籍 (Multiple specialists)",
+      "kubestronaut": "1 employee certified (CNCF Kubernetes all certifications)"
+    }
+  },
+  "group_affiliation": {
+    "parent_company": {
+      "name_jp": "株式会社SHIFT",
+      "name_en": "SHIFT Inc.",
+      "partnership_date": "2019-03-01"
+    },
+    "relationship": "SHIFT Group company"
+  },
+  "office_locations": [
+    {
+      "name": "本社 (Headquarters)",
+      "address": "〒220-8114 神奈川県横浜市西区みなとみらい2-2-1 横浜ランドマークタワー14F",
+      "address_en": "14F, Yokohama Landmark Tower, 2-2-1 Minatomirai, Nishi-ku, Yokohama, Kanagawa 220-8114"
+    },
+    {
+      "name": "秋葉原オフィス",
+      "notes": "Referenced in ISMS certification scope"
+    },
+    {
+      "name": "大阪オフィス",
+      "opened": "2025-04-04"
+    },
+    {
+      "name": "福岡オフィス",
+      "opened": "2025-03-31"
+    },
+    {
+      "name": "USA Office",
+      "opened": "2023-08-31"
+    }
+  ],
+  "key_partnerships": [
+    {
+      "partner": "富士通 (Fujitsu)",
+      "status": "グループコアパートナー (Group Core Partner)",
+      "since": "2013-06-17",
+      "awards": ["品質特別賞 (Quality Special Award) - 2014"]
+    },
+    {
+      "partner": "Red Hat",
+      "status": "ビジネスパートナー (Business Partner)"
+    },
+    {
+      "partner": "Google Cloud",
+      "status": "Service Partner",
+      "url": "https://cloud.google.com/find-a-partner/partner/system-i-co-ltd-株式会社システムアイ"
+    },
+    {
+      "partner": "AWS",
+      "status": "APN Partner",
+      "certifications": ["AWS 50 APN Certification Distinction (2024.10)", "AWS 100 APN Certification Distinction (2024.12)"]
+    },
+    {
+      "partner": "ハートビーツ (Heartbeats)",
+      "type": "業務提携 (Business Alliance)",
+      "date": "2025-01-31"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-03-30",
+    "source": "https://systemi.co.jp/company/profile/",
+    "data_quality": "Official company website data"
+  }
+}

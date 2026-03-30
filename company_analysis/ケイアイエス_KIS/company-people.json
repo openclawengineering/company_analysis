@@ -1,0 +1,106 @@
+{
+  "company": {
+    "name_jp": "株式会社ケイアイエス",
+    "name_en": "KIS Co., Ltd.",
+    "corporate_number": "9021001037905",
+    "website": "https://www.ki-s.co.jp"
+  },
+  "key_people": [
+    {
+      "name": "木富 博",
+      "name_en": "Hiroshi Kitomi",
+      "position": "代表取締役社長",
+      "position_en": "President & CEO",
+      "background": "大手メーカーからスピンアウトして創業",
+      "description": "物腰が柔らかく親しざすく、社員想いな方。アットホームな会社風土を作っている。",
+      "contact_department": "営業部採用担当"
+    }
+  ],
+  "departments": [
+    {
+      "name": "営業部",
+      "function": "採用担当・営業活動"
+    }
+  ],
+  "employee_profile": {
+    "total_count": 21,
+    "as_of": "2024-03-01",
+    "average_age": "30代後半",
+    "mid_career_ratio": "100%"
+  },
+  "employee_testimonials": [
+    {
+      "identifier": "Aさん",
+      "tenure": "入社4年目",
+      "quote": "人数は少ない会社ですが、みんなで素敵な会社を作っていこうとしています。",
+      "highlights": [
+        "社長が物腰が柔らかく親しみやすい",
+        "幅広い業種の開発ができる",
+        "2ヶ月に1回の帰社日と忘年会がある",
+        "相談しやすい環境"
+      ]
+    },
+    {
+      "identifier": "Bさん",
+      "tenure": "入社1年目",
+      "quote": "未経験で入社しましたが、社長や先輩社員方が親身になって仕事を教えて頂けるのでとても安心して仕事ができます。",
+      "highlights": [
+        "未経験から入社可能",
+        "アットホームな雰囲気",
+        "社長との距離感が近い",
+        "仕事の悩みなど相談しやすい"
+      ]
+    }
+  ],
+  "recruitment_contacts": [
+    {
+      "type": "新卒採用",
+      "platform": "マイナビ2026",
+      "url": "https://job.mynavi.jp/26/pc/search/corp254828/outline.html"
+    },
+    {
+      "type": "中途採用",
+      "platform": "doda",
+      "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10038406192/"
+    },
+    {
+      "type": "中途採用",
+      "platform": "転職ならtype",
+      "url": "https://type.jp/job-company/10411/"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "プライバシーマーク",
+      "number": "第10824362号",
+      "date_obtained": "2016-01-07",
+      "status": "認証済み"
+    },
+    {
+      "name": "労働者派遣事業許可",
+      "number": "派14-301304",
+      "date_obtained": "2016-12-01",
+      "status": "取得済み"
+    }
+  ],
+  "associations": [
+    {
+      "name": "社団法人 神奈川県情報サービス産業協会",
+      "abbreviation": "KIA",
+      "website": "http://www.kia.or.jp/"
+    },
+    {
+      "name": "首都圏デジタル産業健康保険組合",
+      "website": "http://www.kjkenpo.or.jp/"
+    }
+  ],
+  "analysis_metadata": {
+    "analysis_date": "2026-03-30",
+    "data_sources": [
+      "Official website (https://www.ki-s.co.jp)",
+      "Job sites (doda, マイナビ, type)",
+      "Business databases (Baseconnect, BIZMAPS)",
+      "Tavily Web Search"
+    ]
+  }
+}
