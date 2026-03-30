@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name_jp": "株式会社ミヤジマ",
+    "name_en": "Miyajima Co., Ltd.",
+    "website": "http://www.miyajima.co.jp",
+    "address": {
+      "postal_code": "213-0013",
+      "prefecture": "神奈川県",
+      "city": "川崎市",
+      "ward": "高津区",
+      "district": "末長2-8-19",
+      "full_jp": "〒213-0013 神奈川県川崎市高津区末長2-8-19",
+      "full_en": "2-8-19 Suenaga, Takatsu-ku, Kawasaki-shi, Kanagawa 213-0013, Japan"
+    },
+    "business_fields": [
+      {
+        "jp": "受託開発ソフトウェア",
+        "en": "Contract Software Development"
+      },
+      {
+        "jp": "組み込みソフトウェア",
+        "en": "Embedded Software Development"
+      },
+      {
+        "jp": "SES",
+        "en": "System Engineering Services"
+      }
+    ],
+    "recruitment": {
+      "types": ["中途採用"],
+      "en": ["Mid-career recruitment"]
+    }
+  },
+  "executives": [],
+  "employees": [],
+  "research_notes": {
+    "search_date": "2026-03-30",
+    "data_availability": "Limited",
+    "findings": [
+      "No public information found about executives or employees",
+      "Website miyajima.co.jp belongs to a different company (manufacturing/cutting tools in Gunma)",
+      "Address confirmed to exist in Kawasaki, Takatsu-ku",
+      "Multiple other companies with similar 'Miyajima' names exist in Japan"
+    ],
+    "other_miyajima_companies": [
+      {
+        "name": "株式会社ミヤジマ (Shiga)",
+        "location": "滋賀県犬上郡多賀町多賀1008番地",
+        "business": "Forging, machining, heat treatment",
+        "founded": 1929,
+        "representatives": [
+          {
+            "title": "代表取締役会長",
+            "name": "宮嶋 誠一郎",
+            "birth_date": "1962-11-16"
+          },
+          {
+            "title": "代表取締役社長",
+            "name": "宮嶋 俊介",
+            "birth_date": "1972-06-16"
+          }
+        ],
+        "capital": "10,000,000 JPY",
+        "employees": 47
+      },
+      {
+        "name": "株式会社宮島 (Hiroshima)",
+        "location": "広島県廿日市市深江2丁目1-1",
+        "business": "Packaging, logistics containers",
+        "founded": 1962,
+        "capital": "10,000,000 JPY",
+        "employees": 75
+      },
+      {
+        "name": "K-Miyajima Co., Ltd.",
+        "location": "川崎市",
+        "business": "Umbrella manufacturing",
+        "founded": 1923
+      }
+    ]
+  },
+  "recommendations": [
+    "Contact the company directly for official personnel information",
+    "Check Japanese corporate registry (法人登記簿) for executive details",
+    "Review job posting platforms (Indeed, LinkedIn Japan, etc.)",
+    "Contact Kawasaki Chamber of Commerce for business directory"
+  ]
+}
