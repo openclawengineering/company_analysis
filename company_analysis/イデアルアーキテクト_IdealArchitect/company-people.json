@@ -1,0 +1,93 @@
+{
+  "company": {
+    "name_jp": "株式会社イデアルアーキテクト",
+    "name_en": "Ideal Architect Co., Ltd.",
+    "website": "http://www.i-architect.co.jp",
+    "website_status": "inaccessible"
+  },
+  "contact": {
+    "postal_code": "230-0051",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "ward": "鶴見区",
+    "district": "鶴見中央",
+    "chome": "2-19-16",
+    "building": "横浜鶴見ビル4F",
+    "full_address_jp": "〒230-0051 神奈川県横浜市鶴見区鶴見中央2-19-16 横浜鶴見ビル4F",
+    "phone": null,
+    "fax": null,
+    "email": null
+  },
+  "business": {
+    "fields": [
+      "受託開発ソフトウェア",
+      "組み込みソフトウェア",
+      "情報処理サービス",
+      "SES"
+    ],
+    "industry": "IT / Software Development / System Integration"
+  },
+  "corporate_info": {
+    "founding_date": null,
+    "capital": null,
+    "employee_count": null,
+    "representative": null,
+    "stock_listing": null
+  },
+  "recruitment": {
+    "new_graduate": true,
+    "mid_career": true,
+    "career_site": null
+  },
+  "clients": [],
+  "services": {
+    "commissioned_software_development": {
+      "name_jp": "受託開発ソフトウェア",
+      "description": "Custom software development contracted by clients"
+    },
+    "embedded_software": {
+      "name_jp": "組み込みソフトウェア",
+      "description": "Development of embedded systems software for hardware devices"
+    },
+    "information_processing_services": {
+      "name_jp": "情報処理サービス",
+      "description": "IT services including data processing and system operations"
+    },
+    "ses": {
+      "name_jp": "SES",
+      "full_name": "System Engineering Services",
+      "description": "System engineering service dispatch/staffing"
+    }
+  },
+  "media_mentions": [],
+  "key_people": [],
+  "research_metadata": {
+    "research_date": "2026-03-30",
+    "data_sources": ["Tavily Web Search API"],
+    "search_queries": [
+      "株式会社イデアルアーキテクト Ideal Architect 横浜 会社情報",
+      "イデアルアーキテクト ニュース 記事",
+      "i-architect.co.jp 横浜 鶴見",
+      "イデアルアーキテクト 横浜 鶴見 SES 受託開発",
+      "イデアルアーキテクト 求人 採用"
+    ],
+    "website_fetch_attempts": 1,
+    "website_fetch_result": "ENOTFOUND - Domain does not resolve",
+    "search_result_count": 0,
+    "notes": [
+      "Company website (i-architect.co.jp) is inaccessible",
+      "No public information found beyond task-provided details",
+      "A similarly-named company (株式会社イデアルアーキテクツ, ideal-architects.co.jp) exists but is a different entity based in Tokyo"
+    ]
+  },
+  "data_availability": {
+    "basic_info": "partial",
+    "contact_details": "unavailable",
+    "history": "unavailable",
+    "financial": "unavailable",
+    "employees": "unavailable",
+    "clients": "unavailable",
+    "philosophy": "unavailable",
+    "media_coverage": "none"
+  }
+}
