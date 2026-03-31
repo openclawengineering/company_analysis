@@ -199,11 +199,11 @@ The company positioned itself as an **"Only Value Provider"** (オンリーバ�
 
 | Date | Media Outlet | Topic |
 |------|--------------|-------|
-| **2005-2007** | Weekly BCN | Embedded software revenue growth, FENCE product releases |
-| **2008.01.23** | Nikkei ITpro | Opening of Dalian embedded software development center |
-| **2010.04.16** | ITmedia | FENCE-Mail For Gateway release |
-| **2011.08.16** | ZDNet Japan | Solar Cubic LED lantern launch |
-| **2011.11.07** | ZDNet Japan | Solar Cubic sales milestone (5,000 units) |
+| **2005-2007** | [Weekly BCN](https://bcnretail.com/) | Embedded software revenue growth, FENCE product releases |
+| **2008.01.23** | [Nikkei ITpro](https://tech.nikkei.co.jp/) | Opening of Dalian embedded software development center |
+| **2010.04.16** | [ITmedia](https://www.itmedia.co.jp/) | FENCE-Mail For Gateway release |
+| **2011.08.16** | [ZDNet Japan](https://japan.zdnet.com/) | Solar Cubic LED lantern launch |
+| **2011.11.07** | [ZDNet Japan](https://japan.zdnet.com/) | Solar Cubic sales milestone (5,000 units) |
 | **2017.02.08** | Scan NetSecurity | FENCE-Mobile RemoteManager Android for Work support |
 | **2017.03.07** | Nikkei | FENCE-Pro V8 ransomware/targeted attack countermeasures |
 | **2017.10.26** | Nikkei | Stock swap making BSC wholly-owned Fujitsu subsidiary |

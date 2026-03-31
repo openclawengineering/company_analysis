@@ -230,9 +230,9 @@ The company name "Sanai" (三愛) derives from three core principles:
 
 ### Online Presence
 - Listed on major business databases:
-  - BaseConnect (company database)
+  - [BaseConnect](https://baseconnect.in/) (company database)
   - CareerMap (recruitment information)
-  - Mynavi Job (new graduate recruitment)
+  - [Mynavi](https://tenshoku.mynavi.jp/) Job (new graduate recruitment)
   - Engage (business information platform)
   - Third-party verification industry directories
 

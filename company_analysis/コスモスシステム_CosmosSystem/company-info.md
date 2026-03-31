@@ -258,9 +258,9 @@ The company pursues three core principles:
 
 ### Recruitment Platforms:
 - Active presence on:
-  - マイナビ (Mynavi) - Listed as "(株)コスモスシステム【旧社名：(株)コスモス】"
+  - [マイナビ転職](https://tenshoku.mynavi.jp/) - Listed as "(株)コスモスシステム【旧社名：(株)コスモス】"
   - en-gage.net - Career information page
-  - paiza - IT engineer recruitment
+  - [paiza](https://paiza.jp/) - IT engineer recruitment
 
 ### Online Mentions:
 - Listed in various IT company databases and recruitment sites

@@ -234,13 +234,13 @@ DX推進向けソリューションシリーズ
 - **WAP、「Partner Conference 2026」を開催**
 
 #### 2025年
-- **ZDNet Japan**: 「ワークスアプリケーションズ、再建を経て成長軌道へ--『WAP Forward 2.0』で挑む新たな事業戦略」
+- [ZDNet Japan](https://japan.zdnet.com/): 「ワークスアプリケーションズ、再建を経て成長軌道へ--『WAP Forward 2.0』で挑む新たな事業戦略」
   - 経営危機を乗り越え、新たな成長フェーズに入ったことを報道
   - 2022～2025年の新規ライセンス売上の累積成長率は79%（約5.7倍）
   - 2023年以降、営業利益が黒字化
 
 #### 2024年7月
-- **ITmedia**: 「ERP『HUE』がMicrosoft Copilotと連携、会計データを利用して回答生成」
+- **[ITmedia](https://www.itmedia.co.jp/):** 「ERP『HUE』がMicrosoft Copilotと連携、会計データを利用して回答生成」
   - AIアシスタントとの連携機能を追加
 
 #### 2024年12月

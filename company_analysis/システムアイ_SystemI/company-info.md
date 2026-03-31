@@ -196,7 +196,7 @@
 ### Newspaper Coverage
 | Date | Publication |
 |------|-------------|
-| 2023.9.1 | 日本経済新聞 (Nikkei) |
+| 2023.9.1 | [日本経済新聞 (Nikkei)](https://www.nikkei.com/) |
 | 2023.10.23 | 神奈川新聞 |
 | 2023.12.26 | 東洋経済オンライン |
 | 2024.1.11 | 朝日新聞 |
@@ -222,7 +222,7 @@
 | 2026.1.14 | 朝日新聞 |
 
 ### Web/Media Coverage
-- IT media, マイナビニュース (2023.2.24)
+- IT media, [マイナビ転職](https://tenshoku.mynavi.jp/)ニュース (2023.2.24)
 - kanaloco.jp - バンドマン採用 coverage
 - Note.com - Tech Dive article on unique recruitment
 

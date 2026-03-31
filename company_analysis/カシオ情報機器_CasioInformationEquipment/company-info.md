@@ -101,7 +101,7 @@ Based on the business fields provided:
 **Search Status:** Unable to perform web search due to API limitations.
 
 **Potential Sources to Check:**
-- Japanese business news databases (Nikkei, Toyokeizai)
+- Japanese business news databases: [Nikkei](https://www.nikkei.com/), [Toyo Keizai](https://toyokeizai.net/)
 - Industry publications covering IT/software development
 - Regional Yokohama business directories
 - Historical Casio Group announcements

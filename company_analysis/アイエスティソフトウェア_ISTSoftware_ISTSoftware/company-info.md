@@ -278,7 +278,7 @@
 
 ### Industry Recognition
 - Listed on STARTUP DB as notable startup company
-- Featured on major Japanese job search platforms: Mynavi, Career Tasu, Doda, Openwork
+- Featured on major Japanese job search platforms: [Mynavi](https://tenshoku.mynavi.jp/), [Career Tasu](https://career-tasu.jp/), [Doda](https://doda.jp/), [OpenWork](https://www.vorkers.com/)
 - Regular participant in Kanagawa Information Services Industry Association (KIA) events and job fairs
 
 ---

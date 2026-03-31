@@ -161,10 +161,10 @@ From the company's recruitment message:
 Based on web research, the company appears primarily in:
 
 1. **Recruitment/Career Platforms**
-   - doda (転職・企業概要)
+   - [doda](https://doda.jp/) (転職・企業概要)
    - Levtech Career
-   - Mynavi Scouting
-   - OpenWork (社員クチコミ)
+   - [Mynavi](https://tenshoku.mynavi.jp/) Scouting
+   - [OpenWork](https://www.vorkers.com/) (社員クチコミ)
    - Geekly
 
 2. **Business Directories**

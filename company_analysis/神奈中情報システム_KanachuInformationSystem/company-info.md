@@ -266,11 +266,11 @@
   - Distributed monthly to stakeholders
   - Back numbers available on company website
 - **Recruitment Platforms:** Active presence on major job sites including:
-  - マイナビ (Mynavi)
-  - doda
+  - [マイナビ (Mynavi)](https://tenshoku.mynavi.jp/)
+  - [doda](https://doda.jp/)
   - リクルートエージェント (Recruit Agent)
   - 就活会議 (Shukatsu Kaigi)
-  - OpenWork
+  - [OpenWork](https://www.vorkers.com/)
 
 ### Industry Recognition
 - Featured in industry publications and transportation-related media

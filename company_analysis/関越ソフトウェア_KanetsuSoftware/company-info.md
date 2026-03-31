@@ -216,12 +216,12 @@ Oracle Database, SQL Server, MySQL, PostgreSQL, IBM DB2, FileMaker, SQLite
 - **Ministry of Health, Labour and Welfare (神奈川労働局)** - The company was subject to guidance regarding disability employment initiatives (2005-2009 period), demonstrating government oversight and compliance with employment regulations.
 
 ### Industry Recognition
-- Listed on **NIKKEI COMPASS** (日経テレコン) - Nikkei's corporate database
-- Listed on **Baseconnect** - Business database service
-- Listed on **OpenWork** - Employee review platform for job seekers
+- Listed on **[NIKKEI COMPASS](https://www.nikkei.co.jp/)** (日経テレコン) - Nikkei's corporate database
+- Listed on **[Baseconnect](https://baseconnect.in/)** - Business database service
+- Listed on **[OpenWork](https://www.vorkers.com/)** - Employee review platform for job seekers
 
 ### Recruitment Presence
-- Active on **Mynavi 2027** - Major Japanese recruitment platform for new graduates
+- Active on **[Mynavi](https://job.mynavi.jp/) 2027** - Major Japanese recruitment platform for new graduates
 - Conducts both new graduate (新卒) and mid-career (中途) recruitment
 
 ---

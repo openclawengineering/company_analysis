@@ -284,9 +284,9 @@
 
 #### Recruitment Coverage
 - Multiple Japanese recruitment sites feature Polygon Magic:
-  - **doda:** Employee count ~136, capital 325 million yen
+  - **[doda](https://doda.jp/):** Employee count ~136, capital 325 million yen
   - **Geekly:** Featured as IT/game development employer
-  - **Mynavi 2027:** New graduate recruitment information
+  - **[Mynavi 2027](https://job.mynavi.jp/):** New graduate recruitment information
   - **Wantedly:** Corporate culture articles and recruitment posts
 
 #### Cultural Content Success
