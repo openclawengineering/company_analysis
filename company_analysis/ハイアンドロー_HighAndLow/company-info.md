@@ -94,10 +94,10 @@
 
 | Source | Date | Topic |
 |--------|------|-------|
-| **神奈川県中小企業団体中央会** | 2015 | Selected for Heisei 27 Fiscal Year Supplementary Budget "Manufacturing/Business Development Support Subsidy" |
-| **企業INDEXナビ** | Ongoing | Corporate registry information |
-| **Baseconnect** | Updated 2024-06-18 | Business database listing |
-| **gBizINFO (経済産業省)** | Updated 2025-12-05 | Government business information portal |
+| [神奈川県中小企業団体中央会](https://www.kanaso-chuou.com/) | 2015 | Selected for Heisei 27 Fiscal Year Supplementary Budget "Manufacturing/Business Development Support Subsidy" |
+| [企業INDEXナビ](https://index-nabi.com/) | Ongoing | Corporate registry information |
+| [Baseconnect](https://baseconnect.in/) | Updated 2024-06-18 | Business database listing |
+| [gBizINFO (経済産業省)](https://info.gbiz.go.jp/) | Updated 2025-12-05 | Government business information portal |
 
 ### Notable Media Coverage
 - **No major news media coverage found** - The company appears to operate primarily in the B2B space with limited public media presence

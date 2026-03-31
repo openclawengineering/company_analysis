@@ -229,7 +229,7 @@ The Infocom Group is committed to:
 #### Blackstone Acquisition (June-October 2024)
 - **June 18, 2024:** Blackstone announced Tender Offer (TOB) for Infocom at ¥6,060 per share
 - **Total Acquisition Value:** Approximately ¥275.7 billion (Blackstone's largest acquisition in Japan)
-- **Coverage:** Bloomberg, Nikkei, Nikkan Kogyo Shimbun, and major financial media
+- **Coverage:** [Bloomberg](https://www.bloomberg.co.jp/), [Nikkei](https://www.nikkei.com/), [Nikkan Kogyo Shimbun](https://www.nikkan.co.jp/), and major financial media
 - **Reason:** Restructuring by parent company Teijin, which sold its "dutiful subsidiary" Infocom
 - **October 15, 2024:** Final trading day on Tokyo Stock Exchange
 - **October 16, 2024:** Delisted after 20+ years as a public company

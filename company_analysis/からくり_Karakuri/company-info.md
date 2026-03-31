@@ -188,12 +188,12 @@ Reference is made to the 1796 mechanical engineering book "機巧図彙" (Karaku
 
 | Source | Type | Description |
 |--------|------|-------------|
-| **hnavi.co.jp** | Industry Article | Listed in "PostgreSQLの開発が得意なシステム開発会社12社【2026年版】" (12 PostgreSQL Development Companies) |
-| **houjin.jp** | Corporate Database | Listed in 全国法人リスト (National Corporation List) with full corporate details |
-| **OpenWork** | Company Review | Employee reviews and job listings |
-| **Indeed Japan** | Job Board | IT Engineer job postings highlighting company's tech stack |
-| **マイナビ転職 (Mynavi Tenshoku)** | Job Board | Company profile for mid-career recruitment |
-| **ユーソナー (Usonar)** | B2B Directory | Listed as providing business system development, mobile systems, IoT systems |
+| [hnavi.co.jp](https://employ.hnavi.co.jp/) | Industry Article | Listed in "PostgreSQLの開発が得意なシステム開発会社12社【2026年版】" (12 PostgreSQL Development Companies) |
+| [houjin.jp](https://houjin.jp/) | Corporate Database | Listed in 全国法人リスト (National Corporation List) with full corporate details |
+| [OpenWork](https://www.vorkers.com/) | Company Review | Employee reviews and job listings |
+| [Indeed Japan](https://jp.indeed.com/) | Job Board | IT Engineer job postings highlighting company's tech stack |
+| [マイナビ転職 (Mynavi Tenshoku)](https://tenshoku.mynavi.jp/) | Job Board | Company profile for mid-career recruitment |
+| [ユーソナー (Usonar)](https://www.usonar.jp/) | B2B Directory | Listed as providing business system development, mobile systems, IoT systems |
 
 ### News & Announcements
 - **Office relocation announcements** (2022, 2024) - Published on company website

@@ -136,7 +136,7 @@ For accurate philosophy and culture information, please refer to the company's o
 - "NEC Solution Innovators" (English)
 - "NECグループ" + "ソフトウェア開発"
 - Check Japanese tech news sites:
-  - ITmedia
+  - [ITmedia](https://www.itmedia.co.jp/)
   - @IT
   - 日経XTREND
   - CIO Japan

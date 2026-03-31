@@ -221,7 +221,7 @@ Based on web searches conducted, **limited independent media coverage** was foun
 |-------------|---------|
 | **Company Website** | https://www.oitechno.co.jp/ - Official company information, services, and case studies |
 | **Business Directories** | Baseconnect, Buffett Code, Doda - Basic company profiles and financial data |
-| **Employee Reviews** | En-hyouban (エン カイシャ) - Employee reviews and company ratings |
+| [Employee Reviews (En-hyouban)](https://en-hyouban.com/) | En-hyouban (エン カイシャ) - Employee reviews and company ratings |
 
 ### Employee Review Insights (from En-hyouban)
 - Company growth potential: 3.4/5

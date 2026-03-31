@@ -155,10 +155,10 @@
 
 ### Web上の情報
 
-- **doda（求人サイト）**: 中途採用情報が掲載
+- **[doda](https://doda.jp/)**: 中途採用情報が掲載
   - URL: https://doda.jp/DodaFront/View/CompanyJobs/j_id__10038406192/
   
-- **マイナビ2026**: 新卒採用情報が掲載
+- **[マイナビ転職](https://tenshoku.mynavi.jp/)**: 新卒採用情報が掲載
   - URL: https://job.mynavi.jp/26/pc/search/corp254828/outline.html
   
 - **転職ならtype**: 企業取材記事

@@ -206,7 +206,7 @@ Based on web searches and publicly available information:
 
 1. **Company Database Listings:**
    - Listed on BaseConnect company database (baseconnect.in)
-   - Listed on OpenWork employee review platform (openwork.jp)
+   - Listed on [OpenWork](https://www.vorkers.com/) employee review platform
    - Listed on various Japanese business directories
 
 2. **Certification Announcements (from company website):**

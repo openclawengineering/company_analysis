@@ -110,7 +110,7 @@ Due to technical limitations (Brave Search API subscription issue and the compan
 
 **Recommendation:** 
 For complete media coverage analysis, additional research through the following sources is recommended:
-- Japanese business news databases (Nikkei, Toyo Keizai)
+- Japanese business news databases: [Nikkei](https://www.nikkei.com/), [Toyo Keizai](https://toyokeizai.net/)
 - Press release archives
 - Company's own press releases and news section (if available on website)
 - Industry publications in software/IT sectors

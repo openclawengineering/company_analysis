@@ -182,14 +182,14 @@ The company believes that both problems and conveniences in society often become
 
 | Source | Type | Details |
 |--------|------|---------|
-| **日本経済新聞 (Nikkei)** | Business Directory | Listed in Nikkei Compass company database |
-| **マイナビ転職 (Mynavi)** | Recruitment Platform | Company profile and job listings |
-| **doda** | Recruitment Platform | Company overview and recruitment info |
-| **Paiza** | Engineer Recruitment | Engineer hiring information |
-| **Green** | Career Platform | Mid-career recruitment listings |
-| **ワンキャリア (One Career)** | New Graduate Platform | New graduate recruitment info |
-| **バフェット・コード (Buffett Code)** | Business Database | Corporate financial data |
-| **エン カイシャの評判** | Company Reviews | Employee reviews (3.3/5 rating) |
+| [日本経済新聞 (Nikkei)](https://www.nikkei.com/) | Business Directory | Listed in Nikkei Compass company database |
+| [マイナビ転職 (Mynavi)](https://tenshoku.mynavi.jp/) | Recruitment Platform | Company profile and job listings |
+| [doda](https://doda.jp/) | Recruitment Platform | Company overview and recruitment info |
+| [Paiza](https://paiza.jp/) | Engineer Recruitment | Engineer hiring information |
+| [Green](https://www.green-japan.com/) | Career Platform | Mid-career recruitment listings |
+| [ワンキャリア (One Career)](https://www.onecareer.jp/) | New Graduate Platform | New graduate recruitment info |
+| [バフェット・コード (Buffett Code)](https://www.buffett-code.com/) | Business Database | Corporate financial data |
+| [エン カイシャの評判](https://en-hyouban.com/) | Company Reviews | Employee reviews (3.3/5 rating) |
 
 ### Self-Published Media
 - **ORTHOS Blog** (http://blog.orthos.co.jp/) - Active company blog covering:

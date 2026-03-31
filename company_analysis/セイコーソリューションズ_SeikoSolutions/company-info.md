@@ -262,20 +262,20 @@ The company focuses on:
 ### Recent Media Coverage (2024-2026)
 
 #### 2026
-- **日刊自動車新聞** - New Mobility+ vehicle management system coverage
+- **[日刊自動車新聞](https://www.nikkanjidosha.jp/)** - New Mobility+ vehicle management system coverage
 - **C.R.E.S. PARTNERS MAGAZINE** (創刊号) - Feature article on President Jun Sekine regarding business succession
-- **日刊工業新聞** - Article on Seiko Solutions Group's diversity and multi-business growth strategy
-- **日刊工業新聞** - Coverage of INFRONT Inc. M&A
+- **[日刊工業新聞](https://www.nikkan.co.jp/)** - Article on Seiko Solutions Group's diversity and multi-business growth strategy
+- **[日刊工業新聞](https://www.nikkan.co.jp/)** - Coverage of INFRONT Inc. M&A
 
 #### 2025
-- **日経ビジネス** - Serial advertising article series launched
+- **[日経ビジネス](https://business.nikkei.com/)** - Serial advertising article series launched
 - **Seiko Corporate CM** - "心を動かすソリューション" (Moving hearts through solutions) released
 - **Seiko Sustainable Story** - Multiple interview features:
   - High-precision time synchronization systems
   - Vehicle management system Mobility+
   - CSM Solutions' delivery monitoring system "emona"
   - Tokaido Shinkansen mobile order service project
-- **PRONEWS** - Interview article on time synchronization technology
+- **[PRONEWS](https://www.pronews.jp/)** - Interview article on time synchronization technology
 - **テレビ東京「知られざるガリバー」** - TV feature (June 2024)
 
 ### Awards & Recognition

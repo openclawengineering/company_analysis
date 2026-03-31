@@ -180,7 +180,7 @@ Since its founding in 1979, Kyoritsu System Development has consistently upheld 
    - Expanded business scope to include staffing services
 
 ### Web Presence
-- Listed on major Japanese recruitment platforms (Mynavi, Career Map, Doda, En Kisha)
+- Listed on major Japanese recruitment platforms: [Mynavi](https://tenshoku.mynavi.jp/), [Career Map](https://career-map.jp/), [Doda](https://doda.jp/), [En Kisha](https://en-hyouban.com/)
 - Registered on G-Biz Info (government business registry)
 - Featured in regional business directories for Kanagawa/Kawasaki area
 
