@@ -25,7 +25,7 @@
 - Full Address: 神奈川県川崎市多摩区登戸268-1 第6アバコビル4F
 - Building: 第6アバコビル6th Floor
 
-**Website:** https://www.viking-technology.co.jp/ (inactive domain)
+**Website:**
 - https://www.viking-technology.co.jp/
 - Status: ⚠️ NOT ACCESSIBLE (DNS error/NXDOMAIN - website may be inactive or changed)
 
