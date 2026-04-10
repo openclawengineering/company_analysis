@@ -115,7 +115,7 @@ The following companies have similar names but are **different entities**:
 
 1. **日本リスクマネージメントサービス株式会社 (Japan Risk Management Services Inc.)**
    - Location: Sapporo, Hokkaido
-   - Website: https://www.riskmng.co.jp/company/detail.html
+   - Website: j-rms.co.jp
    - Services: Anti-social organization checks, reference checks
 
 2. **株式会社日本リスクマネージメント (Japan Risk Management Inc.)**

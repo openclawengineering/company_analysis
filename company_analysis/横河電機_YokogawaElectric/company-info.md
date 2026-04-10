@@ -14,7 +14,7 @@
 **Headquarters:**  
 Tokyo, Japan
 
-**Website:** https://www.yokogawa.com/jp/
+**Website:**  
 - Japanese: https://www.yokogawa.co.jp/  
 - English: https://www.yokogawa.com/
 
