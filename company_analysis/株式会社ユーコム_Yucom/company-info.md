@@ -1,39 +1,57 @@
 # 株式会社ユーコム (Yucom Co., Ltd.)
 
 ## Overview
-株式会社ユーコムはPHP、JavaScriptなどのサーバー言語やdbMagicでの高速開発を得意とするITベンダー。自社開発製品等の販売や開発を行い顧客満足度の高い製品をご提供している。
+
+Yucom Co., Ltd. is an IT vendor specializing in server-side development with PHP and JavaScript, as well as high-speed development using dbMagic. The company develops and sells proprietary products with a focus on high customer satisfaction.
+
+**Website:** https://www.yucom.co.jp/
 
 ## History
-詳細な沿革は公開されていない
 
-## Capital
-非公開
+Detailed corporate history is not publicly available.
 
-## Services
-### 自社製品
-- **mgGChart** - ガントチャートコンポーネント（Magic Xpa対応）
-- **YCM宅配システム TKS-UP4** - 宅配・仕出弁当業務向けシステム
-- **生産管理システム** - 製造業向け生産管理
+## Capital & Employees
 
-### 開発サービス
-- PHP、JavaScript サーバーサイド開発
-- dbMagic 高速開発
-- ガントチャート表示コンポーネント
+Undisclosed
+
+## Products & Services
+
+### Proprietary Products
+- **mgGChart** - Gantt chart component (compatible with Magic Xpa)
+- **YCM Delivery System TKS-UP4** - System for delivery and catering businesses
+- **Production Management System** - Manufacturing industry production management
+
+### Development Services
+- PHP and JavaScript server-side development
+- dbMagic high-speed development
+- Gantt chart display components
 
 ## Clients
-- 宅配業者
-- 仕出弁当製造業者
-- 製造業
+
+- Delivery service companies
+- Catering/boxed lunch manufacturers
+- Manufacturing companies
 
 ## Philosophy
-顧客満足度の高い製品をご提供
 
-## Contact
-- **URL:** https://www.yucom.co.jp/
+Providing products with high customer satisfaction
 
 ## Certifications
-消費税軽減税率制度（インボイス制度）対応
+
+- Invoice System (Consumption Tax Reduced Rate System) compliant
 
 ## Media Mentions
-- [ガントチャートコンポーネント MagicXpa4Plus対応](https://www.yucom.co.jp/mgGChart/index.php)
-- [宅配システム情報](https://www.yucom.co.jp/seisanKanri/index.php)
+
+- [Gantt Chart Component - Magic Xpa 4 Plus Compatible](https://www.yucom.co.jp/mgGChart/index.php)
+- [Delivery System Information](https://www.yucom.co.jp/seisanKanri/index.php)
+
+## Notes
+
+- KIA member company
+- Specializes in Magic Xpa development ecosystem
+- Strong vertical solutions for delivery and manufacturing sectors
+- Proprietary product portfolio
+
+---
+
+*Report generated: April 2026*
