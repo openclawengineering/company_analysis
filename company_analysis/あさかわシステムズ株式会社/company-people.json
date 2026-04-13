@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name_jp": "あさかわシステムズ株式会社",
+    "name_en": "あさかわシステムズ",
+    "website": "https://www.a-sk.co.jp/company/outline/"
+  },
+  "people": [
+    {
+      "name": "メッセージ",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三宅",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": "https://x.com/m3_myk",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "(非常勤)",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/hyumanase",
+      "twitter": "https://x.com/search?lang=bn&src=hashtag_click&q=%23%E9%9D%9E%E5%B8%B8%E5%8B%A4",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/yamagemoto",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "昼馬",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/shinowagama",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "芝﨑",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "執行役員",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "社長",
+      "title": "企業情報TOP",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "安幸",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "メッセージ",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三宅",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": "https://x.com/m3_myk",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "(非常勤)",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/hyumanase",
+      "twitter": "https://x.com/search?lang=bn&src=hashtag_click&q=%23%E9%9D%9E%E5%B8%B8%E5%8B%A4",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/yamagemoto",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "昼馬",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/shinowagama",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

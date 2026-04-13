@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社総合企画",
+    "name_en": "総合企画",
+    "website": "https://www.sogokikaku.co.jp/company/"
+  },
+  "people": [
+    {
+      "name": "三瓶",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E7%99%BE%E6%81%B5-%E4%B8%89%E7%93%B6-b63512309",
+      "twitter": "https://x.com/3paypaypay",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "ていく所存でございます。",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "三瓶",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E7%99%BE%E6%81%B5-%E4%B8%89%E7%93%B6-b63512309",
+      "twitter": "https://x.com/3paypaypay",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

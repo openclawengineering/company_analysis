@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name_jp": "株式会社ヒューマニクス",
+    "name_en": "ヒューマニクス",
+    "website": "https://v-news.co.jp/company/"
+  },
+  "people": [
+    {
+      "name": "中村和雄",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": "https://x.com/search?q=%23%E4%B8%AD%E6%9D%91%E5%92%8C%E9%9B%84&src=hashtag_click&f=media",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "中村和雄",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": "https://x.com/search?q=%23%E4%B8%AD%E6%9D%91%E5%92%8C%E9%9B%84&src=hashtag_click&f=media",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

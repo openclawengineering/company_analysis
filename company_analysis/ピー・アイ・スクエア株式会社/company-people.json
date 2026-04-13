@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "ピー・アイ・スクエア株式会社",
+    "name_en": "ピー・アイ・スクエア",
+    "website": "https://www.ikesai.com/db/10490.html"
+  },
+  "people": [
+    {
+      "name": "守屋光博",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E5%8F%8B%E5%8D%9A-%E5%AE%88%E5%B1%8B-5a2678226",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "のためのウェブデザイン",
+      "title": "デザイナー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "守屋光博",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E5%8F%8B%E5%8D%9A-%E5%AE%88%E5%B1%8B-5a2678226",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

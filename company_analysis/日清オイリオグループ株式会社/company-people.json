@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "日清オイリオグループ株式会社",
+    "name_en": "日清オイリオグループ",
+    "website": "https://www.nisshin-oillio.com/company/corporate/outline/"
+  },
+  "people": [
+    {
+      "name": "メッセージ",
+      "title": "部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E7%A0%94%E4%B8%80-%E7%9F%B3%E5%B7%9D-9985461b7",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E7%A0%94%E4%B8%80-%E7%9F%B3%E5%B7%9D-9985461b7",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

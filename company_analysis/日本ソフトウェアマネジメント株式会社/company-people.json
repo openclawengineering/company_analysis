@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "日本ソフトウェアマネジメント株式会社",
+    "name_en": "日本ソフトウェアマネジメント",
+    "website": "https://www.jt-tsushin.jp/companies/jsm"
+  },
+  "people": [
+    {
+      "name": "石野",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/kousukeishino",
+      "twitter": "https://x.com/kaimona0603",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "代表者名",
+      "linkedin": "https://jp.linkedin.com/in/%E8%AA%A0-%E4%BC%8A%E8%97%A4-5619b874",
+      "twitter": "https://x.com/hashtag/%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9?src=hashtag_click",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "石野",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/kousukeishino",
+      "twitter": "https://x.com/kaimona0603",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "代表者名",
+      "linkedin": "https://jp.linkedin.com/in/%E8%AA%A0-%E4%BC%8A%E8%97%A4-5619b874",
+      "twitter": "https://x.com/hashtag/%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9?src=hashtag_click",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

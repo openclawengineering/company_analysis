@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name_jp": "株式会社SOLUMINA",
+    "name_en": "SOLUMINA",
+    "website": "https://solumina.co.jp/about/"
+  },
+  "people": [
+    {
+      "name": "リング",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田中",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E3%81%BF%E3%81%AA%E3%81%BF-%E7%94%B0%E4%B8%AD-542a40213",
+      "twitter": "https://x.com/TanakaDiplomat?lang=ja",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "専務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "技術統括管理部長",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E9%9B%85%E5%BC%98-%E6%B1%A0%E7%94%B0-3159701b0",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "研修",
+      "title": "リーダー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "member",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "田中",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E3%81%BF%E3%81%AA%E3%81%BF-%E7%94%B0%E4%B8%AD-542a40213",
+      "twitter": "https://x.com/TanakaDiplomat?lang=ja",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "技術統括管理部長",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E9%9B%85%E5%BC%98-%E6%B1%A0%E7%94%B0-3159701b0",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

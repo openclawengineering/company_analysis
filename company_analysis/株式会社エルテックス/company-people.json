@@ -1,0 +1,124 @@
+{
+  "company": {
+    "name_jp": "株式会社エルテックス",
+    "name_en": "エルテックス",
+    "website": "https://e-eltex.co.jp/company/"
+  },
+  "people": [
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E5%85%AD%E8%A7%92-b07b7b1bb",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "（社長）",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E5%85%AD%E8%A7%92-b07b7b1bb",
+      "twitter": "https://x.com/shacho_meikan",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "常務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中村",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/kanna_nakamura",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "手塚",
+      "title": "取締役",
+      "linkedin": "https://www.linkedin.com/in/翔-手塚-4a6357b2/",
+      "twitter": "https://x.com/Takashi_Tez",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "尾﨑",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西岡",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "丹生田",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "永島",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "近藤",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E5%85%AD%E8%A7%92-b07b7b1bb",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "（社長）",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E5%85%AD%E8%A7%92-b07b7b1bb",
+      "twitter": "https://x.com/shacho_meikan",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中村",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/kanna_nakamura",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "手塚",
+      "title": "取締役",
+      "linkedin": "https://www.linkedin.com/in/翔-手塚-4a6357b2/",
+      "twitter": "https://x.com/Takashi_Tez",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

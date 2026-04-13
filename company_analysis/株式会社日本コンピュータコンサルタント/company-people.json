@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社日本コンピュータコンサルタント",
+    "name_en": "日本コンピュータコンサルタント",
+    "website": "https://www.n-c-c.co.jp/"
+  },
+  "people": [
+    {
+      "name": "95+",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "挨拶",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "社長",
+      "title": "会社案内",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "挨拶",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

@@ -1,0 +1,68 @@
+{
+  "company": {
+    "name_jp": "株式会社アローズ・システムズ",
+    "name_en": "アローズ・システムズ",
+    "website": "https://www.arrows-systems.co.jp/"
+  },
+  "people": [
+    {
+      "name": "メッセージ",
+      "title": "社長",
+      "linkedin": "https://jp.linkedin.com/in/masatoshi-yoshikawa-66179b11a",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "が当社の強みです",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "が必要",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/ryusuke-ohzeki-707709157",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "社長",
+      "title": "アクセスマップ",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "メッセージ",
+      "title": "社長",
+      "linkedin": "https://jp.linkedin.com/in/masatoshi-yoshikawa-66179b11a",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/ryusuke-ohzeki-707709157",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

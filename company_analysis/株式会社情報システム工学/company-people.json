@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name_jp": "株式会社情報システム工学",
+    "name_en": "情報システム工学",
+    "website": "https://ise-group.jp/recruit.html"
+  },
+  "people": [
+    {
+      "name": "になるのだろうか？",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "募集学科",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "（PM）",
+      "title": "マネージャー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "（PL）",
+      "title": "リーダー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "（SE）",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "の経験がある方",
+      "title": "リーダー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-04-10"
+}

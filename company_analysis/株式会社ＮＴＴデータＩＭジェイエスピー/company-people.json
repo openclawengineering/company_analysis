@@ -1,0 +1,84 @@
+{
+  "company": {
+    "name_jp": "株式会社ＮＴＴデータＩＭジェイエスピー",
+    "name_en": "ＮＴＴデータＩＭジェイエスピー",
+    "website": "https://www.jspnet.co.jp/company/"
+  },
+  "people": [
+    {
+      "name": "リングサービス",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "メッセージ",
+      "title": "社長",
+      "linkedin": "https://jp.linkedin.com/in/%E5%BD%B0%E5%85%B8-%E7%A8%B2%E7%94%B0-145bb3211",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平松淳",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/naoto-hiramatsu-1607b8133",
+      "twitter": "https://x.com/Hiramatz",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平松",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E7%A5%90%E5%AD%90-%E5%B9%B3%E6%9D%BE-5bb403170",
+      "twitter": "https://x.com/3to4hiramatsu",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "社長",
+      "title": "会社概要",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "データIMジェイエスピー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "メッセージ",
+      "title": "社長",
+      "linkedin": "https://jp.linkedin.com/in/%E5%BD%B0%E5%85%B8-%E7%A8%B2%E7%94%B0-145bb3211",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平松淳",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/naoto-hiramatsu-1607b8133",
+      "twitter": "https://x.com/Hiramatz",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平松",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E7%A5%90%E5%AD%90-%E5%B9%B3%E6%9D%BE-5bb403170",
+      "twitter": "https://x.com/3to4hiramatsu",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

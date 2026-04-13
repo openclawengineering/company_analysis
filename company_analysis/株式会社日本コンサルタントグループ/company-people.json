@@ -1,0 +1,68 @@
+{
+  "company": {
+    "name_jp": "株式会社日本コンサルタントグループ",
+    "name_en": "日本コンサルタントグループ",
+    "website": "https://www.niccon.co.jp/kigyoujouhou/kaisyagaiyou/"
+  },
+  "people": [
+    {
+      "name": "グループ",
+      "title": "コンサルタント",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "清水",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/junji-%E6%BD%A4%E6%AC%A1-shimizu-%E6%B8%85%E6%B0%B4-870949b5",
+      "twitter": "https://x.com/romanticttl",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "80名",
+      "title": "コンサルタント",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "リング協会",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "グループ（ニッコン）",
+      "title": "コンサルタント",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "代表",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "清水",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/junji-%E6%BD%A4%E6%AC%A1-shimizu-%E6%B8%85%E6%B0%B4-870949b5",
+      "twitter": "https://x.com/romanticttl",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

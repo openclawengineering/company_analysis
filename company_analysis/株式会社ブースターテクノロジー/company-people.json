@@ -1,0 +1,84 @@
+{
+  "company": {
+    "name_jp": "株式会社ブースターテクノロジー",
+    "name_en": "ブースターテクノロジー",
+    "website": "https://www.booster-technology.com/about"
+  },
+  "people": [
+    {
+      "name": "土屋達哉",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/tatsuya-tsuchiya-5847b2111",
+      "twitter": "https://x.com/ttdtqzlrplqs6iq",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "添野一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "認定基礎試験",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "ネットワーク",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "データベース",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "土屋達哉",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "土屋達哉",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/tatsuya-tsuchiya-5847b2111",
+      "twitter": "https://x.com/ttdtqzlrplqs6iq",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "添野一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}
