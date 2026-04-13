@@ -1,102 +1,102 @@
-# 株式会社ＮＢＥ (ＮＢＥ)
-## Company Analysis Report
+# 株式会社ＮＢＥ (NBE Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+NBE Co., Ltd. is an IT solutions company founded in April 1981, headquartered in Nishi-ku, Yokohama, Kanagawa. With 278 employees, capital of 50 million JPY, and annual revenue of 3.46 billion JPY (FY2026.3), the company provides information system planning, design, development, construction, auditing, and education services. NBE is a Platinum Partner of Hitachi Ltd. and holds system auditor registration with the Ministry of Economy, Trade and Industry.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社ＮＢＥ |
-| **English** | ＮＢＥ |
-| **Reading** | TBD |
+The company operates three offices in Yokohama (HQ), Tokyo, and Fukuoka.
 
----
+**Website:** https://nbe.co.jp/
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** 〒220-0011 横浜市西区高島2-13-2 横浜駅前共同ビル 5F TEL 045-461-2255
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 045
-- **Website:** https://nbe.co.jp/new-graduate/
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
+## History
 
 | Date | Event |
 |------|-------|
+| **April 1981** | Company founded (HQ in Naka-ku, Yokohama) |
+| **March 1984** | HQ relocated to Totsuka-ku, Yokohama |
+| **February 1987** | HQ relocated to Nishi-ku, Yokohama (Takajima 2-chome) |
+| **Present** | Expanded to Tokyo and Fukuoka offices |
 
----
+## Headquarters & Offices
 
-## 4. Capital and Employee Count
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Yokohama Station Front Building 5F, 2-13-2 Takashima, Nishi-ku, Yokohama, Kanagawa 220-0011 |
+| **HQ Phone** | 045-461-2255 |
+| **Tokyo Office** | SOC Takanawa Building 2F, 3-19-26 Takanawa, Minato-ku, Tokyo 108-0074 |
+| **Tokyo Phone** | 03-5422-7346 |
+| **Fukuoka Office** | Hakata Tsukushi-dori Center Building 3F, 2-1-9 Hakataekiminami, Hakata-ku, Fukuoka 812-0016 |
+| **Fukuoka Phone** | 092-686-8658 |
+
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金 (Capital)** | 5,000万円 |
-| **社員数 (Employees)** | 278名 |
-| **代表者 (Representative)** | &emsp;野上 |
+| **Capital** | 50,000,000 JPY |
+| **Revenue** | 3,460,000,000 JPY (FY2026.3) |
+| **Employees** | 278 |
+| **Representative** | Yuichiro Nogami, Representative Director & President |
+| **Directors** | Masato Sone (Director), Akita Kanno (Director) |
+| **Counsel** | Norio Miyagi |
+| **Dispatch License** | 派14-301643 |
 
----
+## Products & Services
 
-## 5. Products and Services
+### IT Solutions
+- Information system planning, design, development, construction, auditing, and education
+- Software and online services planning, development, and sales
 
-### Core Business Areas
-1. （許可番号：派 14-301643） 経済産業省 システム監査企業台帳登録 一般競争入札資格 認定事業者 株式会社日立製作所 プラチナパートナー 株式会社日立ソリューションズ プライムエクセルパートナ
-2. 株式会社日立情報通信エンジニアリング 株式会社日立ソリューションズ西日本 日鉄ソリューションズ株式会社 日鉄ソリューションズ東日本株式会社 株式会社ＳＩ＆Ｃ 株式会社ＤＴＳ イーソル株式会社 株式会社
-3. 内容 ITソリューション クラウドサービス 技術研修サービス リクルート 新卒採用 キャリア採用 企業活動 ニュース & ブログ 認証･受賞･資格 サステナビリティ ビジネスパートナー BP募集 --
-4. 内容 ITソリューション クラウドサービス 技術研修サービス リクルート 新卒採用 キャリア採用 企業活動 ニュース & ブログ 認証･受賞･資格 サステナビリティ ビジネスパートナー BP募集 企業
-5. 内容 情報システムの企画・設計・開発・構築・監査・教育 ソフトウェア・オンラインサービスの 企画・開発・販売 主要取引先 株式会社日立製作所 株式会社日立ソリューションズ 株式会社日立システムズ 株式
-6. 産業協会（JISA） 一般社団法人 神奈川県情報サービス産業協会（KIA） スマートコミュニティ・アライアンス（JSCA) 横浜商工会議所 公益社団法人 横浜中法人会 組織図 企業情報 社長挨拶 会社
+### Cloud Services
+- Cloud migration and managed cloud services
 
-### Business Description
-ITソリューション クラウドサービス 技術研修サービス リクルート 新卒採用 キャリア採用 企業活動 ニュース & ブログ 認証･受賞･資格 サステナビリティ ビジネスパートナー BP募集 企業情報 会社概要 Company Profile 社名 株式会社 NBE 所在地 ■本社 〒220-0011 神奈川県横浜市西区高島2丁目13番2号 横浜駅前共同ビル 5F TEL：045-461-2255 / FAX：045-461-2020 ■東京オフィス 〒108-0074 東京都港区高輪3丁目19番26号 SOC高輪ビル 2F TEL：03-5422-7346 / FAX：03-5422-7347 ■福岡オフィス 〒812-0016 福岡県福岡市博多区博多駅南2丁目1番9号 博多筑紫通りセンタービル 3F TEL：092-686-8658 設立 1981年4月 資本金 5,000万円 代表者 代表取締役社長&emsp;野上 祐一郎 役員 取締役&emsp;曽根 真人 取締役&emsp;菅野 暁太 顧&emsp;問&emsp;宮城 憲男 売上高 34.6億円（2026年3月期） 従業員数 2
----
+### Technical Training Services
+- IT skills development and certification training
 
-## 6. Key Clients and Industries Served
+## Certifications & Qualifications
+- Ministry of Economy, Trade and Industry — System Auditor Registry
+- General Competitive Bidding Qualification — Certified Business Operator
+- Hitachi Ltd. — Platinum Partner
+- Hitachi Solutions — Prime Excel Partner
 
-- Information Technology
-- System Development
-- Software Solutions
+## Key Clients
 
----
+Hitachi Ltd., Hitachi Solutions, Hitachi Systems, Hitachi Information & Telecommunication Engineering, Hitachi Solutions West Japan, Nippon Steel Solutions, Nippon Steel Solutions East Japan, SI&C, DTS, eSol, and other major enterprises.
 
-## 7. Company Philosophy and Culture
+## Memberships
 
-TBD - Additional research needed.
----
+- Japan Information Technology Services Industry Association (JISA)
+- Kanagawa Information Services Industry Association (KIA)
+- Smart Community Alliance (JSCA)
+- Yokohama Chamber of Commerce and Industry
+- Yokohama Naka Corporate Association
 
-## 8. Media Mentions
+## Philosophy
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社NBE 会社概要と採用情報](https://engineer-shukatu.jp/company-10476/) | Web | 幅広い事業領域と技術領域の広さが当社の強みです。会社に入社した後も持続的に成長ができるように、教育・評価制度を整備し社員のエンジニア人生を支援しています。 |
-| [(株)NBEの新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp106278/outline.html) | Web | 会社データ · 1981年 4月. 会社設立（本社：横浜市中区） · 1984年 3月. 横浜市戸塚区に本社移転 · 1987年 2月. 横浜市西区高島2丁目1 |
-| [株式会社NBE](https://www.careermap.jp/corporations/81018) | Web | ## NBEのスピリット. 先代社長の“日本を背負って立つ人を育成したい”という強い想いで創業しています。こうした時代にあっても、世の中における「物事の道理」は |
-| [株式会社NBEの評判・口コミ](https://en-hyouban.com/company/10005032506/) | Web | 株式会社NBEの総合評価は3.3点です（18人の正社員の回答）。株式会社NBEで働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判・口 |
-| [株式会社ＮＢＥの転職・企業概要 − 転職ならdoda（デューダ）](https://doda.jp/DodaFront/View/Company/j_id__10005032506/) | Web | あなたの登録情報（職種・勤務地など）と求人企業が設定した応募歓迎条件が合致すると求人に「マッチングしやすいおすすめ求人 ※1」と表示されることがあります。. あ |
-| [株式会社n.b.e: 名古屋市・中部エリア 愛知・岐阜・三重の美容 ...](https://nbe-japan.com/) | Web | # n.b.e. ## NEWS. DS vs THE ONE 2025 / UNDER25 結果発表. After Report 10.23TREND DES |
-| [NBEの企業データ](https://kosen-plus.com/company/97d4ba62-b99b-45de-bd47-7c9f7d963f48/info/) | Web | 基本情報 ; 220-0011 神奈川県横浜市西区高島2-13-2横浜駅前共同ビル5階 · 1981年4月 · 代表取締役社長 野上 祐一郎 · 5,000万円 |
+### NBE Spirit
+Founded with the strong aspiration of the founding president: "I want to develop people who can stand and support Japan." The company emphasizes the "principles of things" regardless of the era, supporting continuous career growth through education and evaluation systems.
 
----
+### Corporate Values
+- Broad business and technical domains as a competitive strength
+- Sustainable growth support for employees throughout their engineering careers
+- Wide-ranging technical expertise across multiple industries
 
-## 9. Summary
+## Media Mentions
 
-### Company Overview
-株式会社ＮＢＥ is a KIA member company based in Kanagawa Prefecture, Japan. Capital: 5,000万円. Employees: 278名.
+- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp106278/outline.html) - Detailed corporate history since 1981
+- [CareerMap](https://www.careermap.jp/corporations/81018) - "NBE Spirit: developing people who support Japan"
+- [En-Hyouban](https://en-hyouban.com/company/10005032506/) - Employee reviews (18 entries, rating: 3.3)
+- [doda](https://doda.jp/) - Mid-career recruitment
+- [Engineer Shukatsu](https://engineer-shukatsu.jp/) - "Broad business and technical domains as our strength"
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+## Notes
 
-### Business Model
-IT services and system development.
+- 45+ years of operation since 1981
+- One of the larger KIA members (278 employees, 3.46B JPY revenue)
+- Strong Hitachi ecosystem partnership (Platinum Partner)
+- Three offices across Yokohama, Tokyo, and Fukuoka
+- System auditor registered with METI
+- KIA member company
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
