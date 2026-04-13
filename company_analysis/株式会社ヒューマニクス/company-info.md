@@ -1,104 +1,90 @@
-# 株式会社ヒューマニクス (ヒューマニクス)
-## Company Analysis Report
+# 株式会社ヒューマニクス (Humanics Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Humanics Co., Ltd. is a venture support and IT services company founded in April 1991 in Koganei, Tokyo. With capital of 10 million JPY, the company operates three core businesses: startup support, entrepreneurship support, and global environmental restoration. The company has a unique history of facilitating Japan-China venture exchanges, including operating the NPO Asia Venture Village Promotion Organization in Kawasaki City for 12 years (2006-2017).
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社ヒューマニクス |
-| **English** | ヒューマニクス |
-| **Reading** | TBD |
+The company's corporate philosophy is based on the teachings of the late Takeo Shimojo (founder of NCD Nippon Computer Dynamics), emphasizing obedience to the laws of nature in business.
 
----
+**Website:** https://www.v-news.co.jp/
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** 〒184-0015 東京都小金井市貫井北町1-18-25 URL : https://www.v-news.co.jp お気軽にお問い合わせください。 お問い合
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://v-news.co.jp/company/
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
+## History
 
 | Date | Event |
 |------|-------|
-| **平成3年** | Company founded |
+| **April 1991** | Company founded by nine industry supporters |
+| **June 1991** | Launched "University Caravan" with R&D Enterprise Development Center support |
+| **February 1992** | Published "NEW PARA-BOOK" quarterly magazine |
+| **1993** | Opened "Japan-China Venture Business School"; established Japan-China Venture Exchange Promotion Center |
+| **1994 (March)** | Bubble economy collapse crisis |
+| **1999** | Entrusted with "Venture's World 99" job/entrepreneurship/M&A exhibition from VEC |
+| **2003 (March)** | Moved business base from Tokyo to Kawasaki City |
+| **2005 (February)** | Dissolved cooperative; established NPO Asia Venture Village Promotion Organization in Kawasaki |
+| **2006-2017** | Operated in Kawasaki City supporting corporate China market entry and Shanghai environmental exchange |
+| **2018 (January)** | 12-year Kawasaki City project ended; returned base to Tokyo |
+| **2020 (December)** | Dissolved Shanghai joint venture (Shanghai Yanghe Environmental Technology Co., Ltd.) |
+| **2021** | Second founding in 31st year; adopted Shimojo's teachings as corporate philosophy |
+| **July 2022** | Supported founding of VIZO Inc. (AI video recognition) |
 
----
+## Headquarters & Offices
 
-## 4. Capital and Employee Count
+| Location | Address |
+|----------|---------|
+| **Headquarters** | 1-18-25 Nukui-Kita-cho, Koganei, Tokyo 184-0015 |
+| **Representative** | Kazuo Nakamura |
+| **Website** | https://www.v-news.co.jp/ |
+
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金 (Capital)** | 1,000万円 |
-| **代表者 (Representative)** | される大企業を中心とした |
+| **Capital** | 10,000,000 JPY |
+| **Representative** | Kazuo Nakamura |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. 事業開始のお知らせ 2022-07-07 AI映像認識の革命児 VIZO株式会社 の創業支援 2022-01-28 友好団体・支援企業のリンク ●NPOアジア起業家村推進機構 ●株式会社チノー ●JC
-2. 「日中ベンチャービジネススクール」を開講。そのための受皿機関として日中ベンチャー交流促進センターを設立。（後に、事業協同組合法人に移行し、NPOアジア起業家村推進機構に組織変更） １９９４年３月 バブ
-3. の締結にこぎ着ける。 ２００５年２月 当社が運営してきた（事業協同組合）日中ベンチャー交流促進センターを発展的解散し、川崎市にNPOアジア起業家村推進機構を設立して事業を継承する。 ２００６～２０１７
-4. をしても良い、という発想を戒めています。 ●語録２，起業に向く人とは。 １，明るく元気で前向きな人（常にプラス発想の人） ２，七転び八起きができる人（転んでもただでは起きない。失敗しても立ち上がる。）
-5. が終了したことを契機に、活動拠点を東京（本社）に戻す。 ２０２０年１２月 上海との環境交流事業が一定の役割を果たしたとして、合弁会社の上海揚和環保技術有限公司を解散。 NEWS アーズ(株)のリロケー
-6. ）は矛盾する 自然は絶対である 大自然に例外はない だから僕は自然が好きだ そして大自然には完全に服従する ＊（ ）内は下條氏が後によく置き換えた言葉。大自然の法則に逆らった経営や事業とは、詐欺で人を
-7. として、川崎市に立地する企業群の中国市場進出支援や上海との環境交流事業（技術移転セミナー、各種シンポジュウム、ビジネスマッチング、行政機関の研修）を行う。 ２０１８年１月 １２年間にわたる川崎市からの
-8. 「Venture&#8217;s world 99」（就職・起業・業務提携・M&A総合展）をＶＥＣから受託して企画実施。 ２００３年３月 事業拠点を東京から川崎市に移転。川崎市臨海部を国際環境特区の認
+1. **Startup Support** - Supporting new venture creation and entrepreneurship
+2. **Entrepreneurship Support** - Business incubation, mentoring, and venture networking
+3. **Global Environmental Restoration** - Environmental technology exchange and sustainability initiatives
 
-### Business Description
-①創業支援 ②起業支援 ③地球環境再生 住所 〒184−0015 東京都小金井市貫井北町1-18-25 代表者 中村和雄 資本金 1,000万円 これまでの歩み １９９１年４月 下條武男氏（日本コンピュータ・ダイナミクス）、中上崇氏（エヴィック商会）、前田眞人氏（ゼステック）、國峯幸雄氏（ソフトウエア・アシスト）、石井孝利氏（日本電算機）、牧誠氏（メルコ）、根本和信氏（アルテックス）、高橋忠仁氏（PALTEK）、田中廣明氏（田中電子）の九氏経営者の支援の下に同社を設立。＊（ ）内は当時の社名 １９９１年6月 当時の（財）研究開発型企業育成センター（経産省外郭団体）の支援を得て「大学キャラバン」を実施。同時に“気的情報による会社選び”をコンセプトに、大学生のベンチャー企業への就職支援を柱とした「就職塾」を開講し、学生に“自分らしさ（個性）”を生かせる中小ベンチャー企業への入社を啓蒙。 １９９２年２月 ２１世紀へのビジネスパスポートマガジン「NEW・PARA-BOOK」（季刊誌）を（株）ニューパラダイム社の発行で発刊。２１世紀が求める企業の条件を示し、バブル経済に代表される大企業を中心とし
----
+### Historical Activities
+- Japan-China venture business school and exchange programs
+- Shanghai environmental technology exchange projects
+- Business matching between Japanese and Chinese companies
+- Administrative agency training programs
+- Technology transfer seminars and symposiums
 
-## 6. Key Clients and Industries Served
+## Philosophy
 
-- Information Technology
-- System Development
-- Software Solutions
+### Corporate Philosophy (adopted 2021, 31st year)
+Based on the teachings of Takeo Shimojo (NCD founder, 1931-2020):
 
----
+> "Nature is absolute. There are no exceptions in nature. That is why I love nature. And I completely submit to the great laws of nature."
+> "Management and business that goes against the laws of nature is fraud."
 
-## 7. Company Philosophy and Culture
+### Views on Entrepreneurship
+- People suited for entrepreneurship: bright, energetic, forward-thinking (always positive)
+- People who can rise after falling seven times (resilient)
+- Warning against the idea that "anything goes if it makes money"
 
-２０２０年６月２５日「巨星墜つ」の一報に接しました。 多くの起業家を育成支援し続け、当社を３０年以上にわたってを支え続けていただいた下條武男氏（ソフト業界の草分け的な企業であるＮＣＤ日本コンピュータ・ダイナミクス（株）の創業者。享年９０歳）が故人となった日です。 当社には、これまで経営理念というものはありませんでしたが、３１年目（２０２１年）の第二創業にあたり、もういちど原点に戻り、下條氏の語録を借りて経営理念とします。 ●語録１、「大自然の詩」 （1971年、ＮＣＤ創業期にアラビア石油のソフト開発の仕事で下條氏が灼熱の地カフジで奮闘する小黒専務を励ますために宛てた手紙より） 自然は絶対である
----
+## Media Mentions
 
-## 8. Media Mentions
+- [Baseconnect](https://baseconnect.in/) - Company overview: business system development and optical fiber sales
+- [HUMANIX Official](https://www.hmx.co.jp/) - System development company
+- [OpenWork](https://www.openwork.jp/) - Employee reviews for independent IT company
+- [doda](https://doda.jp/) - Mid-career recruitment (annual salary: 5-9 million JPY)
+- [Enterprise INDEX Navi](https://cnavi.g-search.or.jp/) - Corporate database entry
+- [iPros](https://www.ipros.com/) - Product/service listings
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社ヒューマニクス（東京都千代田区 / 未上場）の会社概要｜Baseconnect](https://baseconnect.in/companies/8e8489b4-492b-4909-93af-15fc3264f810) | Web | # 株式会社ヒューマニクス（東京都千代田区 / 未上場）. ## 業務システムや管理システムなどの開発や、光回線の販売を行う会社. ### 事業内容キーワード. |
-| [HOME｜株式会社ヒューマニクス](https://www.hmx.co.jp/) | Web | 弊社はシステム開発を中心にお客様のニーズに沿った技術を提供、提案する会社です。 お客様に満足いただけるサービスが提供できるようこれからも日々精進してまいり |
-| [ヒューマニクス 「社員クチコミ」 就職・転職の採用企業リサーチ OpenWork](https://www.openwork.jp/company.php?m_id=a0C2x000008wixp) | Web | # ヒューマニクスの採用　「就職・転職リサーチ」　＜社員のクチコミ情報・評判＞. ## 株式会社ヒューマニクス. システム開発を行う独立系IT企業。 サロン向け |
-| [株式会社ヒューマニクスの企業情報｜企業INDEXナビ](https://cnavi.g-search.or.jp/detail/8010001098182.html) | Web | 認定日 | 届出認定等 | 対象 | 部門 | 企業規模 | 府省 |. 認定日 | 補助金等 | 金額 | 対象 | 府省 | 備考 |. 年月日 | 表彰名 |
-| [ヒューマニクスの製品・サービス一覧](https://www.ipros.com/company/detail/2110722/category/) | Web | 住所東京都千代田区九段南3-5-3 九段サウスビル2F. 電話03-6261-6929 · 公式サイト. 最終更新日： 2023/09/26. 株式会社ヒューマ |
-| [HUMANIX](https://humanix.jp/) | Web | ## Cellomics TipnanoESI Off-line Emitters. （※）特許第5317983号 日本、アメリカ、ヨーロッパ、中国などで取得済 |
-| [株式会社ヒューマニクスの転職・企業概要](https://doda.jp/DodaFront/View/Company/j_id__10122740632/) | Web | ＜予定年収＞ 500万円～900万円＜賃金形態＞ 月給制補足事項なし＜賃金内訳＞ 月額（基本給）：300,000円～562,500円＜月給＞ 300,000円～ |
+## Notes
 
----
-
-## 9. Summary
-
-### Company Overview
-株式会社ヒューマニクス is a KIA member company based in Kanagawa Prefecture, Japan. Founded in 平成3年. Capital: 1,000万円. 
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Unique position bridging Japan-China venture ecosystems for 25+ years
+- Philosophy rooted in natural law and anti-fraud business practices
+- History of government-supported international exchange programs
+- Multiple companies share similar names (Humanics, HUMANIX) — may be different entities
+- 30+ years of continuous operation
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
