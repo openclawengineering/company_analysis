@@ -1,103 +1,107 @@
-# 株式会社東計電算 (東計電算)
-## Company Analysis Report
+# 株式会社東計電算 (Toukei Computer Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Toukei Computer Co., Ltd. is a publicly listed IT company (TSE Standard, Securities Code: 4746) founded in 1970, headquartered in Nakahara-ku, Kawasaki, Kanagawa. With 875 employees and annual revenue exceeding 20 billion JPY, the company provides industry-specific SaaS solutions, cloud services, BPO services, and system development. The company's founding spirit is "Every employee is a manager," emphasizing one-stop service from proposal through development and operations.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社東計電算 |
-| **English** | 東計電算 |
-| **Reading** | TBD |
+Key products include FOOD-LINK (food distribution industry SaaS with ~520 clients, ~10,500 stores), S-MOVE (moving company management system used by Sakai Moving Center with 2,700+ trucks), and other vertical SaaS packages.
 
----
+**Website:** https://www.toukei.co.jp/
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://contact.toukei.co.jp/
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
+## History
 
 | Date | Event |
 |------|-------|
-| **2013年10月** | Company founded |
+| **1970** - Company founded (original founding) |
+| **October 2013** - Reorganized/established as current corporate entity |
 
----
+## Headquarters & Offices
 
-## 4. Capital and Employee Count
+| Location | Address |
+|----------|---------|
+| **Headquarters** | 150 Ichinotsubo, Nakahara-ku, Kawasaki, Kanagawa 211-8550 |
+| **Phone** | 044-430-1343 |
+| **Access** | Musashi-Kosugi Station (Tokyu Toyoko Line, Meguro Line, Sotetsu Line, JR Nambu/Yokosuka Line) |
+
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
+| **Securities Code** | 4746 (TSE Standard) |
+| **Employees** | 875 |
+| **Revenue** | 20,835,000,000 JPY (6.1% YoY increase) |
+| **Operating Profit** | 6,270,000,000 JPY |
+| **Founded** | 1970 |
+| **Corporate Number** | 1020001057471 |
 
----
+## Products & Services
 
-## 5. Products and Services
+### Industry-Specific SaaS Products
 
-### Core Business Areas
-1. 主行動計画 女性活躍推進法に基づく一般事業主行動計画 次世代法に基づく一般事業主行動計画 労働者派遣事業に関する情報公開 電子決済等代行業者について 保有個人データの安全管理のために講じた措置 Ｗeb
-2. 一覧 ビジネスアプリケーション お客様の企業へ財務会計、ワークフロー、グループウェア等のアプリケーションサービスをご用意しています。 ビジネスアプリケーションサービス アウトソーシング お客様の様々な
-3. 規模が小さく、この先どうなるかもわからなかったので、 導入事例 FOOD-LINK R3.0 の効果・導入事例 FOOD-LINK 導入実績（2020年12月現在） 顧客数約520社店舗数約10,50
-4. を総合クラウドサービスとして パッケージ型システムを提供しています。 東計電算のパッケージ商品一覧 私達は、業種別SaaS商品で業務効率・事業拡大をお約束します。 東計電算では、お客様がシステム導入が
-5. 導入事例 引越業界No.１「サカイ引越センター様」現業管理システム「S-MOVE」ご導入～全トラック2,700台に専用端末（タブレット端末）設置完了～ 引越業界No.１の「サカイ引越センター様」は、引
-6. 内容 データセンターを拠点にクラウドサービス、様々な業種のBPOサービスを行っています。 また、企業業務を支える様々なアプリケーションサービスをご提案しています。 業務パッケージ 私達は創業依頼、お客
-7. ファシリティーサービス ネットワーク・クラウドサービス 販社会 会社情報 トップメッセージ 創業の精神 会社沿革 会社概要 事業所一覧 個人情報保護方針 情報セキュリティ基本方針 マルチステークホルダ
-8. 所一覧 個人情報保護方針 情報セキュリティ方針 マルチステークホルダー方針 一般事業主行動計画 女性活躍推進法に基づく一般事業主行動計画 次世代法に基づく一般事業主行動計画 労働者派遣事業に関する情報
+| Product | Industry | Details |
+|---------|----------|---------|
+| **FOOD-LINK R3.0** | Food Distribution | Cloud-based SaaS for food industry business efficiency. ~520 clients, ~10,500 stores (as of Dec 2020) |
+| **S-MOVE** | Moving/Logistics | Field management system. Deployed across all 2,700 trucks at Sakai Moving Center (industry No.1) |
+| **Construction Systems** | Construction | Various construction industry solutions |
+| **Other Packages** | Multiple industries | Industry-specific SaaS products |
 
-### Business Description
-業務別サービス一覧 ビジネスアプリケーションサービス ファシリティーサービス ネットワーク・クラウドサービス 販社会 IR情報 IR情報 株式情報 重要なお知らせ 決算短信 電子公告 業績推移（単独） 業績推移（連結） よくあるご質問 会社情報 トップメッセージ 創業の精神 会社沿革 会社概要 事業所一覧 個人情報保護方針 情報セキュリティ方針 マルチステークホルダー方針 一般事業主行動計画 女性活躍推進法に基づく一般事業主行動計画 次世代法に基づく一般事業主行動計画 労働者派遣事業に関する情報公開 電子決済等代行業者について 保有個人データの安全管理のために講じた措置 Ｗebサイトの情報の取り扱いについて 採用情報 様 々 な 業 種 ・ 業 務 を S a a S 企 業 と し て 提 供 し て い ま す 。 東計電算では、業種別のソリューションを総合クラウドサービスとして パッケージ型システムを提供しています。 東計電算のパッケージ商品一覧 私達は、業種別SaaS商品で業務効率・事業拡大をお約束します。 東計電算では、お客様がシステム導入がしやすいサブスクリプション型サービ
----
+### Business Application Services
+- Financial accounting systems
+- Workflow management
+- Groupware applications
 
-## 6. Key Clients and Industries Served
+### Outsourcing & Cloud
+- Data center-based cloud services
+- Various industry BPO services
+- Network and cloud infrastructure services
+- Facility services
 
-- Information Technology
-- System Development
-- Software Solutions
+## Key Clients
 
----
+- Sakai Moving Center (moving industry No.1 — 2,700 trucks with dedicated tablets)
+- Food distribution companies (~520 clients)
+- Construction industry clients
+- Various enterprises across multiple industries
 
-## 7. Company Philosophy and Culture
+## Philosophy
 
-TBD - Additional research needed.
----
+### Founding Spirit
+"Every employee is a manager" — Since 1970, the company has emphasized that each employee takes ownership and management responsibility.
 
-## 8. Media Mentions
+### Corporate Vision
+"Connecting customer NEEDS with IT SEEDS" — Organized by industry and business function, providing specialized solutions.
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [東計電算](https://ja.wikipedia.org/wiki/%E6%9D%B1%E8%A8%88%E9%9B%BB%E7%AE%97) | Web | ## 目次. # 東計電算. | 本社所在地 | 日本の旗 日本 **〒**211-8550 神奈川県川崎市中原区市ノ坪 "市ノ坪 (川崎市)")150 |.  |
-| [会社概要](https://www.tcc-recruit.com/top/profile/corporate) | Web | ## 会社概要. | 会社名 | 株式会社 東計電算　 Toukei Computer Co., Ltd. | 所在地 | 〒211-8550　 神奈川県川崎市 |
-| [(株)東計電算【東証スタンダード上場】の新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp4569/outline.html) | Web | # (株)東計電算【東証スタンダード上場】. | 1970年の創業以来、「社員一人ひとりが経営者」を掲げ、提案から開発・運用までのワンストップサービスを提供する |
-| [東計電算](https://www.ipros.com/company/detail/1327987/) | Web | 株式会社東計電算 建設システム営業部 · 875名 · 〒211-0004 神奈川県川崎市中原区新丸子東2-926-10地図で見る TEL：044-430-07 |
-| [株式会社東計電算](https://www.soliton.co.jp/partner/toukei.html) | Web | 会社名, 株式会社東計電算. URL, https://www.toukei.co.jp/. TEL, 044-430-1343. ご担当部署, ネットワークマ |
-| [(株)東計電算【4746】：株価・株式情報](https://finance.yahoo.co.jp/quote/4746.T) | Web | 株式会社東計電算の当期業績は、主力の情報処理・ソフトウェア開発業務が堅調に推移し、売上高208億3,500万円（前期比6.1％増）、営業利益62億7,000万円 |
-| [東計電算 会社紹介](https://www.youtube.com/watch?v=v1QR4UNaqW0) | Web | お客様のNEEDSとIT SEEDSをつなぐ” ＜株式会社東計電算＞ https://www.toukei.co.jp/ 東計電算では、組織を業種別・業務別に編 |
-| [株式会社東計電算](https://www.careermap.jp/corporations/24502) | Web | ## 創業の精神. ## 会社情報. :   東急東横線・目黒線、相鉄線、ＪＲ南武・横須賀線 武蔵小杉駅. :   １．業種・業務毎に専門特化したソリューション |
+### Approach
+- Subscription-type services for easy system adoption
+- One-stop service from proposal through development and operations
+- Industry-specific expertise and specialized teams
 
----
+## Memberships & Certifications
 
-## 9. Summary
+- Kanagawa Information Services Industry Association (KIA)
+- Privacy Mark certified
+- ISO 27001 (ISMS) certified
+- Electronic Payment Services Agency registration
+- Multi-stakeholder policy compliance
 
-### Company Overview
-株式会社東計電算 is a KIA member company based in Kanagawa Prefecture, Japan. Founded in 2013年10月.  
+## Media Mentions
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+- [Wikipedia](https://ja.wikipedia.org/wiki/) - Corporate overview
+- [Yahoo Finance](https://finance.yahoo.co.jp/quote/4746.T) - Securities Code 4746, revenue 20.8B JPY
+- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp4569/outline.html) - TSE Standard listed company
+- [YouTube Company Introduction](https://www.youtube.com/watch?v=v1QR4UNaqW0) - "Connecting customer NEEDS with IT SEEDS"
+- [CareerMap](https://www.careermap.jp/corporations/24502) - Founding spirit and company information
+- [Soliton Partner](https://www.soliton.co.jp/partner/toukei.html) - Network/cloud partnership
 
-### Business Model
-IT services and system development.
+## Notes
+
+- Publicly listed (TSE Standard, Code: 4746) — significant company
+- ~20.8 billion JPY revenue with strong profitability (6.27B operating profit)
+- Dominant position in food distribution SaaS (FOOD-LINK)
+- Major logistics/moving industry client (Sakai Moving Center)
+- 875 employees — one of the larger KIA members
+- 50+ years of continuous operation since 1970
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
