@@ -1,102 +1,88 @@
-# 株式会社言語サービス (言語サービス)
-## Company Analysis Report
+# 株式会社言語サービス (Language Services Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Language Services Co., Ltd. (abbreviated "LS") is a human resources and IT services company founded in August 2009, headquartered in Nishi-ku, Yokohama, Kanagawa. With capital of 26.25 million JPY, the company has achieved 10 consecutive years of revenue and profit growth in the human resources services industry. Centered on SES (System Engineering Services), the company also engages in system development, engineer dispatch, job placement, vocational training, and proprietary product development including an HR sales support tool.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社言語サービス |
-| **English** | 言語サービス |
-| **Reading** | TBD |
+The company's philosophy is "A kinder company for engineers" — providing work environments where engineers can freely design their careers through diverse project experiences.
 
----
+**Website:** https://www.ls-jp.com/
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://arwrk.net/recruit/ehodt8suffujk65/
+- **August 2009** - Company founded in Yokohama
+- **10 consecutive years** - Revenue and profit growth achieved
+- **Present** - Expanding new business areas centered on SES
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Headquarters & Offices
 
----
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Nagase Takashimacho Building 3F, 51 Tobe-Honcho, Nishi-ku, Yokohama, Kanagawa 220-0041 |
 
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
+| **Capital** | 26,250,000 JPY |
+| **Founded** | August 2009 |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. 業界で10年連続の増収増益と安定成長を達成してきました。 現在はSESを中心に、新規事業の展開に注力しています。 自社開発プロダクトは、HR営業に特化した業務支援ツール。 煩わしいメール業務を効率化す
-2. 【正社員】特定技能者登録支援事業に係る営業事務／✨英語も事務も、どちらも活かせる欲張りな仕事✨ 月給 24万円 〜 27万円 鶴見線の鶴見小野駅、徒歩1分 詳細をみる 株式会社言語サービス 【正社員】
-3. NEW 【正社員】外資系国際物流企業でのコンテナ貨物の集荷営業／✨海を越えたビジネスを創るコンテナ物流のプロフェッショナルへ 月給 25万円 〜 40万円 東営三田線「内幸町」駅 A3出口 徒歩⋯ 詳
-4. 【正社員】Ｍ３６５運用保守要員募集／✨Ｔｅａｍｓ運用からＭ３６５のプロへ✨長期安定プロジェクト✨ 月給 29万円 〜 35万円 品川駅周辺 詳細をみる 株式会社言語サービス NEW 【正社員】官公庁イ
-5. 【正社員】営業DX推進担当 ／顧客のビジネスを劇的に変える✨デジタルソリューションの体現者 月給 33万4000円 〜 55万6000円 各線の霞が関駅または銀座線虎ノ門駅（直⋯ 詳細をみる 【正社員
-6. 【正社員】組み込みソフトウェアエンジニア／🔹エンジニアとして、もっと評価される環境へ🔹 月給 35万円 〜 58万円 横浜、みなとみらい 詳細をみる 株式会社言語サービス 【正社員】Microsoft
-7. 向けの営業支援システムの開発も行っております。 グローバル開発サービスや受託サービスを併用して頂ければ、低コストで高品質なトータルサポート体制をご提供することが可能です。 お客様先への常駐型サービスと
-8. までサポート。 【ショッピングステーション】 ・ネット通販でお得にショッピングできる。 【出会い・ブライダルステーション】 ・運命の方との出会いからブライダルリングの購入、式場、ドレス選びまで、お二人
+1. **SES (System Engineering Services)** - Engineer dispatch to client projects across various industries
+2. **System Development** - Custom software development and project management
+3. **Human Resources Dispatch & Job Placement** - IT professional staffing and recruitment
+4. **Vocational Training** - Skills development and certification programs
 
-### Business Description
-】の採用サイト ABOUT BUSINESS WORK BENEFITS FAQ RECRUIT COMPANY あなたのキャリアと生きがいを、私たちが全力でサポートします。 株式会社言語サービス NEW 58件の求人情報が掲載されています ABOUT 会社紹介 エンジニアに、もっと優しい会社 私たち言語サービスは、 あなたが「この会社で働いて良かった」と心から思える働き方を提供します。 SES企業だからこそ、さまざまなプロジェクトを経験し、 エンジニアがキャリアを自由にデザインできる環境が整っています。 エンジニアとして、AWSやPower Platformなどの技術を駆使し、 さまざまな業界やクライアントのプロジェクトに携わることで、常に新しい技術に触れる機会があります。 -リモート可能なプロジェクト環境 多様なプロジェクトに参加できる環境を提供し、リモートワークにも柔軟に対応しております。 有給や特別休暇を取得しやすく、エンジニアのライフスタイルに合わせたワークライフバランスを実現します。 -多様なプロジェクト SES企業ならではの特長として、多様な業界・クライアントのプロジェク
----
+### Proprietary Products
+- **HR Sales Support Tool** - Self-developed product specializing in HR sales business process automation, streamlining cumbersome email operations
 
-## 6. Key Clients and Industries Served
+### Technical Focus
+- AWS (Amazon Web Services)
+- Microsoft Power Platform
+- Embedded software engineering
+- Microsoft 365 operations and maintenance
 
-- Information Technology
-- System Development
-- Software Solutions
+### Service Models
+- On-site dispatch to client locations
+- Remote-friendly project environments
+- Global development services and contract services for low-cost, high-quality total support
 
----
+## Clients
 
-## 7. Company Philosophy and Culture
+Various enterprises across IT, government, logistics, and manufacturing sectors. Active job listings indicate projects with major corporations in Minatomirai (Yokohama) and central Tokyo (Kasumigaseki, Shinagawa).
 
-TBD - Additional research needed.
----
+## Philosophy
 
-## 8. Media Mentions
+### Corporate Mission
+"Fully support your career and life's purpose"
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社言語サービス 会社情報](https://www.ls-jp.com/company.html) | Web | | 社名 | 株式会社言語サービス(Language Services Co., Ltd) |. | 本社所在地 | 〒220-0041 横浜市西区戸部本町51 |
-| [株式会社言語サービスの会社情報](https://www.wantedly.com/companies/ls-jp2) | Web | ## 株式会社言語サービス. ■IT分野におけるプロジェクト管理、プロジェクト管理補佐、システム開発E、ネットワーク系SE、運用保守SE ■貿易事務、英文事務、 |
-| [株式会社言語サービスのキャリア・企業情報](https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E8%A8%80%E8%AA%9E%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-1) | Web | 会 社 名 株式会社言語サービス（略称：LS）. 所 在 地 横浜市西区戸部本町 ながせ高島町ビル 3階. 設 立 2009年8月. 資 本 金 2625万円. |
-| [株式会社言語サービス](https://www.ls-jp.com/) | Web | ## 事業内容. ##### SES. ##### システム開発. ##### 人材派遣 職業紹介. ##### 職業訓練. ## What's New! *  |
-| [株式会社言語サービスの転職・企業概要 − 転職ならdoda（デューダ）](https://doda.jp/DodaFront/View/Company/j_id__10136713874/) | Web | あなたの登録情報（職種・勤務地など）と求人企業が設定した応募歓迎条件が合致すると求人に「マッチングしやすいおすすめ求人 ※1」と表示されることがあります。. あ |
-| [言語サービスの評判・社風・社員 の口コミ（17件）](https://jobtalk.jp/companies/138041/answers) | Web | 会社名: 株式会社言語サービス ; フリガナ: ゲンゴサービス ; URL: https://www.ls-jp.com/ ; 本社所在地: 神奈川県横浜市戸部 |
-| [株式会社言語サービスの採用・求人情報-engage](https://en-gage.net/ls-saiyou/) | Web | 弊社は創業以来、人材サービス業界で10年連続の増収増益と安定成長を達成してきました。 現在はSESを中心に、新規事業の展開に注力しています。 自社開発プロダクト |
-| [株式会社言語サービスの評判・口コミ](https://en-hyouban.com/company/10200184472/) | Web | 福利厚生: 福利厚生は何もなかった。 オフィス環境: 横浜駅から徒歩15分くらい。古い建物の2階。あまり活気のない場所である。近くに京浜急行の駅があった。 |
+### Core Values
+- "A kinder company for engineers" — environments where people genuinely feel "I'm glad I work here"
+- Free career design through diverse project experiences
+- Flexible remote work support
+- Easy access to paid leave and special holidays
+- Work-life balance aligned with engineer lifestyles
 
----
+## Media Mentions
 
-## 9. Summary
+- [Official Website](https://www.ls-jp.com/) - Corporate information and business overview
+- [Wantedly](https://www.wantedly.com/companies/ls-jp2) - IT project management, system development, network SE, trade/administrative services
+- [Indeed Japan](https://jp.indeed.com/) - Company profile: Yokohama, founded 2009, capital 26.25M JPY
+- [doda](https://doda.jp/) - Mid-career recruitment
+- [engage](https://en-gage.net/ls-saiyou/) - "10 consecutive years of revenue and profit growth"
+- [OpenWork](https://en-hyouban.com/) - Employee reviews
+- [JobTalk](https://jobtalk.jp/) - 17 employee reviews
 
-### Company Overview
-株式会社言語サービス is a KIA member company based in Kanagawa Prefecture, Japan.  
+## Notes
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Strong growth trajectory: 10 consecutive years of revenue and profit growth
+- Diversified business model: SES + system development + HR services + training
+- Proprietary HR sales support tool development
+- Yokohama-headquartered with KIA membership
+- Active hiring: 58 open positions (as of research date)
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*

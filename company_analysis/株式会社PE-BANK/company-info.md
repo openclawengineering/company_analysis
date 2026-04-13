@@ -1,102 +1,86 @@
-# 株式会社PE-BANK (PE-BANK)
-## Company Analysis Report
+# 株式会社PE-BANK (PE-BANK Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+PE-BANK Inc. is a comprehensive IT freelance services company founded in 1989. Headquartered in Minato-ku, Tokyo, the company serves as an intermediary between IT freelancers and enterprises nationwide, providing system development project matchmaking, IT engineer dispatch, education, seminars, and welfare services. With capital of 312.95 million JPY, annual transaction volume of 19.9 billion JPY, and 89 employees, PE-BANK is one of Japan's established IT freelance agent businesses.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社PE-BANK |
-| **English** | PE-BANK |
-| **Reading** | TBD |
+**Website:** https://pe-bank.co.jp/
 
----
+## History
 
-## 2. Company Contact Information
+- **May 1, 1989** - Company founded
 
-### Headquarters
-- **Address:** 〒108-0074 東京都港区高輪2-15-8 グレイスビル泉岳寺前 設立 1989年（平成元年）5月1日 資本金 3億1,295万円 取扱高 199億円 ※2
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://pe-bank.co.jp/company/companyprofile/
+## Headquarters
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Grace Building Zenkokuji-mae, 2-15-8 Takanawa, Minato-ku, Tokyo 108-0074 |
 
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **社員数 (Employees)** | 89人 |
-| **代表者 (Representative)** | 髙田 |
+| **Capital** | 312,950,000 JPY |
+| **Annual Transaction Volume** | 19,900,000,000 JPY |
+| **Employees** | 89 |
+| **Representative** | Takata, President |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. ・サービス 企業情報 ITエンジニアの方へTOP Pe-BANKフリーランス Pe-BANKキャリア Pe-BANKカレッジ サポートプラス 事業・サービスTOP ITフリーランスエンジニアエージェン
-2. 産業協会(略称：MISA) NPO法人 日本情報技術取引所(略称：JIET) 香川県情報サービス産業協議会(略称：KISA) 北九州情報サービス産業振興協会(略称：KIP) 埼玉ソフトウェア事業協同組
-3. 企業情報 企業情報 企業情報TOP トップメッセージ 企業理念 会社概要 拠点一覧 沿革 CSR活動 ネクストイノベーター支援プロジェクト プロモーション活動 お知らせ 採用情報 CONTACT IT
-4. 産業協会(略称：SISIA) 首都圏ソフトウェア協同組合(略称：METSA) 静岡県ソフトウェア事業協同組合(略称：SSA) 宮城県ソフトウェア事業協同組合(略称：MISPA) 各資料ダウンロード 会
-5. ITエンジニア派遣 / 紹介事業 IT人材教育事業 ITフリーランス / ITエンジニア向けセミナー事業 ITフリーランス / ITエンジニア向け福利厚生事業 企業情報TOP トップメッセージ 企業理
-6. ズ ・株式会社ブレインパッド ・株式会社パン・パシフィック・インターナショナルホールディングス ・株式会社オージス総研 ・株式会社りそな銀行 ・株式会社ティアフォー ・株式会社PKSHA Techno
-7. 株式会社 ・NECソリューションイノベータ株式会社 ・株式会社大創産業 ・テクノマインド株式会社 ・SCSK Minoriソリューションズ株式会社 ・伊藤忠テクノソリューションズ株式会社 ・ブラザー工
-8. ・サービス 事業・サービス 事業・サービスTOP ITフリーランスエンジニアエージェント事業 ITエンジニア派遣 / 紹介事業 IT人材教育事業 ITフリーランス / ITエンジニア向けセミナー事業
 
-### Business Description
-事業・サービス 事業・サービスTOP ITフリーランスエンジニアエージェント事業 ITエンジニア派遣 / 紹介事業 IT人材教育事業 ITフリーランス / ITエンジニア向けセミナー事業 ITフリーランス / ITエンジニア向け福利厚生事業 企業情報 企業情報 企業情報TOP トップメッセージ 企業理念 会社概要 拠点一覧 沿革 CSR活動 ネクストイノベーター支援プロジェクト プロモーション活動 お知らせ 採用情報 CONTACT ITエンジニアの方へ 事業・サービス 企業情報 ITエンジニアの方へTOP Pe-BANKフリーランス Pe-BANKキャリア Pe-BANKカレッジ サポートプラス 事業・サービスTOP ITフリーランスエンジニアエージェント事業 ITエンジニア派遣 / 紹介事業 IT人材教育事業 ITフリーランス / ITエンジニア向けセミナー事業 ITフリーランス / ITエンジニア向け福利厚生事業 企業情報TOP トップメッセージ 企業理念・ビジョン 会社概要 拠点一覧 沿革 CSR活動 ネクストイノベーター支援プロジェクト プロモーション活動 CONTACT 会
----
+1. **IT Freelance Engineer Agent Business** - "Pe-BANK Freelance" platform matching IT freelancers with system development projects
 
-## 6. Key Clients and Industries Served
+2. **IT Engineer Dispatch & Introduction** - Staffing and recruitment services for IT professionals
 
-- Information Technology
-- System Development
-- Software Solutions
+3. **IT Human Resource Education** - Training programs for IT engineers ("Pe-BANK College")
 
----
+4. **IT Freelancer/Engineer Seminars** - Professional development seminars and events
 
-## 7. Company Philosophy and Culture
+5. **IT Freelancer/Engineer Welfare Services** - Benefits and support services for freelance IT workers ("Support Plus")
 
-会社概要 拠点一覧 沿革 CSR活動 ネクストイノベーター支援プロジェクト プロモーション活動 お知らせ 採用情報 CONTACT ITエンジニアの方へ 事業・サービス 企業情報 ITエンジニアの方へTOP Pe-BANKフリーランス Pe-BANKキャリア Pe-BANKカレッジ サポートプラス 事業・サービスTOP ITフリーランスエンジニアエージェント事業 ITエンジニア派遣 / 紹介事業 IT人材教育事業 ITフリーランス / ITエンジニア向けセミナー事業 ITフリーランス / ITエンジニア向け福利厚生事業 企業情報TOP トップメッセージ 企業理念・ビジョン 会社概要 拠点一覧
----
+## Key Clients
 
-## 8. Media Mentions
+- BrainPad Inc.
+- Pan Pacific International Holdings Inc.
+- OGIS-RI Inc.
+- Resona Bank Ltd.
+- Tiafoe Inc.
+- PKSHA Technology Inc.
+- NEC Solution Innovators Ltd.
+- Daiso Industries Co., Ltd.
+- Technomind Inc.
+- SCSK Minori Solutions Inc.
+- Itochu Techno-Solutions Corporation
+- Brother Industries, Ltd.
+- And many others
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [PE-BANK](https://ja.wikipedia.org/wiki/PE-BANK) | Web | 株式会社PE-BANK（ピーイーバンク）は、日本全国に存在するITフリーランスと企業の仲介役として、システム開発案件の斡旋や事務代行を行う企業である。 |
-| [株式会社PE－BANKの転職・企業概要](https://doda.jp/DodaFront/View/Company/j_id__10051889436/) | Web | あなたの登録情報（職種・勤務地など）と求人企業が設定した応募歓迎条件が合致すると求人に「マッチングしやすいおすすめ求人 ※1」と表示されることがあります。. あ |
-| [株式会社PEｰBANKのプレスリリース](https://prtimes.jp/main/html/searchrlp/company_id/12015) | Web | 株式会社PEｰBANK · ITフリーランス向け総合サービス企業のPE-BANK 2026年 入社式を開催 · 株式会社PE-BANK、TVerにて動画広告配信 |
-| [PE-BANK 「社員クチコミ」 就職・転職の採用企業リサーチ ...](https://www.openwork.jp/company.php?m_id=a0C30000009r9ae) | Web | IT業界向けの人材事業を行う企業。 ITフリーランス向け案件情報サイト「Pe-BANK フリーランス」の運営や、セミナー事業、福利厚生支援事業など幅広く展開。 |
-| [株式会社PE－BANKの企業情報](https://job.career-tasu.jp/corp/00107308/) | Web | 私たちは、フリーで働くITエンジニアが安心して働ける環境を提供・活躍の場を創出しています。 そしてフリーのITエンジニアの社会的地位がより一層高まる社会を創り上 |
-| [株式会社Pe-BANK](https://www.facebook.com/pebank.jp/) | Web | PE- BANKは昨日4月1日（水）、2026年度入社の新入社員 3名に対し、入社式を実施しました 今年も、MCEAグループ合同入社式というかたちの二 部制で実 |
+## Memberships
 
----
+- Kanagawa Information Services Industry Association (KIA)
+- Multiple regional software industry associations nationwide (MISA, JIET, KISA, KIP, SISIA, METSA, SSA, MISPA, etc.)
 
-## 9. Summary
+## Philosophy
 
-### Company Overview
-株式会社PE-BANK is a KIA member company based in Kanagawa Prefecture, Japan.  Employees: 89人.
+The company aims to provide a secure working environment for freelance IT engineers, create opportunities for their active participation, and build a society where the social status of freelance IT engineers is elevated.
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+## Media Mentions
 
-### Business Model
-IT services and system development.
+- [Wikipedia](https://ja.wikipedia.org/wiki/PE-BANK) - "Intermediary between IT freelancers nationwide and enterprises"
+- [PR Times](https://prtimes.jp/) - Press releases including 2026 new employee ceremony and TVer video advertising
+- [OpenWork](https://www.openwork.jp/) - Employee reviews: IT industry staffing, freelance matching, seminars, welfare
+- [doda](https://doda.jp/) - Mid-career recruitment
+- [Career Tasu](https://job.career-tasu.jp/) - "Creating a society where freelance IT engineers can work with peace of mind"
+- [Facebook](https://www.facebook.com/pebank.jp/) - 2026 new employee ceremony
+
+## Notes
+
+- One of Japan's established IT freelance agent companies (founded 1989)
+- Nearly 20 billion JPY annual transaction volume
+- Comprehensive service portfolio: matching, dispatch, education, welfare
+- Member of numerous regional IT industry associations nationwide
+- Part of the MCEA group
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
