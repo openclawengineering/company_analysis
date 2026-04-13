@@ -1,12 +1,11 @@
 # 株式会社ケイアイエス (KIS Co., Ltd.) - Company Analysis
 
-## 1. Company Name (JP/EN)
+## 1. Company Name
 
 | Language | Name |
 |----------|------|
-| 日本語 | 株式会社ケイアイエス |
+| Japanese | 株式会社ケイアイエス |
 | English | KIS Co., Ltd. |
-| Reading | けいあいえす |
 
 ---
 
@@ -14,13 +13,13 @@
 
 | Item | Details |
 |------|---------|
-| **Address** | 〒254-0034 神奈川県平塚市宝町12-1 麻生ビル202号 |
+| **Address** | Asou Building 202, 12-1 Takara-cho, Hiratsuka, Kanagawa 254-0034 |
 | **Phone** | 0463-24-9155 |
 | **Fax** | 0463-24-9156 |
 | **Website** | https://www.ki-s.co.jp |
-| **Access** | JR東海道線「平塚」駅 徒歩5分 |
+| **Access** | 5-min walk from JR Tokaido Line "Hiratsuka" Station |
 | **Corporate Number** | 9021001037905 |
-| **Bank Accounts** | みずほ銀行、三菱東京UFJ銀行、平塚信用金庫 |
+| **Banking** | Mizuho Bank, Mitsubishi UFJ Bank, Hiratsuka Shinkin Bank |
 
 ---
 
@@ -28,188 +27,147 @@
 
 | Date | Milestone |
 |------|-----------|
-| **2002年4月1日** | 会社設立（平成14年） |
-| **2015年3月19日** | 個人情報保護方針を更新 |
-| **2016年1月7日** | プライバシーマーク認証を取得（第10824362号） |
-| **2016年12月1日** | 労働者派遣事業許可を取得（派14-301304） |
-| **2018年1月7日** | プライバシーマーク認証を更新 |
-| **2019年9月27日** | ホームページをリニューアル |
-| **2020年1月7日** | プライバシーマーク認証を更新 |
-| **2024年3月** | 設立22年目を迎える |
+| **April 1, 2002** | Company established |
+| **March 19, 2015** | Personal information protection policy updated |
+| **January 7, 2016** | Privacy Mark certification obtained (No. 10824362) |
+| **December 1, 2016** | Worker dispatch business license obtained (派14-301304) |
+| **January 7, 2018** | Privacy Mark certification renewed |
+| **September 27, 2019** | Website renewed |
+| **January 7, 2020** | Privacy Mark certification renewed |
+| **March 2024** | Celebrated 22nd anniversary |
 
 ---
 
-## 4. Capital and Employee Count
+## 4. Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金** | 1,000万円 |
-| **従業員数** | 21名（2024年3月1日時点） |
-| **平均年齢** | 30歳代後半 |
-| **中途入社者の割合** | 100％ |
+| **Capital** | 10,000,000 JPY |
+| **Employees** | 21 (as of March 1, 2024) |
+| **Average Age** | Late 30s |
+| **Mid-career Hires** | 100% |
 
-**Note:** The company is privately held (未上場).
-
----
-
-## 5. Products and Services
-
-### システム開発事業
-
-- **各種ビジネスアプリケーションの設計・開発**
-- **業務系パッケージの開発**
-- **Web系・制御／組込系システムの設計・開発**
-- **Webコンテンツの製作**
-- **C/S系インフラ・ネットワーク構築**
-
-**対応言語:** Java、C、C#、C++、COBOL、VB.NETなど
-
-### システム運用
-
-- オペレーション・データ入力
-- 各種システムの検証作業確認
-- サーバ、ネットワーク運用
-
-### 対応分野
-
-- ネットワークシステムの設計・開発
-- 金融システム（銀行、証券）の設計・開発
-- 制御システムの設計・開発
-- 生産管理システムの設計・開発
-- 運用管理・監視
+Note: The company is privately held (not publicly listed).
 
 ---
 
-## 6. Key Clients and Industries Served
+## 5. Products & Services
 
-### 主要取引先
+### System Development Business
+- Various business application design and development
+- Business package development
+- Web-based and control/embedded system design and development
+- Web content creation
+- C/S infrastructure and network construction
+
+**Languages:** Java, C, C#, C++, COBOL, VB.NET, etc.
+
+### System Operations
+- Operations and data entry
+- Various system verification work
+- Server and network operations
+
+### Service Areas
+- Network system design and development
+- Financial system (banking, securities) design and development
+- Control system design and development
+- Production management system design and development
+- Operations management and monitoring
+
+---
+
+## 6. Key Clients & Industries
+
+### Major Business Partners
 
 | Company | Industry |
 |---------|----------|
-| 日産工機株式会社 | 製造業（自動車部品） |
-| 日本製紙株式会社 | 製造業（製紙） |
-| Sky株式会社 | IT/通信 |
-| 株式会社ソルクシーズ | IT |
-| 株式会社アマダ | 製造業（工作機械） |
-| 株式会社第一コンピュータサービス | IT |
-| 株式会社テクノステート | IT |
-| シンクシステム株式会社 | IT |
-| 東京コンピュータサービス株式会社 | IT |
-| ヒューマンズ・ネット株式会社 | IT |
-| 株式会社ジャステック | IT |
-| ランドシステム株式会社 | IT |
-| 日本コンピュータシステム株式会社 | IT |
-| 富士ソフト株式会社 | IT |
-| 株式会社古河インフォメーションテクノロジー | IT |
-| 株式会社インテック | IT |
-| ユニシステム株式会社 | IT |
+| Nissan Machine Co., Ltd. | Manufacturing (Auto parts) |
+| Nippon Paper Industries Co., Ltd. | Manufacturing (Paper) |
+| Sky Inc. | IT/Telecommunications |
+| Solcsees Inc. | IT |
+| Amada Co., Ltd. | Manufacturing (Machine tools) |
+| Daiichi Computer Service Co., Ltd. | IT |
+| Techno State Co., Ltd. | IT |
+| Sync System Co., Ltd. | IT |
+| Tokyo Computer Service Co., Ltd. | IT |
+| Humans Net Inc. | IT |
+| Justec Inc. | IT |
+| Land System Co., Ltd. | IT |
+| Nihon Computer System Co., Ltd. | IT |
+| Fujisoft Inc. | IT |
+| Furukawa Information Technology Co., Ltd. | IT |
+| Intec Inc. | IT |
+| Uni System Co., Ltd. | IT |
 
-### 業界・領域
+### Industries
+- **Manufacturing** - Primarily system development and maintenance for manufacturing companies in Kanagawa Prefecture
+- **Finance & Insurance** - Life insurance companies and financial sector projects
+- **Medical device manufacturers**
+- **Major SIers**
 
-- **製造業** - 神奈川県内の製造業会社のシステム開発・保守が中心
-- **金融・保険** - 生命保険会社や金融の案件
-- **医療機器メーカー**
-- **大手SIer**
-
-### 加入団体
-
-- 社団法人 神奈川県情報サービス産業協会 (KIA)
-- 首都圏デジタル産業健康保険組合
+### Memberships
+- Kanagawa Information Services Industry Association (KIA)
+- Capital Region Digital Industry Health Insurance Association
 
 ---
 
-## 7. Company Philosophy and Culture
+## 7. Company Philosophy & Culture
 
-### 経営理念
+### Management Philosophy
+The rapid pace of advancement in information and communications technology means there is always more to learn. The company is committed to investing in human resources development, education, and certification to provide increasingly advanced services. Following its management philosophy, the company strives daily to improve each employee's IT skills and provide services that exceed customer expectations.
 
-> 情報通信技術の進歩の早さはめまぐるしいものがあり、学ぶ事はつきません。そのような中で、私たちは、より高度なサービスを提供できるよう、教育や資格取得推進など人材育成に力をいれていく所存です。今後も、弊社の経営理念に則り、社員一人ひとりの情報技術の向上に努め、お客様の期待以上のサービスを提供できるよう日々精進してまいります。
+### Corporate Action Guidelines
+1. KIS aims to be a company loved by customers, employees, and the community
+2. Aim to be a trusted enterprise providing the highest satisfaction to customers
+3. Aim to provide employees with the best environment for self-realization and improved benefits
+4. Aim to contribute to social development and prosperity
+5. Comply with social rules and regulations, conducting business with a law-abiding spirit
 
-### 企業行動指針
+### Corporate Culture
+- **Home-like atmosphere** - Close relationship with the President, easy-to-consult environment
+- **Employee-focused** - The President, who spun out from a major manufacturer, values employees
+- **High labor distribution rate** - Higher than IT industry average (revenue returned to engineers)
+- **Stable business environment** - Continuous direct transactions with many quality manufacturers
 
-1. 私たちケイアイエスは、顧客・社員・地域から愛される会社を目指します
-2. 顧客に対して、最高の満足を提供し信頼される企業を目指します
-3. 社員に対して、最良の自己実現の場の提供と諸待遇の改善を目指します
-4. 社会の発展、繁栄に寄与することを目指します
-5. 社会のルール・規約を守り、遵法精神に従って、企業活動を行います
-
-### 社風・文化
-
-- **アットホームな雰囲気** - 代表取締役社長との距離感が近く、相談しやすい環境
-- **従業員想い** - 代表が大手メーカーからスピンアウトした経営者で、従業員を大切にする姿勢
-- **高い労働分配率** - IT業界平均より高い労働分配率（売上高をエンジニアに還元）
-- **安定した経営環境** - 多くの優良メーカーと継続的な直接取引を実現
-
-### 新人教育制度
-
-- **導入教育（3ヶ月間）**
-  - 社会人の基本
-  - プログラミング
-  - インフラの基礎
-  - 配属後の専門スキル講習
-- **OJT** - 先輩社員による指導
-- **社内会議** - 定期的に実施、現場での問題事項や技術の情報共有
+### New Employee Training
+- **Orientation training (3 months):** Social basics, programming, infrastructure fundamentals, post-assignment specialized skill training
+- **OJT:** Guidance from senior employees
+- **Internal meetings:** Regular meetings for on-site problem discussion and technical information sharing
 
 ---
 
 ## 8. Media Mentions
 
-### Web上の情報
+### Online Information
+- **doda:** Mid-career recruitment listings
+- **Mynavi Tenshoku:** New graduate recruitment listings
+- **Tenshoku type:** Featured company article highlighting the exceptionally high labor distribution rate compared to IT industry average
+- **Baseconnect:** Company database listing
+- **BIZMAPS:** Company information listing
 
-- **[doda](https://doda.jp/)**: 中途採用情報が掲載
-  - URL: https://doda.jp/DodaFront/View/CompanyJobs/j_id__10038406192/
-  
-- **[マイナビ転職](https://tenshoku.mynavi.jp/)**: 新卒採用情報が掲載
-  - URL: https://job.mynavi.jp/26/pc/search/corp254828/outline.html
-  
-- **転職ならtype**: 企業取材記事
-  - 特筆点: 「労働分配率」がIT業界平均よりズバ抜けて高く、財務状況は良好。代表はとことん従業員想いな様子
-  
-- **Baseconnect**: 企業データベースに掲載
-  - URL: https://baseconnect.in/companies/936e250b-47c6-4a9e-965f-32a4894cc224
-  
-- **iタウンページ**: 電話帳掲載
-  - URL: https://itp.ne.jp/info/146855721167131010/
-  
-- **BIZMAPS**: 企業情報掲載
-  - URL: https://biz-maps.com/item/D3YbagP7Zz
-
-### プレスリリース・ニュース
-
-- **2024年5月1日**: 2023年度の労働者派遣のマージン率を公開
-- **2023年6月19日**: 2022年度の労働者派遣のマージン率を公開
-- **2022年5月31日**: 2021年度の労働者派遣のマージン率を公開
-
-**Note:** 大規模なメディア報道や大きなニュースは見つかりませんでした。中小規模の地域IT企業として、求人サイトや企業データベースへの掲載が主です。
+### Press Releases
+- **May 1, 2024:** Published FY2023 worker dispatch margin rate
+- **June 19, 2023:** Published FY2022 worker dispatch margin rate
+- **May 31, 2022:** Published FY2021 worker dispatch margin rate
 
 ---
 
 ## 9. Summary
 
-### 企業概要
+KIS Co., Ltd. is an IT system development company established in 2002 in Hiratsuka, Kanagawa. Founded by President Hiroshi Kidomi, who spun out from a major manufacturer, the company currently employs 21 people.
 
-株式会社ケイアイエス（KIS Co., Ltd.）は、2002年に神奈川県平塚市で設立されたITシステム開発企業です。代表取締役社長の木富博が大手メーカーからスピンアウトして創業し、現在21名の従業員を擁しています。
+### Business Model
+Primarily SES (System Engineering Service) business, focusing on system development and maintenance for manufacturing companies in Kanagawa Prefecture. Characterized by many direct transactions with major manufacturers and stable long-term projects.
 
-### ビジネスモデル
-
-SES（システムエンジニアリングサービス）を中心としたビジネスモデルで、主に神奈川県内の製造業会社のシステム開発・保守を手掛けています。大手メーカーとの直接取引が多く、長期案件が安定しているのが特徴です。対応領域は幅広く、受託開発ソフトウェア、組み込みソフトウェア、情報処理サービス、ネットワーク・通信関連などをカバーしています。
-
-### 強み・特徴
-
-1. **安定した経営基盤** - 優良メーカーとの継続的な直接取引
-2. **高い労働分配率** - IT業界平均より高い、従業員への還元
-3. **アットホームな社風** - 代表との距離が近く、相談しやすい環境
-4. **充実した教育制度** - 3ヶ月間の新人研修、OJTサポート
-5. **認証取得** - プライバシーマーク、労働者派遣事業許可
-
-### 今後の展望
-
-設立22年目を迎え、情報通信技術の進歩に対応するため、人材育成と資格取得推進に注力しています。「顧客・社員・地域から愛される会社」を目指し、社員一人ひとりの情報技術の向上と、お客様の期待以上のサービス提供を目標としています。
+### Strengths
+1. **Stable business foundation** - Continuous direct transactions with quality manufacturers
+2. **High labor distribution rate** - Above IT industry average, returned to employees
+3. **Home-like corporate culture** - Close relationship with management
+4. **Comprehensive training system** - 3-month new employee training, OJT support
+5. **Certifications** - Privacy Mark, Worker dispatch license
 
 ---
 
-**Analysis Date:** 2026年3月30日  
-**Data Sources:** 
-- Official website (https://www.ki-s.co.jp)
-- Job sites (doda, マイナビ, type)
-- Business databases (Baseconnect, BIZMAPS)
-- Tavily Web Search
+*Analysis Date: March 30, 2026*
+*Sources: Official website, job sites, business databases*
