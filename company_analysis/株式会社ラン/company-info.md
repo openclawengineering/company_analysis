@@ -1,93 +1,78 @@
-# 株式会社ラン (ラン)
-## Company Analysis Report
+# 株式会社ラン (Run Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Run Co., Ltd. is a comprehensive human services company operating primarily in event planning/operations and staffing services. Headquartered in Nagoya, Aichi, the company handles events ranging from exhibitions and tie-up events to gourmet events, sports events, and leisure facility events. The company name "Run" carries multiple meanings including "future leaders" (eggs/hatching) and "everyone being happy (lan-lan)."
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社ラン |
-| **English** | ラン |
-| **Reading** | TBD |
+**Website:** https://www.n-run.co.jp/
 
----
+## History
 
-## 2. Company Contact Information
+- **2011 (December 1)** - Started operations
+- **2017 (January 1)** - Obtained labor dispatch license: 派14-301331
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** http://lan-world.jp/rn/default.html
+## Headquarters & Offices
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Address |
+|----------|---------|
+| **Nagoya HQ** | WEST NAGOYA56 2F, 5-6 Tsubaki-cho, Nakamura-ku, Nagoya, Aichi 453-0015 |
+| **Phone** | 052-459-5077 |
 
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
+| **Dispatch License** | 派14-301331 |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. の認可を取得しました。 Since 2011/12/01 ・トップへ ・個人情報保護の方針 ・問い合わせ方法
-2. や未来のリーダーを育てる「卵」 ・お客様も社員も皆がハッピーになれる「ラン(ランラン)」 など、いくつもの気持ちを込めています。 2017/01/01 労働者派遣許可：派14-301331 を取得しま
----
+1. **Comprehensive Human Services** - Staffing, dispatch, and business contracting
+2. **Event Planning & Operations**
+   - Exhibition events
+   - Tie-up/promotional events
+   - Gourmet/food events
+   - Sports events
+   - Leisure facility events
+3. **Business Contracting** - Outsourced business operations
+4. **Business Commissioning** - Delegated business tasks
 
-## 6. Key Clients and Industries Served
+### Large-Scale Events
+- Large exhibition booth and operations staff arrangement
+- Anime and movie tie-up events
+- Various promotional and corporate events
 
-- Information Technology
-- System Development
-- Software Solutions
+## Clients
 
----
+- Exhibition organizers
+- Anime/movie production companies
+- Corporate event planners
+- Leisure facility operators
 
-## 7. Company Philosophy and Culture
+## Philosophy
 
-TBD - Additional research needed.
----
+The company name carries multiple meanings:
+- Nurturing "eggs" (talent) who will become future leaders
+- "Lan (Lan-lan)" — everyone including customers and employees being happy
 
-## 8. Media Mentions
+## Media Mentions
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社ラン](https://www.n-run.co.jp/) | Web | # イベント運営. ### 展示会イベント. ### タイアップイベント. ### グルメイベント. ### スポーツイベント. ### レジャー施設内イベント |
-| [会社情報](https://www.n-run.co.jp/about.html) | Web | | 所在地 | 【名古屋本社】 〒453-0015 愛知県名古屋市中村区椿町 5-6 WEST NAGOYA56 2F TEL : 052-459-5077（代 |
-| [株式会社ランの会社概要](https://tenshoku.mynavi.jp/company/213659/) | Web | ## 株式会社ラン. # 株式会社ランの会社概要. | 事業内容 | ◆総合人材サービス業 ・イベント企画・運営 ・業務請負 ・業務委託 |. | 本社所在地  |
-| [株式会社ラングループ](https://www.shigoto-jouhou.com/) | Web | ラングループでは様々な事業に取り組んでいます。 人材派遣. イベント企画・運営. 業務請負. 事業内容について詳しくはこちらから. 採用情報. I |
-| [株式会社ランの評判・口コミ](https://en-hyouban.com/company/10097242652/) | Web | 給与制度:昇給は年に1回。賞与は無し。手当はいくつかあるが、明確な説明はなく。基本給が低い。評価制度:評価基準が曖昧なため、どうステップアップをするのかが不明。 |
-| [株式会社ランのバイト・アルバイト・パートの求人・募集情報](https://www.baitoru.com/kw/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A9%E3%83%B3/) | Web | 前払いOK/未経験歓迎/機械操作がメイン/製品加工/ミドル活躍中 · 職種. 派遣仕分け・シール貼り、製造スタッフ(組立・加工等)、建築・土木その他 · 給与. |
-| [株式会社ラングループの採用・求人情報-engage](https://en-gage.net/run_saiyo/) | Web | 大小さまざまなイベントの企画・運営を手がける当社。 どんなイベントも、成功したときの達成感は気持ちのよいものです。 そして日々のそんな達成感が、また新たな挑戦 |
-| [株式会社ラン の企業情報](https://www.buffett-code.com/company/b6pd78mpuc/) | Web | 株式会社ランは、イベント運営と人材派遣・業務請負を主軸に事業を展開しています。イベント運営では大型展示会のブース・運営スタッフ手配から、アニメや映画等のタイ |
+- [Official Website](https://www.n-run.co.jp/) - Event operations and company information
+- [Company Profile](https://www.n-run.co.jp/about.html) - Nagoya headquarters details
+- [Mynavi Tenshoku](https://tenshoku.mynavi.jp/company/213659/) - Company overview: comprehensive human services
+- [Run Group](https://www.shigoto-jouhou.com/) - Group company information
+- [En-Hyouban](https://en-hyouban.com/company/10097242652/) - Employee reviews
+- [Baitoru](https://www.baitoru.com/) - Part-time job listings
+- [engage](https://en-gage.net/run_saiyo/) - Recruitment information
+- [Buffett Code](https://www.buffett-code.com/) - Corporate financial data
 
----
+## Notes
 
-## 9. Summary
-
-### Company Overview
-株式会社ラン is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Primarily an event management and staffing company
+- Nagoya-headquartered with nationwide event operations
+- Diversified business: events + staffing + business contracting
+- KIA membership
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
