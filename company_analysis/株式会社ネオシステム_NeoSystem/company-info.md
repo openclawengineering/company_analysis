@@ -1,82 +1,82 @@
 # 株式会社ネオシステム (NeoSystem Co., Ltd.)
 
 ## Overview
-株式会社ネオシステムは1989年に山梨で創業した独立系総合SIer。通信業・メディア・ネットベンダー向けシステム、製造業向けシステム、金融業向けシステム等の開発を手掛け、最新IT技術への探究心を忘れない姿勢でDX(デジタル・トランスフォーメーション)に貢献している。
+NeoSystem Co., Ltd. is an independent comprehensive SIer (system integrator) founded in Yamanashi in 1989. The company develops systems for the telecommunications, media, and network vendor industries, as well as manufacturing and financial sectors. With an unwavering spirit of inquiry into the latest IT technologies, the company contributes to digital transformation (DX).
 
 ## History
-- 1989年12月1日 - 設立
-- 山梨を拠点に首都圏全体へと事業を展開
+- December 1, 1989 - Company established
+- Expanded business from Yamanashi base to the entire Tokyo metropolitan area
 
 ## Capital
-6,000万円
+60,000,000 JPY
 
 ## Services
-- システムコンサルティング
-- 情報システム開発
-- ソフトウェア開発
-- システム運用保守
+- System consulting
+- Information system development
+- Software development
+- System operations and maintenance
 - Microsoft Azure
 - Microsoft Power Platform
-- 生成AI導入支援
-- Aras Innovator (PLMソリューション)
+- Generative AI implementation support
+- Aras Innovator (PLM solution)
 
 ## Clients
-主要取引先（五十音順）:
-- (株)IHIエアロスペース
-- (株)アイ・エス・ビー
-- アクサ生命保険(株)
-- アクセンチュア(株)
-- アストラゼネカ(株)
-- (株)アドバンテッジリスクマネジメント
-- (株)アニメイトホールディングス
-- (株)インターネットイニシアティブ
-- サンネット物流(株)
-- GMOメイクショップ(株)
-- JFEシステムズ(株)
-- セイコーエプソン(株)
-- ソフトバンク(株)
-- TIS(株)
-- (株)電通総研
-- 東京エレクトロン(株)
-- (株)トラストバンク
-- 日産自動車(株)
-- (株)日立システムズ
-- (株)不二越
-- 富士フイルムビジネスイノベーションジャパン(株)
-- (株)フルキャストホールディングス
-- マネックス証券(株)
-- (株)山梨中央銀行
-- リョービ(株)
-- リオン(株)
+### Major Business Partners (alphabetical order)
+- IHI Aerospace Co., Ltd.
+- ISB Co., Ltd.
+- AXA Life Insurance Co., Ltd.
+- Accenture Ltd.
+- AstraZeneca K.K.
+- Advantage Risk Management Co., Ltd.
+- animate Holdings Co., Ltd.
+- Internet Initiative Japan Inc.
+- Sunnet Logistics Co., Ltd.
+- GMO MakeShop Co., Ltd.
+- JFE Systems Inc.
+- Seiko Epson Corporation
+- SoftBank Corp.
+- TIS Inc.
+- Dentsu Soken Inc.
+- Tokyo Electron Limited
+- Trust Bank Inc.
+- Nissan Motor Co., Ltd.
+- Hitachi Systems Ltd.
+- Nabtesco Corporation
+- Fuji Film Business Innovation Japan Corp.
+- Fullcast Holdings Co., Ltd.
+- Matsui Securities Co., Ltd.
+- Yamanashi Chuo Bank, Ltd.
+- Ryobi Limited
+- Rion Co., Ltd.
 
 ## Philosophy
-### ミッション
-テクノロジーを活用して人々や組織、社会を力づける
+### Mission
+To empower people, organizations, and society through technology
 
-### 課題解決アプローチ
-- 日本国内でのDX遅れ → 課題発見・解決するコンサルティング＋伴走型システム開発
-- 高速に進化し続けるITテクノロジー → 置いていかれない、キャッチアップできる体制
-- 日本国内の労働力不足・超高齢化社会 → 海外技術者、IT新技術を駆使した高品質・短納期・高価値なシステム開発
-- 持続可能な地域社会の構築 → IT技術を駆使して地域社会の発展を支援
+### Problem-Solving Approach
+- Japan's delayed DX → Consulting for problem discovery and resolution + collaborative system development
+- Rapidly evolving IT technologies → Maintaining a system that can catch up without falling behind
+- Japan's labor shortage and super-aging society → High-quality, short-delivery, high-value system development utilizing overseas engineers and new IT technologies
+- Building sustainable local communities → Supporting local community development through IT technology
 
 ## Contact
-- **東京本社:** 〒163-0517 東京都新宿区西新宿1丁目26-2 新宿野村ビル17階
-  - TEL: 03-6258-1891 / FAX: 03-6258-1892
-  - アクセス: JR・小田急線・京王線「新宿」駅西口徒歩7分、東京メトロ「西新宿」駅2番出口徒歩4分
-- **山梨本社:** 〒400-0031 山梨県甲府市丸の内2丁目8番3号 丸和ビル5階
+- **Tokyo HQ:** Shinjuku Nomura Building 17F, 1-26-2 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-0517
+  - Phone: 03-6258-1891 / Fax: 03-6258-1892
+  - Access: 7-min walk from JR/Odakyu/Keio Line "Shinjuku" Station West Exit; 4-min walk from Tokyo Metro "Nishi-Shinjuku" Station Exit 2
+- **Yamanashi HQ:** Maruwa Building 5F, 2-8-3 Marunouchi, Kofu, Yamanashi 400-0031
 - **URL:** https://www.neosystem.co.jp/
 
 ## Certifications
-- 情報セキュリティマネジメントシステム JIS Q 27001:2023（ISO/IEC 27001:2022）
-- プライバシーマーク認定 11820715（04）
-- Microsoft ソリューションパートナー (Digital & App Innovation / Data & AI)
-- Aras パートナー(2024)
+- Information Security Management System JIS Q 27001:2023 (ISO/IEC 27001:2022)
+- Privacy Mark certification 11820715 (04)
+- Microsoft Solution Partner (Digital & App Innovation / Data & AI)
+- Aras Partner (2024)
 
 ## Employees
-206名（2025年4月現在）
+206 (as of April 2025)
 
 ## Media Mentions
-- [ネオシステム公式note](https://note.com/neosystem) - 企業の取り組み発信
-- [Qiita組織アカウント](https://qiita.com/organizations/neosystem) - 技術記事掲載
-- [公式X(Twitter)](https://x.com/neo_promotion)
-- [公式Facebook](https://www.facebook.com/neosystempromotion)
+- [NeoSystem Official note](https://note.com/neosystem) - Company initiatives
+- [Qiita Organization Account](https://qiita.com/organizations/neosystem) - Technical articles
+- [Official X (Twitter)](https://x.com/neo_promotion)
+- [Official Facebook](https://www.facebook.com/neosystempromotion)

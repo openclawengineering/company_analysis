@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Company Name (JP/EN)
+## 1. Company Name
 
 | Japanese | English |
 |----------|---------|
@@ -12,27 +12,27 @@
 
 ## 2. Company Contact Information
 
-### Headquarters (本社)
-- **Address:** 〒108-0075 東京都港区港南2-16-6 キヤノン S タワー
+### Headquarters
+- **Address:** Canon S Tower, 2-16-6 Konan, Minato-ku, Tokyo 108-0075
 - **TEL:** 03-6701-3300
 
-### Business Offices (事業所一覧)
+### Business Offices
 | Office Name | Address | TEL |
 |-------------|---------|-----|
-| 天王洲事業所 | 〒140-8526 東京都品川区東品川2-4-11 野村不動産天王洲ビル | 03-6701-3305 |
-| 東品川事業所 | 〒140-0002 東京都品川区東品川3-32-42 ISビル | 03-6701-3300 |
-| 西東京事業所 | (非公開) | 042-433-8980 |
-| 小杉事業所 | 〒211-0067 神奈川県川崎市中原区今井上町9-1 | 044-332-3630 |
-| 宇都宮事業所 | 〒321-0953 栃木県宇都宮市東宿郷2-2-1 ビッグ・ビー スクエア | 028-638-8651 |
-| 大阪事業所 | 〒550-0001 大阪府大阪市西区土佐堀2-2-4 土佐堀ダイビル | 06-7635-3000 |
-| 名古屋事業所 | 〒460-0003 愛知県名古屋市中区錦1-11-11 名古屋インターシティ | 052-209-6535 |
-| 刈谷事業所 | 〒448-0841 愛知県刈谷市南桜町1-72-1 アルバックスタワー刈谷駅前 | 0566-29-1003 |
-| 福岡事業所 | 〒812-0024 福岡県福岡市博多区綱場町4-1 福岡RDビル | 03-6701-3300 |
+| Tennozu Office | Nomura Real Estate Tennozu Building, 2-4-11 Higashi-Shinagawa, Shinagawa-ku, Tokyo 140-8526 | 03-6701-3305 |
+| Higashi-Shinagawa Office | IS Building, 3-32-42 Higashi-Shinagawa, Shinagawa-ku, Tokyo 140-0002 | 03-6701-3300 |
+| Nishi-Tokyo Office | (Undisclosed) | 042-433-8980 |
+| Kosugi Office | 9-1 Imaiue-cho, Nakahara-ku, Kawasaki, Kanagawa 211-0067 | 044-332-3630 |
+| Utsunomiya Office | Big-B Square, 2-2-1 Higashi-Shukugo, Utsunomiya, Tochigi 321-0953 | 028-638-8651 |
+| Osaka Office | Tosaorai Div Building, 2-2-4 Tosaorai, Nishi-ku, Osaka 550-0001 | 06-7635-3000 |
+| Nagoya Office | Nagoya Intercity, 1-11-11 Nishiki, Naka-ku, Nagoya, Aichi 460-0003 | 052-209-6535 |
+| Kariya Office | ULVAC Tower Kariya Ekimae, 1-72-1 Minami-Sakura-cho, Kariya, Aichi 448-0841 | 0566-29-1003 |
+| Fukuoka Office | Fukuoka RD Building, 4-1 Tsunahama-cho, Hakata-ku, Fukuoka 812-0024 | 03-6701-3300 |
 
-### Recruitment Contact (採用に関するお問い合わせ)
-- **Department:** 人材開発部 採用課
+### Recruitment Contact
+- **Department:** Human Resources Development Department, Recruitment Section
 - **TEL:** 03-6701-3356
-- **Hours:** 平日 9:00〜17:30 (土日祝日・会社休業日を除く)
+- **Hours:** Weekdays 9:00-17:30 (excluding weekends, holidays, and company holidays)
 
 ### Website
 - **Corporate Site:** https://www.canon-its.co.jp/
@@ -43,165 +43,165 @@
 
 ## 3. Company History & Milestones
 
-キヤノンITソリューションズは、いくつかの合併と経営統合を行いながら、グループで掲げる「共生」の理念に基づき、先進のICTを通じてお客さまの価値創造と社会の発展に貢献すべく歩んできました。
+Canon IT Solutions has undergone several mergers and management integrations while contributing to customer value creation and social development through advanced ICT, based on the Canon Group's "Kyosei" (coexistence) philosophy.
 
 ### Key Milestones
-- **1982年7月1日:** 会社設立
-- **2000年代:** キヤノン販売（現・キヤノンマーケティングジャパン）グループ入り
-- **現在:** キヤノンマーケティングジャパン株式会社の100%子会社として、グループ企業として事業展開
+- **July 1, 1982:** Company established
+- **2000s:** Joined Canon Sales (now Canon Marketing Japan) group
+- **Present:** Operating as a 100% subsidiary of Canon Marketing Japan Inc.
 
 ---
 
-## 4. Capital and Employee Count
+## 4. Capital & Employees
 
-| 項目 | 内容 |
-|------|------|
-| **資本金** | 3,617百万円 |
-| **売上高** | 単独：139,542百万円（2024年12月期） |
-| **従業員数** | 単独：4,101名（2024年12月31日現在） |
-| **株主構成** | キヤノンマーケティングジャパン株式会社 100% |
-
----
-
-## 5. Products and Services
-
-### 事業内容
-SIおよびコンサルティング、各種ソフトウエアの開発・販売
-
-### 事業領域（Business Fields）
-- 受託開発ソフトウェア
-- パッケージソフトウェア
-- 組み込みソフトウェア
-- 情報処理サービス
-- ネットワーク・通信関連
-- SES（システムエンジニアリングサービス）
-
-### 主要ソリューション・製品カテゴリ
-
-#### 業種別ソリューション
-| 業種 | 主なソリューション |
-|------|-------------------|
-| **製造業向け** | 基幹システム、SCM/SCP、FA、3D、CAD/CAM/CAE、PDM/PLM、組込み、映像解析、画像処理、XR(MR/AR/VR)、品質検証、数理技術 |
-| **流通業向け** | 輸配送計画自動化ソリューション、貿易業務管理ソリューション |
-| **金融業向け** | 証券会社向けソリューション、金融機関向けPMO運営支援 |
-| **文教向け** | 大学向けソリューション、小中学校・高校向けソリューション |
-| **ホテル・飲食業向け** | ホテルシステム(PMS)、清掃管理、宴会システム |
-| **医療機関向け** | 医療IT クラウドコンプライアンスサービス、医療IT クラウドコンサルティングサービス |
-| **製薬業向け** | 副作用報告支援システム、安全性情報進捗管理システム |
-| **クロスインダストリー** | クラウド・ITインフラ、セキュリティ、アプリケーション開発基盤、ALM、ワークフロー、AI、BI、CRM、ビッグデータ、データベース等 |
-
-### SOLTAGE（ITインフラサービスブランド）
-キヤノンITソリューションズが提供するITインフラサービスのトータルブランド
-- クラウドインテグレーションサービス
-- ネットワークサービス
-- システム運用・保守サービス
-- セキュリティサービス
-- データセンターサービス
-
-### セキュリティサービス主要製品
-- **GUARDIANWALL:** メールセキュリティソフト
-- **AppCheck:** ランサムウェア対策
-- **PCFILTER:** 個人情報検出・管理
-- **ID Entrance:** クラウド型統合ID管理サービス
-- **Cato SASEクラウド:** ゼロトラストセキュリティ
-- ペネトレーションテストサービス
-- 脆弱性情報提供サービス
-- ASMサービス（攻撃表面管理）
-
-### 研究開発技術分野
-- **ソフトウェア技術:** リファレンスアーキテクチャ整備、フレームワーク開発
-- **数理技術:** OR技術応用、サプライチェーンマネジメント（需要予測・生産計画・在庫計画・配送計画）
-- **言語処理技術:** 日本語処理技術、テキストマイニング
-- **映像解析技術:** 深層学習技術、AI映像解析
+| Item | Details |
+|------|---------|
+| **Capital** | 3,617 million JPY |
+| **Revenue** | Non-consolidated: 139,542 million JPY (FY ending December 2024) |
+| **Employees** | Non-consolidated: 4,101 (as of December 31, 2024) |
+| **Shareholder** | Canon Marketing Japan Inc. (100%) |
 
 ---
 
-## 6. Key Clients and Industries Served
+## 5. Products & Services
 
-### 主な顧客業界
-- **製造業:** 自動車、電機、機械等
-- **金融業:** 証券、銀行等
-- **流通・物流業**
-- **医療・製薬業**
-- **教育機関:** 大学、小中高校
-- **ホテル・飲食業**
-- **社会公共**
+### Business Activities
+SI and consulting, development and sales of various software
 
-### 車載開発実績
-車載開発におけるさまざまな課題を豊富な車載開発実績とソフトウェア技術力で支援
+### Business Fields
+- Contract software development
+- Package software
+- Embedded software
+- Information processing services
+- Network and communications
+- SES (System Engineering Service)
+
+### Key Solutions & Product Categories
+
+#### Industry-Specific Solutions
+| Industry | Main Solutions |
+|----------|---------------|
+| **Manufacturing** | Core systems, SCM/SCP, FA, 3D, CAD/CAM/CAE, PDM/PLM, embedded, video analysis, image processing, XR (MR/AR/VR), quality verification, mathematical technology |
+| **Distribution** | Delivery planning automation solution, trade management solution |
+| **Finance** | Securities company solutions, financial institution PMO operation support |
+| **Education** | University solutions, elementary/middle/high school solutions |
+| **Hotel & Food Service** | Hotel systems (PMS), cleaning management, banquet systems |
+| **Healthcare** | Medical IT cloud compliance service, medical IT cloud consulting service |
+| **Pharmaceutical** | Adverse event reporting support system, safety information progress management system |
+| **Cross-Industry** | Cloud/IT infrastructure, security, application development platform, ALM, workflow, AI, BI, CRM, big data, databases |
+
+### SOLTAGE (IT Infrastructure Service Brand)
+Total IT infrastructure service brand provided by Canon IT Solutions
+- Cloud integration services
+- Network services
+- System operations and maintenance services
+- Security services
+- Data center services
+
+### Key Security Products
+- **GUARDIANWALL:** Email security software
+- **AppCheck:** Ransomware countermeasures
+- **PCFILTER:** Personal information detection and management
+- **ID Entrance:** Cloud-based integrated ID management service
+- **Cato SASE Cloud:** Zero-trust security
+- Penetration testing services
+- Vulnerability information services
+- ASM services (Attack Surface Management)
+
+### R&D Technology Areas
+- **Software Technology:** Reference architecture development, framework development
+- **Mathematical Technology:** OR technology applications, supply chain management (demand forecasting, production planning, inventory planning, delivery planning)
+- **Language Processing Technology:** Japanese language processing, text mining
+- **Video Analysis Technology:** Deep learning technology, AI video analysis
 
 ---
 
-## 7. Company Philosophy and Culture
+## 6. Key Clients & Industries
 
-### 経営ビジョン
-**「先進ICTと元気な社員で未来を拓く 共想共創カンパニー」**
+### Major Client Industries
+- **Manufacturing:** Automotive, electronics, machinery, etc.
+- **Finance:** Securities, banking, etc.
+- **Distribution & Logistics**
+- **Healthcare & Pharmaceuticals**
+- **Education:** Universities, elementary/middle/high schools
+- **Hotel & Food Service**
+- **Public Sector**
 
-より技術を磨き、より社員を元気にしてお客さまや社会の未来を拓いていきたい、お客さまと共に考え、共にビジネスを創り出せるような会社であり続けたいという想いを込めたメッセージです。社員が自慢できる会社、さまざまなお客さまが真っ先に相談したい会社、このような企業をめざします。
+### Automotive Development Track Record
+Supporting various challenges in automotive development with extensive experience and software technology capabilities
 
-### キヤノングループの理念
-- **企業理念:** 「共生」
-- **パーパス:** 「想いと技術をつなぎ、想像を超える未来を切り拓く」
-- **行動指針:** 「三自の精神」
+---
 
-### サステナビリティ戦略
-持続可能な社会の実現に貢献するために経営計画と連動したサステナビリティ戦略を策定
+## 7. Company Philosophy & Culture
 
-#### ESGの取り組み
-- **Environment:** 環境保全への取り組み
-- **Society:** 社会への取り組み
-- **Governance:** 健全な企業経営への取り組み
+### Management Vision
+**"A Co-Imagination and Co-Creation Company Opening the Future with Advanced ICT and Energetic Employees"**
 
-### 人材育成
-キヤノングループの企業理念「共生」、行動指針「三自の精神」に基づく行動がとれる人材の育成をめざしています。
+A message embodying the desire to further refine technology, energize employees, and open the future for customers and society. The company aims to be a company that employees are proud of and that various customers want to consult first.
+
+### Canon Group Philosophy
+- **Corporate Philosophy:** "Kyosei" (coexistence)
+- **Purpose:** "Connecting ideas and technology to open a future beyond imagination"
+- **Action Guidelines:** "Three Self Spirit" (self-motivation, self-awareness, self-discipline)
+
+### Sustainability Strategy
+Sustainability strategy aligned with management plans to contribute to a sustainable society
+
+#### ESG Initiatives
+- **Environment:** Environmental conservation efforts
+- **Society:** Social contribution activities
+- **Governance:** Sound corporate management practices
+
+### Talent Development
+Aiming to develop human resources who act based on the Canon Group's "Kyosei" philosophy and "Three Self Spirit" action guidelines
 
 ---
 
 ## 8. Media Mentions
 
-### ニュースリリース・お知らせ（2026年3月）
-- 2026年3月10日
-- 2026年3月6日
-- 2026年3月5日
+### Press Releases & Announcements (March 2026)
+- March 10, 2026
+- March 6, 2026
+- March 5, 2026
 
-### コミュニケーション誌「STIC×DREAM」
-キヤノンITソリューションズが発行するコミュニケーション誌。社会課題や経営課題を解決する最新のソリューションやテクノロジーを紹介。
+### Communication Magazine "STIC x DREAM"
+Communication magazine published by Canon IT Solutions, introducing the latest solutions and technologies for solving social and management challenges.
 
-### オウンドメディア「共想共創ステーション」
-「Butterfly Effect（バタフライ効果）」コンセプト - 小さな変化が時間の経過と共に大きな変化になることを意味
+### Owned Media "Co-Imagination Co-Creation Station"
+"Butterfly Effect" concept — meaning small changes become major transformations over time
 
-### 関係会社ニュース
-- Company Profile 2025/2026 発行
-- サステナビリティレポート2024-2025 発行
+### Related Company News
+- Company Profile 2025/2026 published
+- Sustainability Report 2024-2025 published
 
 ---
 
 ## 9. Summary
 
-キヤノンITソリューションズ株式会社は、1982年設立のキヤノンマーケティングジャパングループの中核IT企業です。資本金36億円、従業員数4,100名以上を擁し、年間売上高約1,400億円を誇る大手システムインテグレーターです。
+Canon IT Solutions Inc. is a core IT company of the Canon Marketing Japan Group, established in 1982. With capital of 3.6 billion JPY, over 4,100 employees, and annual revenue of approximately 140 billion JPY, it is a major system integrator.
 
-### 企業の強み
-1. **豊富な技術力:** 40年以上のソフトウェア開発経験、AI・数理技術・言語処理・映像解析などの先端技術
-2. **幅広い業界対応:** 製造・金融・流通・医療・教育など多岐にわたる業界向けソリューション
-3. **グループシナジー:** キヤノングループの一員として、世界的なブランド力と技術力を活用
-4. **研究開発力:** R&D本部による独自のソリューション開発
-5. **グローバル展開:** 米国・タイなどの海外拠点
+### Company Strengths
+1. **Extensive Technical Capabilities:** 40+ years of software development experience, cutting-edge technologies including AI, mathematical technology, language processing, and video analysis
+2. **Broad Industry Coverage:** Solutions for diverse industries including manufacturing, finance, distribution, healthcare, and education
+3. **Group Synergy:** Leveraging global brand power and technology as part of the Canon Group
+4. **R&D Capabilities:** Proprietary solution development by the R&D Division
+5. **Global Expansion:** Overseas offices in the U.S., Thailand, and other locations
 
-### 主な事業分野
-- SI・コンサルティング
-- 各種ソフトウェア開発・販売
-- クラウド・ITインフラサービス（SOLTAGE）
-- セキュリティソリューション
-- 車載システム開発
-- 需要予測・サプライチェーンソリューション
+### Main Business Areas
+- SI and consulting
+- Various software development and sales
+- Cloud and IT infrastructure services (SOLTAGE)
+- Security solutions
+- Automotive system development
+- Demand forecasting and supply chain solutions
 
-### 採用情報
-- 新卒採用
-- キャリア採用（中途採用）
-- インターンシップ（1day仕事体験）
-- 障がい者採用
+### Recruitment
+- New graduate recruitment
+- Career recruitment (mid-career)
+- Internship (1-day work experience)
+- Disability recruitment
 
 ---
 
-*情報取得日: 2026年3月30日*
-*情報源: https://www.canon-its.co.jp/*
+*Information obtained: March 30, 2026*
+*Source: https://www.canon-its.co.jp/*

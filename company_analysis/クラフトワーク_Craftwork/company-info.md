@@ -2,11 +2,11 @@
 
 ---
 
-## 1. Company Name (JP/EN)
+## 1. Company Name
 
 | Language | Name |
 |----------|------|
-| 日本語 | 株式会社クラフトワーク |
+| Japanese | 株式会社クラフトワーク |
 | English | Craftwork Co., Ltd. |
 | Short | クラフトワーク / CRAFT WORK |
 
@@ -14,217 +14,188 @@
 
 ## 2. Company Contact Information
 
-| 項目 | 内容 |
-|------|------|
-| **住所** | 〒190-0023 東京都立川市柴崎町3-5-15 OSビル5階 |
-| **電話番号** | 042-512-8287 |
-| **メール** | k-saga@craft-server.co.jp (代表) |
-| | y-tainaka@craft-server.co.jp (広報担当) |
-| | ai_info@craft-server.co.jp (AI関連) |
-| **ウェブサイト** | http://www.craft-server.co.jp/ |
-| **代表者** | 嵯峨 幸喜（さが こうき）|
+| Item | Details |
+|------|---------|
+| **Address** | OS Building 5F, 3-5-15 Shibasaki-cho, Tachikawa, Tokyo 190-0023 |
+| **Phone** | 042-512-8287 |
+| **Email** | k-saga@craft-server.co.jp (representative) |
+| | y-tainaka@craft-server.co.jp (PR) |
+| | ai_info@craft-server.co.jp (AI-related) |
+| **Website** | http://www.craft-server.co.jp/ |
+| **Representative** | Koki Saga, President |
 
 ---
 
 ## 3. Company History & Milestones
 
-| 年 | 出来事 |
-|----|--------|
-| **1995年5月17日** | 会社設立（平成7年） |
-| **1995年〜** | 組み込みソフトウェア開発事業を開始 |
-| **2014年** | 医薬品医療機器等法改正により、ソフトウェアが医療機器の範囲に組み込まれたことを機にJIS T2304（IEC62304）対応を強化 |
-| **2024年9月18日** | JIS T2304:2017 プライベート認証取得 |
-| **現在** | 創業29年目、医療機器ソフトウェア開発のリーディングカンパニーとして成長中 |
+| Date | Event |
+|------|-------|
+| **May 17, 1995** | Company established |
+| **1995 onwards** | Started embedded software development business |
+| **2014** | Strengthened JIS T2304 (IEC62304) compliance after the Pharmaceutical and Medical Device Act revision incorporated software into the medical device scope |
+| **September 18, 2024** | Obtained JIS T2304:2017 private certification |
+| **Present** | 29th year since founding, growing as a leading company in medical device software development |
 
 ---
 
-## 4. Capital and Employee Count
+## 4. Capital & Employees
 
-| 項目 | 内容 |
-|------|------|
-| **資本金** | 25,000,000円（2,500万円）|
-| **従業員数** | 約43〜56名（情報源により差異あり）|
-| | 男性：約49名 / 女性：約5〜7名 |
-| **設立日** | 1995年5月19日 |
-
----
-
-## 5. Products and Services
-
-### 事業領域
-
-#### 1. 組込み系ソフトウェア開発
-- 大型装置からRaspberry Piクラスの小規模装置まで対応
-- 医療機器向けソフトウェア開発（IEC62304/JIS T2304準拠）
-
-**開発実績：**
-- 超音波診断装置（大型〜モバイル）
-- 検体分注装置
-- 分析装置
-- 骨密度測定装置
-- X線画像解析システム
-- 非破壊検査装置
-- 放射線測定装置
-
-#### 2. Webシステム・アプリケーション開発
-- 大規模Webフレームワーク開発
-- Webアプリケーション開発
-- スマートデバイスアプリケーション開発（iOS/Android）
-- 1秒間に8000トランザクションを処理可能な高負荷システム構築
-
-#### 3. AI開発・ソリューション
-- エッジAI開発
-- 3D人体モデリング技術（1枚の静止画から人体モデル生成）
-- 顔認証機能
-- 医療機器・エッジデバイス向けAI開発
-
-#### 4. 監視システム開発
-- トンネル内監視システム
-- 港湾監視システム
-- 高速道路監視システム
-- 河川監視システム
-
-### 技術スタック
-
-| カテゴリ | 技術 |
-|----------|------|
-| **開発環境** | Visual Studio、Eclipse、Android Studio、Xamarin、Xcode |
-| **開発言語** | C、C++、C#、Python、Swift、アセンブラ |
-| **動作環境** | Windows、Windows Embedded、Linux、Android、iOS、ITRON系、OSレス |
+| Item | Details |
+|------|---------|
+| **Capital** | 25,000,000 JPY |
+| **Employees** | Approximately 43-56 (varies by source); Male: ~49, Female: ~5-7 |
+| **Founded** | May 19, 1995 |
 
 ---
 
-## 6. Key Clients and Industries Served
+## 5. Products & Services
 
-### 主要顧客層
+### Business Areas
 
-| 分類 | 内容 |
-|------|------|
-| **大手メーカー** | 医療機器メーカーを中心とした製造業 |
-| **大手Sier** | 野村総合研究所を中心とした大手システムインテグレーター |
-| **医療機関・関連企業** | 医療機器製造業、医療システム開発企業 |
+#### 1. Embedded Software Development
+- Supporting everything from large-scale equipment to Raspberry Pi-class small devices
+- Medical device software development (IEC62304/JIS T2304 compliant)
 
-### 主要産業領域
+**Development Track Record:**
+- Ultrasound diagnostic equipment (large-scale to mobile)
+- Sample dispensing equipment
+- Analysis equipment
+- Bone density measurement equipment
+- X-ray image analysis systems
+- Non-destructive inspection equipment
+- Radiation measurement equipment
 
-- **医療・ヘルスケア**（主力）
-  - 超音波診断装置
-  - 骨密度測定器
-  - 検体検査装置
-  - 分注装置
+#### 2. Web System & Application Development
+- Large-scale web framework development
+- Web application development
+- Smart device application development (iOS/Android)
+- High-load system construction capable of processing 8,000 transactions per second
 
-- **インフラ・監視**
-  - トンネル監視
-  - 港湾監視
-  - 高速道路監視
-  - 河川監視
+#### 3. AI Development & Solutions
+- Edge AI development
+- 3D human body modeling technology (generating human models from a single still image)
+- Facial recognition features
+- AI development for medical devices and edge devices
 
-- **Web・エンタープライズ**
-  - 大規模Webシステム
-  - クラウドベースアプリケーション
+#### 4. Monitoring System Development
+- Tunnel monitoring systems
+- Port/harbor monitoring systems
+- Highway monitoring systems
+- River monitoring systems
 
-### パートナー企業
+### Technology Stack
 
-- **アムニモ株式会社** - エッジゲートウェイAX11と連携した顔認証ソリューション提供
-- **野村総合研究所（NRI）** - 大手Sierとして協業
-
----
-
-## 7. Company Philosophy and Culture
-
-### 経営理念
-
-> **「技術で社会に貢献する」**
-
-### 代表メッセージ（要約）
-
-創業以来一貫してソフトウェア開発事業を軸に事業展開。お客様からの高い評価は、エンジニアが開発事業に真摯に取り組んできた結果として受け止めている。今後もお客様に必要とされる会社として歩んでいく。
-
-### 企業文化の特徴
-
-- **品質重視**: IEC62304/JIS T2304準拠の厳格な品質管理プロセス
-- **技術力**: 創業以来蓄積された組み込みソフトウェア開発のノウハウ
-- **継続的取引**: 長きに渡り継続して発注をいただいている顧客関係
-- **最先端技術**: AI分野（特にエッジAI）での評価
-
-### 認証・加盟団体
-
-| 認証・加盟 | 内容 |
-|------------|------|
-| **JIS T 2304:2017** | 医療機器ソフトウェア ライフサイクルプロセス（プライベート認証取得）|
-| **日本HL7協会** | 医療情報標準化団体 |
-| **神奈川県情報サービス産業協会** | 地域IT団体 |
-| **町田ソフトウェア振興会** | 地域ソフトウェア団体 |
+| Category | Technologies |
+|----------|-------------|
+| **Development Environment** | Visual Studio, Eclipse, Android Studio, Xamarin, Xcode |
+| **Programming Languages** | C, C++, C#, Python, Swift, Assembly |
+| **Operating Environments** | Windows, Windows Embedded, Linux, Android, iOS, ITRON-based, OS-less |
 
 ---
 
-## 8. Media Mentions (報道・メディア掲載)
+## 6. Key Clients & Industries
 
-### プレスリリース・ニュース
+### Major Client Segments
 
-#### 2024年9月 - JIS T2304規格適合認証取得
+| Category | Details |
+|----------|---------|
+| **Major Manufacturers** | Manufacturing companies centered on medical device manufacturers |
+| **Major SIers** | Large system integrators, primarily Nomura Research Institute (NRI) |
+| **Medical Institutions** | Medical device manufacturing, medical system development companies |
 
-**出典:** 
-- ドリームニュース (Dreamnews) - 2024年9月18日
-- CNET Japan
+### Major Industry Areas
 
-**概要:**
-医療系装置やAIの受託開発を展開するクラフトワークが、医療機器用ソフトウェアの開発と保守に関する規格『JIS T2304:2017』のプライベート認証を取得。これにより、医療機器を扱うメーカーやサプライヤー向けにJIS T2304準拠のソフトウェア開発を提供可能となった。
+- **Medical & Healthcare** (core business)
+  - Ultrasound diagnostic equipment
+  - Bone density measurement devices
+  - Sample testing equipment
+  - Dispensing equipment
 
-> 「JIS T2304の規格要件に従うことは、医療機器において高信頼性かつ安全なソフトウェア開発が行われていることの『お墨付き』となります」
-> — 嵯峨 幸喜 代表取締役
+- **Infrastructure & Monitoring**
+  - Tunnel monitoring
+  - Port monitoring
+  - Highway monitoring
+  - River monitoring
 
-### 企業データベース掲載
+- **Web & Enterprise**
+  - Large-scale web systems
+  - Cloud-based applications
 
-| メディア | 内容 |
-|----------|------|
-| [東京カイシャハッケン伝](https://tokyo-kigyo.metro.tokyo.lg.jp/) | 東京都による企業紹介サイトに掲載。医療用超音波診断装置の組み込みソフト開発を主な事業として紹介 |
-| [バフェット・コード](https://www.buffett-code.com/) | 企業財務情報サイトに登録 |
-| [Baseconnect](https://baseconnect.in/) | B2B企業データベースに掲載 |
-| **転職会議** | 従業員口コミ8件掲載 |
-| [OpenWork](https://www.vorkers.com/) | 組織体制・企業文化の情報掲載 |
+### Partner Companies
 
-### パートナーシップ発表
+- **Aminimo Inc.** - Providing facial recognition solutions integrated with Aminimo's Edge Gateway AX11
+- **Nomura Research Institute (NRI)** - Collaboration as a major SIer partner
 
-#### アムニモ株式会社セミナー出演
+---
 
-**出典:** クラフトワーク公式サイト コラム
+## 7. Company Philosophy & Culture
 
-**概要:**
-アムニモ株式会社主催のオンラインセミナーで、アムニモ製エッジゲートウェイAX11とクラフトワークの顔認証機能を組み合わせたソリューションを紹介。
+### Corporate Philosophy
+
+> **"Contributing to society through technology"**
+
+### Representative's Message (Summary)
+Since founding, the company has consistently centered its business on software development. The high evaluations from customers are recognized as the result of engineers sincerely dedicating themselves to development projects. The company aims to continue as a company that is needed by its customers.
+
+### Corporate Culture Characteristics
+
+- **Quality Focus:** Rigorous quality management processes compliant with IEC62304/JIS T2304
+- **Technical Expertise:** Embedded software development know-how accumulated since founding
+- **Long-term Relationships:** Enduring customer relationships with continuous orders
+- **Cutting-edge Technology:** Recognition in the AI field, particularly edge AI
+
+### Certifications & Memberships
+
+| Certification/Member | Details |
+|---------------------|---------|
+| **JIS T 2304:2017** | Medical device software lifecycle processes (private certification obtained) |
+| **Japan HL7 Association** | Medical information standardization organization |
+| **Kanagawa Information Services Industry Association (KIA)** | Regional IT association |
+| **Machida Software Promotion Association** | Regional software organization |
+
+---
+
+## 8. Media Mentions
+
+### Press Releases & News
+
+#### September 2024 - JIS T2304 Standard Certification Obtained
+
+**Sources:** Dreamnews (September 18, 2024), CNET Japan
+
+**Summary:**
+Craftwork, which develops medical equipment and AI on a contract basis, obtained private certification for JIS T2304:2017, the standard for medical device software development and maintenance. This enables the company to provide JIS T2304-compliant software development to medical device manufacturers and suppliers.
+
+> "Compliance with JIS T2304 standard requirements serves as a 'stamp of approval' that highly reliable and safe software development is being conducted for medical devices."
+> — Koki Saga, President
+
+### Company Database Listings
+
+| Media | Content |
+|-------|---------|
+| [Tokyo Company Hacker-den](https://tokyo-kigyo.metro.tokyo.lg.jp/) | Listed on Tokyo Metropolitan Government company introduction site |
+| [Buffett Code](https://www.buffett-code.com/) | Registered on corporate financial information site |
+| [Baseconnect](https://baseconnect.in/) | Listed on B2B company database |
+| **Tenshoku Kaigi** | 8 employee reviews posted |
+| [OpenWork](https://www.vorkers.com/) | Organizational structure and corporate culture information |
 
 ---
 
 ## 9. Summary
 
-### 企業概要まとめ
+**Craftwork Co., Ltd.** is a contract software development company based in Tachikawa, Tokyo, established in 1995. Since founding, the company has focused on **embedded software development**, with industry-leading track records particularly in **medical device software** (ultrasound diagnostic equipment, bone density measurement devices, etc.).
 
-**株式会社クラフトワーク**は、1995年に設立された東京都立川市のソフトウェア受託開発企業。創業以来**組み込みソフトウェア開発**を主力とし、特に**医療機器向けソフトウェア**（超音波診断装置、骨密度測定器など）において業界トップクラスの実績を持つ。
+### Competitive Advantages
 
-### 競合優位性
+1. **Deep Expertise in Medical Devices** - 15+ years of medical device software development, JIS T2304:2017 certification
+2. **Broad Technical Capabilities** - From large equipment to embedded (Raspberry Pi-class); covering embedded, web, and AI/edge AI
+3. **Trust from Major Clients** - Continuous orders from major manufacturers and SIers
+4. **AI Technology Investment** - Unique technology for 3D human modeling from a single still image; edge AI expertise
 
-1. **医療機器分野の深い専門性**
-   - 15年以上の医療機器ソフトウェア開発実績
-   - JIS T2304:2017認証取得（高信頼性・安全性の証明）
-   - IEC62304準拠プロセス
-
-2. **幅広い技術対応力**
-   - 大型装置から組込み（Raspberry Piクラス）まで
-   - 組込み、Web、AI/エッジAIの3領域をカバー
-   - 多言語・多プラットフォーム対応
-
-3. **大手顧客からの信頼**
-   - 大手メーカー、大手Sierからの継続的発注
-   - 野村総合研究所を中心としたSIerとの協業実績
-
-4. **AI技術への投資**
-   - 1枚の静止画から人体モデリングする独自技術
-   - エッジAI分野での評価確立
-
-### 今後の展望
-
-医療機器業界においてJIS T2304準拠のニーズが高まる中、同規格に準拠したソフトウェア開発とドキュメント化の支援を積極的に推進。また、新規医療機器開発案件のみならず、既存医療機器のISO13485更新審査対応やJIS T2304準拠の開発支援も展開予定。
+### Future Outlook
+With growing demand for JIS T2304-compliant development in the medical device industry, the company is actively promoting JIS T2304-compliant software development and documentation support. Also expanding to support ISO13485 renewal reviews and JIS T2304-compliant development for existing medical devices.
 
 ---
 
-*分析日: 2026年3月30日*
-*情報源: 公式ウェブサイト、プレスリリース、企業データベース、パートナー企業情報*
+*Analysis Date: March 30, 2026*
+*Sources: Official website, press releases, company databases, partner company information*
