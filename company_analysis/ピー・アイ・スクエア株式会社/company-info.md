@@ -1,96 +1,71 @@
-# ピー・アイ・スクエア株式会社 (ピー・アイ・スクエア)
-## Company Analysis Report
+# ピー・アイ・スクエア株式会社 (PI Square Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+PI Square Co., Ltd. is a web design and system development company founded over 30 years ago (founded March 29, 1991), headquartered in Kanagawa-ku, Yokohama, Kanagawa. With a small team of 6-9 employees, the company provides website construction, smartphone site development, site operations, system development, graphic design, and project management services. The company primarily develops applications centered on networks and databases, including planning, design, and development of applications and peripheral devices.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | ピー・アイ・スクエア株式会社 |
-| **English** | ピー・アイ・スクエア |
-| **Reading** | TBD |
+**Website:** https://www.pisquare.co.jp/
 
----
+## History
 
-## 2. Company Contact Information
+- **March 29, 1991** - Company founded
+- **March 2021** - Celebrated 30th anniversary
+- **2025** - Participated in Yokohama Job Fair 2025
 
-### Headquarters
-- **Address:** 〒221-0835 神奈川県横浜市神奈川区鶴屋町3-31-5 代表者 守屋光博 電話番号 045-313-9331 ファックス 045-313-9332 ホーム
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 045
-- **Website:** https://www.ikesai.com/db/10490.html
+## Headquarters & Offices
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Address |
+|----------|---------|
+| **Headquarters** | 3-31-5 Tsuruya-cho, Kanagawa-ku, Yokohama, Kanagawa 221-0835 |
+| **Phone** | 045-313-9331 |
+| **Fax** | 045-313-9332 |
 
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **社員数 (Employees)** | 6人 |
+| **Employees** | 6-9 |
+| **Representative** | Mitsuhiro Moriya |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. 通販サイト ＫＡＷＡＮＯＷＡ http://shop.kawanowa.com/ ▼横浜DeNAベイスターズ オフィシャルwebショップ https://ec.baystars.co.jp/ 紹介文
-2. オンラインショップ・EC スポーツ ニュース 生活 教育・学校 飲・食 旅行・交通 流通・販売 通信・テレビ 自動車・バイク PC・電子機器 ポータル・ブログ デザイン ファッション 娯楽・イベント
+- **Website Construction** - PC and smartphone website design and development
+- **System Development** - Application development (network/database-focused)
+- **Site Operations** - Ongoing website management and maintenance
+- **Graphic Design** - Visual design for web and print
+- **Project Management** - End-to-end project coordination
+- **Embedded Development** - Hardware/software integration
+- **Human Resources Dispatch** - IT professional staffing
 
-### Business Description
-サイト構築 スマートフォンサイト構築 サイト運営 システム開発 グラフィックデザイン その他 スタッフ数 6人～9人 主な実績 ▼克・亜樹 オフィシャルサイト http://www.katsu-aki.com/ ▼革製品通販サイト ＫＡＷＡＮＯＷＡ http://shop.kawanowa.com/ ▼横浜DeNAベイスターズ オフィシャルwebショップ https://ec.baystars.co.jp/ 紹介文 システム開発、組み込み、デザイン 開発のすべてをサポートいたします。 ピー・アイ・スクエア株式会社のサイト制作実績・ポートフォリオ イケサイ掲載中の制作実績 この会社のWebサイト制作実績 情報は現在ありません。 関連するページ この制作会社のサイト評判 はてなブックマークでのコメント(ブックマーク数： 4 ) 関連する制作会社 神奈川県ウェブ制作会社 横浜市神奈川区ウェブ制作会社 イケてるWebサイト制作会社をお探しの方へ イケサイに掲載されているようなウェブサイトを作りたい、スマートフォンサイトを作りたいという方は下記の見積もり依頼フォームからお問い合わせ下さい。 WE
----
+### Key Portfolio
+- Katsu-Aki Official Website (artist)
+- KAWANOWA Online Shop (leather goods e-commerce)
+- Yokohama DeNA BayStars Official Web Shop (professional baseball e-commerce)
 
-## 6. Key Clients and Industries Served
+## Philosophy
 
-- Information Technology
-- System Development
-- Software Solutions
+Not publicly available in detail.
 
----
+## Media Mentions
 
-## 7. Company Philosophy and Culture
+- [Official Website](https://www.pisquare.co.jp/) - System development and web design
+- [Facebook](https://www.facebook.com/pisquare.co.jp/) - "30th anniversary celebrated March 2021 thanks to everyone's support"
+- [Buffett Code](https://www.buffett-code.com/) - "Primarily develops applications centered on networks and databases"
+- [Nikkei Compass](https://www.nikkei.com/compass/) - Kanagawa-based custom software development company
+- [EMS Japan](https://www.ems-jp.net/) - Design, project management, human resources dispatch, development
+- [Mynavi](https://job.mynavi.jp/) - Recruitment information
+- [doda](https://doda.jp/) - Mid-career recruitment
 
-TBD - Additional research needed.
----
+## Notes
 
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| [システム開発・Webデザイン ピー・アイ・スクエア株式会社](https://www.pisquare.co.jp/) | Web | # システム開発・Webデザイン　ピー・アイ・スクエア株式会社. ### NEWS. :   ＜横浜就職フェア2025 参加決定＞弊社は3/19(水)13:00 |
-| [ピー・アイ・スクエア株式会社の会社情報と与信管理](https://www.nikkei.com/compass/company/di975iNt9QzyBGbc7iXQWN) | News | ピー・アイ・スクエア株式会社. ピー・アイ・スクエア株式会社は受託開発ソフトウェア業を営む神奈川県の企業. 法人種別. 株式会社. 会社ホームページ. |
-| [ピー・アイ・スクエア株式会社](http://www.ems-jp.net/members/detail/70) | Web | ## 企業情報. ### ピー・アイ・スクエア株式会社さんの基本情報. | 該当する工程 | デザイン プロジェクトマネージャー 人材派遣 メーカー 開発全般  |
-| [ピー・アイ・スクエア株式会社 の企業情報](https://www.buffett-code.com/company/2mslh2lrh7/) | Web | ピー・アイ・スクエア株式会社は主にネットワークとデータベースを主体としたアプリケーションおよび周辺機器の企画・設計・開発を手掛けています。 |
-| [ピー・アイ・スクエア(株)の採用データ](https://job.mynavi.jp/27/pc/search/corp100023/employment.html) | Web | 問合せ先 ; ピー・アイ・スクエア株式会社〒221-0835 神奈川県横浜市神奈川区鶴屋町3-29-3 採用担当. TEL：045-313-9331 FAX：0 |
-| [ピー・アイ・スクエア株式会社](https://www.facebook.com/pisquare.co.jp/?locale=ja_JP) | Web | おかげさまで、ピー・アイ・スクエア株式会社は2021 年3月29日に創業30周年を迎えることができました。 これもひとえに皆様のご支援、ご愛顧の賜物と心から 感 |
-| [ピー・アイ・スクエア株式会社の転職・企業概要](https://doda.jp/DodaFront/View/Company/j_id__10004939583/) | Web | ピー・アイ・スクエア株式会社の求人や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。dodaの企業情報ページでは上場企業や、大手から中小企業 |
-
----
-
-## 9. Summary
-
-### Company Overview
-ピー・アイ・スクエア株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  Employees: 6人.
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- 30+ years of operation since 1991
+- Small but established company (6-9 employees)
+- Diverse capabilities: web design, system development, embedded, project management
+- Notable clients include Yokohama DeNA BayStars (professional baseball)
+- Network and database application specialist
+- KIA member company
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
