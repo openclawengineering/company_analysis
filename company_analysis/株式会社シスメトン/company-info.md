@@ -1,101 +1,80 @@
-# 株式会社シスメトン (シスメトン)
-## Company Analysis Report
+# 株式会社シスメトン (Cisumeton Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Cisumeton Co., Ltd. is a Kanto-based IT services company founded in April 2016, headquartered in Hodogaya-ku, Yokohama, Kanagawa. With 15 employees and capital of 12 million JPY, the company operates three business divisions: SES (System Engineering Services), IT Solutions, and "Enishi" (Connection/Relationships). The company emphasizes human connections and relationships, positioning itself as "an IT company that places great importance on human bonds."
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社シスメトン |
-| **English** | シスメトン |
-| **Reading** | TBD |
+**Website:** https://cisumeton.com/
 
----
+## History
 
-## 2. Company Contact Information
+- **April 2016** - Company founded
 
-### Headquarters
-- **Address:** 〒240-0033 神奈川県横浜市保土ヶ谷区境木本町21‐9 横須賀線 東戸塚駅 東口より徒歩1分/東戸塚駅前バス停乗車、境木地蔵尊バス停下 車（所要時間7分）
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 045
-- **Website:** https://mid-tenshoku.com/agency/a-8519/
-- **Email:** common@cisumeton.com
+## Headquarters & Offices
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Address |
+|----------|---------|
+| **Headquarters** | 21-9 Sakaegimotomachi, Hodogaya-ku, Yokohama, Kanagawa 240-0033 |
+| **Access** | 1-min walk from Higashi-Totsuka Station East Exit (JR Yokosuka Line) |
+| **Phone** | 045-308-3188 |
+| **Email** | common@cisumeton.com |
+| **Kagoshima Office** - Signed location agreement with Kagoshima City |
 
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金 (Capital)** | 1200万円 |
-| **社員数 (Employees)** | 15名 |
-| **代表者 (Representative)** | 者名 |
+| **Capital** | 12,000,000 JPY |
+| **Employees** | 15 |
+| **Founded** | April 2016 |
 
----
+## Products & Services
 
-## 5. Products and Services
+### SES (System Engineering Services)
+- System design, development, and operations
+- Specialized technical staff support for client projects
+- IT engineer dispatch
 
-### Core Business Areas
-1. 事業等を展開している当社で、ITエンジニアをお任せします。 未経験・異業種からの転職入社の実績も多数あり、教育体制が整備されているため安心して挑戦して頂けます 全 2 件の求人情報を掲載中 求人の一覧
-2. 業種問わずあらゆる方々との縁を発展させ、地域・企業・人の活性化をお手伝いします。 事業所 本社 〒240-0033 神奈川県横浜市保土ヶ谷区境木本町21‐9 横須賀線 東戸塚駅 東口より徒歩1分/東戸
-3. 一覧 求職者様向け求人サービス 企業様向けサービス © en Inc.
-4. 内容 ■SES事業 システム設計、開発、運用等、各種専門の技術者が支援いたします。 ■ITコンサルテシング お客様のニーズに合わせたシステムの導入、システムの改善により事業戦略や業務プロセスの改善をお
+### IT Consulting
+- System implementation tailored to customer needs
+- Business strategy and business process improvement through system enhancement
 
-### Business Description
-■SES事業 システム設計、開発、運用等、各種専門の技術者が支援いたします。 ■ITコンサルテシング お客様のニーズに合わせたシステムの導入、システムの改善により事業戦略や業務プロセスの改善をお手伝いいたします。 ■縁（えにし）事業 業種問わずあらゆる方々との縁を発展させ、地域・企業・人の活性化をお手伝いします。 事業所 本社 〒240-0033 神奈川県横浜市保土ヶ谷区境木本町21‐9 横須賀線 東戸塚駅 東口より徒歩1分/東戸塚駅前バス停乗車、境木地蔵尊バス停下 車（所要時間7分）徒歩6分 TEL 045-308-3188 営業部／中途採用担当 common@cisumeton.com ホームページ https://cisumeton.com/ 求人情報 全 2 件掲載中 うちシークレット求人件数 1 件 再掲載 【システムエンジニア】地方から上京される方はサポート有！ / 株式会社シスメトン 関東を拠点にシステムエンジニアリングサービス事業等を展開している当社で、ITエンジニアをお任せします。 未経験・異業種からの転職入社の実績も多数あり、教育体制が整備されているため安心して挑戦
----
+### "Enishi" (Connection/Relationships) Business
+- Developing connections with people across all industries
+- Supporting regional, corporate, and individual revitalization
+- Community-focused initiatives
 
-## 6. Key Clients and Industries Served
+## Clients
 
-- Information Technology
-- System Development
-- Software Solutions
+Various enterprises requiring IT engineering services and system development.
 
----
+## Philosophy
 
-## 7. Company Philosophy and Culture
+### Core Philosophy
+"Employee happiness develops into social happiness" — The company believes that happy employees create positive impact on society.
 
-TBD - Additional research needed.
----
+### Core Values
+- **Valuing Community** — Individual power has limits; understanding and supporting each other creates stronger results
+- **Placing importance on human connections** — Beyond just being an IT company, focusing on relationships and bonds
 
-## 8. Media Mentions
+## Media Mentions
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社シスメトン](https://cisumeton.com/) | Web | # 株式会社シスメトン. 株式会社シスメトンは、関東を拠点にシステムエンジニアリングサービス事業、ITソリューション事業、縁（えにし）事業を展開しています。.  |
-| [株式会社シスメトン cisumeton](https://www.facebook.com/cisumeton/?locale=ja_JP) | Web | 株式会社シスメトン cisumeton. 2016年4月創業の企業です。 IT会社ではありますが、より人との繋がりや縁に重 きを置いて世の中に貢献して行きます。 |
-| [株式会社シスメトンの求人・採用情報](https://seniorjob.jp/company-1860/) | Web | # シニアの求人・転職・仕事探しならシニアジョブ. # シニアの求人・転職・仕事探しならシニアジョブ. # 株式会社シスメトンの求人・転職・募集情報【シニアジョ |
-| [株式会社シスメトンの会社情報](https://www.wantedly.com/companies/common_cisumeton) | Web | ## 株式会社シスメトン. ## 社員の幸福が社会の幸福に発展する. ## 価値観. ### コミュニティを大切に. 一人の力には限界があります、互いを理解し支 |
-| [株式会社シスメトンとの立地協定](https://www.city.kagoshima.lg.jp/san-sousyutu/kigyoritchi/ritchikyote/cisumeton.html) | Web | 鹿児島市企業立地ガイド | ～世界へ羽ばたく企業へと、鹿児島市は全力でバックアップします。～ > 最近の立地協定 > 株式会社シスメトンとの立地協定. 企業立地 |
-| [株式会社シスメトンの中途採用・転職・求人情報｜転職エージェントならリクルートエージェント](https://www.r-agent.com/company/f7482/) | Web | ###### 求人を探す. ###### サービス紹介. ###### 転職成功ガイド. ###### お問い合わせ. # 株式会社シスメトンの中途採用・転職・ |
-| [株式会社シスメトンの会社情報と与信管理](https://www.nikkei.com/compass/company/eRy2cuHNW6UuNbydQoNJj8) | News | # 株式会社シスメトンの会社情報と与信管理 | NIKKEI COMPASS - 日本経済新聞. # 株式会社シスメトン. Image 1: 未提供の企業情報は |
+- [Official Website](https://cisumeton.com/) - "SES, IT Solutions, and Enishi businesses"
+- [Facebook](https://www.facebook.com/cisumeton/) - "Founded April 2016. An IT company that places importance on human connections"
+- [Wantedly](https://www.wantedly.com/companies/common_cisumeton) - "Employee happiness develops into social happiness"
+- [Kagoshima City Location Agreement](https://www.city.kagoshima.lg.jp/) - Corporate location partnership
+- [Senior Job](https://seniorjob.jp/company-1860/) - Senior employment opportunities
+- [doda](https://doda.jp/) - Mid-career recruitment: "Support for those relocating from rural areas"
 
----
+## Notes
 
-## 9. Summary
-
-### Company Overview
-株式会社シスメトン is a KIA member company based in Kanagawa Prefecture, Japan. Capital: 1200万円. Employees: 15名.
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Relatively young company (founded 2016)
+- Small team (15 employees) with focus on human connections
+- Unique "Enishi" business division focusing on community building
+- Expanding geographically (Kagoshima office)
+- Supports career changers and people relocating from rural areas
+- KIA member company
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
