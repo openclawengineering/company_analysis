@@ -1,169 +1,108 @@
 # 株式会社クオリカパーソネルアーチ (Quolica Personnel Arch Co., Ltd.)
 
-## 会社概要 / Company Profile
+## Company Overview
 
-> **⚠️ 重要な注意事項 / Important Notice:**
-> タスクで指定された情報（横浜市緑区長津田4-505、ソフトウェア開発業）と、実際のウェブサイト（quolica.co.jp）の会社情報（東京都渋谷区、人材紹介業）に不一致があります。以下は quolica.co.jp から収集した実際の会社情報です。
->
-> **Discrepancy noted:** The task description specified a software development company in Yokohama (226-0027 横浜市緑区長津田4-505), but the website quolica.co.jp belongs to a different company - a headhunting firm in Tokyo. The information below reflects the actual company found at the provided URL.
+Quolica Personnel Arch Co., Ltd. is a headhunting and executive search firm founded in April 2010, headquartered in Shibuya, Tokyo. With capital of 10 million JPY, the company specializes in high-class talent introduction services primarily for the cosmetics, food, textile, apparel, healthcare, and medical device industries. The company operates with the philosophy of "Sanpo-yoshi" (benefit for all three parties: clients, candidates, and society).
 
----
+> **Important Notice:** A discrepancy was noted between the task description (software development company in Yokohama) and the actual company found at the provided URL (headhunting firm in Tokyo). The information below reflects the actual company at quolica.co.jp.
 
-## 1. Company Name (会社名)
+**Website:** https://www.quolica.co.jp
 
-| | |
-|---|---|
-| **日本語名** | 株式会社クオリカパーソネルアーチ |
-| **English Name** | QUOLICA PERSONNEL ARCH CO., LTD |
+## History
 
----
+| Date | Event |
+|------|-------|
+| **April 2010** | Company founded |
 
-## 2. Company Contact Information (連絡先)
+## Capital & Employees
 
-| 項目 | 内容 |
-|---|---|
-| **所在地 (Address)** | 〒150-0043<br>東京都渋谷区道玄坂1-15-3 プリメーラ道玄坂1004 |
-| **電話番号 (Phone)** | 03-6455-5548（代表） |
-| **FAX番号** | 03-6455-5549 |
-| **E-Mail** | info@quolica.co.jp |
-| **Website** | https://www.quolica.co.jp |
+| Item | Details |
+|------|---------|
+| **Capital** | 10,000,000 JPY |
+| **Employees** | Undisclosed (advisory panel: 20+ members) |
+| **License** | Minister of Health, Labour and Welfare Permit: 13-ユ-304692 |
+| **Headquarters** | Primera Dogenzaka 1004, 1-15-3 Dogenzaka, Shibuya-ku, Tokyo 150-0043 |
+| **Phone** | 03-6455-5548 |
+| **Fax** | 03-6455-5549 |
+| **Email** | info@quolica.co.jp |
 
----
+## Products & Services
 
-## 3. Company History & Milestones (設立・沿革)
+### Executive Search / Headhunting
+- **Retainer Type** - Comprehensive market talent survey within a specified period
+- **Success Fee Type** - Intensive candidate search from pool within a short timeframe
 
-| 年月 | 内容 |
-|---|---|
-| **2010年4月** | 会社設立 |
+### Comprehensive HR Consulting
+- Career counseling and job transition support
+- One-on-one personalized consultation
 
-> 注: 詳細な沿革情報は公開されていません
+### New Graduate Recruitment Agency & Support
+- Recruitment activity follow-up
+- Interview proxy services
 
----
+### Disability Employment Agency & Support
+- Legal employment quota support
+- Interview proxy services
 
-## 4. Capital and Employee Count (資本金・従業員数)
+### Market Research
+- Internal and external talent surveys
 
-| 項目 | 内容 |
-|---|---|
-| **資本金** | 10,000,000円（1,000万円） |
-| **従業員数** | 非公開（顧問陣は20名以上） |
-| **許可番号** | 厚生労働大臣許可 13-ユ-304692 |
+### M&A & Corporate Support
+- Venture business development and investment
+- Management and sales support
+- Business matching
 
----
+### Membership Programs
+- "Lifetime Active" association
+- "Passion 21"
 
-## 5. Products and Services (事業内容)
+### Target Industries
+- Cosmetics and beauty
+- Food
+- Textiles
+- Apparel
+- Healthcare
+- Medical devices
+- Consumer goods
 
-### 主要サービス
+## Key Clients & Industries
 
-1. **エグゼクティブサーチ／ヘッドハンティング**
-   - リテイン型（一定期間内に市場の人材をくまなく調査）
-   - 成功報酬型（短期間で集中的に候補者プールからサーチ）
+### Target Industries
+- Cosmetics & beauty - High-class talent introduction
+- Food - Executive and specialist search
+- Textiles & apparel - Executive talent matching
+- Healthcare & medical - Specialist talent introduction
 
-2. **総合人材コンサルティング**
-   - キャリア相談・転職支援
-   - マンツーマン対応
+### Service Characteristics
+- Many direct offers from business owners/executives
+- Three-way meetings: candidate, dedicated consultant, and client
+- Individual matching (no mass offer emails)
+- Post-hiring follow-up support
 
-3. **新卒採用代行及びサポート**
-   - 採用活動のフォロー
-   - 面接代行
+## Philosophy
 
-4. **障害者雇用代行及びサポート**
-   - 法定雇用枠のサポート
-   - 面接等の代行
+### Corporate Philosophy
+"We at Quolica will promote the correct creation of encounters (opportunities) between companies and people, and between people and people, with originality, contributing to the development of human society."
 
-5. **市場調査**
-   - 社内外の人材調査
+### Management Policy
+"Sanpo-yoshi" (benefit for all three parties: clients, candidates, and society) as an absolute principle.
 
-6. **M&A・企業サポート**
-   - ベンチャー事業育成・投資
-   - 経営・営業サポート
-   - ビジネスマッチング
+### Three Major Service Benefits
+1. **Special Offers from Executives** - Many direct offers from business owners
+2. **Always One-on-One Support** - Matching companies tailored specifically to you
+3. **Thorough Follow-up to the End** - Support from hiring through creating a comfortable work environment
 
-7. **会員制事業**
-   - 生涯現役の会
-   - パッション21
+## Related Company
+- **Ikueco Inc.** (https://ikueco.co.jp/) - Apparel waste product buying, wholesale, and retail business; environmental welfare social contribution activities
 
-### 対象業界
-- 化粧品業界
-- 食品業界
-- 繊維業界
-- アパレル業界
-- ヘルスケア業界
-- メディカルデバイス業界
-- 消費財業界
+## Notes
 
----
-
-## 6. Key Clients and Industries Served (主要顧客・業界)
-
-### 対象業界
-- **化粧品・美容業界** - ハイクラス人材の紹介
-- **食品業界** - 経営層・専門職のサーチ
-- **繊維・アパレル業界** - エグゼクティブ人材のマッチング
-- **ヘルスケア・メディカル業界** - 専門人材の紹介
-
-### サービスの特徴
-- 経営者からの直接オファーを多く取り扱い
-- 候補者・専任コンサルタント・クライアントの三者面談
-- 個別マッチング（一斉オファーメールなし）
-- 採用後のフォローサポート
+- Discrepancy between task-specified information (Yokohama software developer) and actual company (Tokyo headhunting firm)
+- Strong advisory panel of 20+ industry experts
+- Focus on consumer goods and lifestyle industries
+- Individual interview-based matching rather than database searches
 
 ---
 
-## 7. Company Philosophy and Culture (企業理念・文化)
-
-### 経営理念
-> 「我々クオリカは、企業と人・人と人との出会い（チャンス）の正しい創出を、独創性をもって推進し、人間社会の発展に貢献いたします。」
-
-### 経営方針
-> 「三方（顧客・候補者・世間）善し」を絶対といたします
-
-### 3大メリット（サービス特徴）
-1. **経営者からの特別オファー** - 経営者からの直接オファーを多く取り扱い
-2. **いつでもマンツーマン対応** - あなただけにマッチした企業を選定
-3. **最後まで手厚いフォロー** - 採用後の働きやすい環境づくりまでサポート
-
----
-
-## 8. Media Mentions (メディア掲載・ニュース)
-
-> **注:** 検索APIが利用できなかったため、メディア掲載情報は収集できませんでした。
->
-> **Note:** Due to search API limitations, media mentions could not be collected. Manual web search may be required for comprehensive media coverage.
-
-### 推奨検索キーワード
-- "クオリカパーソネルアーチ ニュース"
-- "Quolica Personnel Arch news"
-- "株式会社クオリカ 採用"
-
----
-
-## 9. Summary (要約)
-
-### 会社概要
-株式会社クオリカパーソネルアーチは、2010年4月に設立された東京都渋谷区に本社を置く人材紹介・エグゼクティブサーチ会社です。資本金1,000万円で、主に化粧品、食品、繊維、アパレル、ヘルスケア、メディカルデバイス業界を対象としたハイクラスな人材紹介サービスを提供しています。
-
-### 強み
-- **業界特化型**: 消費財・ライフスタイル業界に深い知識と人脈
-- **強力な顧問陣**: 20名以上の業界に精通した顧問ネットワーク
-- **個別対応**: データベース照合ではなく、一人ひとりとの面談に基づくマッチング
-- **三方よし**: 顧客・候補者・世間の三方にとって良いサービスを追求
-
-### 関連会社
-- **株式会社イクエコ** (https://ikueco.co.jp/)
-  - アパレル廃棄処分品の買取、卸売、小売事業
-  - 環境福祉社会貢献活動
-
----
-
-## ⚠️ Data Source & Limitations
-
-| 項目 | 内容 |
-|---|---|
-| **情報源** | https://www.quolica.co.jp |
-| **収集日** | 2026年3月30日 |
-| **制限事項** | 検索APIが利用不可のため、メディア掲載情報は未収集 |
-| **注意点** | タスクで指定された住所（横浜市緑区長津田）・業種（ソフトウェア開発）と実際の会社情報が不一致 |
-
----
-
-*This analysis was generated based on publicly available information from the company website.*
+*Report generated: April 2026*
+*Data source: https://www.quolica.co.jp*
