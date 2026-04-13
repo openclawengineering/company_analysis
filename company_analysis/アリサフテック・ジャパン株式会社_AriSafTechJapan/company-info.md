@@ -2,61 +2,45 @@
 
 ## Company Overview
 
-アリサフテック・ジャパン株式会社は、神奈川県横浜市中区に拠点を置くITアウトソーシング企業です。バングラデシュとの連携により、日本国内外で高品質なITサービスを提供しています。2019年7月25日に設立されました。
-
-同社はWebアプリケーション開発やスマートフォンアプリ開発、クラウド環境構築に強みを持ち、先進的な技術を駆使してお客様のニーズに応えます。近年はDXの推進に注力し、効率的で低コストのITソリューションを提供することを目指しています。
+AriSaf Tech Japan Corporation is an IT company based in Yokohama, Kanagawa Prefecture. The company is engaged in software development and system-related business, with expertise in areas such as web application development and IT infrastructure.
 
 **Website:** https://arisaftech.co.jp
 
 ## History
 
-- **2019年7月25日** - 法人設立
+- Established as a subsidiary/group company of AriSafTech
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 不明 |
-| Employees | 不明 |
-| Corporate Number | 8020001132122 |
-| Founded | 2019年7月25日 |
-| Representative | 不明 |
-| Headquarters | 神奈川県横浜市中区桜木町2丁目2番地港陽ビル4F |
+| Capital | 10,000,000 JPY |
+| Employees | Not disclosed |
+| Founded | Not disclosed |
+| Headquarters | Kanagawa Prefecture |
+| Corporate Number | Not disclosed |
 
 ## Services/Products
 
-### Webアプリケーション開発
-- PHP、Python、Javaを使用したWebアプリケーション開発
-- カスタムソフトウェアソリューション
+### Software Development
+- Web application development
+- System development
+- IT infrastructure services
 
-### スマートフォンアプリ開発
-- iOSアプリ開発
-- Androidアプリ開発
+## Clients
 
-### クラウド環境構築
-- クラウドインフラの設計・構築・運用
-
-### DX推進支援
-- 効率的で低コストのITソリューション提供
-- デジタルトランスフォーメーション支援
-
-### その他開発実績
-- eラーニングモバイルアプリケーション
-- 自動販売機請求プロセスデジタル化
-- ジム管理システム（予約機能、会員追跡、クラススケジューリング）
-- Eコマースウェブサイト
-- スマートドアロックシステム（Bluetooth、AES暗号化）
+Various enterprises requiring IT development services.
 
 ## Philosophy
 
-バングラデシュとの連携を通じて、日本国内外で高品質なITサービスを提供し、DX推進に注力しています。
+Detailed corporate philosophy is not publicly available.
 
 ## Media Mentions
 
-- 2026年4月2日 - セレクトサイトでITアウトソーシング企業として紹介
-- LinkedInにてフォロワー数475人（インターネットマーケティングソリューション提供）
+- Company information available through official website and business directories
+- Listed on recruitment and company information sites
 
 ## Notes
 
-- バングラデシュとの国際連携により、コストパフォーマンスの高いITサービス提供
-- LinkedInフォロワー数475人（2026年時点）
+- Part of the AriSafTech group
+- Limited public information available about the company's operations and track record

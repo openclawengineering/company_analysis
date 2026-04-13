@@ -1,38 +1,38 @@
 # 株式会社ワークスアプリケーションズ (Works Applications Co., Ltd.)
 
-## 1. Company Name (JP/EN)
+## 1. Company Name
 
 | Language | Name |
 |----------|------|
-| **日本語** | 株式会社ワークスアプリケーションズ |
+| **Japanese** | 株式会社ワークスアプリケーションズ |
 | **English** | Works Applications Co., Ltd. |
-| **略称** | WAP (Works Applications) |
-| **証券コード** | 4327 (東証プライム) |
+| **Abbreviation** | WAP (Works Applications) |
+| **Securities Code** | 4327 (Tokyo Stock Exchange Prime) |
 
 ---
 
 ## 2. Company Contact Information
 
-| 項目 | 内容 |
-|------|------|
-| **本社所在地** | 〒100-0005 東京都千代田区丸の内2-4-1 丸の内ビルディング28F |
-| **電話番号** | 03-3512-1400（代） |
-| **ウェブサイト** | https://www.worksap.co.jp/ |
-| **設立** | 1996年7月 |
+| Item | Details |
+|------|---------|
+| **Headquarters** | Marunouchi Building 28F, 2-4-1 Marunouchi, Chiyoda-ku, Tokyo 100-0005 |
+| **Phone** | 03-3512-1400 |
+| **Website** | https://www.worksap.co.jp/ |
+| **Founded** | July 1996 |
 
-### 国内事業所
-- **東京（本社）**: 東京都千代田区丸の内2-4-1 丸の内ビルディング28F
-- **名古屋オフィス**: 〒450-6050 愛知県名古屋市中村区名駅1-1-4 JRセントラルタワーズ 50F
-- **大阪オフィス**: 〒530-0002 大阪府大阪市北区曾根崎新地1-13-22 御堂筋フロンティア1F
-- **ワークス徳島人工知能NLP研究所**: 〒770-0905 徳島県徳島市東大工町1-9-1 徳島ファーストビル7F
-- **熊本オフィス**: 〒860-0806 熊本県熊本市中央区花畑町10-26 SPring 熊本城前4階
+### Domestic Offices
+- **Tokyo (HQ):** Marunouchi Building 28F, Chiyoda-ku, Tokyo
+- **Nagoya:** JR Central Towers 50F, Nakamura-ku, Nagoya, Aichi
+- **Osaka:** Midosuji Frontier 1F, Kita-ku, Osaka
+- **Works Tokushima AI/NLP Research Institute:** Tokushima First Building 7F, Tokushima
+- **Kumamoto:** SPring Kumamoto Castle-mae 4F, Chuo-ku, Kumamoto
 
-### 海外開発拠点
-- **Works Applications China Co., Ltd.**: 上海市普陀区凯旋北路1188号 月星环球港B座20楼B-C单元
-- **Works Applications Singapore Pte. Ltd.**: 9 North Buona Vista Drive, #02-01, The Metropolis Tower One, Singapore 138588
-- **Works Applications (India) Pvt. Ltd.**: 2nd & 3rd Floor, 2/319, Vishranthi Melaram Towers, Rajiv Gandhi Salai (OMR), Karapakkam, Chennai, Tamil Nadu 600097, India
+### Overseas Development Centers
+- **Works Applications China:** Shanghai
+- **Works Applications Singapore:** Singapore
+- **Works Applications India:** Chennai, Tamil Nadu, India
 
-### ソーシャルメディア
+### Social Media
 - X (Twitter): https://x.com/WAP_PR
 - YouTube: https://www.youtube.com/@worksapplications6461
 - Facebook: https://www.facebook.com/WorksAP.official/
@@ -41,239 +41,227 @@
 
 ## 3. Company History & Milestones
 
-### 沿革 (History)
-
-| 年月 | 出来事 |
-|------|--------|
-| **1996年7月** | 株式会社ワークスアプリケーションズ設立 |
-| **1996年9月** | 「COMPANY®」 HRシリーズ正式出荷開始 |
-| **2001年12月** | JASDAQ（店頭）市場上場 |
-| **2002年12月** | HR市場シェアNo.1獲得 |
-| **2004年12月** | 「COMPANY®」 ACシリーズ（会計系）正式出荷開始 |
-| **2005年1月** | アリエル・ネットワーク株式会社を100%子会社化 |
-| **2009年4月** | 「COMPANY®」 SCMシリーズ正式出荷開始 |
-| **2010年12月** | 大手企業向け ERPパッケージ市場シェアNo.1獲得 |
-| **2011年1月** | MBOによる非上場化を発表 |
-| **2012年2月** | 上海拠点開設 |
-| **2012年7月** | シンガポール拠点開設 |
-| **2014年4月** | 次世代型大手企業向けERP「HUE」のコンセプトを発表 |
-| **2015年4月** | インドのIT企業 Infoview社を連結子会社化 |
-| **2015年12月** | ビジネスアプリケーション「HUE®」提供開始 |
-| **2016年7月** | 子会社アリエル・ネットワーク株式会社を吸収合併 |
-| **2017年2月** | ワークス徳島人工知能NLP研究所開設、「働きがいのある会社」ランキング第1位、10年連続ベストカンパニー受賞 |
-| **2019年8月** | 会社分割（吸収分割）によりHR関連事業を株式会社Works Human Intelligenceに承継 |
-| **2020年7月** | 会計・SCMシリーズの製品名「COMPANY®」を「HUE Classic」へ名称変更 |
-| **2020年10月** | HUE Works Suiteを発表 |
-| **2021年4月** | 会社分割により持株会社体制へ移行 |
-| **2022年12月** | 株式会社ワークスアプリケーションズ・フロンティアがMBOにより独立 |
-| **2024年12月** | コーポレートブランドをアップデート、新たな企業理念を策定 |
-| **2025年6月** | HUEにAI機能を実装（構想から11年） |
-| **2026年3月** | HUE、国内会計ERP市場でシェア1位を獲得（年商1,000億円以上の企業セグメント） |
+| Date | Event |
+|------|-------|
+| **July 1996** | Works Applications Co., Ltd. established |
+| **September 1996** | "COMPANY®" HR Series officially launched |
+| **December 2001** | Listed on JASDAQ market |
+| **December 2002** | Achieved No. 1 HR market share |
+| **December 2004** | "COMPANY®" AC Series (Accounting) officially launched |
+| **January 2005** | Made Ariel Network Inc. a 100% subsidiary |
+| **April 2009** | "COMPANY®" SCM Series officially launched |
+| **December 2010** | Achieved No. 1 market share for large enterprise ERP packages |
+| **January 2011** | Announced delisting via MBO |
+| **February 2012** | Shanghai office opened |
+| **July 2012** | Singapore office opened |
+| **April 2014** | Announced concept for next-generation enterprise ERP "HUE" |
+| **April 2015** | Made Indian IT company Infoview a consolidated subsidiary |
+| **December 2015** | Business application "HUE®" launched |
+| **July 2016** | Absorbed subsidiary Ariel Network Inc. |
+| **February 2017** | Opened Works Tokushima AI/NLP Research Institute; ranked No. 1 "Best Company to Work For"; 10 consecutive Best Company awards |
+| **August 2019** | HR-related business transferred to Works Human Intelligence Co., Ltd. via corporate split |
+| **July 2020** | Accounting/SCM series product name changed from "COMPANY®" to "HUE Classic" |
+| **October 2020** | HUE Works Suite announced |
+| **April 2021** | Transitioned to holding company structure via corporate split |
+| **December 2022** | Works Applications Frontier Inc. became independent via MBO |
+| **December 2024** | Updated corporate brand, established new corporate philosophy |
+| **June 2025** | Implemented AI features in HUE (11 years from concept) |
+| **March 2026** | HUE achieved No. 1 share in domestic accounting ERP market (segment: companies with annual revenue of 100 billion+ JPY) |
 
 ---
 
-## 4. Capital and Employee Count
+## 4. Capital & Employees
 
-| 項目 | 数値 |
-|------|------|
-| **資本金** | 114億9,118万6,175円 |
-| **従業員数（単体）** | 885名（2025年6月時点） |
-| **従業員数（連結）** | 3,202名（2020年3月末時点） |
-| **平均年齢** | 35.0歳 |
-| **決算月** | 6月 |
-| **売上高（前期）** | 115億円（成長率14%） |
-| **現預金残高** | 41億円 |
-| **純資産** | 41億円 |
+| Item | Details |
+|------|---------|
+| **Capital** | 11,491,186,175 JPY |
+| **Employees (Non-consolidated)** | 885 (as of June 2025) |
+| **Employees (Consolidated)** | 3,202 (as of March 2020) |
+| **Average Age** | 35.0 |
+| **Fiscal Year End** | June |
+| **Revenue (Previous Year)** | 11.5 billion JPY (14% growth rate) |
+| **Cash & Deposits** | 4.1 billion JPY |
+| **Net Assets** | 4.1 billion JPY |
 
 ---
 
-## 5. Products and Services
+## 5. Products & Services
 
-### 主要製品
+### Key Products
 
-#### HUE ERP（大手企業向け国産ERP）
-97%の業務フィット率を誇る、日本の商習慣に特化したERPパッケージ。AI機能を搭載。
+#### HUE ERP (Domestic Enterprise ERP for Large Companies)
+A 97% business fit rate ERP package specialized for Japanese business practices, now equipped with AI features.
 
-**対応業務領域:**
-- 財務会計
-- 管理会計
-- 債権・債務管理
-- 固定資産管理
-- 財務・資金管理
-- 経費精算
-- 購買・調達管理
-- 賃貸不動産管理
-- プロジェクト収支管理
-- 販売管理
-- 製造原価管理
-- クラウド請求書送受信
-- リース会計
-- 証憑電子データ管理
+**Supported Business Areas:**
+- Financial accounting
+- Management accounting
+- Accounts receivable/payable management
+- Fixed asset management
+- Financial/fund management
+- Expense settlement
+- Procurement management
+- Lease property management
+- Project revenue/expense management
+- Sales management
+- Manufacturing cost management
+- Cloud invoice sending/receiving
+- Lease accounting
+- Electronic voucher data management
 
-#### HUE Classic（旧COMPANY®）
-会計・SCMシリーズ。長年の実績を持つ安定版ERP。
+#### HUE Classic (formerly COMPANY®)
+Accounting/SCM series. A stable ERP version with long track record.
 
 #### ArielAirOne®
-業務アプリ開発プラットフォーム。ノーコード/ローコードで業務アプリを構築可能。
+Business application development platform. No-code/low-code business app construction.
 
 #### HUE Works Suite
-SaaS型ワークフローソリューション群
-- ワークフロー
-- チャットボット
-- プロジェクト進捗管理
+SaaS-type workflow solution suite
+- Workflow
+- Chatbot
+- Project progress management
 
 #### HUE Works Suite DX Solutions
-DX推進向けソリューションシリーズ
+Solution series for DX promotion
 
-### サービス
-- **SIサービス**: 開発委託業務を含むシステムインテグレーション
-- **ITコンサルティングサービス**: 業務改善の提案
-- **プロフェッショナルサービス**: その他専門サービス
-- **パートナープログラム**: パートナー企業向けプログラム
+### Services
+- **SI Services:** System integration including outsourced development
+- **IT Consulting Services:** Business improvement proposals
+- **Professional Services:** Other specialized services
+- **Partner Program:** Programs for partner companies
 
-### 技術連携
-- **Microsoft Azure**: クラウドインフラとして採用（2022年～）
-- **Microsoft Copilot**: AIアシスタントとの連携機能（2024年7月～）
-- **Microsoft Teams**: 相互連携実現
-- **Oracle Cloud Infrastructure**: HUE Classic向け
-
----
-
-## 6. Key Clients and Industries Served
-
-### 顧客基盤
-- **企業グループ数**: 500グループ
-- **個社ベース**: 2,400社
-- **6,700以上の標準機能**
-
-### 主な導入企業（業種別）
-
-#### 製造業
-- 株式会社明治
-- 株式会社ジェイテクト
-- 株式会社東海理化
-- ミズノ株式会社
-- 日清食品ホールディングス
-
-#### 卸売・商社
-- 伊藤忠商事株式会社
-
-#### 建設業
-- 株式会社熊谷組
-- 鹿島建設株式会社
-
-#### 小売・サービス
-- 株式会社ヤナセ
-- 株式会社ライトオン
-
-#### 不動産
-- 日本空港ビルデング株式会社
-- 株式会社アートネイチャー
-
-#### その他
-- 南海電気鉄道株式会社
-- 日本大学
-- パナソニック（製品連携）
-
-### ターゲット市場
-- 年商1,000億円以上の大手企業層を最も得意とする
-- 国内中堅企業向け財務会計アプリケーション市場で「リーダー」ポジション（IDCレポート）
+### Technology Partnerships
+- **Microsoft Azure:** Adopted as cloud infrastructure (from 2022)
+- **Microsoft Copilot:** AI assistant integration (from July 2024)
+- **Microsoft Teams:** Mutual integration achieved
+- **Oracle Cloud Infrastructure:** For HUE Classic
 
 ---
 
-## 7. Company Philosophy and Culture
+## 6. Key Clients & Industries
 
-### 存在意義（Purpose）
-> **「作業」を「創造」に変え、「仕事」を楽しくする**
+### Customer Base
+- **Corporate Groups:** 500 groups
+- **Individual Companies:** 2,400 companies
+- **6,700+ Standard Features**
 
-仕事が楽しくなったら、人生はもっと楽しくなるという信念に基づく。
+### Major Clients by Industry
 
-### 目指す姿（Vision）
-> **企業と個の価値を最大化する「成長エンジン」**
+#### Manufacturing
+- Meiji Holdings Co., Ltd.
+- JTEKT Corporation
+- Tokai Rika Co., Ltd.
+- Mizuno Corporation
+- Nissin Food Holdings
 
-企業だけでなく、そこに働く個人個人の価値の最大化にも貢献。AGI時代に向け、人にフォーカスすることを打ち出している。
+#### Wholesale & Trading
+- Itochu Corporation
 
-### 価値観（Values）- 5つの行動指針
+#### Construction
+- Kumagai Gumi Co., Ltd.
+- Kajima Corporation
 
-#### 個々が日々実践し続けるべき価値観
-1. **まず動く** - スピードは、最優先事項
-2. **なんども挑む** - 挑戦の先に、成功がある
-3. **とことん究める** - 求められる価値を、追い求める
+#### Retail & Services
+- Yanase & Co., Ltd.
+- Right-On Co., Ltd.
 
-#### 個々がベースとして持つべき価値観
-4. **よりそい導く** - 半歩先行く、最適解を
-5. **あいてを想う** - いつも仲間に、愛をもって
+#### Real Estate
+- Japan Airport Terminal Co., Ltd.
+- Art Nature Co., Ltd.
 
-### 創業の理念
-1. 「企業の生産性」を高め、企業価値の増大に貢献します
-2. 「働く」の概念を変え、仕事をより創造的な活動へ変えていきます
-3. 「クリティカルワーカー」に、活躍の場を提供します
+#### Others
+- Nankai Electric Railway Co., Ltd.
+- Nihon University
+- Panasonic (product integration)
 
-### 企業文化・特徴
-- **「若手に最高難度の仕事を任せる文化」**: 入社後、社員はスターターミッションを通じて高難度の課題に挑戦
-- **全社員が企業理念を暗記**: 企業理念が企業文化として深く浸透
-- **風通しの良い組織**: 上司との1on1で相談しやすい環境
-- **リモートワーク前提**: 基本的な勤務スタイルは在宅勤務
-- **自律を促す組織**: 理念を浸透させて自律を促せば規律は最小限でいいという考え方
+### Target Market
+- Most competitive with large enterprise segment (annual revenue 100 billion+ JPY)
+- "Leader" position in domestic mid-market financial accounting application market (IDC report)
 
-### 認定・受賞歴
-- 「働きがいのある会社」ランキング第1位
-- 10年連続ベストカンパニー受賞
-- 東大生人気就職先TOP10入の実績
-- インターンシップ人気No.1
-- IDC MarketScape リーダーに選出
+---
+
+## 7. Company Philosophy & Culture
+
+### Purpose
+> **"Transforming 'work' into 'creation,' making 'jobs' enjoyable"**
+
+Based on the belief that when work becomes enjoyable, life becomes more enjoyable.
+
+### Vision
+> **"Growth engine maximizing the value of companies and individuals"**
+
+Contributing not only to corporate value but also to maximizing the value of each individual working there. Focusing on people in the AGI era.
+
+### Values - 5 Action Guidelines
+
+#### Values to Practice Daily
+1. **Move First** - Speed is the top priority
+2. **Challenge Repeatedly** - Success lies beyond challenges
+3. **Pursue Thoroughly** - Chase the value that is demanded
+
+#### Base Values
+4. **Guide with Care** - One step ahead, toward the optimal solution
+5. **Think of Others** - Always treat colleagues with love
+
+### Founding Principles
+1. Improve "corporate productivity" and contribute to increasing corporate value
+2. Change the concept of "work" and transform jobs into more creative activities
+3. Provide a stage for "critical workers" to thrive
+
+### Corporate Culture Characteristics
+- **"Culture of entrusting the highest-difficulty work to young employees":** After joining, employees tackle high-difficulty challenges through starter missions
+- **All employees memorize the corporate philosophy:** Philosophy deeply embedded in corporate culture
+- **Open communication:** Easy-to-consult environment with 1-on-1 meetings with supervisors
+- **Remote work default:** Basic work style is home-based
+- **Self-directed organization:** Minimal rules needed when philosophy drives autonomy
+
+### Awards & Recognition
+- Ranked No. 1 "Best Company to Work For"
+- 10 consecutive Best Company awards
+- University of Tokyo students' top 10 popular employers
+- No. 1 popular internship program
+- Selected as IDC MarketScape Leader
 
 ---
 
 ## 8. Media Mentions
 
-### 主要ニュース・報道
+### Major News
 
-#### 2026年3月
-- **HUE、国内会計ERP市場でシェア1位を獲得**（年商1,000億円以上の企業セグメント）
-- **WAP、「Partner Conference 2026」を開催**
+#### March 2026
+- **HUE achieved No. 1 share in domestic accounting ERP market** (segment: companies with annual revenue of 100 billion+ JPY)
+- **WAP held "Partner Conference 2026"**
 
-#### 2025年
-- [ZDNet Japan](https://japan.zdnet.com/): 「ワークスアプリケーションズ、再建を経て成長軌道へ--『WAP Forward 2.0』で挑む新たな事業戦略」
-  - 経営危機を乗り越え、新たな成長フェーズに入ったことを報道
-  - 2022～2025年の新規ライセンス売上の累積成長率は79%（約5.7倍）
-  - 2023年以降、営業利益が黒字化
+#### 2025
+- **ZDNet Japan:** "Works Applications enters growth trajectory after restructuring -- challenging new business strategy with 'WAP Forward 2.0'"
+  - Overcame management crisis, entered new growth phase
+  - Cumulative growth rate of new license revenue 2022-2025: 79% (~5.7x)
+  - Operating profit turned positive from 2023 onwards
 
-#### 2024年7月
-- **[ITmedia](https://www.itmedia.co.jp/):** 「ERP『HUE』がMicrosoft Copilotと連携、会計データを利用して回答生成」
-  - AIアシスタントとの連携機能を追加
+#### July 2024
+- **ITmedia:** "ERP 'HUE' integrates with Microsoft Copilot, generating answers using accounting data"
 
-#### 2024年12月
-- コーポレートブランドアップデート、新たな企業理念を策定
-
-#### 業界ポジション
-- **IDC MarketScape**: 国内中堅企業向け財務会計アプリケーション市場で「リーダー」に選出
-- 創業から約30年で「メガベンチャー」として注目を集める
-- 人事システム分野ではリーディングカンパニーとしての地位を確立（HR事業は2019年にWorks Human Intelligenceへ承継）
+#### December 2024
+- Corporate brand updated, new corporate philosophy established
 
 ---
 
 ## 9. Summary
 
-### 会社概要
-株式会社ワークスアプリケーションズは、1996年7月に設立された日本の大手ERPパッケージソフトウェア企業。東京都千代田区丸の内に本社を置き、東証プライムに上場（証券コード: 4327）。
+**Works Applications Co., Ltd.** is a major Japanese ERP package software company founded in July 1996, headquartered in Marunouchi, Chiyoda-ku, Tokyo, listed on Tokyo Stock Exchange Prime (Code: 4327).
 
-### 事業内容
-大手企業向け国産ERP「HUE」を中心に、会計、人事、資産管理、購買などの基幹業務システムを開発・販売。日本の商習慣に特化した97%の業務フィット率を誇り、6,700以上の標準機能を提供。2025年6月には構想から11年を経てAI機能を実装した。
+### Business
+Centered on the domestic enterprise ERP "HUE," the company develops and sells core business systems including accounting, HR, asset management, and procurement. Boasting a 97% business fit rate specialized for Japanese business practices with 6,700+ standard features. AI features were implemented in June 2025, 11 years from the original concept.
 
-### 市場ポジション
-年商1,000億円以上の大手企業層に強みを持ち、国内会計ERP市場でシェア1位を獲得。顧客基盤は500の企業グループ、2,400社に拡大。IDC MarketScapeでは国内中堅企業向け財務会計アプリケーション市場で「リーダー」に選出されている。
+### Market Position
+Strong with large enterprise segment (annual revenue 100 billion+ JPY), achieved No. 1 share in domestic accounting ERP market. Customer base expanded to 500 corporate groups and 2,400 companies. Selected as "Leader" by IDC MarketScape for domestic mid-market financial accounting applications.
 
-### 成長軌道
-2010年代後半の経営難を乗り越え、「WAP Forward 2.0」ビジョンの下で新たな成長フェーズに入っている。2022～2025年の新規ライセンス売上は約5.7倍に拡大し、2023年以降は営業利益が黒字化。現預金残高と純資産はいずれも41億円と健全な財務状態にある。
+### Growth Trajectory
+Overcame management difficulties in the late 2010s, entered a new growth phase under "WAP Forward 2.0" vision. New license revenue 2022-2025 expanded approximately 5.7x, with operating profit turning positive from 2023. Sound financial position with 4.1 billion JPY in both cash deposits and net assets.
 
-### 企業理念
-「作業」を「創造」に変え、「仕事」を楽しくすることを存在意義として掲げる。「働きがいのある会社」ランキング第1位、10年連続ベストカンパニー受賞など、人材育成と企業文化の醸成に注力。若手に高難度の仕事を任せる文化や、全社員が企業理念を暗記するなど、独自の組織文化を持つ。
-
-### グローバル展開
-上海、シンガポール、インド・チェンナイに海外開発拠点を展開。Microsoft Azure、Oracle Cloud Infrastructureとの連携によりクラウド展開も進めている。
+### Global Expansion
+Overseas development centers in Shanghai, Singapore, and Chennai, India. Cloud deployment advancing through partnerships with Microsoft Azure and Oracle Cloud Infrastructure.
 
 ---
 
-*最終更新: 2026年3月30日*
-*情報源: 公式ウェブサイト、ZDNet Japan、各種メディア報道*
+*Last updated: March 30, 2026*
+*Sources: Official website, ZDNet Japan, various media reports*
