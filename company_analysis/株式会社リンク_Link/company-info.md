@@ -1,38 +1,58 @@
 # 株式会社リンク (Link Inc.)
 
 ## Overview
-株式会社リンクはIT・通信サービスを提供する企業。クラウド型CTI/コールセンターシステム「BIZTEL」やメールリレーサービス「ベアメール」など、企業のコミュニケーションインフラを支えるサービスを展開している。
+
+Link Inc. is an IT and communications services company providing cloud-based CTI/call center systems and email relay services that support enterprise communication infrastructure. Their flagship products include BIZTEL (cloud-based CTI/call center system) and BareMail (email relay service).
+
+**Website:** https://www.link.co.jp/
 
 ## History
-詳細な沿革は公開されていない
 
-## Capital
-非公開
+Detailed corporate history is not publicly available.
 
-## Services
-### BIZTEL
-クラウド型CTI / コールセンターシステム
-- 市外局番の提供エリアを大幅拡大
+## Capital & Employees
 
-### ベアメール
-メールリレーサービス
-- JSON形式に対応した「Web API オプション v2.0」提供
-- 標的型攻撃メール訓練サービスの配信基盤として採用実績あり
+| Item | Details |
+|------|---------|
+| **Capital** | Undisclosed |
+| **Headquarters** | Kanagawa Prefecture, Japan |
+
+## Products & Services
+
+### BIZTEL - Cloud-based CTI / Call Center System
+- Cloud-based CTI (Computer Telephony Integration)
+- Call center system with significantly expanded area code coverage
+
+### BareMail - Email Relay Service
+- Web API Option v2.0 with JSON format support
+- Used as delivery platform for targeted phishing email training services
 
 ## Clients
-- 株式会社ラック（標的型攻撃メール訓練サービス）
-- 各種コールセンター運営企業
 
-## Philosophy
-詳細な経営理念は公開されていない
-
-## Contact
-- **URL:** https://www.link.co.jp/
+- LAC Inc. (targeted phishing email training service)
+- Various call center operation companies
 
 ## Certifications
-各種認証取得
+
+Various certifications obtained (details not specified)
+
+## Philosophy
+
+Detailed corporate philosophy is not publicly available.
 
 ## Media Mentions
-- [ベアメール プレスリリース](https://baremail.jp/news/release_20260325.php) - Web API オプション v2.0提供開始
-- [ベアメール プレスリリース](https://baremail.jp/news/release_20260318.php) - LAC採用事例
-- [BIZTEL プレスリリース](https://biztel.jp/news/release/2026/02/27/18367/) - 市外局番提供エリア拡大
+
+- [BareMail Press Release - Web API Option v2.0](https://baremail.jp/news/release_20260325.php) - Launch of Web API Option v2.0
+- [BareMail Press Release - LAC Case Study](https://baremail.jp/news/release_20260318.php) - LAC adoption case study
+- [BIZTEL Press Release - Area Code Expansion](https://biztel.jp/news/release/2026/02/27/18367/) - Expanded area code coverage
+
+## Notes
+
+- KIA member company
+- Strong focus on communication infrastructure (CTI, email relay)
+- Active product development with regular press releases
+- Security-related services (phishing training delivery platform)
+
+---
+
+*Report generated: April 2026*
