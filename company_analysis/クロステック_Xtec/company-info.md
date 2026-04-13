@@ -1,297 +1,185 @@
-# 株式会社クロステック (CrossTec Inc.) - Company Profile
+# 株式会社クロステック (CrossTec Inc.)
 
-**Analysis Date:** March 30, 2026  
+## Company Overview
+
+CrossTec Inc. is a comprehensive IT services company founded in 1981, headquartered in Kikuna, Yokohama, Kanagawa. With over 40 years of history, 210 employees, and annual revenue of 2.66 billion JPY (FY ending June 2025), the company has built strong trust-based relationships primarily in the financial and public sectors. The company provides system development, IT infrastructure, proprietary software solutions, cloud/AI/security services, and engineer dispatch.
+
 **Website:** https://www.xtec.co.jp/
 
----
-
-## 1. Company Name
-
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社クロステック |
-| **English** | CrossTec Inc. |
-| **Short Name** | Xtec |
-
----
-
-## 2. Company Contact Information
-
-### Headquarters (本社)
-- **Address:** 〒222-0021 神奈川県横浜市港北区篠原北2-4-1 XTECビル
-- **TEL:** 045-439-5361
-- **FAX:** 045-439-5360
-- **Access:** JR横浜線・東急東横線 菊名駅より徒歩1分
-
-### Tokyo Office (東京事業所)
-- **Address:** 〒107-0052 東京都港区赤坂2-11-3 福田ビルウエスト 4階
-- **TEL:** 03-5545-5539
-- **FAX:** 03-3584-1811
-- **Access:** 東京メトロ銀座線・南北線 溜池山王駅 12番出口より徒歩1分
-
-### Yokohama Office (横浜事業所)
-- **Address:** 〒222-0033 神奈川県横浜市港北区新横浜3-17-2 友泉新横浜ビル2階
-- **TEL:** 045-534-4187
-- **Access:** ブルーライン・相鉄新横浜線・東急新横浜線 新横浜駅8番出口より徒歩3分
-
-### Group Companies
-
-| Company | Location | Contact |
-|---------|----------|---------|
-| **株式会社クロステックソリューションズ** | 〒222-0021 神奈川県横浜市港北区篠原北2-4-1 | TEL: 045-438-2461 / https://www.xtec-sol.co.jp/ |
-| **株式会社ジェニシス** | 〒222-0033 神奈川県横浜市港北区新横浜3-17-2 友泉新横浜ビル2階 | TEL: 045-755-7718 / http://www.genesis-net.co.jp/ |
-| **株式会社エフエスアイ** | 〒222-0021 神奈川県横浜市港北区篠原北2-4-1 | TEL: 045-710-0344 / http://www.fsi-japan.co.jp/ |
-
-### Business Partners
-- **取引銀行:** 三菱UFJ銀行、横浜銀行、みずほ銀行
-- **所属団体:** 神奈川県情報サービス産業協会、東京都情報産業協会、日本情報技術取引所、横浜商工会議所
-
----
-
-## 3. Company History & Milestones
+## History
 
 | Date | Milestone |
 |------|-----------|
-| **1981年7月** | 株式会社コンピュータ・マネジメント設立 |
-| **1984年3月** | 株式会社日本ソフトウェアサイエンス設立 |
-| **1999年3月** | 自社ビル所有により菊名へ本社移転（株式会社日本ソフトウェアサイエンス） |
-| **2000年7月** | 合併により株式会社クロステックに社名変更 |
-| **2006年2月28日** | プライバシーマーク取得（初回） |
-| **2009年5月** | JIS Q 27001:2006（ISO/IEC 27001:2005）ISMS認証取得 |
-| **2009年8月** | 横浜市より第1回「横浜価値組企業」として認定 |
-| **2011年5月24日** | ISO9001:2008（JIS Q 9001:2008）品質マネジメントシステム認証取得 |
-| **2011年6月** | 株式会社クロステック創立30周年祝賀会 |
-| **2012年9月** | 東京支社移転 |
-| **2013年1月** | 古物商許可を取得 |
-| **2013年11月** | 神奈川税務署より優良申告法人として表敬される |
-| **2015年10月** | 東京支社移転 |
-| **2015年11月** | 電気通信事業者の免許を取得 |
-| **2019年1月** | 「よこはまグッドバランス賞」に認定される |
+| **July 1981** | Computer Management Inc. founded |
+| **March 1984** | Japan Software Science Inc. founded |
+| **March 1999** | Moved headquarters to Kikuna (own building) |
+| **July 2000** | Merged and renamed to CrossTec Inc. |
+| **February 2006** | Obtained Privacy Mark (first time) |
+| **May 2009** | Obtained ISO/IEC 27001 ISMS certification |
+| **August 2009** | Certified as 1st "Yokohama Value Group Enterprise" by Yokohama City |
+| **May 2011** | Obtained ISO 9001 quality management certification |
+| **November 2013** | Recognized as Excellent Tax Filing Corporation by Kanagawa Tax Office |
+| **November 2015** | Obtained telecommunications carrier license |
+| **January 2019** | Certified with "Yokohama Good Balance Award" |
 
----
+## Headquarters & Offices
 
-## 4. Capital and Employee Count
+| Location | Address | Access |
+|----------|---------|--------|
+| **Headquarters** | XTEC Building, 2-4-1 Shinohara-kita, Kohoku-ku, Yokohama 222-0021 | 1-min walk from Kikuna Station (JR Yokohama Line / Tokyu Toyoko Line) |
+| **Tokyo Office** | Fukuda Building West 4F, 2-11-3 Akasaka, Minato-ku, Tokyo 107-0052 | 1-min walk from Tameike-sanno Station |
+| **Yokohama Office** | Yusen Shin-Yokohama Building 2F, 3-17-2 Shin-Yokohama, Kohoku-ku, Yokohama 222-0033 | 3-min walk from Shin-Yokohama Station |
 
-| Metric | Value |
-|--------|-------|
-| **資本金 (Capital)** | 払込資本 4,000万円 |
-| **売上高 (Revenue)** | 26.6億円 (2025年6月期) |
-| **社員数 (Employees)** | 210名 (2025年4月現在) |
-| **設立 (Founded)** | 昭和56年7月7日 (1981年7月7日) |
+### Group Companies
+| Company | Website |
+|---------|---------|
+| CrossTec Solutions Inc. | https://www.xtec-sol.co.jp/ |
+| Genesis Inc. | http://www.genesis-net.co.jp/ |
+| FSI Inc. | http://www.fsi-japan.co.jp/ |
 
-### Executive Officers (役員)
-- **代表取締役会長:** 渡邉 安好
-- **代表取締役社長:** 萩原 哲也
-- **常務取締役:** 渡邉 直樹
-- **監査役:** 渡邉 秋男
+## Capital & Employees
 
-### Certifications (取得認証)
-- **ISO 27001 (ISMS)** - 情報セキュリティマネジメントシステム
-- **ISO 9001** - 品質マネジメントシステム
-- **プライバシーマーク** - 登録番号: 第10821022(10)号 (有効期間: 2024年2月28日 ～ 2026年2月27日)
-- **労働者派遣事業** - 派14-301101
+| Item | Details |
+|------|---------|
+| **Paid-in Capital** | 40,000,000 JPY |
+| **Revenue** | 2,660,000,000 JPY (FY ending June 2025) |
+| **Employees** | 210 (as of April 2025) |
+| **Founded** | July 7, 1981 |
+| **Chairman** | Yasuyoshi Watanabe |
+| **President** | Tetsuya Hagiwara |
+| **Managing Director** | Naoki Watanabe |
+| **Corporate Auditor** | Akio Watanabe |
+| **Banking** | Mitsubishi UFJ Bank, Bank of Yokohama, Mizuho Bank |
+| **Phone (HQ)** | 045-439-5361 |
 
----
+### Certifications
+- **ISO 27001 (ISMS)** - Information Security Management System
+- **ISO 9001** - Quality Management System
+- **Privacy Mark** - Registration No. 10821022(10)
+- **Labor Dispatch License** - 派14-301101
 
-## 5. Products and Services
+## Products & Services
 
-### ソリューションサービス (Solution Services)
+### Proprietary Solutions
 
-#### 製造・保全支援
+#### Manufacturing & Maintenance Support
 | Product | Description |
 |---------|-------------|
-| **点検エース for Excel** | Excelで作った現場書類を、タブレットPC上でカンタンに入力できるペーパーレスツール |
-| **DAIQ** | 製造業の現場と工場長のために作られたサブスクリプション型生産管理システム |
-| **IB-Skin** | Webブラウザ経由で各種実績をフレキシブルに表示できるアンドンソフトウェア |
-| **はかれるくん** | 対象物を電子秤の上に置くことで重量測定し、数量をリアルタイムに自動算出できる在庫管理システム |
+| **Tenken Ace for Excel** | Paperless tool for tablet-based field document input (converted from Excel forms) |
+| **DAIQ** | Subscription-type production management system for manufacturing floors and factory managers |
+| **IB-Skin** | Andon (visual alert) software for flexible display of various performance metrics via web browser |
+| **Hakareru-kun** | Inventory management system that automatically counts items by weighing them on electronic scales |
 
-#### 営業支援・顧客管理
+#### Sales Support & CRM
 | Product | Description |
 |---------|-------------|
-| **mitsumol** | ホームページ上でカンタンに商材・サービスの見積シミュレーションを作成できるツール |
-| **Salesforce** | CRM/SFAパッケージの導入から活用・保守までワンストップサービス |
+| **mitsumol** | Web-based quotation simulation tool for products and services |
+| **Salesforce** | One-stop CRM/SFA implementation, utilization, and maintenance |
 
-#### 基幹システム・ERP
+#### Core Systems & ERP
 | Product | Description |
 |---------|-------------|
-| **Dynamics 365 SCM** | Microsoft製品と連携し、製造・物流を最適化するERPソリューション |
-| **Infor LN** | 製造業の業務オペレーション最適化を実現するERPソリューション |
+| **Dynamics 365 SCM** | ERP solution optimizing manufacturing and logistics with Microsoft product integration |
+| **Infor LN** | ERP solution for manufacturing business operation optimization |
 
-#### 情報共有・自動化・AI・セキュリティ
+#### Information Sharing, Automation, AI & Security
 | Product | Description |
 |---------|-------------|
-| **CrossBox** | ユーザー数無制限・月額利用で使用出来る低コスト・万全セキュリティのクラウドストレージサービス |
-| **YOMEL** | AIが発言を正確に書き起こし、読みやすさに特化した自動要約つき文字起こしツール(議事録AIツール) |
-| **Cybereason** | エンドポイントのデータをAIがリアルタイムに分析・可視化し、サイバー攻撃の兆候を検知・阻止する次世代エンドポイントセキュリティプラットフォーム |
+| **CrossBox** | Low-cost, high-security cloud storage service with unlimited users (monthly subscription) |
+| **YOMEL** | AI-powered transcription and automatic summarization tool for meeting minutes |
+| **Cybereason** | Next-generation endpoint security platform using AI for real-time cyber attack detection and prevention |
 
-#### 業種・業界特化
+#### Industry-Specific
 | Product | Description |
 |---------|-------------|
-| **母子生活支援施設管理システム** | 母子生活支援施設における処遇記録・日報・自立支援計画などをトータルにサポートするシステム |
-| **パッケージソフト販売** | 業務内容に合った商品でのご提案 |
+| **Mother-Child Living Support Facility Management System** | Total support for treatment records, daily reports, and independence support plans |
 
-### IT環境・保守サポート (IT Environment & Support Services)
+### IT Environment & Support Services
+- IT equipment setup and security measures
+- System maintenance (including infrastructure and third-party developed systems)
+- Microsoft 365 migration and tenant operations support
+- Cloud construction by certified engineers
 
-| Service | Description |
-|---------|-------------|
-| **ITサポート** | IT機器の整備、セキュリティ対策まで、様々なIT業務をお手伝い |
-| **システム保守** | 他社で開発されたシステムはもちろん、インフラを含めたシステム全体まで柔軟にサポート |
-| **IT環境導入** | 様々なインフラソリューションを提供。導入後の保守・メンテナンスまで含めたトータルサービス |
-| **Microsoft365導入** | Office製品からMicrosoft365への切り替え、TeamsやSharePointの導入などテナント運用を支援 |
-| **クラウド構築** | クラウド認定エンジニアが、最適な構成でクラウドシステム環境を構築 |
+### System Development
 
-### システム開発 (System Development)
-
-#### エンジニアリングサービス
+#### Engineering Service Domains
 | Domain | Description |
 |--------|-------------|
-| **生命保険** | 多くの生命保険業務システム開発に携わり幅広い保険商品、業務知識を有する |
-| **損害保険** | 自動車、火災、傷害など多様な保険商品、業務に精通 |
-| **金融** | クレジットや電子マネーなどのキャッシュレス決裁、企業間送金、ローン審査などのシステム開発 |
-| **産業・自動車** | 自動車関連を中心とした製造業向けに、生産・販売・出荷に関するシステム開発、製品含有化学物質などのアプリ開発 |
-| **公共** | 社会・公共サービスなどの政府や自治体システムの暮らしに身近なシステムを開発 |
+| **Life Insurance** | Extensive experience in life insurance business system development |
+| **Non-Life Insurance** | Expertise in auto, fire, and casualty insurance products |
+| **Finance** | Cashless payments, credit, electronic money, inter-company remittance, loan screening systems |
+| **Manufacturing & Automotive** | Production, sales, shipping systems, and chemical substance management for automotive industry |
+| **Public Sector** | Government and municipal systems for social and public services |
 
-#### 受託開発
-| Service | Description |
-|---------|-------------|
-| **SharePoint開発** | Webパーツ開発やワークフロー開発、サイト全体のブランディングまで幅広くSharePoint活用をご支援 |
-| **Web開発** | UI/UXデザインから、フロントエンド・バックエンド開発、システム構築、保守・運用までワンストップ |
-| **Web制作** | コーポレートサイト、採用サイト、ネット予約サイト、サービスLP、WebシステムのUI・UXデザインなど |
-| **アプリケーション開発** | さまざまな業界の業務システム開発経験をもとに、お客様の課題に応じた最適なシステムをご提案 |
+#### Contract Development
+- SharePoint development (web parts, workflows, branding)
+- Web development (UI/UX design, front-end/back-end, operations)
+- Web production (corporate sites, recruitment sites, reservation systems, landing pages)
+- Application development across various industries
 
-### その他事業
-- パソコンスクール・ネットワークスクール等の教育事業
-- パソコン・プリンタ等中古事務機器の買取販売
-- 労働者派遣事業（派14-301101）
+### Other Businesses
+- PC school and network school education services
+- Used office equipment (PCs, printers) buyback and resale
+- Labor dispatch services
 
----
+## Key Clients & Industries
 
-## 6. Key Clients and Industries Served
-
-### Primary Industries
-Based on the company's service offerings and history, クロステック serves the following key industries:
-
-| Industry | Description |
+| Industry | Focus Areas |
 |----------|-------------|
-| **金融 (Finance)** | 生命保険、損害保険、クレジット、電子マネー、ローン審査システム |
-| **公共 (Public Sector)** | 政府、自治体システム、社会・公共サービス |
-| **製造・自動車 (Manufacturing & Automotive)** | 生産管理、販売・出荷管理、製品含有化学物質管理 |
-| **通信 (Telecommunications)** | 通信ソフトウェア、ネットワーク構築 |
+| **Finance** | Life insurance, non-life insurance, credit, electronic money, loan screening |
+| **Public Sector** | Government, municipal, social/public services |
+| **Manufacturing & Automotive** | Production management, sales/shipping, chemical substance management |
+| **Telecommunications** | Communication software, network construction |
 
-### Client Characteristics
-- **特に金融・公共のお客様からリピートオーダー** (Especially repeat orders from financial and public sector clients)
-- 長期的な信頼関係に基づくビジネス展開
-- 幅広い業界に対応する総合的なITサービス
+The company particularly receives repeat orders from financial and public sector clients, built on long-term trust relationships.
 
----
+## Philosophy
 
-## 7. Company Philosophy and Culture
+### Corporate Philosophy
+"Providing high-quality information technology and services to contribute to society"
 
-### 企業理念 (Corporate Philosophy)
+### Vision
+1. Establish the CrossTec brand through high-quality IT services
+2. Practice independent thinking and action in daily activities
+3. Develop human resources through employee self-improvement
+4. Create a culture of work pride and joy, cultivating first-class professionals
+5. Achieve long-term satisfaction for customers, employees, and shareholders through business goals
 
-#### 私達の理想
-質の高い情報技術・情報サービスを提供し、社会に貢献する
+### Core Value: Trust
+The company's most important value is "Trust." Once a relationship is formed, they work sincerely and wholeheartedly to build lasting trust. Their greatest pride is never abandoning difficult situations — once a job is accepted, it is completed faithfully.
 
-#### 私達のビジョン (Our Vision)
-1. 質の高い情報技術・情報サービスを提供し、クロステックブランドの確立をめざします
-2. 日々の活動では、自己の確立をめざした、考え方・行動を実践します
-3. 人材の育成と社員の自己研鑽による、資質の向上をめざします
-4. 働く喜びと誇りを共感できる風土の醸成と一流の社会人をめざします
-5. ビジネス目標の実践を通じて、お客様・社員・株主様の長期的な満足をめざします
+### Quality Policy
+- Building trust by providing better information systems and utilization methods
+- Improving communication with customers to meet requirements
+- Establishing service delivery procedures for quality improvement
+- Complying with laws, regulations, and contractual requirements
+- Maintaining and improving the quality management system company-wide
 
-### Core Values
+## Memberships
 
-#### 「信頼」(Trust) - The Most Important Value
-> 私たちが仕事をしていく上で何より大切にしているのは、"信頼"です。
-> 一度知り合ったら、誠心誠意、一生懸命おつき合いし"信頼"を築くこと。これが当社が最も大事にしている企業理念です。
+- Kanagawa Information Services Industry Association (KIA)
+- Tokyo Information Industry Association
+- Japan Information Technology Exchange
+- Yokohama Chamber of Commerce and Industry
 
-#### 責任感と完遂力 (Responsibility and Commitment)
-> 私たちの一番の自慢は、どんな困難な局面にあっても決して逃げ出さないことです。
-> 一度お請けした仕事は、誠実に対応してきちんと仕上げること、これが最も大事ではないでしょうか。
+## Awards & Recognition
 
-### 品質方針 (Quality Policy)
-- **信頼関係の構築:** お客様に「信頼」をいただける、より良い情報システムの実現とその活用方法を提供
-- **コミュニケーションの向上:** お客様の要求事項を満足するため、お客様とのコミュニケーション向上に努める
-- **手順の制定:** サービスを提供するための手順を定め、品質の向上を図る
-- **法令・規範の遵守:** 事業上の要求事項、法令の要求事項、規制の要求事項、及びお客様との契約による要求事項を遵守
-- **品質の維持・向上:** 品質マネジメントシステムを定め、全社一丸となって維持・向上に努める
+| Year | Recognition |
+|------|-------------|
+| **2009** | Yokohama Value Group Enterprise (1st cohort) |
+| **2013** | Excellent Tax Filing Corporation (Kanagawa Tax Office) |
+| **2019** | Yokohama Good Balance Award |
 
-### 個人情報保護方針 (Privacy Policy)
-- 2006年2月28日付でプライバシーマークを取得し、継続的に更新
-- JIS規格（JIS Q 15001）に準拠した個人情報保護マネジメントシステムを策定
-- 「自他情報価値の尊重」を企業行動基準の一項目に掲げる
+## Notes
 
-### Corporate Culture
-- **長期的関係重視:** 40年以上の歴史の中で築いたステークホルダーとの信頼関係
-- **技術力の蓄積:** 創業以来培ってきた確かな技術力
-- **先進性への挑戦:** IoT、ビッグデータ、AI、Fintech等の新しい領域にも積極的に挑戦
-- **社員育成:** 人材の育成と社員の自己研鑽を重視
-
----
-
-## 8. Media Mentions & Recognition
-
-> ⚠️ **Note:** Web search was unavailable during this analysis. The following recognitions are from the company's official website.
-
-### Awards and Certifications
-
-| Year | Recognition | Description |
-|------|-------------|-------------|
-| **2009年8月** | 横浜価値組企業 | 横浜市より第1回「横浜価値組企業」として認定 |
-| **2013年11月** | 優良申告法人 | 神奈川税務署より優良申告法人として表敬される |
-| **2019年1月** | よこはまグッドバランス賞 | 横浜市の認定制度にて受賞 |
-
-### Notable Certifications
-- **ISO 27001 (ISMS)** - 情報セキュリティマネジメント（2009年取得、継続更新）
-- **ISO 9001** - 品質マネジメントシステム（2011年取得、継続更新）
-- **プライバシーマーク** - 2006年初回取得、継続更新（現在の有効期間: 2024年2月28日 ～ 2026年2月27日）
+- 40+ years of stable operations
+- Strong financial sector expertise, especially in insurance systems
+- Proprietary products across manufacturing, AI, cloud storage, and security
+- Three group companies providing integrated services
+- Own headquarters building in Kikuna, Yokohama
+- Active in IoT, big data, AI, and fintech domains
 
 ---
 
-## 9. Summary
-
-### 会社概要サマリー
-
-**株式会社クロステック (CrossTec Inc.)** は、1981年創業の神奈川県横浜市に本社を置く総合ITサービス企業です。40年以上の歴史の中で、金融・公共分野を中心に強固な信頼関係を築き上げてきました。
-
-### Strengths (強み)
-
-1. **豊富な業界知識と実績**
-   - 生命保険・損害保険・金融システム開発の深い専門知識
-   - 公共セクター向けシステム開発の豊富な経験
-   - 製造業・自動車業界向けソリューション
-
-2. **幅広いサービスポートフォリオ**
-   - システム開発（受託開発・パッケージ開発）
-   - ITインフラ構築・保守
-   - 自社製品・ソリューション（DAIQ、点検エース、CrossBox、YOMEL等）
-   - クラウド・AI・セキュリティソリューション
-
-3. **高い品質と信頼性**
-   - ISO 9001（品質）、ISO 27001（情報セキュリティ）認証取得
-   - プライバシーマーク取得（2006年～）
-   - 金融・公共分野からのリピートオーダー
-
-4. **地域密着と安定経営**
-   - 横浜価値組企業、よこはまグッドバランス賞等の地域認定
-   - 優良申告法人としての評価
-   - 26.6億円の売上高、210名の従業員規模
-
-5. **グループ企業による総合力**
-   - クロステックソリューションズ、ジェニシス、エフエスアイ等のグループ企業による連携
-
-### Business Focus (事業の焦点)
-
-- **中核事業:** 業務系システム開発、ITインフラ構築・保守
-- **成長分野:** 組込系開発、AI・自動化ソリューション、クラウドサービス
-- **独自製品:** 製造業向け生産管理システム（DAIQ）、議事録AIツール（YOMEL）等
-
-### Corporate Culture (企業文化)
-
-「信頼」を最も重んじる企業文化を持ち、一度引き受けた仕事は必ず完遂する責任感と、新しい技術領域（IoT、ビッグデータ、AI、Fintech）への挑戦心を兼ね備えています。長期的なステークホルダーとの関係構築を重視し、40年以上にわたり安定した事業運営を継続しています。
-
----
-
-**Data Source:** https://www.xtec.co.jp/  
-**Analysis Date:** March 30, 2026  
-**Note:** Web search was unavailable; media mentions section is limited to information from the company's official website.
+*Report generated: April 2026*
+*Sources: Official website https://www.xtec.co.jp/*

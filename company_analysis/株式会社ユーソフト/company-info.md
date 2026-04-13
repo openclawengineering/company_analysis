@@ -1,103 +1,93 @@
-# 株式会社ユーソフト (ユーソフト)
-## Company Analysis Report
+# 株式会社ユーソフト (U-Soft Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+U-Soft Inc. is an independent software development company founded in September 2001. Headquartered in Nishi-Shinjuku, Tokyo with a Yokohama office, the company provides system development support services including design, development, operations, and infrastructure construction for clients across energy, telecommunications, public services, distribution, and manufacturing sectors. The company has 55 employees and positions itself as a firm tackling cutting-edge technologies including cloud computing, AI, big data, robotics, and IoT as part of Japan's Fourth Industrial Revolution.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社ユーソフト |
-| **English** | ユーソフト |
-| **Reading** | TBD |
+**Website:** https://usoft.co.jp/
 
----
-
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** 〒160-0023 東京都新宿区西新宿7-5-25 西新宿プライムスクエア4階 TEL：03-6907-0751 FAX：03-6907-0752 横浜オフィス
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 03
-- **Website:** https://usoft.co.jp/aboutus/
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
+## History
 
 | Date | Event |
 |------|-------|
+| **September 2001** | Company founded as independent software company |
+| **April 2004** | Established plant engineering division as new business |
+| **October 2005** | Moved headquarters to Dogenzaka, Shibuya-ku |
+| **2018 (February)** | Hiroaki Fukumaki appointed as Representative Director & President |
+| **2018 (August)** | Obtained paid employment placement business license |
+| **December 2022** | Opened Yokohama office |
+| **December 2022** | Atsuya Segawa appointed as Representative Director & President |
+| **February 2025** | Moved headquarters to Nishi-Shinjuku, Shinjuku-ku |
 
----
+## Headquarters & Offices
 
-## 4. Capital and Employee Count
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Nishi-Shinjuku Prime Square 4F, 7-5-25 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023 |
+| **Yokohama Office** | Yokohama, Kanagawa (opened December 2022) |
+| **Phone** | 03-6907-0751 |
+| **Fax** | 03-6907-0752 |
+
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金 (Capital)** | 1000万円 |
-| **社員数 (Employees)** | 55名 |
-| **代表者 (Representative)** | 会長 |
+| **Capital** | 10,000,000 JPY |
+| **Employees** | 55 |
+| **Representative** | Atsuya Segawa, Representative Director & President |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. 内容 採用情報 人材育成 社内活動 contact
-2. 産業協会(KIA) HISTORY 沿革 2001年 9月 「株式会社ユーソフト」を設立 2004年 4月 新規事業としてプラントエンジニアリング部門を設立 2005年 10月 本社を渋谷区道玄坂の南
-3. 内容 採用情報 人材育成 社内活動 contact 認定 健銀第 25 号（3） 健康企業宣言とは？(健保連東京連合会ホームページ) 健康経営優良法人とは？(経済産業省ホームページ) 当社は、社員の健
-4. へ挑戦していきます。 OUR FEATURE 会社の特徴 企業にとって、人材が最も重要な資本であり、社員の幸せを追求することが企業の使命と考えます。 「自分たちの会社だから、自分たちで作る。」をモット
-5. を展開し、お客様とともに着実に成長を遂げて参りました。 現在、我が国は、少子高齢化による労働力不足、働き方改革による生産性向上、ワーク・ライフ・バランスなど社会環境は大きく変化しております。 こうした
-6. 内容 採用情報 人材育成 社内活動 contact Copyright (C) 2021 株式会社ユーソフト 2021. All rights reserved. top menu TOP 会社概要
-7. で培った情報技術をさらに高め、第四次産業革命の一端を担うべく先端技術へも果敢に挑戦して参ります。 当社は、お客様の幸せはもちろんのこと、社員一人ひとりの幸せを追求することが継続的な企業活動を行う上で大
-8. 許可を取得 2018年 2月 代表取締役社長に服巻弘晃が就任 2018年 8月 有料職業紹介事業許可を取得 2022年 12月 横浜オフィスを新設 2022年 12月 代表取締役社長に瀬川篤也が就任
 
-### Business Description
-RECRUIT 採用情報 人材育成 社内活動 CONTACT about us 会社概要 ホーム 会社概要 Greeting ごあいさつ 当社は、2001年9月に独立系ソフトウェア会社として設立いたしました。 設立当初より、エネルギーや通信などをはじめ幅広い業種・ 業態のお客様へ設計、開発、運用、基盤構築などのシステム開発支援事業を展開し、お客様とともに着実に成長を遂げて参りました。 現在、我が国は、少子高齢化による労働力不足、働き方改革による生産性向上、ワーク・ライフ・バランスなど社会環境は大きく変化しております。 こうした社会課題を解決するため、デジタル・トランスフォーメーション(DX)におけるクラウドコンピューティング、AI、ビッグデータ、ロボティクス、IoTなどの先端技術を活用した新しいビジネスモデルの需要が高まっております。 そうした中、私たちは、お客様のシステム開発支援事業で培った情報技術をさらに高め、第四次産業革命の一端を担うべく先端技術へも果敢に挑戦して参ります。 当社は、お客様の幸せはもちろんのこと、社員一人ひとりの幸せを追求することが継続的な企業活動を行う上で大切と
----
+1. **System Development Support** - Design, development, operations, and infrastructure construction for clients across energy, telecommunications, public services, distribution, and manufacturing
+2. **Plant Engineering** - Established as a business division since 2004
+3. **DX (Digital Transformation) Solutions** - Cloud computing, AI, big data, robotics, and IoT
+4. **Paid Employment Placement Services** - Licensed since August 2018
 
-## 6. Key Clients and Industries Served
+## Clients
 
-- Information Technology
-- System Development
-- Software Solutions
+- Energy sector companies
+- Telecommunications companies
+- Public sector organizations
+- Distribution and logistics companies
+- Manufacturing companies
 
----
+## Philosophy
 
-## 7. Company Philosophy and Culture
+### Corporate Motto
+"Our own company, so we build it ourselves" (自分たちの会社だから、自分たちで作る)
 
-顧客の立場に立って顧客の為のものつくりを目指します。 社員の技術スキル及びヒューマンスキル向上を目指し教育に力を注ぎます。 会社発展の為だけでなく、社員一人ひとりの幸せを考えます。 我社はコンプライアンスを徹底します。 常に新しい技術、サービスへ挑戦していきます。 OUR FEATURE 会社の特徴 企業にとって、人材が最も重要な資本であり、社員の幸せを追求することが企業の使命と考えます。 「自分たちの会社だから、自分たちで作る。」をモットーに、社員みんなが会社を動かしている実感を持ちオープンで風通しの良い社風を維持できるよう努めています。 当社では企業としての魅力を高めるため、以下の取り組み
----
+### Core Principles
+1. Aim to create products from the customer's perspective
+2. Invest in employee education to improve technical and human skills
+3. Consider each employee's happiness, not just company growth
+4. Thorough compliance
+5. Constantly challenge new technologies and services
 
-## 8. Media Mentions
+### Corporate Culture
+- Open and transparent work environment
+- Employees feel they are driving the company forward
+- Focus on employee happiness as the company's mission
+- Health management certified company (Healthy Enterprise Declaration No. 25)
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社ユーソフトの求人・仕事・採用](https://jp.stanby.com/r_b8cb56f111d537360f31be4b1be37a12) | Web | 東京都 新宿区 西新宿 / 新宿駅 徒歩10分. 月給21.2万円〜27万円. 正社員. 土日休み / 残業月20時間以内. 18時までに退社可. 仕事内容・J |
-| [株式会社ユーソフトの企業情報](https://job.career-tasu.jp/corp/00078018/) | Web | 公共・通信・流通・製造など、皆さんの日々の生活に欠かせないさまざまな社会基盤システムにおいて、設計・開発・運用保守業務に携わり、高品質のソフトウェア開発を行い |
-| [株式会社ユーソフトの中途採用・転職・求人情報](https://www.r-agent.com/company/e4297/) | Web | ###### 求人を探す. ###### サービス紹介. ###### 転職成功ガイド. ###### お問い合わせ. # 株式会社ユーソフトの中途採用・転職・ |
-| [(株)ユーソフトの新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp283263/outline.html) | Web | # (株)ユーソフト. | PHOTO  2025年2月に新宿区に移転しました。真新しく、きれいなオフィスでお待ちしています！  PHOTO  フットサルやウィ |
-| [ユーソフトの 評判・口コミ一覧（全8件）](https://syukatsu-kaigi.jp/companies/123753/word_mouths) | Web | # ユーソフトの評判・口コミ一覧（全8件）. 株式会社ユーソフトの社員・元社員とインターンや選考に参加した学生による、会社の評価と口コミを公開しています。福利厚 |
-| [ユーソフト 「社員クチコミ」 就職・転職の採用企業リサーチ OpenWork](https://www.openwork.jp/company.php?m_id=a0C1000001HZd1S) | Web | # ユーソフトの採用　「就職・転職リサーチ」　＜社員のクチコミ情報・評判＞. ## 株式会社ユーソフト. ソフトウェアの設計・開発・運用・基盤構築を請け負う企業 |
+## Media Mentions
 
----
+- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp283263/outline.html) - "Moved to Shinjuku-ku in February 2025"
+- [Standby Job Listings](https://jp.stanby.com/) - Salary range, working conditions
+- [Career Tasu](https://job.career-tasu.jp/corp/00078018/) - Public, telecommunications, distribution, manufacturing systems
+- [OpenWork](https://www.openwork.jp/) - Employee reviews
+- [R-Agent](https://www.r-agent.com/company/e4297/) - Mid-career recruitment
+- [Shukatsu Kaigi](https://syukatsu-kaigi.jp/companies/123753/) - Employee reviews (8 entries)
 
-## 9. Summary
+## Notes
 
-### Company Overview
-株式会社ユーソフト is a KIA member company based in Kanagawa Prefecture, Japan. Capital: 1000万円. Employees: 55名.
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Independent software company (not part of a larger group)
+- Yokohama office opened in December 2022, expanding Kanto presence
+- Strong focus on DX technologies (AI, IoT, cloud, robotics)
+- Plant engineering division since 2004 shows diversification
+- Health management certified
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
