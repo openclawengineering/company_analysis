@@ -1,98 +1,101 @@
-# 株式会社エルエスアイ開発研究所 (エルエスアイ開発研究所)
-## Company Analysis Report
+# 株式会社エルエスアイ開発研究所 (LSI Development Laboratory Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+LSI Development Laboratory Co., Ltd. is a system development company founded in 1982 (Showa 57), headquartered in Kohoku-ku, Yokohama, Kanagawa. With 25 employees and capital of 20 million JPY, the company has over 30 years of experience in embedded software development. The company operates globally with development centers in Miyakojima (Japan), Hefei, Anhui Province (China), and Ho Chi Minh City (Vietnam).
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社エルエスアイ開発研究所 |
-| **English** | エルエスアイ開発研究所 |
-| **Reading** | TBD |
+**Website:** http://www.lsi-dev.co.jp/
 
----
+## History
 
-## 2. Company Contact Information
+- **1982 (Showa 57)** - Company founded
 
-### Headquarters
-- **Address:** 593-6440 FAX ：045-547-3099 宮古島開発センター 〒906-0012 沖縄県宮古島市平良西里241 友利電気ビル１Ｆ TEL ：0980
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 045
-- **Website:** http://lsi-2011.homepagine.com/companyinfo_detail/
+## Headquarters & Offices
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Yoko Electronics Building 4F, 6-13-32 Kohoku, Yokohama, Kanagawa 224-0053 |
+| **HQ Phone** | 045-593-6440 |
+| **HQ Fax** | 045-547-3099 |
+| **Miyakojima Development Center** | Tomori Electric Building 1F, 241 Hirashinishisato, Miyakojima, Kagoshima 906-0012 |
+| **Miyakojima Phone** | 0980-73-5613 |
+| **Miyakojima Fax** | 0980-73-5613 |
+| **China Development Center** | Hefei Hengxin Electronics, 1404 Yongyang Road, Hefei, Anhui Province, China 230011 |
+| **China Phone** | +86-551-4699159 |
+| **China Fax** | +86-551-4699159 |
+| **Vietnam Development Center** | 416/95 Nguyen Dinh Chieu Street, District 3, Ho Chi Minh City, Vietnam |
+| **Vietnam Phone** | +84-903-373-9870 |
 
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-| **昭和57年** | Company founded |
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金 (Capital)** | 2,000万円 |
-| **社員数 (Employees)** | 25人 |
-| **代表者 (Representative)** | 友利 |
+| **Capital** | 20,000,000 JPY |
+| **Employees** | 25 (2011) |
+| **Representative** | Tomori (friend/benefit) |
+| **Dispatch License** | 派13-07-0158 |
+| **Founded** | November 15, 1982 |
 
----
+## Products & Services
 
-## 5. Products and Services
+### Software Development
+- Application software development
+- Embedded software development
+- Mobile phone system development
+- Car navigation system development
+- Car audio system development
+- Other application development
 
-### Core Business Areas
-1. 内容 *ソフトウェア開発（アプリケーションソフト、組み込みソフト） ・携帯電話のシステム開発 ・カーナビゲーションのシステム開発 ・カーオーディオのシステム開発 ・その他のアプリケーション開発 他 *
+### Electronic Circuit & Hardware
+- PCB (Printed Circuit Board) design
+- IC chip development
 
-### Business Description
-*ソフトウェア開発（アプリケーションソフト、組み込みソフト） ・携帯電話のシステム開発 ・カーナビゲーションのシステム開発 ・カーオーディオのシステム開発 ・その他のアプリケーション開発 他 *電子回路・ PCB基板の設計 ・ICチップ開発 *各種テスト業務 ・セット評価業務 *オフショア開発 *技術サポート業務・BPO ・パソコン/OA機器の販売 *派遣業務：特定労働者派遣（特１３－０７－０１５８） 連絡先 TEL ：045-593-6440 FAX ：045-547-3099 宮古島開発センター 〒906-0012 沖縄県宮古島市平良西里241 友利電気ビル１Ｆ TEL ：0980-73-5613 FAX ：0980-73-5613 中国開発センター 230011 中華人民共和国 安徽省合肥市鳳陽路 恒豊大厦1404号 TEL ：+86-551-4699159 FAX ：+86-551-4699159 ベトナム開発センター 416/95 Nguyen Dinh Chieu st, 3 Dist、 HCMC Vietnam TEL ：+84-903-373-9870 合肥恒新電子軟件
----
+### Testing & Evaluation
+- Various testing services
+- Set evaluation services
 
-## 6. Key Clients and Industries Served
+### Offshore Development
+- China center (Hefei, Anhui Province)
+- Vietnam center (Ho Chi Minh City)
+- Technical support services
+- BPO (Business Process Outsourcing)
 
-- Information Technology
-- System Development
-- Software Solutions
+### PC/OA Equipment Sales
+- Personal computer and office automation equipment sales
 
----
+### Dispatch Services
+- Specified worker dispatch
 
-## 7. Company Philosophy and Culture
+## Philosophy
 
-TBD - Additional research needed.
----
+"Technology innovation creates a colorful future"
 
-## 8. Media Mentions
+### Mission
+"Global quality, smiles worldwide — Technology will change the world!"
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社エルエスアイ開発研究所 会社概要](http://lsi-dev.r-cms.biz/companyinfo_detail/) | Web | ## 会社概要. | 本社所在地 | 224 - 0053  神奈川県横浜市港北区6-13-32ワコー電子ビル4階 |. | 従業員数 | 25人(2011年9 |
-| [エルエスアイ開発研究所の新卒採用・就職・企業情報【就活会議】](https://syukatsu-kaigi.jp/companies/71733) | Web | # エルエスアイ開発研究所の新卒採用・就職・企業情報. 株式会社エルエスアイ開発研究所の社員・元社員による総合評価は--点です（口コミ回答数2件）。ESや本選考 |
-| [株式会社エルエスアイ開発研究所の転職・企業概要 − 転職ならdoda（デューダ）](https://doda.jp/DodaFront/View/Company/j_id__10025424133/) | Web | あなたの登録情報（職種・勤務地など）と求人企業が設定した応募歓迎条件が合致すると求人に「マッチングしやすいおすすめ求人 ※1」と表示されることがあります。. あ |
-| [会社案内](https://www.big-advance.site/c/123/2030/profile) | Web | 株式会社エルエスアイ開発研究所 · 〒224-0024. 神奈川県横浜市都筑区東山田町687番地15 · 1982年11月15日 · 33名 · ソフトウェア開 |
-| [株式会社エルエスアイ開発研究所](https://www.big-advance.site/c/123/2030) | Web | エルエスアイ開発研究所 は、組込みソフトウェアの開発に30年以上の実績があります。 近年、クラウドシステムが急成長しています。インターネットがつながれば、 世界 |
-| [株式会社エルエスアイ開発研究所](http://www.lsi-dev.co.jp/) | Web | # 技術革新で未来を彩る. # グローバル品質で世界に笑顔を. Technology will change the world! # 高品質・短納期・コストダ |
-| [株式会社エル・エス・アイの会社概要](https://tenshoku.mynavi.jp/company/345842/) | Web | ## 株式会社エル・エス・アイ. # 株式会社エル・エス・アイの会社概要. | 福利厚生 | ■各種社会保険完備 ■退職金（勤続1年以上） ■再雇用制度（65歳 |
+### Core Values
+- High quality, short delivery, cost reduction
 
----
+## Welfare Benefits
+- Various social insurance complete
+- Retirement allowance (after 1+ years of service)
+- Re-employment system (up to age 65)
 
-## 9. Summary
+## Media Mentions
 
-### Company Overview
-株式会社エルエスアイ開発研究所 is a KIA member company based in Kanagawa Prefecture, Japan. Founded in 昭和57年. Capital: 2,000万円. Employees: 25人.
+- [Official Website](http://www.lsi-dev.co.jp/) - "Technology innovation creates a colorful future"
+- [Big Advance](https://www.big-advance.site/) - "30+ years of experience in embedded software development"
+- [Mynavi Tenshoku](https://tenshoku.mynavi.jp/company/345842/) - Employee benefits information
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+## Notes
 
-### Business Model
-IT services and system development.
+- 40+ years of operation since 1982
+- Global development centers: Japan + China + Vietnam
+- Specialized in embedded software
+- Strong hardware capabilities (PCB, IC chips)
+- 25 employees — small but internationally structured
+- KIA member company
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
