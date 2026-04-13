@@ -1,36 +1,36 @@
 # 株式会社フジシステムズ (Fuji Systems Co., Ltd.)
 
 ## Overview
-株式会社フジシステムズは、「信頼」・「創造」・「実践」を企業理念とし、高度な技術力と豊富なノウハウをベースに常に新しい価値の創造に取り組んでいる。絶えざるイノベーションが生み出すソフトウェア技術の中で、次代を見据えたビジョンに基づき核となる技術を見極め、技術者一人ひとりがソフトウェアテクノロジーの自己革新をはかっている。
+Fuji Systems Co., Ltd. operates under the corporate philosophy of "Trust," "Creation," and "Practice." Based on advanced technical capabilities and extensive know-how, the company continuously pursues the creation of new value. Within the software technology produced by constant innovation, each engineer identifies core technologies based on a future-oriented vision and drives self-renewal in software technology.
 
 ## History
-詳細な沿革は公開されていない
+Detailed corporate history is not publicly available.
 
 ## Capital
-非公開
+Not disclosed.
 
 ## Services
-- ソフトウェア開発
-- システムインテグレーション
-- AIleunネットワークカメラ制御 × GPUプログラミング
-- Forest Magicクラウドサービス導入支援
-- 車番認識装置（オブジェクト認識 × 文字認識）
-- Wiパシャ（Wi-Fi Direct × Android）
+- Software development
+- System integration
+- AIleun network camera control × GPU programming
+- Forest Magic cloud service implementation support
+- Vehicle license plate recognition system (object recognition × character recognition)
+- Wi-Pasha (Wi-Fi Direct × Android)
 
 ## Clients
-お客様のニーズに応じた多様なシステム開発
+Diverse system development tailored to customer needs.
 
 ## Philosophy
-### 企業理念
-- 信頼
-- 創造
-- 実践
+### Corporate Philosophy
+- Trust
+- Creation
+- Practice
 
-### 経営方針
-絶えざる自己革新を追求
+### Management Policy
+Pursuing continuous self-renewal.
 
 ## Contact
 - **URL:** https://www.fujisystems.co.jp/
 
 ## Media Mentions
-- [展示会出展情報](https://dxpo.jp/real/fox/yokohama/sales/) - 第1回営業・マーケDXPO横浜'26
+- [Exhibition Information](https://dxpo.jp/real/fox/yokohama/sales/) - 1st Sales & Marketing DXPO Yokohama '26

@@ -1,30 +1,30 @@
 # 株式会社リアルソフト (Realsoft Inc.)
 
 ## Overview
-株式会社リアルソフトは神奈川県横浜市に本社を置くIT企業。ソフトウェア開発を中心とした事業を展開している。
+Realsoft Inc. is an IT company headquartered in Yokohama, Kanagawa Prefecture. The company primarily develops software and provides system integration services.
 
 ## History
-詳細な沿革は公開されていない
+Detailed corporate history is not publicly available.
 
 ## Capital
-非公開
+Not disclosed.
 
 ## Services
-- ソフトウェア開発
-- システムインテグレーション
+- Software development
+- System integration
 
 ## Clients
-お客様のニーズに応じた多様なシステム開発
+Diverse system development tailored to customer needs.
 
 ## Philosophy
-詳細な経営理念は公開されていない
+Detailed corporate philosophy is not publicly available.
 
 ## Contact
-- **所在地:** 〒231-0032 神奈川県横浜市中区不老町1丁目2番1号 中央第6関内ビル5階
+- **Address:** Chuo Dai-6 Kannai Building 5F, 1-2-1 Furo-cho, Naka-ku, Yokohama, Kanagawa 231-0032
 - **URL:** https://www.realsoft.co.jp/
 
 ## Certifications
-各種認証取得
+Various certifications obtained.
 
 ## Media Mentions
-企業情報は公式サイトをご参照ください
+For company information, please refer to the official website.

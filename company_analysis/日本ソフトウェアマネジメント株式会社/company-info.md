@@ -1,102 +1,78 @@
-# 日本ソフトウェアマネジメント株式会社 (日本ソフトウェアマネジメント)
-## Company Analysis Report
+# 日本ソフトウェアマネジメント株式会社 (Japan Software Management Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Japan Software Management Co., Ltd. (日本ソフトウエアマネジメント株式会社) is a software development company with approximately 40 years of history. Based in Yokohama, Kanagawa Prefecture, the company develops software products primarily for local government offices and educational institutions. Their slogan is "Seeing the future through the circle of technology."
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 日本ソフトウェアマネジメント株式会社 |
-| **English** | 日本ソフトウェアマネジメント |
-| **Reading** | TBD |
+**Website:** https://www.jsm.co.jp/
 
----
+## History
 
-## 2. Company Contact Information
+Founded approximately 40 years ago. The company has continuously centered its business on software development, adapting to changing social structures and customer needs.
 
-### Headquarters
-- **Address:** 〒221-0056 横浜市神奈川区金港町5番地32（ベイフロント横浜 7階） 事業内容 弊社は設立40年、ソフトウェア開発を中心に事業展開をしてまいりました。し
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 03
-- **Website:** https://www.jt-tsushin.jp/companies/jsm
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **資本金 (Capital)** | 5,000万円 |
-| **代表者 (Representative)** | 者名 |
+| **Capital** | 50,000,000 JPY |
+| **Headquarters** | Bayfront Yokohama 7F, 5-32 Konko-cho, Kanagawa-ku, Yokohama 221-0056 |
+| **Affiliation** | KIA (Kanagawa Information Services Industry Association) |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. 最新情報 寄稿記事 事例ライブラリー 自治体向けイベント 自治体向けサービス分野別一覧 お役立ち資料 RABAN お問い合わせ（自治体職員の方） お問い合わせ（企業の方） お電話でのご相談 03-52
-2. 内容 弊社は設立40年、ソフトウェア開発を中心に事業展開をしてまいりました。しかし、近年は社会構造が大きく変化をし、顧客もその変化に対応した設備投資を行う状況となっています。特に設備投資については、今
-3. 開発に取り組んでいます。更に、マイナンバーの統合番号連携システムなど、ソフトウェア受託開発などの仕事も請け負っています。 自治体通信 の 掲載記事 2026.03.12 「究極の個人識別技術」DNA型
-4. 開発をしています。教育委員会や学校向けには、保護者と学校の連絡を電子データにしてメールやSMSでやりとりできる製品を開発し、教職員の作業軽減と保護者の利便性に力を入れています。また、市役所の窓口手続き
-5. 分野別一覧から探す お役立ち資料 自治体支援企業一覧 公務員向けキャリア メルマガ登録 お問い合わせ 自治体職員の方はこちら 企業の方はこちら ログイン 会員登録 自治体支援企業＆サービス一覧 日本ソ
-6. 開発に取り組んでいます。更に、マイナンバーの統合番号連携システムなど、ソフトウェア受託開発などの仕事も請け負っています。 日本ソフトウエアマネジメント株式会社 技術の輪で未来を見る 情報システム 子ど
-7. ビジネスを全国展開しています。 ①教育委員会向けパッケージ 給食費管理、学校徴収金管理、購買管理、児童クラブ、デジタル通知、スポーツ振興、教職員管理 ②ソフトウェア受託開発 民間、自治体 ③人工知能（
-8. 分野別一覧から探す お役立ち資料 自治体支援企業一覧 公務員向けキャリア メルマガ登録 お問い合わせ 自治体職員の方はこちら 企業の方はこちら 自治体通信Onlineとは 自治体通信を読む 自治体向け
 
-### Business Description
-分野別一覧から探す お役立ち資料 自治体支援企業一覧 公務員向けキャリア メルマガ登録 お問い合わせ 自治体職員の方はこちら 企業の方はこちら 自治体通信Onlineとは 自治体通信を読む 自治体向けイベント 自治体向けサービス 分野別一覧から探す お役立ち資料 自治体支援企業一覧 公務員向けキャリア メルマガ登録 お問い合わせ 自治体職員の方はこちら 企業の方はこちら ログイン 会員登録 自治体支援企業＆サービス一覧 日本ソフトウエアマネジメント株式会社 技術の輪で未来を見る 情報システム 子ども・子育て 学校教育・生涯学習 デジタル社会を先取りするために、弊社ではデジタル化が遅れている自治体や学校向けに製品開発をしています。教育委員会や学校向けには、保護者と学校の連絡を電子データにしてメールやSMSでやりとりできる製品を開発し、教職員の作業軽減と保護者の利便性に力を入れています。また、市役所の窓口手続きでは、各窓口をネットワークで連携して、手続きをする窓口の一覧、窓口間情報の伝達、窓口からの災害通知（不審者、クレーマなど）の通知、更にはオンライン手続きや予約など、デジタル社会で市民
----
+#### 1. Education Board Package Products
+Products for Boards of Education and schools, including:
+- School lunch fee management
+- School collection fee management
+- Purchasing management
+- After-school children's club management
+- Digital notification systems
+- Sports promotion
+- Teaching staff management
 
-## 6. Key Clients and Industries Served
+#### 2. Contract Software Development
+- Software development for private sector and local government clients
+- MyNumber integrated number linkage systems
 
-- Information Technology
-- System Development
-- Software Solutions
+#### 3. Artificial Intelligence (AI) Development
+- AI solutions for government operations
 
----
+#### 4. Digital Government Solutions
+- Products enabling electronic communication between parents and schools via email and SMS
+- City hall counter procedure digitalization
+- Network-linked counter systems for municipal offices
+- Online procedures and reservation systems
+- Disaster notification systems (suspicious persons, complaints, etc.)
 
-## 7. Company Philosophy and Culture
+## Clients
 
-TBD - Additional research needed.
----
+- Local government offices (municipalities)
+- Boards of Education
+- Schools (elementary, middle, high schools)
+- Private sector companies requiring software development
 
-## 8. Media Mentions
+**Key Achievement:** Over 80% market share among government-designated cities for school lunch fee public accounting systems.
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [日本ソフトウエアマネジメント(株)の新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp39124/outline.html) | Web | # 日本ソフトウエアマネジメント(株). | PHOTO  こんな方をお待ちしています◆IT業界やエンジニアに興味があるけど、知識や経験がなく不安…◆実際どんな |
-| [日本ソフトウエアマネジメントの評判・口コミ](https://en-hyouban.com/company/10012173023/) | Web | 日本ソフトウエアマネジメント株式会社の会社評価 · 会社の成長性や将来性: 3.2 · 事業の優位性や独自性: 3.0 · 実力主義: 3.1 · 活気のある風 |
-| [日本ソフトウエアマネジメント株式会社](https://www.jsm.co.jp/) | Web | ### 自社開発の製品で 行政業務の効率化を進めています. ### 学校給食費公会計化における 政令指定都市のシェアは80％以上※. 学校給食費公会計化を実施し |
-| [日本ソフトウエアマネジメントの 評判・口コミ一覧（全53件）](https://syukatsu-kaigi.jp/companies/109031/word_mouths) | Web | ### 回答者： 社員・元社員 30代前半 女性 4年前 アプリケーション設計(オープン系・WEB系) 社員クラス 正社員. ### 回答者： 社員・元社員 3 |
-| [日本ソフトウェアマネジメント株式会社の役員・従業員](https://www.wantedly.com/companies/company_8843996/members) | Web | 日本ソフトウェアマネジメント株式会社の役員・社員など組織のメンバーをご紹介。新型コロナウイルスの登場で、社会構造は大きく変化しようとしています。 |
-| [日本ソフトウエアマネジメント(株)の採用・求人情報](https://en-gage.net/jsm_saiyo/) | Web | 日本ソフトウエアマネジメント(株)の採用・求人情報 · 【オープニング募集】経理事務（正社員登用あり）・年間休日120日以上/横浜勤務・駅徒歩5分 · 27新卒 |
+## Philosophy
 
----
+"Seeing the future through the circle of technology" — The company develops products for local governments and schools lagging in digitalization, contributing to the realization of a digital society. They focus on reducing teacher workloads and improving parent convenience.
 
-## 9. Summary
+## Media Mentions
 
-### Company Overview
-日本ソフトウェアマネジメント株式会社 is a KIA member company based in Kanagawa Prefecture, Japan. Capital: 5,000万円. 
+- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp39124/outline.html) - Company profile and recruitment
+- [En-Hyouban](https://en-hyouban.com/company/10012173023/) - Company reviews and ratings
+- [Syukatsu Kaigi](https://syukatsu-kaigi.jp/companies/109031/word_mouths) - Employee reviews (53 entries)
+- [Wantedly](https://www.wantedly.com/companies/company_8843996/members) - Company members and organization
+- [Jichi Tsushin Online](https://www.jt-tsushin.jp/companies/jsm) - Local government communication platform
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+## Notes
 
-### Business Model
-IT services and system development.
+- The company has a strong focus on the local government/education sector
+- High market share in school lunch fee management systems for major cities
+- Expanding into AI and digital transformation solutions for municipalities
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*

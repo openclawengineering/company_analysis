@@ -1,60 +1,60 @@
 # 株式会社パシオン (Pasion Inc.)
 
 ## Overview
-株式会社パシオンは1996年に横浜で創業したIT技術企業。コンピュータソフトウェアの開発、サポート、コンサルティング業務を展開し、最新テクノロジーを取り入れたベストソリューションの提供に注力している。
+Pasion Inc. is an IT technology company founded in Yokohama in 1996. The company develops computer software, provides support services, and offers consulting services, focusing on delivering the best solutions using the latest technology.
 
 ## History
-- 1996年4月1日 - 横浜市神奈川区台町にて設立
-- 1998年3月20日 - 本社を横浜市神奈川区沢渡に移転
-- 1999年4月1日 - 資本金を2,000万円に増資
-- 2000年4月1日 - 資本金を3,000万円に増資
-- 2001年5月1日 - 本社を横浜市中区南仲通に移転
-- 2005年3月1日 - ISO9001認証取得、本社を横浜市中区真砂町に移転
-- 2006年3月7日 - ISMS認証取得
-- 2007年3月7日 - ISMSをISO27001に移行
-- 2007年4月15日 - 資本金を3,500万円に増資
-- 2009年4月1日 - 代表取締役に廣木英雄就任
-- 2009年7月27日 - 本社を横浜市神奈川区栄町に移転
-- 2022年11月28日 - 本社を横浜市神奈川区金港町に移転
-- 2025年4月1日 - サンアクセス株式会社と合併
+- April 1, 1996 - Established in Taimachi, Kanagawa-ku, Yokohama
+- March 20, 1998 - Headquarters relocated to Sawatari, Kanagawa-ku, Yokohama
+- April 1, 1999 - Capital increased to 20 million JPY
+- April 1, 2000 - Capital increased to 30 million JPY
+- May 1, 2001 - Headquarters relocated to Minaminakanadori, Naka-ku, Yokohama
+- March 1, 2005 - Obtained ISO9001 certification; headquarters relocated to Masago-cho, Naka-ku, Yokohama
+- March 7, 2006 - Obtained ISMS certification
+- March 7, 2007 - Migrated ISMS to ISO27001
+- April 15, 2007 - Capital increased to 35 million JPY
+- April 1, 2009 - Hideo Hiroki appointed President & CEO
+- July 27, 2009 - Headquarters relocated to Sakae-cho, Kanagawa-ku, Yokohama
+- November 28, 2022 - Headquarters relocated to Konko-cho, Kanagawa-ku, Yokohama
+- April 1, 2025 - Merged with Sun Access Inc.
 
 ## Capital
-3,500万円
+35,000,000 JPY
 
 ## Services
-- コンピュータソフトウェアの開発業務
-- コンピュータソフトウェアのサポート業務
-- コンピュータ導入等のコンサルティング業務
-- 開発要員の出向及び技術支援業務
+- Computer software development
+- Computer software support services
+- Consulting services for computer implementation
+- Development staff secondment and technical support services
 
 ## Clients
-お客様の笑顔を目標に、常にお客様の立場に立ち、より良い環境に変えていくことを目指す。
+Aiming for customer satisfaction, the company always stands from the customer's perspective and strives to create a better environment.
 
 ## Philosophy
-### 経営理念
-1. 顧客満足の追求
-2. 社員の生活環境向上
-3. 会社の恒久的繁栄
-4. 恒久的社会貢献
+### Management Philosophy
+1. Pursuit of customer satisfaction
+2. Improvement of employees' living environment
+3. Lasting prosperity of the company
+4. Permanent social contribution
 
-### 社名由来
-社名"パシオン"（スペイン語で「情熱」）は、社内公募により会社を表現する最も適切な名前として選択された。
-- **P**roposer - 常に問題を認識し、提案ができるSEを目指す
-- **A**dvance - 次代への創造と挑戦
-- **S**hake hands - 社員が共に協力できる会社
-- **I**nternational - 国際的な視野
-- **O**riginality - 他とは違う高価値を目指す
-- **N**ext - 時代を先取り
+### Company Name Origin
+The name "Pasion" (Spanish for "passion") was selected through an internal competition as the most appropriate name to represent the company:
+- **P**roposer - Aiming to be SEs who constantly recognize issues and propose solutions
+- **A**dvance - Creation and challenge for the next generation
+- **S**hake hands - A company where employees cooperate together
+- **I**nternational - International perspective
+- **O**riginality - Pursuing high value different from others
+- **N**ext - Ahead of the times
 
 ## Contact
-- **所在地:** 〒221-0056 横浜市神奈川区金港町1番地7 横浜ダイヤビルディング25階
+- **Address:** Yokohama Diamond Building 25F, 7-1 Konko-cho, Kanagawa-ku, Yokohama 221-0056
 - **TEL:** 045-450-1921
 - **FAX:** 045-450-1922
 - **URL:** https://www.pasion.co.jp/
 
 ## Certifications
-- ISO27001認証取得
-- 労働者派遣事業許可
+- ISO27001 certified
+- Worker dispatch business licensed
 
 ## Media Mentions
-- [パシオン通信](https://www.pasion.co.jp/tuushin.htm) - 企業ニュースレター
+- [Pasion News Letter](https://www.pasion.co.jp/tuushin.htm) - Corporate newsletter
