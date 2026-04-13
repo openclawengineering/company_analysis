@@ -1,61 +1,61 @@
 # 株式会社ライトウェア (Lightware Co., Ltd.)
 
 ## Overview
-株式会社ライトウェアは1990年に設立されたシステム開発企業。お客様の夢をICTを使って実現することを経営理念とし、Java、ColdFusionなどを中心としたWebアプリケーション開発、システム開発を主力事業としている。システムクリエーターとしてSE、プログラマにとらわれないクリエイティブで刺激的な仕事を提供している。
+Lightware Co., Ltd. is a system development company established in 1990. The company's management philosophy is to realize customers' dreams through ICT. Its core business is web application development and system development centered on Java and ColdFusion. As a "system creator," the company offers creative and stimulating work that goes beyond traditional SE and programmer roles.
 
 ## History
-- 1990年9月28日 - 創立（平成2年）
+- September 28, 1990 - Founded
 
 ## Capital
-4,800万円
+48,000,000 JPY
 
 ## Services
-### システム開発
-業務システムの設計・開発から運用・保守まで
+### System Development
+From business system design and development through operations and maintenance
 
-### プロダクト・サービス
-自社製品・サービスの開発・提供
+### Products & Services
+Development and provision of proprietary products and services
 
-### システム・エンジニアリング・サービス
-技術者派遣・SES
+### System Engineering Service
+Technical staff dispatch / SES
 
-### 開発技術
+### Development Technologies
 - Java
 - ColdFusion
 
 ## Clients
-### 導入・開発事例
-- 某化粧品通販サイト向け機能追加・改修
-- 集客施設向け団体予約システム開発
-- 大手製紙会社向け業務システム改修
-- 大手就職情報会社向け就職情報サイト全面リニューアル（規模：220人月）
+### Development Track Record
+- Feature additions and modifications for a cosmetics mail-order website
+- Group reservation system development for visitor facilities
+- Business system modifications for a major paper manufacturer
+- Complete renewal of a job information website for a major employment information company (scale: 220 person-months)
 
 ## Philosophy
-### 経営理念
-お客様の夢をICTを使って実現すること
+### Management Philosophy
+To realize customers' dreams through ICT
 
-### 品質方針
-品質マネジメントへの取り組み
+### Quality Policy
+Commitment to quality management
 
-### 情報セキュリティ方針
-情報セキュリティへの取り組み
+### Information Security Policy
+Commitment to information security
 
 ## Contact
-- **所在地:** 〒171-0021 東京都豊島区西池袋2-39-6 池袋ツルミビル 5F
-- **アクセス:** 各線池袋駅メトロポリタン口から徒歩3分
+- **Address:** Ikebukuro Tsurumi Building 5F, 2-39-6 Nishi-Ikebukuro, Toshima-ku, Tokyo 171-0021
+- **Access:** 3-minute walk from Metropolitan exit of Ikebukuro Station (all lines)
 - **URL:** https://www.lightware.co.jp/
 
 ## Certifications
-- 情報セキュリティ(ISMS) IS641953
-- 労働者派遣事業者（派 13 307652）
-- 有料職業紹介事業者（許可番号：13-ユ-312925）
+- Information Security (ISMS) IS641953
+- Worker Dispatch Business (派 13 307652)
+- Fee-Charging Employment Placement Service (License No.: 13-ユ-312925)
 
 ## Employees
-49名
+49
 
 ## Financials
-売上高 4.3億円（2024年度実績）
+Revenue: 430 million JPY (FY2024)
 
 ## Media Mentions
-- [ライトスタッフ](https://startlightstaff.com/) - IT系フリーランスエンジニア向けのエージェントサービス
-- [咲くキャリ情報局](https://sakucareer.com/) - IT系エンジニアのための情報サイト
+- [Light Staff](https://startlightstaff.com/) - Agent service for freelance IT engineers
+- [Saku Career Bureau](https://sakucareer.com/) - Information site for IT engineers

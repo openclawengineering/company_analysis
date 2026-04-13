@@ -2,57 +2,57 @@
 
 ## Company Overview
 
-ハル・エンジニアリング株式会社は、横浜に創業して45期目を迎えるソフトウェア開発企業です。豊富なソフトウェア開発の実績と企画・提案力が強みです。「高い技術力」と「自由な心」が社名であり、目指すところです。
+HaL Engineering Inc. is a software development company founded in Yokohama, now in its 45th fiscal year. The company's strengths are its extensive track record in software development and its planning and proposal capabilities. "High technical skills" and "a free spirit" are both the company name and its guiding philosophy.
 
-IoT時代に対応し、IoT関連の積極的なものづくりが可能です。ハードウェア開発に強みを持つ企業様と協業によって、様々な分野の製品作りが可能です。大手メーカーやソフトウェアベンダーなど、様々なお客様の開発に参画することを事業の主軸としています。
+Adapting to the IoT era, the company actively engages in IoT-related product development. Through collaboration with companies strong in hardware development, it is capable of creating products across various fields. Its core business involves participating in development projects for major manufacturers and software vendors.
 
 **Website:** https://www.haleng.co.jp
 
 ## History
 
-- **1977年9月** - 会社創業
-- **設立以来** - 横浜で45期にわたりソフトウェア開発を継続
+- **September 1977** - Company founded
+- **Since founding** - Continuously engaged in software development in Yokohama for 45 fiscal years
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 6000万円 |
-| Employees | 77名（2025年4月現在） |
-| Corporate Number | 不明 |
-| Founded | 1977年9月 |
-| Representative | 平田 達彦（代表取締役） |
-| Headquarters | 〒220-0023 神奈川県横浜市西区平沼1-39-3 三石ヨコハマビル |
+| Capital | 60,000,000 JPY |
+| Employees | 77 (as of April 2025) |
+| Corporate Number | Not disclosed |
+| Founded | September 1977 |
+| Representative | Tatsuhiko Hirata (President & CEO) |
+| Headquarters | Mitsuishi Yokohama Building, 1-39-3 Hiranuma, Nishi-ku, Yokohama, Kanagawa 220-0023 |
 | Phone | 045-324-1751 |
 | Fax | 045-324-1785 |
 
 ## Services/Products
 
-### ソフトウェア開発
-- 豊富な実績に基づく受託開発
-- 大手メーカーやソフトウェアベンダーへの開発参画
-- IoT関連製品開発
+### Software Development
+- Contract development based on extensive track record
+- Development participation for major manufacturers and software vendors
+- IoT-related product development
 
-### システム企画・提案
-- 企画・提案力を活かしたソリューション提供
-- ハードウェア開発企業との協業による製品開発
+### System Planning & Proposals
+- Solution provision leveraging planning and proposal capabilities
+- Product development through collaboration with hardware development companies
 
 ## Clients
 
-特定ジャンルに絞らず、守備範囲の広さが強みで大手企業様案件の継続受注が事業の主軸
+The company's strength lies in its broad coverage without being limited to specific industries. The core business is continuous orders for projects from large enterprise clients.
 
 ## Philosophy
 
-「高い技術力」と「自由な心」を社名と理念に掲げ、横浜で45期にわたりソフトウェア開発を継続しています。
+"High technical skills" and "a free spirit" — both the company name and its guiding philosophy. The company has continuously engaged in software development in Yokohama for 45 fiscal years.
 
-## 加入団体
+## Memberships
 
-- 横浜市SDGsパートナーシップ
-- 神奈川県ものづくり振興会議（JASA）
-- 神奈川県IT振興事業協議会（KIA）
-- その他地域関連団体
+- Yokohama City SDGs Partnership
+- Kanagawa Manufacturing Promotion Council (JASA)
+- Kanagawa IT Association (KIA)
+- Other regional organizations
 
 ## Media Mentions
 
-- 2024年8月 - SalesNow DBにて従業員数72名として掲載
-- 2025年6月 - システム開発会社の発注先サイトで「チャレンジを続けるソフトウェア企業」として紹介
+- August 2024 - Listed with 72 employees on SalesNow DB
+- June 2025 - Featured as a "software company that continues to challenge" on a system development company client site

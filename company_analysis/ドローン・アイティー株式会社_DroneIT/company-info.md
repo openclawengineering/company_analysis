@@ -2,90 +2,90 @@
 
 ## Company Overview
 
-ドローン・アイティー株式会社は、ドローン技術者の養成およびドローン活用事業支援を行う企業です。2019年8月1日開業。ドローンと徹底的に向き合い、新たな気づきに敏感になり大空に飛び出し大海に飛び込み、飽くなき探求心を持ち「無から有」を創作し驚きと感動に溢れたサービスを生み続ける会社を目指しています。
+Drone-IT Corporation is a company specializing in drone pilot training and drone business utilization support. Founded on August 1, 2019, the company aims to create services full of surprise and inspiration by thoroughly engaging with drone technology, being sensitive to new discoveries, and pursuing innovation with an insatiable spirit of inquiry.
 
-同社はJUIDA認定コースのビジネス活用からホビーユースまで対応するドローン技術者育成の「横浜ドローンアイティー・スクール」を運営しています。国土交通省航空局認定登録講習団体として、無人航空機マルチローター一等・二等の講習を開始しています。
+The company operates the "Yokohama Drone-IT School," a JUIDA-certified training facility covering everything from business applications to hobby use. As a registered training organization certified by the Japan Ministry of Land, Infrastructure, Transport and Tourism (MLIT) Aviation Bureau, the school offers multi-rotor unmanned aircraft first-class and second-class training courses.
 
 **Website:** https://www.drone-it.jp
 
 ## History
 
-- **2018年11月** - Drone-IT 横浜ドローンビジネス・ラボラトリーを発足させ「ドローン導入コンサルティング事業」を開始
-- **2019年8月1日** - 「ドローン・アイティー株式会社」を開業
-- **2019年8月20日** - JUIDA無人航空機講習認定校「横浜ドローンアイティー・スクール」を開校
-- **2020年4月** - 大和市「柏木実業専門学校」にて無人航空機操縦技能士を取得できるドローン講習を開始
-- **2022年4月** - 山梨県早川町町営「南アルプスドローンスクール」を開校
-- **2022年6月** - 「横浜ドローンアイティー・スクール」にて、農薬散布・物件投下講習を開講
-- **2023年1月** - 「横浜ドローンアイティー・スクール」にて、身障者向けユニバーサルドローン講習の実証実験を開始
-- **2023年11月** - 国土交通省航空局認定登録講習団体として登録され、無人航空機マルチローター一等・二等の講習を開始
-- **2024年3月** - 開業5年目事業方針説明会を開催
-- **2024年6月** - 「横浜ドローンアイティー・スクール」が、一社）ドローン減災士協会神奈川県認定スクールとして登録され、ドローン減災士認定を開講
-- **2025年9月** - 「横浜ドローンアイティー・スクール」にて、JUIDA ドローン防災スペシャリスト講習を開講
+- **November 2018** - Launched Drone-IT Yokohama Drone Business Laboratory, starting drone consulting services
+- **August 1, 2019** - Drone-IT Corporation established
+- **August 20, 2019** - Opened JUIDA-certified unmanned aircraft training school "Yokohama Drone-IT School"
+- **April 2020** - Started drone training courses at Kashiwagi Industrial Specialized School (Yamato City) leading to unmanned aircraft piloting certification
+- **April 2022** - Opened municipal "South Alps Drone School" in Hayakawa Town, Yamanashi Prefecture
+- **June 2022** - Launched pesticide spraying and payload dropping courses at Yokohama Drone-IT School
+- **January 2023** - Started pilot testing of universal drone training for persons with disabilities at Yokohama Drone-IT School
+- **November 2023** - Registered as a MLIT Aviation Bureau certified training organization, offering first-class and second-class multi-rotor unmanned aircraft courses
+- **March 2024** - Held 5th anniversary business strategy briefing
+- **June 2024** - Yokohama Drone-IT School registered as a Kanagawa Prefecture certified school by the Drone Disaster Reduction Officer Association, starting certification courses
+- **September 2025** - Launched JUIDA Drone Disaster Prevention Specialist training at Yokohama Drone-IT School
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 800万円 |
-| Employees | 不明 |
+| Capital | 8,000,000 JPY |
+| Employees | Not disclosed |
 | Corporate Number | 8020001132287 |
-| Founded | 2019年8月1日 |
-| Representative | 金子 信洋（代表取締役）、松本 隆裕（取締役） |
-| Headquarters (事務所・スクール座学場所) | 〒220-0004 神奈川県横浜市西区北幸１丁目１１番１号 水信ビル７階 |
-| School (スクール実技場所) | 〒233-0002 神奈川県横浜市港南区上大岡西２丁目１番２８「アカフースタジアム」 |
+| Founded | August 1, 2019 |
+| Representative | Nobuhiro Kaneko (President & CEO), Takahiro Matsumoto (Director) |
+| Office & Classroom (Theory) | Suishin Building 7F, 1-11-1 Koko, Nishi-ku, Yokohama, Kanagawa 220-0004 |
+| School (Practical Training) | "Akafoo Stadium," 1-28 Kamioka-nishi 2-chome, Minami-ku, Yokohama, Kanagawa 233-0002 |
 
 ## Services/Products
 
-### ドローン・スクール運営
-- 横浜ドローンアイティー・スクール
-- 無人航空機操縦技能士取得講習
-- 農薬散布・物件投下講習
-- 身障者向けユニバーサルドローン講習
-- ドローン減災士認定講習
-- JUIDA ドローン防災スペシャリスト講習
+### Drone School Operations
+- Yokohama Drone-IT School
+- Unmanned aircraft piloting certification courses
+- Pesticide spraying and payload dropping courses
+- Universal drone training for persons with disabilities
+- Drone Disaster Reduction Officer certification courses
+- JUIDA Drone Disaster Prevention Specialist training
 
-### ドローン導入コンサルティング
-- 企業向けドローン活用導入支援
-- ドローンビジネス・ラボラトリー運営
+### Drone Implementation Consulting
+- Corporate drone utilization and implementation support
+- Drone Business Laboratory operations
 
-### ドローン活用ソリューション提供
-- 法人向けドローン活用支援
+### Drone Solution Services
+- Corporate drone utilization support
 
 ## Clients
 
-- 株式会社 アイネット
-- 有限会社アーク
-- 株式会社スカイマティクス
-- 株式会社 T&T
-- 株式会社セキド
-- 株式会社WorldLink & Company
-- 株式会社スリー・エス
-- 株式会社石川エナジーリサーチ
-- 株式会社しまなみ ライトハウス
-- 坂和技研株式会社
+- iNet Corporation
+- Arc Co., Ltd.
+- SkyMatics Inc.
+- T&T Inc.
+- Sekido Inc.
+- WorldLink & Company Inc.
+- Three-S Inc.
+- Ishikawa Energy Research Inc.
+- Shimananami Lighthouse Inc.
+- Sakawa Giken Inc.
 - M's Sky Solution
 
 ## Philosophy
 
-ミッション：ドローンと徹底的に向き合い、新たな気づきに敏感になり大空に飛び出し大海に飛び込み、飽くなき探求心を持ち「無から有」を創作し驚きと感動に溢れたサービスを生み続ける会社を目指します。
+Mission: To thoroughly engage with drone technology, be sensitive to new discoveries, take to the open skies and dive into the vast oceans, maintain an insatiable spirit of inquiry, and continuously create services filled with surprise and inspiration — bringing "something from nothing."
 
-## 認定・加盟
+## Certifications & Memberships
 
-### 認定校
-- 国土交通省航空局 登録講習機関 一等・二等（2023年11月登録）
-- 国土交通省航空局ホームページ掲載 民間講習団体
-- 日本UAS産業振興競技会(JUIDA) 認定校（2019年8月認定取得）
-- ドローン減災士協会(DEO) 神奈川県認定校（2024年6月認定取得）
-- 株式会社スリー・エス フライトAG講習認定校（2025年1月認定取得）
+### Certified Training Facilities
+- MLIT Aviation Bureau Registered Training Organization, First & Second Class (registered November 2023)
+- Listed on MLIT Aviation Bureau website as private training organization
+- Japan UAS Industrial Development Association (JUIDA) Certified School (certified August 2019)
+- Drone Disaster Reduction Officer Association (DEO) Kanagawa Prefecture Certified School (certified June 2024)
+- Three-S Inc. Flight AG Training Certified School (certified January 2025)
 
-### 参加団体
-- 横浜商工会議所
-- 一般社団法人 日本UAS産業振興協議会
-- 一般社団法人 ドローン減災士協会
-- 一般社団法人 神奈川県情報サービス産業協会
-- 一般社団法人 BPS横須賀
+### Member Organizations
+- Yokohama Chamber of Commerce and Industry
+- Japan UAS Industrial Development Association (JUIDA)
+- Drone Disaster Reduction Officer Association (DEO)
+- Kanagawa Information Services Industry Association (KIA)
+- BPS Yokosuka
 
 ## Media Mentions
 
-- 2024年6月 - ドローン減災士協会神奈川県認定スクールとして登録
-- 2025年9月 - JUIDA ドローン防災スペシャリスト講習を開講
+- June 2024 - Registered as a Drone Disaster Reduction Officer Association Kanagawa Prefecture certified school
+- September 2025 - Launched JUIDA Drone Disaster Prevention Specialist training

@@ -1,47 +1,47 @@
-# S&A JAPAN株式会社
+# S&A JAPAN株式会社 (S&A JAPAN Inc.)
 
 ## Company Overview
 
-S&A JAPAN株式会社は、大手Sierのパートナーとして、基幹系をはじめとする様々なソフトウェア開発、運用、保守を行うIT企業です。2011年12月に設立されました。社名の由来は「Strategy & Achievement」で、このスローガンを掲げて事業を展開しています。
+S&A JAPAN Inc. is an IT company that, as a partner of major SIers (system integrators), engages in various software development, operations, and maintenance projects including core systems. Founded in December 2011, the company name derives from "Strategy & Achievement," operating under this slogan.
 
-同社は要件定義、設計、製造、テスト・検証の全ての工程に対応可能です。東日本大震災が発生した2011年に、当時の状況下で「日本再生」「元気がある中小企業」「起業家精神を取り戻す」を合言葉に会社を設立しました。
+The company is capable of handling all phases: requirements definition, design, development, and testing/verification. It was established in 2011, the year of the Great East Japan Earthquake, with the motto of "Japan's revitalization," "energetic SMEs," and "restoring entrepreneurial spirit" reflecting the circumstances of the time.
 
-**Website:** 不明（Jimdoページが確認されていますが正規サイトの詳細は不明）
+**Website:** Unknown (a Jimdo page has been identified, but the official website details are unclear)
 
 ## History
 
-- **2011年12月** - 会社設立
-- **創業時** - 東日本大震災からの復興を意識し、「日本再生」「起業家精神」を合言葉に創業
+- **December 2011** - Company established
+- **At founding** - Inspired by recovery from the Great East Japan Earthquake, established with the motto of "Japan's revitalization" and "entrepreneurial spirit"
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 不明 |
-| Employees | 約13名（推定） |
+| Capital | Not disclosed |
+| Employees | Approximately 13 (estimated) |
 | Corporate Number | 1020001093635 |
-| Founded | 2011年12月 |
-| Representative | 不明 |
-| Headquarters | 神奈川県横浜市神奈川区 |
+| Founded | December 2011 |
+| Representative | Not disclosed |
+| Headquarters | Kanagawa-ku, Yokohama, Kanagawa |
 
 ## Services/Products
 
-### ソフトウェア開発・運用・保守
-- 基幹系システムの開発
-- 各種ソフトウェア開発
-- システム運用・保守
-- 要件定義、設計、製造、テスト・検証の全工程対応
+### Software Development, Operations & Maintenance
+- Core system development
+- Various software development
+- System operations and maintenance
+- Full lifecycle coverage: requirements definition, design, development, testing/verification
 
 ## Philosophy
 
-「Strategy & Achievement（戦略と達成）」をスローガンに、日本再生と中小企業の活性化、起業家精神の回復を理念として掲げています。
+"Strategy & Achievement" — the company's slogan and guiding principle, with the philosophy of Japan's revitalization, SME activation, and restoring entrepreneurial spirit.
 
 ## Media Mentions
 
-- 2024年8月 - SalesNow DBにて会社情報更新
-- 2024年7月 - BaseConnectにてコンサルティング・リサーチ業界企業として掲載
+- August 2024 - Company information updated on SalesNow DB
+- July 2024 - Listed as a consulting/research industry company on BaseConnect
 
 ## Notes
 
-- 経営コンサルティングやISO認証取得支援、スキルアップ講座なども行っている可能性があります
-- 大手SierのパートナーとしてIT開発・保守事業を展開
+- May also be involved in management consulting, ISO certification support, and skill-up training courses
+- Operates IT development and maintenance business as a partner of major SIers
