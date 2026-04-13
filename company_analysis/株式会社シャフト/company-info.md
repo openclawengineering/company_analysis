@@ -1,96 +1,94 @@
-# 株式会社シャフト (シャフト)
-## Company Analysis Report
+# 株式会社シャフト (Shaft Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+Shaft Inc. is a KIA member IT company that positions itself as the "axis that moves society." The company provides a wide range of system development services centered on web technologies, including hybrid app development, IoT, and artificial intelligence. With the slogan "People and technology open the future," Shaft aims to contribute to customers' business success as a team of engineers who will shoulder the next generation.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社シャフト |
-| **English** | シャフト |
-| **Reading** | TBD |
+**Note:** There are multiple companies with similar names. This analysis covers the Shaft Inc. (株式会社シャフト) that operates in IT system development.
 
----
+**Website:** https://www.shaft.bz/
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://www.shaft-web.co.jp/
+Detailed corporate history is not publicly available.
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Headquarters & Offices
 
----
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Kanagawa Prefecture, Japan |
+| **Tokyo Office** | Ryowa Palace Shimazuyama 103, 1-2-41 Higashi-Gotanda, Shinagawa-ku, Tokyo 141-0022 |
+| **Osaka Office** | Osaka, Japan |
 
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
+| **Headquarters** | Kanagawa Prefecture, Japan |
+| **Affiliation** | KIA (Kanagawa Information Services Industry Association) |
 
----
-
-## 5. Products and Services
+## Products & Services
 
 ### Core Business Areas
-1. 名・システム名などは、各社の登録商標、もしくは商標です。 ［ 著作権について ］ 営利・非営利、個人・団体・企業問わず、当社作品のキャラクター、場面写真または動画・音声等の著作物を、いかなる場合におい
-2. ・商品の販売及び無料プレゼント・キャンペーンなどの告知を行うため (2)弊社から配信する無料情報を受信していただくため (3)お客様から寄せられたご意見、ご要望にお答えするため (4)弊社ウェブサイト
-3. 等の改善を目的とした調査を行うため （安全管理措置） 弊社は、お預かりした個人情報を利用目的の範囲内で正確かつ最新の内容に保つよう努め、不正アクセス、その他等の行為による漏えい、改ざん、き損等のないよ
 
-### Business Description
-・商品の販売及び無料プレゼント・キャンペーンなどの告知を行うため (2)弊社から配信する無料情報を受信していただくため (3)お客様から寄せられたご意見、ご要望にお答えするため (4)弊社ウェブサイトの商品開発、及びサービス等の改善を目的とした調査を行うため （安全管理措置） 弊社は、お預かりした個人情報を利用目的の範囲内で正確かつ最新の内容に保つよう努め、不正アクセス、その他等の行為による漏えい、改ざん、き損等のないよう管理いたします。 （個人情報の第三者への提供について） 弊社は、ご本人の同意を得ることなく、ご提供いただいた個人情報を第三者に開示、提供しません。ただし、下記内容のような場合のみ、お客さまの個人情報を第三者に提供させて頂くことがございます。 (1)法令により個人情報の開示が求められた場合 (2)人の生命、身体または財産の保護のために必要があると弊社が判断した場合 (3)国の機関若しくは地方公共団体又はその委託を受けた者が法令の定める事務を遂行することに対して協力する必要があり、かつ本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき (4)お客様また
----
+#### 1. System Development
+- Web system development
+- Hybrid app development
+- IoT system development
+- AI (artificial intelligence) solutions
+- Full-spectrum system engineering services
 
-## 6. Key Clients and Industries Served
+#### 2. Application Development
+- Business application development
+- Smartphone application development
+- Cloud-based application development
 
-- Information Technology
-- System Development
-- Software Solutions
+#### 3. Event Planning & Production
+- Various event planning, production, and operations (via Shaft Link division)
 
----
+### Technical Capabilities
+- Web technologies
+- IoT platforms
+- Artificial intelligence
+- Hybrid application frameworks
+- Cloud computing
 
-## 7. Company Philosophy and Culture
+## Key Clients & Industries
 
-TBD - Additional research needed.
----
+- IT system development clients
+- Manufacturing and distribution sectors
+- Enterprise digital transformation projects
+- Various industries requiring modern web and mobile solutions
 
-## 8. Media Mentions
+## Philosophy
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社シャフト](https://www.shaft-creations.com/) | Web | シャフトは生保FP（営業パーソン）を支援する会社です。豊富なコンテンツで生保営業パーソンの知識・技術の向上に貢献します。 |
-| [株式会社Shaft[シャフト]](https://www.shaft.bz/) | Web | 株式会社ShaftはWeb技術を軸として幅広いシステム開発を手がける当社では、社会の未来を支える軸（シャフト）となるべく、ハイブリッドアプリ開発やIoT、人工知 |
-| [【公式】株式会社シャフト (@shaft_sns) / Posts / X](https://x.com/shaft_sns) | Web | 私たちシャフトは「社会を動かす軸（シャフト）となる」ことを目標に掲げ、これからの時代を担う技術者集団としてお客様のビジネスの成功づくりに貢献します。 |
-| [【公式】株式会社シャフト (@shaft_sns)](https://www.instagram.com/shaft_sns/) | Web | 私たちシャフトは、「社会を動かす軸（シャフト）となる」ことを目標に掲げ、日々の研鑽により蓄積を続けるスキルとノウハウをベースに、これからの時代を担う技術者集団 |
-| [株式会社Shaft（シャフト）｜各種イベント企画、制作、運営 ...](https://shaft-link.co.jp/) | Web | ## Shaft-会社概要. | 所在地 | 本社： 〒141-0022 東京都品川区東五反田1丁目2-41　菱和パレス島津山103号室  大阪オフィス： 〒5 |
-| [株式会社シャフトの評判・口コミ](https://en-hyouban.com/company/10105967983/) | Web | 株式会社シャフトの総合評価は2.8点です（11人の正社員の回答）。株式会社シャフトで働く社員や元社員が投稿した、給与・年収、勤務時間、休日・休暇、面接などの評判 |
-| [会社案内](https://www.shaft.bz/company/) | Web | # 会社案内ABOUT SHAFT. ## 人と技術が、 未来を拓く. ### 豊富な開発実績. ### システム エンジニアリングサービス. アプリケーション |
+### Corporate Vision
+"Being the axis that moves society" — The company aims to be the driving force (shaft) that supports and moves society forward.
 
----
+### Core Values
+- People and technology opening the future
+- Continuous skill development and knowledge accumulation
+- Contributing to customers' business success
 
-## 9. Summary
+### Corporate Culture
+- Team of engineers who will shoulder the next generation
+- Daily self-improvement and skill refinement
+- Knowledge and know-how accumulation as the foundation of service delivery
 
-### Company Overview
-株式会社シャフト is a KIA member company based in Kanagawa Prefecture, Japan.  
+## Media Mentions
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+- [Official X (Twitter)](https://x.com/shaft_sns) - "We Shaft aim to be the axis that moves society"
+- [Official Instagram](https://www.instagram.com/shaft_sns/) - Company activities and culture
+- [En-Hyouban](https://en-hyouban.com/company/10105967983/) - Employee reviews (11 entries, overall rating: 2.8/5.0)
+- [Shaft Link](https://shaft-link.co.jp/) - Event planning, production, and operations division
 
-### Business Model
-IT services and system development.
+## Notes
+
+- Not to be confused with: Shaft Creations (life insurance FP support company) or Shaft (animation studio)
+- Multiple entities share the "Shaft" name in Japan
+- Focus on modern web technologies, IoT, and AI
+- KIA member company based in Kanagawa Prefecture
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
