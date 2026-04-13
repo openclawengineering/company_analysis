@@ -1,73 +1,73 @@
 # 株式会社BIT (BIT Co., Ltd.)
 
 ## Overview
-株式会社BIT（ビーアイテイ）は1983年設立のITコンサルティング企業。システムのライフサイクル全般に対応するサービスを提供し、システム企画・立案からサポートデスクまで多岐にわたる。存在感のあるパートナーとして信頼関係を築いている。
+BIT Co., Ltd. is an IT consulting company established in 1983. The company provides services covering the entire system lifecycle, from system planning and formulation to support desks, building trust relationships as a visible and impactful partner.
 
 ## History
-- 1983年9月16日 - 資本金200万円・従業員3名で設立
-- 1984年11月28日 - 資本金500万円に増資・従業員5名
-- 1987年10月31日 - 本社移転・従業員25名
-- 1987年11月20日 - 資本金1,000万円に増資
-- 1999年2月 - マイクロソフト認定パートナー契約
-- 2000年3月27日 - 資本金3,000万円に増資
-- 2000年7月10日 - 本社を現住所に移転
-- 2000年10月 - 情報交換サイト『Clubbit』運用開始
-- 2001年10月 - 東京オフィス開設（中央区八丁堀）
-- 2002年4月 - 日本Linux協会加盟
-- 2003年8月 - オラクルパートナー契約
-- 2005年5月 - シマンテックパートナー契約
-- 2009年11月 - 東京オフィスを江東区有明に移転
-- 2013年9月 - 東京オフィスを港区青山に移転
-- 2014年4月 - 東京オフィスを現住所（千代田区岩本町）に移転
-- 2014年5月 - 『Clubbit』を商標登録（第5672301号）
-- 2022年6月 - EC-CUBEインテグレートパートナー契約
-- 2022年12月 - 東京商工リサーチが選ぶ「上位8％の優良企業」に掲載
-- 2025年2月 - 大阪市女性活躍リーディングカンパニー「二つ星」認証
+- September 16, 1983 - Founded with capital of 2 million JPY and 3 employees
+- November 28, 1984 - Capital increased to 5 million JPY; 5 employees
+- October 31, 1987 - Headquarters relocated; 25 employees
+- November 20, 1987 - Capital increased to 10 million JPY
+- February 1999 - Microsoft Certified Partner agreement
+- March 27, 2000 - Capital increased to 30 million JPY
+- July 10, 2000 - Headquarters relocated to current address
+- October 2000 - Information exchange site "Clubbit" launched
+- October 2001 - Tokyo office opened (Hachobori, Chuo-ku)
+- April 2002 - Joined Japan Linux Association
+- August 2003 - Oracle partner agreement
+- May 2005 - Symantec partner agreement
+- November 2009 - Tokyo office relocated to Ariake, Koto-ku
+- September 2013 - Tokyo office relocated to Aoyama, Minato-ku
+- April 2014 - Tokyo office relocated to current address (Iwamoto-cho, Chiyoda-ku)
+- May 2014 - "Clubbit" registered as trademark (No. 5672301)
+- June 2022 - EC-CUBE integrated partner agreement
+- December 2022 - Selected as "Top 8% Excellent Company" by Tokyo Shoko Research
+- February 2025 - Osaka City Women's Empowerment Leading Company "Two Star" certification
 
 ## Capital
-3,000万円
+30,000,000 JPY
 
 ## Services
-### コンサルティング事業
-基幹系業務などにおける業務改善、IT化提案などのコンサルティング
+### Consulting Business
+Business improvement and IT implementation proposals for core business operations and other areas
 
-### システム開発事業
-業務課題の解決、情報基盤の構築等、多方面に渡ったソリューションサービスの提供
+### System Development Business
+Solution services across multiple domains including solving business challenges and building information infrastructure
 
-### システム支援事業
-インフラの構築・各種アプリケーション・システム関連の運用、保守から改善提案までの支援
+### System Support Business
+Support from infrastructure construction, various application and system operations, maintenance, through improvement proposals
 
-### Webサービス
-- **clubbit** - ホームページ制作サービス
-- **ECサイト作成サービス** - EC-CUBEを使ったECサイト制作
+### Web Services
+- **clubbit** - Website creation service
+- **EC Site Creation Service** - EC website development using EC-CUBE
 
 ## Clients
-- 大阪商工会議所
-- 東京商工会議所
-- 各種企業の業務システム
+- Osaka Chamber of Commerce and Industry
+- Tokyo Chamber of Commerce and Industry
+- Various companies' business systems
 
 ## Philosophy
-システムのライフサイクル全般に対応するサービスを提供し、存在感のあるパートナーとして信頼関係を築く
+Providing services covering the entire system lifecycle and building trust relationships as a visible and impactful partner
 
 ## Contact
-- **本社:** 〒550-0002 大阪市西区江戸堀1-10-2 肥後橋ニッタイビル5F
-  - TEL: 06-6445-7480 / FAX: 06-6445-7239
-  - アクセス: 地下鉄四つ橋線 肥後橋駅7番出口すぐ、地下鉄御堂筋線 淀屋橋駅12番出口より徒歩5分
-- **東京オフィス:** 〒101-0032 東京都千代田区岩本町2-12-2 第2早川ビル9階
-  - TEL: 03-6240-9120 / FAX: 03-6240-9121
-  - アクセス: JR中央線・総武線 秋葉原駅より徒歩8分、都営地下鉄 新宿線 岩本町駅より徒歩2分
+- **Headquarters:** Higobashi Nittai Building 5F, 1-10-2 Edobori, Nishi-ku, Osaka 550-0002
+  - Phone: 06-6445-7480 / Fax: 06-6445-7239
+  - Access: Immediately from Exit 7 of Higobashi Station (Subway Yotsubashi Line); 5-min walk from Exit 12 of Yodoyabashi Station (Subway Midosuji Line)
+- **Tokyo Office:** Dai-2 Hayakawa Building 9F, 2-12-2 Iwamoto-cho, Chiyoda-ku, Tokyo 101-0032
+  - Phone: 03-6240-9120 / Fax: 03-6240-9121
+  - Access: 8-min walk from Akihabara Station (JR Chuo/Sobu Line); 2-min walk from Iwamoto-cho Station (Toei Shinjuku Line)
 - **URL:** https://www.bit.co.jp/
 
 ## Certifications
-- 労働者派遣事業者（派27-302566）
-- プライバシーマーク（20001691号）
-- マイクロソフト認定パートナー
-- オラクル（OPN Member Partner）
-- シマンテック（Symantec Silver Partner）
-- EC-CUBE インテグレートパートナー
+- Worker Dispatch Business (派27-302566)
+- Privacy Mark (No. 20001691)
+- Microsoft Certified Partner
+- Oracle (OPN Member Partner)
+- Symantec (Silver Partner)
+- EC-CUBE Integrated Partner
 
 ## Employees
-59名 平均年齢39.8歳（2025年4月1日現在）
+59, average age 39.8 (as of April 1, 2025)
 
 ## Media Mentions
-- [Clubbit](http://www.clubbit.net/) - 情報交換サイト
+- [Clubbit](http://www.clubbit.net/) - Information exchange site

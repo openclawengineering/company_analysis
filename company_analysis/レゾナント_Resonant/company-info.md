@@ -1,263 +1,263 @@
-# 株式会社レゾナント (Resonant Co., Ltd.) - 企業分析レポート
+# 株式会社レゾナント (Resonant Co., Ltd.) - Company Analysis Report
 
-## 1. 会社名 (Company Name)
+## 1. Company Name
 
-| 言語 | 名称 |
-|------|------|
-| 日本語 | 株式会社レゾナント |
-| 英語 | Resonant Co., Ltd. |
+| Language | Name |
+|----------|------|
+| Japanese | 株式会社レゾナント |
+| English | Resonant Co., Ltd. |
 
-### 関連会社情報
-**注意**: 「レゾナント」という名称を持つ複数の企業が存在します。本分析では、以下の2社の主要情報を含みます：
+### Related Company Information
+**Note:** Multiple companies share the "Resonant" name. This analysis includes information for the following two companies:
 
-1. **株式会社レゾナント・コミュニケーション** (resonant.co.jp)
-2. **株式会社レゾナント・システムズ** (resonant-systems.com) - 富士急グループ
-
----
-
-## 2. 会社連絡先 (Company Contact Information)
-
-### 株式会社レゾナント・コミュニケーション
-| 項目 | 内容 |
-|------|------|
-| 本社所在地 | 〒272-0051 千葉県市川市新井二丁目21番22号 |
-| ウェブサイト | http://www.resonant.co.jp |
-| 設立 | 平成14年4月15日 (2002年) |
-
-### 株式会社レゾナント・システムズ (関連会社)
-| 項目 | 内容 |
-|------|------|
-| 本社所在地 | 〒230-0051 神奈川県横浜市鶴見区鶴見中央4-34-26 鶴見千代田ビル |
-| 電話番号 | 045-503-3121 (代) |
-| ファックス | 050-3737-5589 |
-| ウェブサイト | https://www.resonant-systems.com |
-| 営業所 | 仙台、名古屋、関西（大阪）、広島、渋谷オフィス、山梨事業所 |
-
-### 指定された拠点情報
-| 項目 | 内容 |
-|------|------|
-| 住所 | 〒226-0027 神奈川県横浜市緑区長津田4-505 |
-| 最寄り駅 | JR横浜線・東急田園都市線「長津田駅」 |
+1. **Resonant Communication Inc.** (resonant.co.jp)
+2. **Resonant Systems Inc.** (resonant-systems.com) - Fuji Kyuko Group
 
 ---
 
-## 3. 会社沿革・歴史 (Company History & Milestones)
+## 2. Company Contact Information
 
-### レゾナント・システムズ沿革（主要マイルストーン）
+### Resonant Communication Inc.
+| Item | Details |
+|------|---------|
+| Headquarters | 2-21-22 Arai, 2-chome, Ichikawa, Chiba 272-0051 |
+| Website | http://www.resonant.co.jp |
+| Founded | April 15, 2002 |
 
-| 年月 | 出来事 |
-|------|--------|
-| **1952年12月** | ネプチューンラジオ会社として設立 |
-| **1962年6月** | ワンマンバス用機器「テープコンダクターシステム」開発・販売（日本初） |
-| **1964年12月** | 社名を株式会社ネプチューンへ変更 |
-| **1968年** | 富士急行の電算室が独立し、株式会社富士急計算センター設立 |
-| **1976年12月** | ホテル・旅館用冷蔵庫/フロント管理システム「リモートチェッカー」開発・販売 |
-| **1978年12月** | 横浜市鶴見区平安町に新社屋完成、本社移転 |
-| **1985年12月** | 「ディジコンバス・システム」が科学技術庁長官奨励賞受賞 |
-| **1989年3月** | 横浜博覧会メモリアルパーク内エレベータに音声合成案内放送装置納入 |
-| **1994年10月** | カード式音声合成放送装置「フラッシュコーダーFC-4000型」開発・販売 |
-| **1999年7月** | トラック用安全確認音声合成装置「安全君DMC-600型」開発・販売 |
-| **2007年4月** | ネプチューンと富士急情報システム合併、「株式会社レゾナント・システムズ」発足 |
-| **2007年7月** | バス用「ドライブレコーダ」開発・販売 |
-| **2009年4月** | 「バスロケーションシステム」開発・販売 |
-| **2011年11月** | 「レゾナント・レガシー・クラウド」「運行ナビ」開発・販売 |
-| **2014年2月** | ISO9001認証取得（横浜本社） |
-| **2017年7月** | 本社と鶴見ブランチ統合、鶴見中央に新本社開設 |
-| **2021年8月** | 定期券購入アプリ「チケパス」発売開始 |
-| **2022年4月** | 定期券購入アプリ「チケパス+(プラス)」発売開始 |
-| **2023年2月** | 車内点検サポートシステム「かくにん君」内閣府認定 / 「用心くん」発売開始 |
-| **2026年3月** | 高速バス発着案内表示システム開発 |
+### Resonant Systems Inc. (Related Company)
+| Item | Details |
+|------|---------|
+| Headquarters | Tsurumi Chiyoda Building, 4-34-26 Tsurumi-chuo, Tsurumi-ku, Yokohama, Kanagawa 230-0051 |
+| Phone | 045-503-3121 |
+| Fax | 050-3737-5589 |
+| Website | https://www.resonant-systems.com |
+| Branch Offices | Sendai, Nagoya, Kansai (Osaka), Hiroshima, Shibuya Office, Yamanashi Office |
 
-### レゾナント・コミュニケーション沿革
-
-| 年 | 出来事 |
-|----|--------|
-| **2002年** | Safe社と業務提携し『ストーンエイジ』日本語版のローカライズ開発 |
-| **2003年** | コミックリズ社と提携、台湾文化「華流」ブーム創出 |
-| **2004年** | 東京都写真美術館の映像プロデューサー任命（17期継続） |
-| **2011年** | OSK日本歌劇団の東京進出サポート |
-| **2017年** | キッズプロモーション運営コラボカフェプロデュース、神宮外苑いちょう祭り共同プロデュース |
-| **2018年** | 原宿竹下通りCute Cubeカフェ「カワイーヤ」プロデュース |
+### Specified Location
+| Item | Details |
+|------|---------|
+| Address | 4-505 Nagatsuta, Midori-ku, Yokohama, Kanagawa 226-0027 |
+| Nearest Station | JR Yokohama Line / Tokyu Den-en-toshi Line "Nagatsuta Station" |
 
 ---
 
-## 4. 資本金・従業員数 (Capital and Employee Count)
+## 3. Company History & Milestones
 
-### 株式会社レゾナント・システムズ
-| 項目 | 内容 |
-|------|------|
-| 資本金 | 2,500万円 (25,000,000円) |
-| 従業員数 | 128名 (2025年5月1日現在) |
-| 売上高 | 約26億円 (推定) |
-| 1人あたり売上 | 約2,114万円 |
-| 株主 | 富士急行株式会社 (100%出資) |
-| 法人番号 | 2020001018500 |
+### Resonant Systems History (Key Milestones)
 
-### 株式会社レゾナント・コミュニケーション
-| 項目 | 内容 |
-|------|------|
-| 資本金 | 1,300万円 |
-| 設立年月日 | 平成14年4月15日 (2002年) |
+| Date | Event |
+|------|-------|
+| **December 1952** | Founded as Neptune Radio Company |
+| **June 1962** | Developed and sold "Tape Conductor System" for one-man buses (Japan's first) |
+| **December 1964** | Company name changed to Neptune Inc. |
+| **1968** | Fujikyu's computing department spun off, establishing Fujikyu Computing Center Inc. |
+| **December 1976** | Developed and sold "Remote Checker" hotel/inn refrigerator and front desk management system |
+| **December 1978** | New headquarters building completed in Heian-cho, Tsurumi-ku, Yokohama; headquarters relocated |
+| **December 1985** | "Digicon Bus System" received Science and Technology Agency Director-General's Award |
+| **March 1989** | Installed voice synthesis announcement devices in Yokohama Exposition Memorial Park elevators |
+| **October 1994** | Developed and sold card-type voice synthesis announcement device "Flash Coder FC-4000" |
+| **July 1999** | Developed and sold truck safety confirmation voice synthesis device "Safety-kun DMC-600" |
+| **April 2007** | Neptune and Fujikyu Information System merged, establishing "Resonant Systems Inc." |
+| **July 2007** | Developed and sold bus "Drive Recorder" |
+| **April 2009** | Developed and sold "Bus Location System" |
+| **November 2011** | Developed and sold "Resonant Legacy Cloud" and "Operation Navi" |
+| **February 2014** | Obtained ISO9001 certification (Yokohama HQ) |
+| **July 2017** | Consolidated headquarters and Tsurumi branch, opened new headquarters in Tsurumi-chuo |
+| **August 2021** - Launched season pass purchase app "Ticket Pass" |
+| **April 2022** - Launched season pass purchase app "Ticket Pass+" |
+| **February 2023** - "Kakunin-kun" in-cabin inspection support system certified by Cabinet Office; "Yojin-kun" launched |
+| **March 2026** - Developed highway bus arrival/departure information display system |
 
----
+### Resonant Communication History
 
-## 5. 製品・サービス (Products and Services)
-
-### 主な事業分野
-- 受託開発ソフトウェア
-- 組み込みソフトウェア
-- 情報処理サービス
-- SES (システムエンジニアリングサービス)
-
-### 交通機器製品（レゾナント・システムズ）
-
-#### 音声合成放送装置
-| 製品名 | 概要 |
-|--------|------|
-| FC-8000 | フラッシュコーダーシリーズ |
-| TFD-9000 | タッチパネル式系統設定器 |
-| SVC-2701W | 車載音声合成装置 |
-
-#### ドライブレコーダー・録画機器
-| 製品名 | 概要 |
-|--------|------|
-| DRHV-6100 | デジタルタコグラフ機能付きドライブレコーダー（国交省認定） |
-| DRV-3100 | デジタルタコグラフ機能付きドライブレコーダー（国交省認定） |
-
-#### ソリューション・システム
-| 製品名 | 概要 |
-|--------|------|
-| バスロケーションシステム | バス運行管理・位置情報システム |
-| 高速バス発着案内表示システム | ターミナル案内表示 |
-| バス停留所通過防止システム | 安全運行支援 |
-| エコドライブ管理システム | 燃費・運転管理 |
-| 運行ナビ | 運行支援システム |
-| レゾナント・レガシー・クラウド | クラウドサービス |
-
-#### モバイルアプリ
-| 製品名 | 概要 |
-|--------|------|
-| チケパス+ | 定期券購入アプリ |
-| かくにん君 | 車内点検サポートシステム（内閣府認定） |
-| 用心くん | ドライバー向け安全確認放送装置 |
-
-#### 安全・安心製品
-| 製品名 | 概要 |
-|--------|------|
-| 安全君 | トラック用安全確認音声合成装置 |
-| コーナーセンサー | 車両安全支援 |
-
-### ホテル・アミューズメント向け
-- 客室冷蔵庫フロント管理システム「リモートチェッカー」
-- クラウド型ホテル会計システム
-- ゴルフ場交互通行システム
-- チケット発券システム
+| Year | Event |
+|------|-------|
+| **2002** - Formed business alliance with Safe Inc., localized "Stone Age" Japanese version |
+| **2003** - Partnered with Comic Rizu Inc., created Taiwanese cultural "Hallyu" boom |
+| **2004** - Appointed video producer for Tokyo Photographic Art Museum (continued for 17 terms) |
+| **2011** - Supported OSK Japan Revue Company's Tokyo expansion |
+| **2017** - Produced Kids Promotion collaborative cafe, co-produced Jingu Gaien Ginkgo Festival |
+| **2018** - Produced "Kawaii-ya" cafe at Cute Cube, Harajuku Takeshita Street |
 
 ---
 
-## 6. 主要取引先・提供業界 (Key Clients and Industries Served)
+## 4. Capital & Employees
 
-### 主要顧客セグメント
+### Resonant Systems Inc.
+| Item | Details |
+|------|---------|
+| Capital | 25,000,000 JPY |
+| Employees | 128 (as of May 1, 2025) |
+| Revenue | Approximately 2.6 billion JPY (estimated) |
+| Revenue per Employee | Approximately 21.14 million JPY |
+| Shareholder | Fujikyu Co., Ltd. (100% owned) |
+| Corporate Number | 2020001018500 |
 
-#### 交通業界
-- 日本全国のバス事業者
-- 鉄道事業者
-- 高速バス事業者
-- タクシー事業者
-- トラック輸送事業者
-
-#### 宿泊・観光業界
-- ホテル・旅館
-- ゴルフ場
-- アミューズメント施設
-- 遊園地
-- スキー場
-- 遊覧船
-
-#### 主な取引先（レゾナント・コミュニケーション）
-- 東京都写真美術館
-- 株式会社キッズプロモーション
-- 株式会社電通
-- 株式会社博報堂
-- 株式会社アップリンク
-- 株式会社コミックリズ
-
-### グループ構成
-- **親会社**: 富士急行株式会社
-- **グループ**: 富士急グループ（運輸・観光・不動産・旅行・流通・土木建築など40数社）
+### Resonant Communication Inc.
+| Item | Details |
+|------|---------|
+| Capital | 13,000,000 JPY |
+| Founded | April 15, 2002 |
 
 ---
 
-## 7. 企業理念・企業文化 (Company Philosophy and Culture)
+## 5. Products & Services
 
-### 経営理念
-> 「いつも『喜び・感動』」 - 富士急グループ理念
+### Main Business Areas
+- Contract software development
+- Embedded software development
+- Information processing services
+- SES (System Engineering Service)
 
-### 社名の由来
-「レゾナント（共振・共鳴）」という社名は、**ハードウェアとソフトウェアの技術を共振・共鳴させた製品**を開発・製造・販売するという意味が込められています。
+### Transportation Equipment Products (Resonant Systems)
 
-### 企業の特徴
-1. **70年以上の歴史**: 1952年創業、長年の技術蓄積
-2. **日本初の技術**: 1962年に日本初の磁気テープを使ったアナウンス装置を発売
-3. **グループ安定性**: 富士急行株式会社100%出資による経営安定性
-4. **転勤なし**: 横浜勤務で転勤なしの方針
-5. **技術の融合**: ハードウェアとソフトウェアの統合ソリューション
+#### Voice Synthesis Announcement Devices
+| Product | Description |
+|---------|-------------|
+| FC-8000 | Flash Coder series |
+| TFD-9000 | Touch panel route configuration device |
+| SVC-2701W | Onboard voice synthesis device |
 
-### 採用・人材育成
-- 新卒採用・中途採用ともに実施
-- 入社後約2カ月間の研修制度
-- 年次・階層別研修
-- 資格取得支援制度
-- 社員旅行あり（富士急グループ保養施設利用）
+#### Drive Recorders & Recording Equipment
+| Product | Description |
+|---------|-------------|
+| DRHV-6100 | Drive recorder with digital tachograph function (MLIT certified) |
+| DRV-3100 | Drive recorder with digital tachograph function (MLIT certified) |
 
----
+#### Solutions & Systems
+| Product | Description |
+|---------|-------------|
+| Bus Location System | Bus operation management and location information system |
+| Highway Bus Arrival/Departure Display System | Terminal information display |
+| Bus Stop Passing Prevention System | Safe operation support |
+| Eco-Drive Management System | Fuel efficiency and driving management |
+| Operation Navi | Operation support system |
+| Resonant Legacy Cloud | Cloud service |
 
-## 8. メディア掲載・ニュース (Media Mentions)
+#### Mobile Apps
+| Product | Description |
+|---------|-------------|
+| Ticket Pass+ | Season pass purchase app |
+| Kakunin-kun | In-cabin inspection support system (Cabinet Office certified) |
+| Yojin-kun | Driver safety confirmation announcement device |
 
-### 最近のニュース・報道
+#### Safety Products
+| Product | Description |
+|---------|-------------|
+| Safety-kun | Truck safety confirmation voice synthesis device |
+| Corner Sensor | Vehicle safety support |
 
-| 日付 | 内容 | ソース |
-|------|------|--------|
-| 2026年3月19日 | 棚卸に伴う出荷業務一時休止のお知らせ | [公式サイト](https://www.resonant-systems.com) |
-| 2026年3月10日 | 高速バス発着案内表示システムを開発 | [公式サイト](https://www.resonant-systems.com) |
-| 2026年1月28日 | 富士急グループ合同オンラインセミナー出展 | [公式サイト](https://www.resonant-systems.com) |
-| 2023年2月 | 「かくにん君」内閣府認定取得 | [公式サイト](https://www.resonant-systems.com) |
-| 2023年2月 | 「用心くん」発売開始 | [公式サイト](https://www.resonant-systems.com) |
-
-### 求人メディア掲載
-- doda（デューダ）- 車載器エンジニア求人
-- [マイナビ転職](https://tenshoku.mynavi.jp/) - 新卒・中途採用情報
-- ワークポート - 求人情報掲載
-- type - 企業情報掲載
-
-### 業界ランキング
-- **神奈川県情報サービス産業協会(KIA)**: 正会員
-- SES企業売上ランキング: 12位（富士急行グループ、売上26億円、社員123名）
-
----
-
-## 9. まとめ (Summary)
-
-### 企業概要
-株式会社レゾナント（特にレゾナント・システムズ）は、**1952年創業の老舗交通機器メーカー**で、富士急グループの100%出資子会社です。70年以上の歴史の中で、バス・鉄道向け音声合成放送装置やドライブレコーダーなどの交通機器を中心に、組み込みソフトウェア開発からクラウドソリューションまで幅広い製品・サービスを提供しています。
-
-### 強み・競争優位性
-1. **技術的先駆性**: 日本初の磁気テープ式アナウンス装置開発の実績
-2. **ハード・ソフト統合力**: 機器からアプリ・クラウドまで一貫提供
-3. **グループ基盤**: 富士急グループの安定した経営基盤
-4. **業界シェア**: 交通業界での高い認知度と導入実績
-5. **認証・認定**: ISO9001、国交省認定、内閣府認定製品
-
-### 今後の展望
-- デジタルタコグラフ・ドライブレコーダーの需要拡大
-- クラウドサービス・モバイルアプリ事業の成長
-- 交通事業者のDX需要への対応
-- 安全運行支援システムの法規制対応需要
-
-### 備考
-**データ整合性について**: 本分析の対象企業は、提供されたウェブサイト(resonant.co.jp)が指す「株式会社レゾナント・コミュニケーション」と、指定住所（横浜市緑区長津田）および事業内容から推測される「株式会社レゾナント・システムズ」の要素を含みます。両社は別法人ですが、本レポートでは包括的に分析情報を提供しています。
+### Hotel & Amusement
+- Guest room refrigerator front desk management system "Remote Checker"
+- Cloud-based hotel accounting system
+- Golf course alternating traffic system
+- Ticket issuance system
 
 ---
 
-*分析日: 2026年3月30日*
-*情報源: 公式ウェブサイト、求人サイト、業界団体情報*
+## 6. Key Clients & Industries
+
+### Major Client Segments
+
+#### Transportation Industry
+- Bus operators nationwide in Japan
+- Railway operators
+- Highway bus operators
+- Taxi operators
+- Truck transportation operators
+
+#### Hospitality & Tourism Industry
+- Hotels and inns
+- Golf courses
+- Amusement facilities
+- Theme parks
+- Ski resorts
+- Cruise ships
+
+#### Key Clients (Resonant Communication)
+- Tokyo Photographic Art Museum
+- Kids Promotion Inc.
+- Dentsu Inc.
+- Hakuhodo Inc.
+- Uplink Inc.
+- Comic Rizu Inc.
+
+### Group Structure
+- **Parent Company:** Fujikyu Co., Ltd.
+- **Group:** Fujikyu Group (approximately 40+ companies in transportation, tourism, real estate, travel, distribution, civil engineering and construction)
+
+---
+
+## 7. Company Philosophy & Culture
+
+### Corporate Philosophy
+> "Always 'Joy and Excitement'" - Fujikyu Group philosophy
+
+### Origin of Company Name
+The name "Resonant" (meaning resonance/sympathetic vibration) embodies the concept of developing, manufacturing, and selling products that create **resonance between hardware and software technologies**.
+
+### Company Characteristics
+1. **70+ years of history:** Founded in 1952, with extensive technology accumulation
+2. **Japan's first technology:** Developed Japan's first magnetic tape announcement device in 1962
+3. **Group stability:** Management stability backed by 100% Fujikyu ownership
+4. **No transfers:** Policy of no job transfers; Yokohama-based work only
+5. **Technology integration:** Integrated hardware and software solutions
+
+### Recruitment & Training
+- Both new graduate and mid-career recruitment
+- Approximately 2-month training program after joining
+- Annual and hierarchical training programs
+- Certification support system
+- Company trips (using Fujikyu Group recreation facilities)
+
+---
+
+## 8. Media Mentions & News
+
+### Recent News & Reports
+
+| Date | Content | Source |
+|------|---------|--------|
+| March 19, 2026 | Notice of temporary suspension of shipping operations due to inventory | [Official Site](https://www.resonant-systems.com) |
+| March 10, 2026 | Developed highway bus arrival/departure information display system | [Official Site](https://www.resonant-systems.com) |
+| January 28, 2026 | Exhibited at Fujikyu Group joint online seminar | [Official Site](https://www.resonant-systems.com) |
+| February 2023 | "Kakunin-kun" obtained Cabinet Office certification | [Official Site](https://www.resonant-systems.com) |
+| February 2023 | "Yojin-kun" launched | [Official Site](https://www.resonant-systems.com) |
+
+### Job Media Features
+- doda - In-vehicle equipment engineer job listings
+- Mynavi Tenshoku - New graduate and mid-career recruitment information
+- Workport - Job listings
+- type - Company information listings
+
+### Industry Rankings
+- **Kanagawa Information Services Industry Association (KIA):** Regular member
+- SES Company Revenue Ranking: 12th place (Fujikyu Group, revenue 2.6 billion JPY, 123 employees)
+
+---
+
+## 9. Summary
+
+### Company Overview
+Resonant (particularly Resonant Systems) is a **long-established transportation equipment manufacturer founded in 1952**, a 100% subsidiary of the Fujikyu Group. Over its 70+ year history, the company has provided a wide range of products and services, from transportation equipment such as bus and railway voice synthesis announcement devices and drive recorders, to embedded software development and cloud solutions.
+
+### Strengths & Competitive Advantages
+1. **Technological Pioneer:** Track record of developing Japan's first magnetic tape announcement device
+2. **Hardware-Software Integration:** End-to-end offerings from equipment to apps and cloud
+3. **Group Foundation:** Stable management base backed by Fujikyu Group
+4. **Industry Share:** High recognition and deployment track record in the transportation industry
+5. **Certifications:** ISO9001, MLIT certification, Cabinet Office certified products
+
+### Future Outlook
+- Growing demand for digital tachographs and drive recorders
+- Growth in cloud services and mobile app business
+- Responding to DX demand from transportation operators
+- Regulatory compliance demand for safe driving support systems
+
+### Note on Data Integrity
+The subject company of this analysis includes elements from both "Resonant Communication Inc." (the company indicated by the provided website resonant.co.jp) and "Resonant Systems Inc." (inferred from the specified address in Midori-ku, Yokohama and business activities). Although they are separate legal entities, this report provides comprehensive analysis information covering both.
+
+---
+
+*Analysis Date: March 30, 2026*
+*Sources: Official websites, job sites, industry association information*

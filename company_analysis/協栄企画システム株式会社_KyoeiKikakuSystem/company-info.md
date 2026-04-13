@@ -1,48 +1,48 @@
-# 協栄企画システム株式会社
+# 協栄企画システム株式会社 (Kyoei Kikaku System Co., Ltd.)
 
 ## Company Overview
 
-協栄企画システム株式会社は、ソフトウェア開発を中心とするモノづくり会社です。平成15年9月に設立され、製造工程管理システム開発事業、顧客情報管理システム開発事業、テスト機器開発事業などを行っています。
+Kyoei Kikaku System Co., Ltd. is a software development and manufacturing company. Established in September 2003 (Heisei 15), the company operates in manufacturing process management system development, customer information management system development, and test equipment development.
 
-同社は電子機器開発に特化した「モノづくり」コンソーシアム（EMS-JP）の会員として活動し、特定労働者派遣事業の許可も取得しています。IT業界の底上げを目的として神奈川県IT振興事業協議会（KIA）の会員企業として社会貢献を行っています。
+The company is an active member of EMS-JP, a consortium specializing in electronic device development ("monozukuri"), and holds a license for designated worker dispatch services. As a member of the Kanagawa IT Association (KIA), the company contributes to raising the standards of the IT industry.
 
 **Website:** http://www.kyouei-kikaku.com
 
 ## History
 
-- **2003年9月** - 会社設立
-- **設立以来** - ソフトウェア開発を中心とするモノづくり会社として事業展開
+- **September 2003** - Company established
+- **Since founding** - Operating as a manufacturing-focused software development company
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 600万円 |
-| Employees | 7名（従業員）+ 協力会社 |
+| Capital | 6,000,000 JPY |
+| Employees | 7 (employees) + partner companies |
 | Corporate Number | 3010701026249 |
-| Founded | 2003年9月 |
-| Representative | 佐藤 大資（代表取締役）、松本 竜彦（専務執行役員） |
-| Headquarters | 東京都品川区西品川1-23-19 |
+| Founded | September 2003 |
+| Representative | Daisuke Sato (President & CEO), Tatsuhiko Matsumoto (Managing Executive Officer) |
+| Headquarters | 1-23-19 Nishishinagawa, Shinagawa-ku, Tokyo |
 
 ## Services/Products
 
-### ソフトウェア開発
-- 製造工程管理システム開発
-- 顧客情報管理システム開発
-- テスト機器開発
+### Software Development
+- Manufacturing process management system development
+- Customer information management system development
+- Test equipment development
 
-### 労働者派遣事業
-- 特定労働者派遣事業（許可取得済）
+### Worker Dispatch Services
+- Designated worker dispatch services (licensed)
 
 ## Philosophy
 
-ソフトウェア開発を中心とするモノづくり会社として、電子機器開発に特化したコンソーシアム活動とIT業界の底上げを目的とした社会貢献を行っています。
+As a manufacturing-focused software development company, the company engages in consortium activities specializing in electronic device development and contributes to society by raising the standards of the IT industry.
 
-## 加入団体
+## Memberships
 
-- EMS-JP（電子機器開発に特化したモノづくりコンソーシアム）
-- 神奈川県IT振興事業協議会（KIA）
+- EMS-JP (Electronic device development manufacturing consortium)
+- Kanagawa IT Association (KIA)
 
 ## Media Mentions
 
-- 2024年以降 - doda、SalesNow DB等の企業情報サイトで掲載
+- From 2024 onwards - Listed on corporate information sites such as doda and SalesNow DB

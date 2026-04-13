@@ -1,259 +1,259 @@
 # 日本ユニシス株式会社 / BIPROGY Inc.
 
-> **重要**: 2022年4月1日付で日本ユニシス株式会社は**BIPROGY株式会社**（ビプロジー）に商号変更しました。現在の正式名称は「BIPROGY株式会社」です。
+> **Important:** On April 1, 2022, Nihon Unisys, Ltd. changed its corporate name to **BIPROGY Inc.** The current official name is "BIPROGY Inc."
 
 ---
 
-## 1. Company Name (会社名)
+## 1. Company Name
 
-| 項目 | 情報 |
-|------|------|
-| **現社名（日本語）** | BIPROGY株式会社（ビプロジー） |
-| **現社名（英語）** | BIPROGY Inc. |
-| **旧社名（日本語）** | 日本ユニシス株式会社 |
-| **旧社名（英語）** | Nihon Unisys, Ltd. |
-| **略称** | ビプロジー |
-| **証券コード** | 8056（東証プライム） |
+| Item | Details |
+|------|---------|
+| **Current Name (Japanese)** | BIPROGY株式会社 |
+| **Current Name (English)** | BIPROGY Inc. |
+| **Former Name (Japanese)** | 日本ユニシス株式会社 |
+| **Former Name (English)** | Nihon Unisys, Ltd. |
+| **Abbreviation** | BIPROGY |
+| **Securities Code** | 8056 (Tokyo Stock Exchange Prime) |
 
-### ブランド名の由来
-「BIPROGY」は、光が屈折・反射した時に見える7色（Blue、Indigo、Purple、Red、Orange、Green、Yellow）の頭文字から成る造語。ロゴマークはグラデーションのかかった青地に白線が5本引かれており、白線の中に「BIPROGY」の7文字すべてが隠されているデザイン。
-
----
-
-## 2. Company Contact Information (会社連絡先)
-
-| 項目 | 情報 |
-|------|------|
-| **本社所在地** | 〒135-8560<br>東京都江東区豊洲一丁目1番1号<br>豊洲ONビル |
-| **ウェブサイト** | https://www.biprogy.com/ |
-| **旧ウェブサイト** | https://www.unisys.co.jp/ （biprogy.comへリダイレクト） |
-| **業種** | 情報・通信業 |
-| **法人番号** | 2010601029542 |
-| **決算期** | 3月31日 |
-| **会計監査人** | 有限責任監査法人トーマツ |
-
-### 国内拠点
-- **本社**: 東京都江東区豊洲
-- **関西支社**: 大阪市北区
-- **中部支社**: 名古屋市中区
-- **九州支社**: 福岡市博多区
-- **北海道支店**: 札幌市中央区
-- **東北支店**: 仙台市青葉区
-- **新潟支店**: 新潟市中央区
-- **北陸支店**: 石川県金沢市
-- **静岡支店**: 静岡市葵区
-- **中国支店**: 広島市中区
+### Brand Name Origin
+"BIPROGY" is a coined word from the initial letters of the seven colors (Blue, Indigo, Purple, Red, Orange, Green, Yellow) visible when light refracts and reflects. The logo features five white lines on a gradient blue background, with all seven letters of "BIPROGY" hidden within the white lines.
 
 ---
 
-## 3. Company History & Milestones (会社沿革)
+## 2. Company Contact Information
 
-### 前史
-- **1947年**: 吉澤審三郎が吉澤機器株式会社を設立（日本レミントン・ユニバックの前身）
-- **1951年**: UNIVAC I（最初の商用電子計算機）を米人口統計局に設置
-- **1955年**: 東京証券取引所と野村證券に日本初の商用コンピュータUNIVAC120設置
+| Item | Details |
+|------|---------|
+| **Headquarters** | Toyosu ON Building, 1-1-1 Toyosu 1-chome, Koto-ku, Tokyo 135-8560 |
+| **Website** | https://www.biprogy.com/ |
+| **Former Website** | https://www.unisys.co.jp/ (redirects to biprogy.com) |
+| **Industry** | Information & Communications |
+| **Corporate Number** | 2010601029542 |
+| **Fiscal Year End** | March 31 |
+| **Auditor** | Tohmatsu LLC Audit Corporation |
 
-### 日本レミントン・ユニバック株式会社時代
-- **1958年3月29日**: 日本レミントンユニバック株式会社設立（初代社長：宮崎清）
-- **1961年**: 東京電力にUNIVAC IIを設置
-- **1964年**: 東京オリンピック記録予想にUNIVAC IIIが活躍、日本初のオンラインリアルタイム処理実験に成功
-- **1967年**: 日本初のオンラインバンキング処理開始（旧富士銀行）
-- **1968年**: 日本ユニバック株式会社に社名変更
-
-### 日本ユニバック株式会社時代
-- **1970年**: 東証二部上場、近鉄特急座席予約システム「ASKAシステム」運用開始
-- **1971年**: 東証一部上場
-- **1973年**: 漢字情報処理システムKANPSが文部省などで採用
-- **1978年**: 全日本空輸の座席予約オンラインRESANAを運用開始
-
-### 日本ユニシス株式会社時代（1988年〜2022年）
-- **1988年**: 日本ユニバックとバロースが合併、日本ユニシス株式会社に改称
-- **1997年**: ユニアデックス株式会社を設立
-- **2001年**: 情報セキュリティ管理の国際標準「BS7799」の認証を日本で初めて取得
-- **2005年**: 日本国内における「Unisys」の半永久的な商標使用権を米国ユニシスから約250億円で購入
-- **2006年**: 米国ユニシスが持株の全てを売却（資本関係解消）、ケンブリッジ・テクノロジー・パートナーズを買収
-- **2007年**: 世界初となるWindows Server/SQL Serverを基盤としたフルバンキングシステムが百五銀行で稼働開始
-- **2012年**: 大日本印刷が筆頭株主となる
-- **2019年**: Axxis Consulting (S) Pte. Ltd.を子会社化
-
-### BIPROGY株式会社時代（2022年〜現在）
-- **2022年4月1日**: BIPROGY株式会社に商号変更
-- **2022年6月**: 尼崎市USBメモリー紛失事故発生
-- **2024年4月**: 齊藤昇が代表取締役社長に就任
-- **2025年2月**: BIPROGY and Translink Sustainability & Innovation Fund, L. Pを組成
+### Domestic Offices
+- **Headquarters:** Koto-ku, Tokyo
+- **Kansai Branch:** Kita-ku, Osaka
+- **Chubu Branch:** Nakamura-ku, Nagoya
+- **Kyushu Branch:** Hakata-ku, Fukuoka
+- **Hokkaido Branch:** Chuo-ku, Sapporo
+- **Tohoku Branch:** Aoba-ku, Sendai
+- **Niigata Branch:** Chuo-ku, Niigata
+- **Hokuriku Branch:** Kanazawa, Ishikawa
+- **Shizuoka Branch:** Aoi-ku, Shizuoka
+- **Chugoku Branch:** Naka-ku, Hiroshima
 
 ---
 
-## 4. Capital and Employee Count (資本金・従業員数)
+## 3. Company History & Milestones
 
-| 項目 | 金額・人数 |
-|------|------------|
-| **資本金** | 54億8,317万円 |
-| **発行済株式総数** | 100,663,524株 |
-| **従業員数（連結）** | 8,362名（2025年3月31日現在） |
-| **従業員数（単体）** | 4,454名（2025年3月31日現在） |
-| **売上高（連結）** | 4,040億1,000万円（2025年3月期） |
-| **営業利益（連結）** | 390億6,600万円（2025年3月期） |
-| **純利益（連結）** | 269億6,500万円（2025年3月期） |
-| **純資産（連結）** | 1,690億5,000万円（2025年3月31日現在） |
-| **総資産（連結）** | 3,308億7,600万円（2025年3月31日現在） |
+### Pre-History
+- **1947:** Shinsaburo Yoshizawa established Yoshizawa Kikai Co., Ltd. (predecessor to Nihon Remington Univac)
+- **1951:** UNIVAC I (first commercial electronic computer) installed at U.S. Bureau of the Census
+- **1955:** Japan's first commercial computer UNIVAC 120 installed at Tokyo Stock Exchange and Nomura Securities
 
-### 主要株主（2024年3月31日現在）
-| 株主 | 持株比率 |
-|------|----------|
-| 大日本印刷株式会社 | 21.08% |
-| 日本マスタートラスト信託銀行株式会社（信託口） | 13.19% |
-| 日本カストディ銀行株式会社（信託口） | 13.17% |
-| 農林中央金庫 | 2.36% |
-| STATE STREET BANK AND TRUST COMPANY 505001 | 2.01% |
-| THE BANK OF NEW YORK MELLON 140044 | 2.00% |
-| 株式会社日本カストディ銀行（信託口４） | 1.80% |
-| STATE STREET BANK AND TRUST COMPANY 505103 | 1.65% |
-| JP MORGAN CHASE BANK 385781 | 1.54% |
-| BIPROGY従業員持株会 | 1.41% |
+### Nihon Remington Univac Era
+- **March 29, 1958:** Nihon Remington Univac Co., Ltd. established (first president: Kiyoshi Miyazaki)
+- **1961:** UNIVAC II installed at Tokyo Electric Power
+- **1964:** UNIVAC III used for Tokyo Olympics record predictions; Japan's first online real-time processing experiment succeeded
+- **1967:** Japan's first online banking processing started (former Fuji Bank)
+- **1968:** Company name changed to Nihon Univac Kaisha, Ltd.
 
----
+### Nihon Univac Era
+- **1970:** Listed on Tokyo Stock Exchange Section 2; Kintetsu Express reserved seat reservation system "ASKA System" launched
+- **1971:** Listed on Tokyo Stock Exchange Section 1
+- **1973:** KANPS kanji information processing system adopted by Ministry of Education and others
+- **1978:** All Nippon Airways seat reservation online system RESANA launched
 
-## 5. Products and Services (製品・サービス)
+### Nihon Unisys Era (1988-2022)
+- **1988:** Nihon Univac merged with Burroughs, renamed Nihon Unisys, Ltd.
+- **1997:** Unidex Inc. established
+- **2001:** First in Japan to obtain BS7799 information security management certification
+- **2005:** Purchased permanent "Unisys" trademark usage rights in Japan from U.S. Unisys for approximately 25 billion JPY
+- **2006:** U.S. Unisys sold all shares (capital relationship dissolved); acquired Cambridge Technology Partners
+- **2007:** World's first full banking system based on Windows Server/SQL Server went live at Hyakugo Bank
+- **2012:** Dai Nippon Printing (DNP) became largest shareholder
+- **2019:** Made Axxis Consulting (S) Pte. Ltd. a subsidiary
 
-### 事業内容
-- コンサルティングサービス
-- ITソリューション
-- アウトソーシングサービス
-- サポートサービス
-- システム関連サービスの提供
-- コンピュータシステム（ハードウェア、ソフトウェア）の販売
-
-### 主なサービス・ソリューション
-| サービス名 | 概要 |
-|-----------|------|
-| **マイホームマーケット** | 不動産情報サービス |
-| **オープントラスティ** | クラウドサービス |
-| **スマートタクシー** | タクシー配車システム |
-| **iSECURE【BIPROGY】** | 情報セキュリティサービス |
-| **smart oasis** | 電気自動車(EV)充電インフラシステムサービス |
-
-### ハードウェア製品
-- エンタープライズ・サーバES7000
-- エンタープライズサーバ（ClearPathサーバ）
-- エンタープライズWindowsサーバ
-- UNIXサーバ
-- ソリューションサーバ
-
-### 得意分野
-- 金融機関向け勘定系システム（日本電気・富士通・日本IBM・NTTデータ・日立製作所と並ぶ開発能力）
-- アパレル系システム
-- 通販系システム
-- ERPソリューション
-- CRMソリューション
-- クラウドサービス（2008年から注力）
-- 電気自動車充電インフラシステム
-- 電子決済システム
-- AI・ロボティクス・IoTサービス
+### BIPROGY Era (2022-Present)
+- **April 1, 2022:** Corporate name changed to BIPROGY Inc.
+- **June 2022:** Amagasaki City USB memory loss incident occurred
+- **April 2024:** Noboru Saito appointed President & CEO
+- **February 2025:** Formed BIPROGY and Translink Sustainability & Innovation Fund, L.P.
 
 ---
 
-## 6. Key Clients and Industries Served (主要顧客・業界)
+## 4. Capital & Employees
 
-### 対応業界
-- **金融業界**: 銀行、証券、保険、商品先物
-- **製造業界**
-- **流通・小売業界**
-- **サービス業界**
-- **公共・自治体**
-- **通信業界**
-- **運輸業界**
+| Item | Amount |
+|------|--------|
+| **Capital** | 5,483,170,000 JPY |
+| **Total Shares Issued** | 100,663,524 shares |
+| **Employees (Consolidated)** | 8,362 (as of March 31, 2025) |
+| **Employees (Non-consolidated)** | 4,454 (as of March 31, 2025) |
+| **Revenue (Consolidated)** | 404,010,000,000 JPY (FY ending March 2025) |
+| **Operating Income (Consolidated)** | 39,066,000,000 JPY (FY ending March 2025) |
+| **Net Income (Consolidated)** | 26,965,000,000 JPY (FY ending March 2025) |
+| **Net Assets (Consolidated)** | 169,050,000,000 JPY (as of March 31, 2025) |
+| **Total Assets (Consolidated)** | 330,876,000,000 JPY (as of March 31, 2025) |
 
-### 主要顧客（公開情報に基づく）
-- 東京電力ホールディングス
-- 野村證券
-- 山一證券（過去）
-- 近畿日本鉄道
-- 全日本空輸（ANA）
-- 百五銀行
-- 東京証券取引所
-- 兵庫県尼崎市
-- 他多数
-
-### 提携関係
-- **マイクロソフト**: Windows Server/SQL Server基盤の金融機関向けシステム開発で協調
-- **大日本印刷（DNP）**: クラウド、新プラットフォームサービス、マーケティング・販売の3事業で連携
-- **ソフトバンク**: エアトラスト株式会社を共同設立
+### Major Shareholders (as of March 31, 2024)
+| Shareholder | Ownership Ratio |
+|-------------|----------------|
+| Dai Nippon Printing Co., Ltd. | 21.08% |
+| Japan Master Trust Bank (Trust Account) | 13.19% |
+| Japan Custody Bank (Trust Account) | 13.17% |
+| Norinchukin Bank | 2.36% |
+| State Street Bank and Trust Company 505001 | 2.01% |
+| The Bank of New York Mellon 140044 | 2.00% |
+| Japan Custody Bank (Trust Account 4) | 1.80% |
+| State Street Bank and Trust Company 505103 | 1.65% |
+| JP Morgan Chase Bank 385781 | 1.54% |
+| BIPROGY Employee Shareholding Association | 1.41% |
 
 ---
 
-## 7. Company Philosophy and Culture (企業理念・文化)
+## 5. Products & Services
+
+### Business Activities
+- Consulting services
+- IT solutions
+- Outsourcing services
+- Support services
+- System-related service provision
+- Computer system (hardware, software) sales
+
+### Key Services & Solutions
+| Service | Description |
+|---------|-------------|
+| **My Home Market** | Real estate information service |
+| **Open Trusty** | Cloud service |
+| **Smart Taxi** | Taxi dispatch system |
+| **iSECURE [BIPROGY]** | Information security service |
+| **Smart Oasis** | Electric vehicle (EV) charging infrastructure system service |
+
+### Hardware Products
+- Enterprise Server ES7000
+- Enterprise Server (ClearPath Server)
+- Enterprise Windows Server
+- UNIX Server
+- Solution Server
+
+### Areas of Expertise
+- Core banking systems for financial institutions (development capability on par with NEC, Fujitsu, IBM Japan, NTT Data, and Hitachi)
+- Apparel industry systems
+- Mail-order/e-commerce systems
+- ERP solutions
+- CRM solutions
+- Cloud services (focused since 2008)
+- EV charging infrastructure systems
+- Electronic payment systems
+- AI, robotics, and IoT services
+
+---
+
+## 6. Key Clients & Industries
+
+### Industries Served
+- **Financial Industry:** Banks, securities, insurance, commodity futures
+- **Manufacturing Industry**
+- **Distribution & Retail Industry**
+- **Service Industry**
+- **Public Sector & Local Governments**
+- **Telecommunications Industry**
+- **Transportation Industry**
+
+### Key Clients (Based on Public Information)
+- Tokyo Electric Power Holdings
+- Nomura Securities
+- Yamaichi Securities (historical)
+- Kintetsu Group Holdings
+- All Nippon Airways (ANA)
+- Hyakugo Bank
+- Tokyo Stock Exchange
+- Amagasaki City, Hyogo Prefecture
+- Many others
+
+### Partnerships
+- **Microsoft:** Collaboration on Windows Server/SQL Server-based financial system development
+- **Dai Nippon Printing (DNP):** Collaboration in cloud, new platform services, and marketing/sales
+- **SoftBank:** Jointly established AirTrust Inc.
+
+---
+
+## 7. Company Philosophy & Culture
 
 ### Purpose
-「私たちの使命は、地球というかけがえのない共有資産を、次の世代に引き継いでいくこと。」
+"Our mission is to pass on Earth, our irreplaceable shared asset, to the next generation."
 
-### 企業姿勢
-- 既存の取り組みを基軸に、希望ある未来に導く社会的価値創出企業を目指している
-- 今まで培ってきたICTサービス提供だけに留まることなく、テクノロジーの可能性を引き出し、新しい価値創造と社会課題の解決に取り組んでいる
+### Corporate Stance
+- Building on existing initiatives, aiming to become a social value creation company that leads toward a hopeful future
+- Going beyond ICT service provision, unlocking technology's potential, and engaging in new value creation and solving social challenges
 
-### CSR・社会貢献活動
-- 環境省エコチル調査企業・団体サポーター（2011年〜）
-- グローバル・コンパクト・ネットワーク・ジャパン加盟企業
+### CSR & Social Contribution
+- Ministry of the Environment Eco-Chil Survey Corporate/Organization Supporter (2011-present)
+- Global Compact Network Japan member company
 
-### スポーツ振興
-- **BIPROGYバドミントンチーム**: リオデジャネイロオリンピック金メダリスト（高橋礼華・松友美佐紀組）など多数のオリンピック選手を輩出
-- **BULLSフットボールクラブ**: 社会人アメリカンフットボールXリーグ所属
-- 日本ゴルフツアー機構（JGTO）オフィシャルスポンサー
-- 日本女子プロゴルフ協会オフィシャル・コーポレートサポーター
+### Sports Promotion
+- **BIPROGY Badminton Team:** Produced numerous Olympic athletes including Rio Olympics gold medalists (Misaki Matsutomo/Ayaka Takahashi pair)
+- **BULLS Football Club:** Corporate American football X-League team
+- Japan Golf Tour Organization (JGTO) Official Sponsor
+- Japan Ladies Professional Golf Association Official Corporate Supporter
 
-### 東京ディズニーリゾート・スポンサー
-- 東京ディズニーランド「エレクトリカルパレード・ドリームライツ」（1989年3月〜）
-- 東京ディズニーシー「フォートレス・エクスプロレーション」（2001年開園〜）
-
----
-
-## 8. Media Mentions (メディア掲載・ニュース)
-
-### 主要ニュース
-
-#### 2022年 尼崎市USBメモリー紛失事故
-- **2022年6月**: 兵庫県尼崎市の住民税非課税世帯などへの臨時特別給付金情報を含む全市民約46万人分の個人情報が入ったUSBメモリーを、協力会社の委託先の従業員が紛失
-- 協力会社の委託先従業員が市の許可を得ずにデータを持ち出し、飲酒後に路上で寝ていた際に鞄ごと紛失
-- USBメモリーは6月24日に発見され、個人情報の漏洩は確認されず
-- **2022年7月**: 尼崎市がBIPROGYに対して18か月間の入札参加停止措置
-- **2022年9月**: 個人情報保護委員会がBIPROGYへ行政指導
-- **2023年6月**: 尼崎市が調査費用など約2,950万円の損害賠償請求
-
-#### 社名変更関連
-- **2021年5月**: 日経クロステックが「日本ユニシスの社名が34年の歴史に幕、新社名BIPROGY」と報道
-- **2022年5月**: 日経クロステックが「本社ビルに社名ロゴはもう掲げない、BIPROGY社名変更プロジェクトの裏側」を特集
-
-#### 事業関連
-- **2012年8月**: 日本経済新聞が「大日本印刷、日本ユニシス筆頭株主に」を報道
-- **2007年5月**: [日経コンピュータ](https://it.nikkei.co.jp/)が「百五銀行のWindows勘定系が稼働、フルバンキングで世界初」を報道
+### Tokyo Disney Resort Sponsor
+- Tokyo Disneyland "Electrical Parade Dreamlights" (from March 1989)
+- Tokyo DisneySea "Fortress Exploration" (from park opening in 2001)
 
 ---
 
-## 9. Summary (概要)
+## 8. Media Mentions
 
-**BIPROGY株式会社**（旧：日本ユニシス株式会社）は、東京都江東区豊洲に本社を置く日本のITサービス企業である。1958年に日本レミントン・ユニバック株式会社として設立され、1988年に日本ユニシス株式会社となり、2022年4月に現在のBIPROGY株式会社へ商号変更した。
+### Major News
 
-元々はアメリカのユニシスと三井物産の合弁によるメインフレームベンダーであったが、2006年に米国ユニシスとの資本関係が解消され、2012年からは大日本印刷（DNP）が筆頭株主となっている。
+#### 2022 Amagasaki City USB Memory Loss Incident
+- **June 2022:** A subcontractor employee lost a USB memory containing personal information of approximately 460,000 Amagasaki City residents (including non-taxable households' special benefit payment data)
+- The subcontractor employee took the data out without city permission and lost it along with their bag while sleeping on the street after drinking
+- The USB memory was found on June 24; no personal information leak was confirmed
+- **July 2022:** Amagasaki City imposed an 18-month bid suspension on BIPROGY
+- **September 2022:** Personal Information Protection Commission issued administrative guidance to BIPROGY
+- **June 2023:** Amagasaki City claimed approximately 29.5 million JPY in damages for investigation costs
 
-現在は、金融機関向け勘定系システムを構築可能な国内有数のシステムインテグレーターとして、コンサルティング、ITソリューション、アウトソーシング、クラウドサービス、AI/IoTサービスなど幅広いビジネスソリューションを提供している。特にマイクロソフトとの協業によるWindows基盤の金融システム構築で実績を持つ。
+#### Name Change Related
+- **May 2021:** Nikkei CrossTrend reported "Nihon Unisys name ends 34-year history, new name BIPROGY"
+- **May 2022:** Nikkei CrossTrend featured "No more company logo on HQ building, behind BIPROGY name change project"
 
-JPX日経400の構成銘柄であり、三井グループ（三井月曜会）の加盟企業でもある。
-
-### 会社情報サマリー
-
-| 項目 | 内容 |
-|------|------|
-| 会社名 | BIPROGY株式会社（旧：日本ユニシス株式会社） |
-| 設立 | 1958年3月29日 |
-| 本社 | 東京都江東区豊洲 |
-| 資本金 | 54.8億円 |
-| 売上高 | 4,040億円（2025年3月期） |
-| 従業員数 | 8,362名（連結） |
-| 上場市場 | 東証プライム（8056） |
-| 筆頭株主 | 大日本印刷株式会社（21.08%） |
-| 事業内容 | ITソリューション、コンサルティング、アウトソーシング |
-| 特徴 | 金融勘定系システム、DNP傘下、元Unisys合弁 |
+#### Business Related
+- **August 2012:** Nihon Keizai Shimbun reported "Dai Nippon Printing becomes largest shareholder of Nihon Unisys"
+- **May 2007:** Nikkei Computer reported "Hyakugo Bank's Windows core banking goes live, world's first for full banking"
 
 ---
 
-*本資料は2026年3月30日時点での情報に基づいて作成されています。*
+## 9. Summary
+
+**BIPROGY Inc.** (formerly Nihon Unisys, Ltd.) is a Japanese IT services company headquartered in Toyosu, Koto-ku, Tokyo. Founded in 1958 as Nihon Remington Univac Co., Ltd., it became Nihon Unisys, Ltd. in 1988 and changed to the current BIPROGY Inc. in April 2022.
+
+Originally a mainframe vendor through a joint venture between U.S. Unisys and Mitsui & Co., the capital relationship with U.S. Unisys was dissolved in 2006, and Dai Nippon Printing (DNP) has been the largest shareholder since 2012.
+
+Today, as one of Japan's leading system integrators capable of building core banking systems for financial institutions, the company provides a wide range of business solutions including consulting, IT solutions, outsourcing, cloud services, and AI/IoT services. It has a particularly strong track record in Windows-based financial system development in collaboration with Microsoft.
+
+The company is a constituent of the JPX-Nikkei 400 index and a member of the Mitsui Group (Mitsui Monday Conference).
+
+### Company Information Summary
+
+| Item | Details |
+|------|---------|
+| Company Name | BIPROGY Inc. (formerly Nihon Unisys, Ltd.) |
+| Founded | March 29, 1958 |
+| Headquarters | Toyosu, Koto-ku, Tokyo |
+| Capital | 54.8 billion JPY |
+| Revenue | 404 billion JPY (FY ending March 2025) |
+| Employees | 8,362 (consolidated) |
+| Listed Market | Tokyo Stock Exchange Prime (8056) |
+| Largest Shareholder | Dai Nippon Printing Co., Ltd. (21.08%) |
+| Business | IT solutions, consulting, outsourcing |
+| Characteristics | Core banking systems, DNP subsidiary, former Unisys JV |
+
+---
+
+*This document is based on information available as of March 30, 2026.*

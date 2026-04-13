@@ -2,73 +2,73 @@
 
 ## Company Overview
 
-ザ・コンピュータ株式会社は、酒販業界に特化したPOSレジ、販売管理、在庫管理のパッケージソフトと関連機器の開発・販売・保守を行うシステム会社です。1982年4月に設立され、約40年間酒販システム開発を行ってきました。現在では導入実績3,000店舗に至る業界最高クラスの酒販システム会社となっています。
+The Computer Corporation is a system company specializing in the development, sales, and maintenance of POS registers, sales management, and inventory management package software and related equipment for the liquor retail industry. Founded in April 1982, the company has spent approximately 40 years developing liquor retail systems and now serves over 3,000 stores, making it a top-class company in the industry.
 
-同社の主力製品である「ベストパートナー・プラス」やBPSシリーズは、売上・仕入・在庫・得意先管理、売掛・買掛、棚卸、各種帳票出力、バーコード運用、セット商品管理など酒販業務に必要な機能を一括で提供します。また、空容器処理や酒税報告書作成、インボイス対応など業界固有の税務・法令対応にも対応しています。
+The company's flagship products, "Best Partner Plus" and the BPS series, provide comprehensive functionality needed for liquor retail operations, including sales/purchasing/inventory/customer management, accounts receivable/payable, stocktaking, various report outputs, barcode operations, and set product management. The systems also handle industry-specific tax and regulatory compliance, including empty container processing, liquor tax report generation, and invoice system compliance.
 
 **Website:** https://thecomputer.co.jp
 
 ## History
 
-- **1982年4月** - 会社設立
-- **設立以来** - 酒販システム開発に特化して事業展開
-- **現在** - 導入実績3,000店舗を達成、業界最高クラスの酒販システム会社として確立
+- **April 1982** - Company established
+- **Since founding** - Specialized in liquor retail system development
+- **Present** - Achieved deployment to 3,000+ stores, established as an industry-leading liquor retail system company
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 不明 |
-| Employees | 約34名（推定） |
+| Capital | Not disclosed |
+| Employees | Approximately 34 (estimated) |
 | Corporate Number | 6020001014883 |
-| Founded | 1982年4月 |
-| Representative | 與良 博和（社長/代表） |
-| Headquarters | 神奈川県横浜市神奈川区 |
+| Founded | April 1982 |
+| Representative | Hirokazu Yora (President) |
+| Headquarters | Kanagawa-ku, Yokohama, Kanagawa |
 
 ## Services/Products
 
-### ベストパートナー・プラス / BPSシリーズ
-酒販店向けに特化した包括的システムソリューション
+### Best Partner Plus / BPS Series
+Comprehensive system solutions specialized for liquor retail stores
 
-#### BPS-30シリーズ
-配達中心の店舗向け
+#### BPS-30 Series
+For delivery-focused stores
 
-#### BPS-60シリーズ
-店頭販売も対応可能
+#### BPS-60 Series
+Supporting both delivery and in-store sales
 
-#### BPS-80シリーズ
-業務店向け
+#### BPS-80 Series
+For wholesale distributors
 
-### 主な機能
-- 売上・仕入・在庫・得意先管理
-- 売掛・買掛管理
-- 棚卸・各種帳票出力
-- バーコード運用
-- セット商品管理
-- 空容器処理
-- 酒税報告書作成
-- インボイス対応
+### Key Features
+- Sales, purchasing, inventory, and customer management
+- Accounts receivable and payable management
+- Stocktaking and various report outputs
+- Barcode operations
+- Set product management
+- Empty container processing
+- Liquor tax report generation
+- Invoice system compliance
 
-### その他製品
-- **GO!注文** - スマホ受注システム
-- **GO!!電帳** - 電子帳簿保存法対応のクラウドサービス
-- 卸会社との自動入荷連携機能
+### Other Products
+- **GO! Chumon** - Smartphone order receiving system
+- **GO!! Densho** - Cloud service compliant with the Electronic Bookkeeping Act
+- Automatic receiving linkage with wholesale companies
 
 ## Clients
 
-- 全国の酒販店（導入実績3,000店舗以上）
+- Liquor retail stores nationwide (3,000+ stores deployed)
 
 ## Philosophy
 
-酒販業務を理解したサポートを提供し、導入後のスムーズな運用をサポートすることに注力しています。全国の販売拠点とサポートスタッフが顧客管理や在庫管理を効率化するソフトウェアを提供しています。
+The company focuses on providing support that understands liquor retail operations and ensures smooth post-implementation operations. Sales locations and support staff across Japan provide software that streamlines customer management and inventory management.
 
 ## Media Mentions
 
-- 2026年1月26日 - 会社概要・沿革ページ更新
-- 2025年12月5日 - SalesNow DBにて会社情報更新
-- 2024年以降 - バフェット・コードなどで企業評価掲載
+- January 26, 2026 - Company overview and history page updated
+- December 5, 2025 - Company information updated on SalesNow DB
+- From 2024 onwards - Company evaluation featured on Buffett Code and other platforms
 
 ## Notes
 
-- 酒販業界に特化した40年以上の実績を持つ企業
-- 配達中心、店頭販売、業務店など、店舗のニーズに応じた柔軟なシステム提供
+- Over 40 years of track record specializing in the liquor retail industry
+- Flexible system offerings to meet store needs: delivery-focused, in-store sales, and wholesale distributors

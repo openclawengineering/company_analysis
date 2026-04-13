@@ -1,69 +1,69 @@
 # 株式会社白瑛 (Hakuei Inc.)
 
 ## Overview
-株式会社白瑛は2024年9月に設立されたブランディング・ECサイト制作会社。ブランドの軸を見つけ、社会に伝わる形にするコンセプト設計からビジュアルデザインまで、一貫したブランディング支援を行っている。「価値を形に、ブランドを信頼へ」をモットーに、作り手の想いをつなぐ存在を目指している。
+Hakuei Inc. is a branding and e-commerce website production company established in September 2024. The company provides comprehensive branding support from concept design to visual design, helping brands discover their core identity and communicate it effectively to society. With the motto "Giving shape to value, turning brands into trust," the company aims to be a bridge connecting creators' visions with their audiences.
 
 ## History
-- 2024年9月 - 設立
+- September 2024 - Company established
 
 ## Capital
-50万円
+500,000 JPY
 
 ## Services
-### ブランド戦略設計
-軸を見つけ、方向性を定める
+### Brand Strategy Design
+Discovering the core axis and defining the direction
 
-### ECサイト制作・運用
-成果につながる設計
+### E-Commerce Site Development & Operations
+Results-driven design and development
 
-### クリエイティブ制作
-ブランドの魅力を視覚化
+### Creative Production
+Visualizing brand appeal
 
-### 主な事業内容
-- ブランディング支援
-- ECサイト制作
-- ホームページ制作
-- LP制作
-- ロゴ制作
-- デザイン（web／チラシ／カタログ／パッケージ）
-- webマーケティング（現状分析、SEO対策、MEO対策、広告運用）
-- 写真、動画撮影
+### Main Business Areas
+- Branding support
+- E-commerce site development
+- Website development
+- Landing page (LP) development
+- Logo design
+- Design (web / flyers / catalogs / packaging)
+- Web marketing (current state analysis, SEO, MEO, advertising operations)
+- Photography and video production
 
 ## Clients
-### 主要実績
-- 海外有名インテリアブランド公式ECサイト構築
-- 国内老舗鞄メーカーの直販ECサイト構築
-- 大手食品メーカー新規事業の公式ECサイト構築
-- 大手リユース企業の中古品販売サイト構築
+### Major Projects
+- Official e-commerce site development for a famous international interior design brand
+- Direct-sales e-commerce site development for a long-established Japanese bag manufacturer
+- Official e-commerce site development for a new business venture by a major food manufacturer
+- Used product sales site development for a major reuse/recycle company
 
-### その他実績
-- 美容クリニック公式サイト構築
-- 地域歯科医院サイトリニューアル
-- 大学病院関連医療サイト構築
-- 高級サウナ＆宿泊施設公式サイト構築
-- 地域特産品販売サイト構築
-- 自動車関連企業の採用サイト構築
+### Other Projects
+- Official website development for beauty clinics
+- Website renewal for regional dental clinics
+- Medical website development related to university hospitals
+- Official website development for premium saunas & lodging facilities
+- Regional specialty product sales site development
+- Recruitment website development for automotive-related companies
 
 ## Philosophy
-### 企業理念
-価値を形に、ブランドを信頼へ。
+### Corporate Philosophy
+Giving shape to value, turning brands into trust.
 
-ブランドの成長は、単に集客や売上の問題ではなく、「なぜその価値が必要とされるのか」という価値観の明確化から始まります。私たちは、その価値を具体化し、競合との差別化や伝え方を整理しながら、信頼されるブランド体験へとつなげていく。
+Brand growth begins not simply with customer acquisition or sales, but with clarifying "why this value is needed." The company concretizes that value, organizes differentiation and messaging, and connects it to a trusted brand experience.
 
-### 事業の特長
-- EC・D2C領域に特化した構築・運用支援
-- 成長フェーズのブランド価値を高める設計力
-- ブランディング・制作・マーケティングを一貫体制で提供
+### Business Characteristics
+- Specialized in e-commerce/D2C domain development and operational support
+- Design capabilities that enhance brand value in growth phases
+- Integrated provision of branding, creative production, and marketing
 
 ## Contact
-- **所在地:** 〒104-0061 東京都中央区銀座1-12-4 N&E BLD.7階
-- **代表者:** 代表取締役社長 竹井 修平
-- **社員数:** 10人（業務委託を含む）
-- **登録番号:** 8010001248183
+- **Address:** N&E BLD. 7F, 1-12-4 Ginza, Chuo-ku, Tokyo 104-0061
+- **Representative:** Shuhei Takei, President & CEO
+- **Employees:** 10 (including contractors)
+- **Registration Number:** 8010001248183
 - **URL:** https://hakuei.co.jp/
 
 ## Certifications
-適格請求書発行事業者
+Qualified Invoice Issuer
 
 ## Media Mentions
-企業情報は公式サイトをご参照ください
+For company information, please refer to the official website.

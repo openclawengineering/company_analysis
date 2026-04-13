@@ -1,33 +1,31 @@
 # 株式会社ユニテック (Unitec Co., Ltd.)
 
 ## Overview
-株式会社ユニテックはプログラム開発や3次元CAD/CAE業務の支援などを通じ、お客様のご要望にお応えして満足と信頼をいただくため、従業員の技術力を向上させ、「付加価値の高い技術者」になることを目標に努力し発展している。
+Unitec Co., Ltd. provides program development and 3D CAD/CAE support services. The company strives to improve its employees' technical skills to become "high-value engineers," aiming to provide satisfaction and trust to clients by meeting their needs and requirements.
 
 ## History
-詳細な沿革は公開されていない
+Detailed corporate history not publicly available.
 
 ## Capital
-非公開
+Not disclosed.
 
 ## Services
-- プログラム開発
-- 3次元CAD/CAE業務支援
-- 技術者派遣
+- Program development
+- 3D CAD/CAE support services
+- Engineer dispatch/staffing
 
 ## Clients
-製造業、設計分野のお客様
+Manufacturing and design sector clients.
 
 ## Philosophy
-当社従業員には「将来の大きな目標＝夢」を持つこと、「夢を必ず実現してみせるという信念」があれば、いつか夢は叶えられるものだということを伝え、夢の実現のために必要な技術研修や資格取得のための助成を進めている。
-
-当社従業員一人ひとりが「夢」を実現し、付加価値の高い技術者となることにより、「ものづくり」を通して社会に貢献する企業として発展していく。
+The company encourages every employee to hold "big future goals — dreams" and the belief that "dreams can absolutely be realized." The company provides technical training and certification support to help employees achieve their goals. Through each employee realizing their dreams and becoming high-value engineers, the company aims to grow as an enterprise contributing to society through manufacturing.
 
 ## Contact
-- **所在地:** 〒141-0022 品川区 御殿山トラストタワー
+- **Address:** Gotenyama Trust Tower, Shinagawa-ku, Tokyo 141-0022
 - **URL:** https://www.unitec.co.jp/
 
 ## Certifications
-各種認証取得
+Various certifications obtained.
 
 ## Media Mentions
-企業情報は公式サイトをご参照ください
+For company information, please refer to the official website.

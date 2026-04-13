@@ -2,57 +2,57 @@
 
 ## Company Overview
 
-NTTデータフォース株式会社は、NTTデータグループの一員として、金融機関向けの情報システム構築・運用を専門とするIT企業です。2000年11月に地銀の雄である横浜銀行様の基幹システムアウトソーシングをビジネスの柱として設立されました。現在では横浜銀行をはじめ北海道銀行、北陸銀行、七十七銀行、東日本銀行など、全国の地方銀行や中央省庁、金融機関のシステムを担っています。
+NTT DATA FORCE CORPORATION, a member of the NTT DATA Group, specializes in building and operating information systems for financial institutions. Founded in November 2000 with the core business of outsourcing the core banking systems of Bank of Yokohama, the company now serves regional banks and central government ministries nationwide, including Hokkaido Bank, Hokuriku Bank, 77 Bank, and Higashi-Nippon Bank.
 
-同社はミッションクリティカルなシステムの構築・運用を得意とし、銀行業務ノウハウと高度なIT技術力を融合させた質の高い金融情報システムの企画・開発・運用などの総合的なソリューション・サービスを提供しています。700名弱の社員とともに新横浜、札幌、仙台に拠点を構え、事業拡大を続けています。
+The company excels in building and operating mission-critical systems, providing comprehensive solution services — from planning and development to operations — that combine banking business expertise with advanced IT technical capabilities. With approximately 700 employees, the company maintains offices in Shin-Yokohama, Sapporo, and Sendai, continuing to expand its business operations.
 
 **Website:** https://www.nttdata-force.co.jp
 
 ## History
 
-- **2000年11月** - 横浜銀行様の基幹システムアウトソーシング受託を本業の柱として設立
-- **2000年代以降** - 北海道銀行、北陸銀行、七十七銀行、東日本銀行などが共同利用する基幹システムの主要開発会社として機能
-- **現在** - MEJAR行を中心としたお客様から「信頼される真のビジネスパートナー」として事業展開中
+- **November 2000** - Established with core banking system outsourcing for Bank of Yokohama as the primary business pillar
+- **2000s onwards** - Functioned as the primary development company for shared core banking systems used by Hokkaido Bank, Hokuriku Bank, 77 Bank, Higashi-Nippon Bank, and others
+- **Present** - Operating as a "trusted true business partner" for clients centered on MEJAR Bank
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 2億8500万円 |
-| Employees | 731名（2026年4月1日現在） |
+| Capital | 285,000,000 JPY |
+| Employees | 731 (as of April 1, 2026) |
 | Corporate Number | 1020001037724 |
-| Founded | 2000年11月1日 |
-| Representative | 池野 元就（代表取締役社長） |
-| Headquarters | 〒222-0033 横浜市港北区新横浜3-7-8 スイテ新横浜13階 |
-| Phone | 045-470-8335（代） |
+| Founded | November 1, 2000 |
+| Representative | Motoyoshi Ikeno (President & CEO) |
+| Headquarters | Suite 13, Sutei Shin-Yokohama, 3-7-8 Shin-Yokohama, Kohoku-ku, Yokohama 222-0033 |
+| Phone | 045-470-8335 |
 
 ## Services/Products
 
-### アウトソーシングサービス
-顧客のシステムを一貫して受託するフルアウトソーシングが可能で、課題解決の支援やコストメリットを最大限に発揮できる提案を提供。
+### Outsourcing Services
+Full outsourcing services for client systems, providing proposals that maximize cost benefits and support problem-solving.
 
-### 金融システム構築・運用
-- 地方銀行、中央省庁、金融機関向けミッションクリティカルなシステム構築・運用
-- 基幹システム（銀行の中枢業務）の主要開発
+### Financial System Development & Operations
+- Mission-critical system development and operations for regional banks, central government ministries, and financial institutions
+- Core banking system development (central banking operations)
 
-### パッケージ商品開発
-これまで培った実績とノウハウをベースに、当社オリジナルの商品をパッケージ化し、金融機関様を中心としたマーケットでビジネス展開。
+### Package Product Development
+Packaging the expertise and know-how accumulated over the years into original products, with business development in the financial institution market.
 
 ## Clients
 
-- 横浜銀行
-- 北海道銀行
-- 北陸銀行
-- 七十七銀行
-- 東日本銀行
-- 中央省庁
-- その他金融機関多数
+- Bank of Yokohama
+- Hokkaido Bank
+- Hokuriku Bank
+- 77 Bank
+- Higashi-Nippon Bank
+- Central government ministries
+- Various other financial institutions
 
 ## Philosophy
 
-ミッション・ビジョンとして「信頼される真のビジネスパートナー」となり「お客様の業績拡大に貢献する」を掲げています。銀行業務ノウハウと高度なIT技術力を活かし、お客様である金融機関の抱える課題を多角的な視点で捉え、先見性を持った解決策を導き出すことを目指しています。
+The company's mission and vision is to become a "trusted true business partner" that "contributes to the growth of client businesses." Leveraging banking business expertise and advanced IT technical capabilities, the company aims to capture the challenges faced by client financial institutions from multiple perspectives and deliver forward-thinking solutions.
 
 ## Media Mentions
 
-- 2024年6月 - 官報決算データベースに第24期決算公告掲載（純利益5億9,200万円）
-- 2024年 - doda等の採用サイトで「金融IT分野の未来を切り開く最強プロ集団」として紹介
+- June 2024 - Published 24th fiscal year financial results in the Official Gazette (net income: 592 million JPY)
+- 2024 - Featured on recruitment sites such as doda as "the strongest professional team opening the future of financial IT"

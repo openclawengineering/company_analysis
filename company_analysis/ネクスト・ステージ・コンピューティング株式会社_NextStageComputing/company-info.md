@@ -2,79 +2,77 @@
 
 ## Company Overview
 
-ネクスト・ステージ・コンピューティング株式会社は、金融・証券会社向けにWebシステム・オープンシステムを最適化するIT関係の技術を持ち、サーバの仮想化・構築・保守を行うインフラ業務を主軸とする企業です。1994年12月に設立されました。
-
-急激な速度で進む情報化社会の中で、社会基盤をささえる技術は年々多様化し、複雑なものとなっています。同社はお客様の立場に立ち、最新の技術をいち早く修得し、次の時代の情報サービス業界の一角を担うことを目指しています。
+Next Stage Computing Co., Ltd. is an IT company with expertise in web systems and open systems for financial and securities firms. The company's main business axis is infrastructure operations, including server virtualization, construction, and maintenance. Founded in December 1994, the company has continuously acquired the latest technologies and provided them to clients in an increasingly information-driven society.
 
 **Website:** https://nscomputing.co.jp
 
 ## History
 
-- **1994年12月** - 会社設立
-- **設立以来** - 情報化社会の進展に伴い、最新技術の修得とお客様への提供を続けている
+- **December 1994** - Company established
+- **Since founding** - Continuously acquiring and providing the latest technologies in response to the advancement of the information society
 
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
-| Capital | 1000万円 |
-| Employees | 10名（2016年12月現在） |
+| Capital | 10,000,000 JPY |
+| Employees | 10 (as of December 2016) |
 | Corporate Number | 3021001027762 |
-| Founded | 1994年12月 |
-| Representative | 内山 勇次郎（代表取締役） |
-| Headquarters | 〒242-0021 神奈川県大和市中央1-2-4 レールサイドビル5F |
+| Founded | December 1994 |
+| Representative | Yujiro Uchiyama (President & CEO) |
+| Headquarters | Railside Building 5F, 1-2-4 Chuo, Yamato, Kanagawa 242-0021 |
 | Phone | 046-262-4961 |
 | Fax | 046-262-9462 |
 
 ## Services/Products
 
-### コンピュータシステム関連
-- コンピュータのソフトウェアの開発及び販売
-- コンピュータシステム設計のコンサルティング
-- コンピュータ及び周辺機器の販売
-- コンピュータを利用した各種計算業務及び情報サービスの提供
+### Computer Systems
+- Software development and sales
+- Computer system design consulting
+- Computer and peripheral equipment sales
+- Various computing services and information services utilizing computers
 
-### インフラ・サーバ関連
-- サーバの仮想化・構築・保守
-- Webシステム・オープンシステム最適化（金融・証券会社向け）
+### Infrastructure & Server
+- Server virtualization, construction, and maintenance
+- Web system and open system optimization (for financial and securities firms)
 
-### 労働者派遣
-- コンピュータのシステム又はプログラム設計技術者の派遣
-- 労働者派遣事業（労働者派遣許可番号：派 14-302449）
+### Worker Dispatch
+- Dispatch of computer system and program design engineers
+- Worker dispatch business (License: 派 14-302449)
 
 ## Clients
 
-### 主要取引先
-- 日本電気株式会社
-- NECネッツエスアイ株式会社
-- 株式会社アイネット
-- 富士ソフト株式会社
-- 株式会社システナ
-- 株式会社CIJ
-- その他（順不同）
+### Major Business Partners
+- NEC Corporation
+- NEC Net Kansai, Ltd.
+- iNet Corporation
+- Fujisoft Inc.
+- Systena Corporation
+- CIJ Inc.
+- Others (in no particular order)
 
 ## Philosophy
 
-「起業から」という姿勢のもと、急激に進む情報化社会において、お客様の立場に立ち、最新の技術をいち早く修得し、次の時代の情報サービス業界の一角を担うことを目指しています。
+With an "entrepreneurial" mindset, the company aims to stand from the client's perspective, quickly acquire the latest technologies, and play a role in the next generation of the information service industry.
 
-## 取引銀行
+## Banking Partners
 
-- 三菱UFJ銀行 大和支店
-- みずほ銀行 大和支店
-- 横浜銀行 大和支店
+- Mitsubishi UFJ Bank, Yamato Branch
+- Mizuho Bank, Yamato Branch
+- Bank of Yokohama, Yamato Branch
 
-## 関連会社
+## Affiliated Companies
 
-- 株式会社エフスタイル
-- 株式会社ショーナンソフト
+- F-Style Inc.
+- Shonan Software Inc.
 
-## 加盟団体
+## Memberships
 
-- 大和商工会議所
-- かながわIT推進会
-- 神奈川県情報サービス産業協会
+- Yamato Chamber of Commerce and Industry
+- Kanagawa IT Promotion Council
+- Kanagawa Information Services Industry Association (KIA)
 
 ## Media Mentions
 
-- 2016年12月 - エン転職サイトにて従業員数10名として掲載
-- 2016年以降 - doda、BaseConnect等の採用・企業情報サイトでIT関係の技術を持つ企業として紹介
+- December 2016 - Listed with 10 employees on En-Tenshoku job site
+- From 2016 onwards - Featured on recruitment and company information sites such as doda and BaseConnect as an IT technology company

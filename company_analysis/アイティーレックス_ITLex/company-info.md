@@ -1,159 +1,136 @@
-# 株式会社アイティーレックス (IT-Lex Co., Ltd.) - 企業分析
+# 株式会社アイティーレックス (IT-Lex Co., Ltd.) - Company Analysis
 
-## 1. 会社名 (Company Name)
+## 1. Company Name
 
-| 項目 | 内容 |
-|------|------|
-| **日本語名** | 株式会社アイティーレックス |
-| **英語名** | IT-Lex Co., Ltd. |
-| **読み方** | かぶしきがいしゃ あいてぃーれっくす |
-
----
-
-## 2. 会社連絡先 (Company Contact Information)
-
-| 項目 | 内容 |
-|------|------|
-| **所在地** | 〒220-8114 神奈川県横浜市西区みなとみらい2-2-1 横浜ランドマークタワー14F |
-| **郵便番号** | 220-8114 |
-| **都道府県** | 神奈川県 |
-| **市区町村** | 横浜市西区 |
-| **番地** | みなとみらい2-2-1 |
-| **建物名** | 横浜ランドマークタワー14F |
-| **ウェブサイト** | http://www.itlex.co.jp |
-| **最寄り駅** | みなとみらい線「みなとみらい駅」徒歩3分 / JR・東急東横線・相鉄線・京急線「横浜駅」徒歩5分 |
-
-### アクセス情報
-横浜ランドマークタワーは、みなとみらいエリアのランドマークとして知られる高さ296mの超高層ビルです。14階にオフィスを構えています。
+| Item | Details |
+|------|---------|
+| **Japanese Name** | 株式会社アイティーレックス |
+| **English Name** | IT-Lex Co., Ltd. |
 
 ---
 
-## 3. 会社沿革・マイルストーン (Company History & Milestones)
+## 2. Company Contact Information
 
-| 年 | 出来事 |
-|----|--------|
-| 詳細不明 | 会社設立 |
+| Item | Details |
+|------|---------|
+| **Address** | Yokohama Landmark Tower 14F, 2-2-1 Minatomirai, Nishi-ku, Yokohama, Kanagawa 220-8114 |
+| **Website** | http://www.itlex.co.jp |
+| **Nearest Station** | Minatomirai Line "Minatomirai Station" (3 min walk) / JR, Tokyu Toyoko Line, Sotetsu Line, Keikyu Line "Yokohama Station" (5 min walk) |
 
-**注記:** 会社の設立年、沿革に関する詳細情報は公開されていません。ウェブサイトがアクセス不可のため、詳細な会社の歴史を確認できませんでした。
-
----
-
-## 4. 資本金・従業員数 (Capital and Employee Count)
-
-| 項目 | 内容 |
-|------|------|
-| **資本金** | 不明 |
-| **従業員数** | 不明 |
-| **平均年齢** | 不明 |
-| **設立年** | 不明 |
-
-**注記:** 企業規模に関する詳細情報は公開情報から確認できませんでした。
+### Access Information
+Yokohama Landmark Tower is a 296m skyscraper known as a landmark of the Minatomirai area. The company's office is located on the 14th floor.
 
 ---
 
-## 5. 事業内容・サービス (Products and Services)
+## 3. Company History & Milestones
 
-### 主な事業分野
-1. **受託開発ソフトウェア (Contract Software Development)**
-   - 顧客からの委託を受けてソフトウェアを開発する事業
-   - 要件定義から設計、開発、テスト、保守までを一貫してサポート
+| Year | Event |
+|------|-------|
+| Unknown | Company established |
+
+**Note:** Detailed information about the founding year and corporate history is not publicly available. The company website was inaccessible, preventing confirmation of detailed history.
+
+---
+
+## 4. Capital & Employees
+
+| Item | Details |
+|------|---------|
+| **Capital** | Not disclosed |
+| **Employees** | Not disclosed |
+| **Average Age** | Not disclosed |
+| **Founded** | Not disclosed |
+
+**Note:** Detailed information about company size could not be confirmed from public sources.
+
+---
+
+## 5. Products and Services
+
+### Main Business Areas
+1. **Contract Software Development**
+   - Software development commissioned by clients
+   - End-to-end support from requirements definition to design, development, testing, and maintenance
 
 2. **SES (System Engineering Service)**
-   - システムエンジニアリングサービス
-   - 技術者をクライアント先に派遣し、システム開発をサポート
-   - IT人材の提案・供給事業
+   - System engineering services
+   - Dispatching engineers to client sites to support system development
+   - IT talent proposal and supply business
 
-### 採用情報
-- **新卒採用**: 新卒者向けの採用を行っている
-- **中途採用**: 経験者向けのキャリア採用を行っている
-
----
-
-## 6. 主要顧客・業界 (Key Clients and Industries Served)
-
-| 項目 | 内容 |
-|------|------|
-| **主要顧客** | 情報なし |
-| **対応業界** | 不明（受託開発・SESのため複数業界対応の可能性あり） |
-| **実績** | 情報なし |
-
-**推測される対応分野:**
-- 金融系システム
-- 企業業務システム
-- Webアプリケーション
-- インフラ構築
+### Recruitment
+- **New Graduate Recruitment:** Hiring new graduates
+- **Mid-Career Recruitment:** Career recruitment for experienced professionals
 
 ---
 
-## 7. 企業理念・文化 (Company Philosophy and Culture)
+## 6. Key Clients and Industries Served
 
-| 項目 | 内容 |
-|------|------|
-| **企業理念** | 不明 |
-| **経営方針** | 不明 |
-| **企業ビジョン** | 不明 |
-| **社風・文化** | 不明 |
+| Item | Details |
+|------|---------|
+| **Key Clients** | No information available |
+| **Industries Served** | Unknown (likely multiple industries given contract development and SES business) |
+| **Track Record** | No information available |
 
-**注記:** 企業理念や文化に関する情報は公開されていません。
-
----
-
-## 8. メディア掲載 (Media Mentions)
-
-### 検索結果
-
-株式会社アイティーレックス（横浜ランドマークタワー14F）に関するメディア掲載情報は、公開情報から確認できませんでした。
-
-**検索を実施したが見つからなかった内容:**
-- ニュース記事
-- プレスリリース
-- 業界メディアでの紹介
-- テレビ・ラボ出演情報
-
-**注意点:**
-検索結果には、類似名称の別会社（「アイティーレックス株式会社」- 京都府京都市、不動産業向けウェブマーケティング事業）が多数表示されました。これらは異なる会社です。
-
-### 類似名称の別会社について
-- **会社名**: アイティーレックス株式会社
-- **所在地**: 京都府京都市
-- **事業内容**: 不動産業向けWebマーケティング、ホームページ制作
-- **ウェブサイト**: https://it-rex.jp/
+**Estimated Service Areas:**
+- Financial systems
+- Enterprise business systems
+- Web applications
+- Infrastructure construction
 
 ---
 
-## 9. サマリー (Summary)
+## 7. Company Philosophy and Culture
 
-### 企業概要
-株式会社アイティーレックス（IT-Lex Co., Ltd.）は、神奈川県横浜市西区のみなとみらいエリアにある横浜ランドマークタワー14階にオフィスを構えるIT企業です。
+| Item | Details |
+|------|---------|
+| **Corporate Philosophy** | Not disclosed |
+| **Management Policy** | Not disclosed |
+| **Corporate Vision** | Not disclosed |
+| **Culture** | Not disclosed |
 
-### 事業内容
-- **受託開発ソフトウェア**: 顧客からの委託によるソフトウェア開発
-- **SES（システムエンジニアリングサービス）**: IT技術者の派遣・供給事業
-
-### 特徴
-- 横浜の代表的なオフィスエリアであるランドマークタワーに拠点を置く
-- 新卒採用・中途採用の両方を実施している
-
-### 情報の限界について
-**重要な制約事項:**
-1. 会社の公式ウェブサイト（http://www.itlex.co.jp）にアクセスできませんでした
-2. Web検索で詳細な企業情報が見つかりませんでした
-3. 検索結果には類似名称の別会社（京都のアイティーレックス株式会社）が多く表示されました
-4. 資本金、従業員数、設立年、企業理念などの基本情報が公開されていない可能性があります
-
-### 推測される企業規模
-SES事業と受託開発を行っていることから、中小規模のIT企業と推測されます。横浜ランドマークタワーへの入居は、一定の企業規模と安定性を示唆しています。
+**Note:** Information about corporate philosophy and culture is not publicly available.
 
 ---
 
-## データ収集日
-- **分析日**: 2026年3月30日
-- **情報源**: Web検索（公開情報）
-- **ステータス**: 限定情報のみ利用可能
+## 8. Media Mentions
 
-## 推奨事項
-より詳細な企業情報を取得するには、以下の方法を検討してください：
-1. 会社への直接問い合わせ
-2. 登記簿謄本の取得
-3. 帝国データバンクや東京商工リサーチなどの信用調査機関の利用
-4. 求人サイトでの採用情報確認
+No media coverage was found for IT-Lex Co., Ltd. (Yokohama Landmark Tower 14F) from public sources.
+
+**Not found in searches:**
+- News articles
+- Press releases
+- Industry media features
+- TV/radio appearances
+
+**Note:** Search results frequently showed a similarly-named but different company ("アイティーレックス株式会社" based in Kyoto, providing web marketing for the real estate industry). These are separate entities.
+
+---
+
+## 9. Summary
+
+### Company Overview
+IT-Lex Co., Ltd. is an IT company with offices on the 14th floor of Yokohama Landmark Tower in the Minatomirai area of Nishi-ku, Yokohama, Kanagawa.
+
+### Business Activities
+- **Contract Software Development:** Software development commissioned by clients
+- **SES (System Engineering Service):** IT engineer dispatch and supply business
+
+### Characteristics
+- Located in Yokohama's representative office area, Landmark Tower
+- Conducts both new graduate and mid-career recruitment
+
+### Information Limitations
+**Important Constraints:**
+1. The company's official website (http://www.itlex.co.jp) was inaccessible
+2. Detailed company information could not be found through web searches
+3. Search results frequently showed a similarly-named different company (IT-Lex Inc. in Kyoto)
+4. Basic information such as capital, employees, founding year, and corporate philosophy may not be publicly available
+
+### Estimated Company Size
+Given the SES and contract development business, the company is estimated to be a small-to-medium IT enterprise. Office location in Yokohama Landmark Tower suggests a certain level of company scale and stability.
+
+---
+
+*Analysis Date: March 30, 2026*
+*Sources: Web search (public information)*
+*Status: Limited information only available*
