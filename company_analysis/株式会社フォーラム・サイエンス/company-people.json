@@ -1,0 +1,52 @@
+{
+  "company": {
+    "name_jp": "株式会社フォーラム・サイエンス",
+    "name_en": "フォーラム・サイエンス",
+    "website": "https://www.forum-science.co.jp/"
+  },
+  "people": [
+    {
+      "name": "代表取締役",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E8%AA%A0-%E4%BC%8A%E8%97%A4-5619b874",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "を募集しています",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "資格",
+      "title": "プログラマー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "・オペレーター",
+      "title": "プログラマー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "代表取締役",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E8%AA%A0-%E4%BC%8A%E8%97%A4-5619b874",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

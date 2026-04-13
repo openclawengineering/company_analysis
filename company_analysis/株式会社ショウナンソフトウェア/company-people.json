@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name_jp": "株式会社ショウナンソフトウェア",
+    "name_en": "ショウナンソフトウェア",
+    "website": "https://www.ssw-nw.co.jp/service_mobile/"
+  },
+  "people": [
+    {
+      "name": "常駐型支援サービスです",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "齋藤",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E9%82%A6%E5%85%AC-%E9%BD%8B%E8%97%A4-21646923a",
+      "twitter": "https://x.com/saitoryu616",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大橋",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E5%8D%93%E5%8B%99-%E5%A4%A7%E6%A9%8B-65b9a0321",
+      "twitter": "https://x.com/search?q=%23%E5%A4%A7%E6%A9%8B%E5%92%8C%E4%B9%9F",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金子",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "Saito)",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "齋藤",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E9%82%A6%E5%85%AC-%E9%BD%8B%E8%97%A4-21646923a",
+      "twitter": "https://x.com/saitoryu616",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大橋",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E5%8D%93%E5%8B%99-%E5%A4%A7%E6%A9%8B-65b9a0321",
+      "twitter": "https://x.com/search?q=%23%E5%A4%A7%E6%A9%8B%E5%92%8C%E4%B9%9F",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

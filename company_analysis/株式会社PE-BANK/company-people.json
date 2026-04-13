@@ -1,0 +1,91 @@
+{
+  "company": {
+    "name_jp": "株式会社PE-BANK",
+    "name_en": "PE-BANK",
+    "website": "https://pe-bank.co.jp/company/companyprofile/"
+  },
+  "people": [
+    {
+      "name": "の方へ",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "の方へTOP",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "エージェント事業",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "派遣",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "向けセミナー事業",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "向け福利厚生事業",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "髙田",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "常務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "齋藤",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "柘植",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-04-10"
+}

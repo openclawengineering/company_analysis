@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name_jp": "株式会社ネオ・システム",
+    "name_en": "ネオ・システム",
+    "website": "https://www.neosystem.co.jp/company/"
+  },
+  "people": [
+    {
+      "name": "深味",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%91%B3-0aa4b721a",
+      "twitter": "https://x.com/somishokuhin",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E5%BF%97%E6%A0%B9-%E8%97%8D-334802257",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "深味洋介（Fukami",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%91%B3-0aa4b721a",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "土井伴治（Doi",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E4%BC%B4%E6%B2%BB-%E5%9C%9F%E4%BA%95-355058a0",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金井幸太（Kanai",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/UtaKanai?lang=ja",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山中幹（Yamanaka",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "2022年12月",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "2024年11月",
+      "title": "副社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "（現任）",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山中",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "深味",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%91%B3-0aa4b721a",
+      "twitter": "https://x.com/somishokuhin",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "代表者",
+      "linkedin": "https://jp.linkedin.com/in/%E5%BF%97%E6%A0%B9-%E8%97%8D-334802257",
+      "twitter": "https://x.com/yohei_miyauchi",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "深味洋介（Fukami",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%91%B3-0aa4b721a",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "土井伴治（Doi",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E4%BC%B4%E6%B2%BB-%E5%9C%9F%E4%BA%95-355058a0",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金井幸太（Kanai",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": "https://x.com/UtaKanai?lang=ja",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

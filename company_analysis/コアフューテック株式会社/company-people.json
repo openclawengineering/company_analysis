@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name_jp": "コアフューテック株式会社",
+    "name_en": "コアフューテック",
+    "website": "https://www.corefutec.co.jp/company/company-profile/"
+  },
+  "people": [
+    {
+      "name": "松本正己",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E6%AD%A3%E5%B7%B1-%E6%9D%BE%E6%9C%AC-a406812a3",
+      "twitter": "https://x.com/matsutax133381/with_replies",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長坂",
+      "title": "取締役",
+      "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
+      "twitter": "https://x.com/ryohei0817",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "に長坂厚が就任",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "松本正己",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "松本正己",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E6%AD%A3%E5%B7%B1-%E6%9D%BE%E6%9C%AC-a406812a3",
+      "twitter": "https://x.com/matsutax133381/with_replies",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長坂",
+      "title": "取締役",
+      "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
+      "twitter": "https://x.com/ryohei0817",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "に長坂厚が就任",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

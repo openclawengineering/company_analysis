@@ -1,0 +1,52 @@
+{
+  "company": {
+    "name_jp": "ソリューション・ラボ・ジャパン株式会社",
+    "name_en": "ソリューション・ラボ・ジャパン",
+    "website": "https://www.slj-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "あいさつ",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "リング",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "に向けたILE",
+      "title": "プログラマー",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "社長",
+      "title": "会社概要TOP",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "あいさつ",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

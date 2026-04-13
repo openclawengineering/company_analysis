@@ -1,0 +1,108 @@
+{
+  "company": {
+    "name_jp": "株式会社ユーソフト",
+    "name_en": "ユーソフト",
+    "website": "https://usoft.co.jp/aboutus/"
+  },
+  "people": [
+    {
+      "name": "会長",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/takayuki-uchida-732b51137",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "瀬川",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/y-segawa-7645a5112",
+      "twitter": "https://x.com/segu0425",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "専務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "森下",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "リング部門を設立",
+      "title": "エンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "に平川学が就任",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "に服巻弘晃が就任",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "に瀬川篤也が就任",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役",
+      "title": "役員構成",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "哲也",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "会長",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/takayuki-uchida-732b51137",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "瀬川",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/y-segawa-7645a5112",
+      "twitter": "https://x.com/segu0425",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}

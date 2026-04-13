@@ -1,0 +1,92 @@
+{
+  "company": {
+    "name_jp": "株式会社新日本コンピュータサービス",
+    "name_en": "新日本コンピュータサービス",
+    "website": "https://www.sncs.co.jp/about/"
+  },
+  "people": [
+    {
+      "name": "挨拶",
+      "title": "社長",
+      "linkedin": "https://jp.linkedin.com/in/tsutomu-nishino-1150a3188",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "本田",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/satoshihonda",
+      "twitter": "https://x.com/Honda/with_replies",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "取締役",
+      "title": "常務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "顧問",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/tsutomu-nishino-1150a3188",
+      "twitter": "https://x.com/artvast",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "壬生",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "社長",
+      "title": "会社概要",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "代表取締役社長",
+      "title": "役員構成",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "挨拶",
+      "title": "社長",
+      "linkedin": "https://jp.linkedin.com/in/tsutomu-nishino-1150a3188",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "本田",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/satoshihonda",
+      "twitter": "https://x.com/Honda/with_replies",
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "顧問",
+      "title": "取締役",
+      "linkedin": "https://jp.linkedin.com/in/tsutomu-nishino-1150a3188",
+      "twitter": "https://x.com/artvast",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-10"
+}
