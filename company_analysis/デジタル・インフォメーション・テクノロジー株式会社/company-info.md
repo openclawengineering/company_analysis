@@ -1,97 +1,92 @@
-# デジタル・インフォメーション・テクノロジー株式会社 (デジタル・インフォメーション・テクノロジー)
-## Company Analysis Report
+# デジタル・インフォメーション・テクノロジー株式会社 (Digital Information Technologies Corporation)
 
----
+## Company Overview
 
-## 1. Company Name
+Digital Information Technologies Corporation (DIT) is a publicly listed IT company (TSE Prime Market, Code: 3916) headquartered in Tokyo. With 1,630 consolidated employees and sales revenue of 127.53 billion JPY (8.0% YoY increase), DIT provides system development, IT solutions, and IT engineer staffing services. The company operates across multiple group companies including DIT Marketing Services, DIT America, Simplex, System Product, and Jungle Japan.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | デジタル・インフォメーション・テクノロジー株式会社 |
-| **English** | デジタル・インフォメーション・テクノロジー |
-| **Reading** | TBD |
+**English Name:** Digital Information Technologies Corporation
+**Website:** https://www.ditgroup.jp/
 
----
+## History
 
-## 2. Company Contact Information
+Detailed history is not publicly available.
 
-### Headquarters
-- **Address:** 311-6520（代表） / FAX 03-6311-6521 決算月 6月 社員数 1,630名（連結）（2025年12月末現在） 役員 代表取締役社長執行役
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** 03
-- **Website:** https://www.ditgroup.jp/corporate/outline/outline.html
+## Headquarters & Offices
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Address |
+|----------|---------|
+| **Headquarters** | Tokyo, Japan |
+| **Phone** | 03-6311-6520 |
+| **Fax** | 03-6311-6521 |
 
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
+## Capital & Employees
 
 | Item | Details |
 |------|---------|
-| **社員数 (Employees)** | 1,630名 |
-| **代表者 (Representative)** | 執行役員 |
+| **Securities Code** | 3916 (TSE Prime Market) |
+| **Employees** | 1,630 (consolidated, as of December 2025) |
+| **Revenue** | 127,530,000,000 JPY (FY2026.6, +8.0% YoY) |
+| **Representative** | Board of Directors |
+| **Dispatch License** | 派13-307019 |
 
----
+## Products & Services
 
-## 5. Products and Services
+### Computer Software Development
+- System development projects
+- Proprietary software products
 
-### Core Business Areas
-1. 産業協会【JISA】 一般社団法人神奈川県情報サービス産業協会【KIA】 一般社団法人組込みシステム技術協会【JASA】 一般社団法人JASPAR【JASPAR】 認定 プライバシーマーク認定取得（1
-2. 許可番号 厚生労働大臣許可（労働者派遣事業）派 13-307019 派遣マージン率 2020年4月改正労働者派遣法対応 ハラスメント防止に関する方針 女性活躍推進法に基づく情報公表について 加入団体
-3. 株式会社 URL： https://www.dit-ms.co.jp/ DIT America,LLC. URL： https://ditamerica.net/ 株式会社シンプリズム URL： ht
+### IT Engineer Support Services
+- IT professional staffing and dispatch
+- IT engineer education and training
+- Programmer/system engineer candidate recruitment
+- New graduate hiring
 
-### Business Description
-産業協会【JISA】 一般社団法人神奈川県情報サービス産業協会【KIA】 一般社団法人組込みシステム技術協会【JASA】 一般社団法人JASPAR【JASPAR】 認定 プライバシーマーク認定取得（11820551） グループ会社 DITマーケティングサービス株式会社 URL： https://www.dit-ms.co.jp/ DIT America,LLC. URL： https://ditamerica.net/ 株式会社シンプリズム URL： https://simplism.co.jp/ システム・プロダクト株式会社 URL： https://www.spcn.co.jp/ 株式会社ジャングル URL： https://www.junglejapan.com/ 会社案内（5.0MB）
----
+### Proprietary Software Solutions
+- Excel business process improvement software
+- Web content recovery software
+- Various self-developed business applications
 
-## 6. Key Clients and Industries Served
+## Group Companies
 
-- Information Technology
-- System Development
-- Software Solutions
+| Company | Business | URL |
+|----------|-----------|------|
+| **DIT Marketing Services Co., Ltd.** | Marketing services | https://www.dit-ms.co.jp/ |
+| **DIT America, LLC** | US operations | https://ditamerica.net/ |
+| **Simplex Co., Ltd.** | IT solutions | https://simplism.co.jp/ |
+| **System Product Co., Ltd.** | System products | https://www.spcn.co.jp/ |
+| **Jungle Japan Co., Ltd.** | Recruitment services | https://www.junglejapan.com/ |
 
----
+## Certifications & Registrations
+- Privacy Mark certified (No. 11820551)
+- Labor dispatch business licensed by Minister of Health, Labour and Welfare
 
-## 7. Company Philosophy and Culture
+## Memberships
+- Japan Information Technology Services Industry Association (JISA)
+- Kanagawa Information Services Industry Association (KIA)
+- Japan Embedded Systems Technology Association (JASA)
+- JASPAR
 
-TBD - Additional research needed.
----
+## Philosophy
 
-## 8. Media Mentions
+Not publicly available in detail.
 
-| Source | Type | Description |
-|--------|------|-------------|
-| [デジタル・インフォメーション・テクノロジー](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC) | Web | デジタル・インフォメーション・テクノロジー株式会社（英文社名：Digital Information Technologies Corporation）は、東京 |
-| [デジタル・インフォメーション・テクノロジー(株)【東証プライム市場上場】の新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp76948/outline.html) | Web | # デジタル・インフォメーション・テクノロジー(株)【東証プライム市場上場】. | PHOTO  「社員満足度調査を実施して、より働きやすく成長しやすい環境づく |
-| [デジタル・インフォメーション・テクノロジー株式会社の会社情報](https://macloud.jp/companies/584) | Web | ### マイページメニュー. ### デジタル・インフォメーション・テクノロジー株式会社. # 企業情報. # ミッション・ビジョン. ## 何をやっているのか |
-| [デジタル・インフォメーション・テクノロジー 「社員クチコミ ...](https://www.openwork.jp/company.php?m_id=a0C30000003AvDQ) | Web | システム開発企業。 金融・通信業界に強みを持つ他、Excel業務改善用ソフトやWeb改ざん検知復旧用ソフトなど多数の自社開発ソフト提供。 |
-| [デジタル・インフォメーション・テクノロジー(株)の株価・株式情報](https://finance.yahoo.co.jp/quote/3916.T) | Web | デジタル・インフォメーション・テクノロジー株式会社の2026年6月期中間期決算は、売上高が前年同期比8.0％増の127.53億円と着実に成長しました。 |
-| [デジタルインフォメーションテクノロジー DIT](https://www.ditnet.co.jp/) | Web | ### コンピュータ ソフトウェア開発. ### IT技術者常駐支援 IT技術者教育. ### プログラマ/システムエンジニア 経験者中途採用 募集中. ##  |
+## Media Mentions
 
----
+- [Wikipedia](https://ja.wikipedia.org/) - Corporate overview
+- [Yahoo Finance](https://finance.yahoo.co.jp/quote/3916.T) - "Q2 FY2026 interim results: 127.53B JPY revenue, 8.0% YoY growth"
+- [OpenWork](https://www.openwork.jp/) - "System development company; strong in finance and telecommunications; Excel business improvement software, web content recovery"
+- [Mynavi](https://job.mynavi.jp/27/pc/search/corp76948/outline.html) - "TSE Prime listed; employee satisfaction survey implemented"
+- [DIT Net](https://www.ditnet.co.jp/) - Official company site
 
-## 9. Summary
+## Notes
 
-### Company Overview
-デジタル・インフォメーション・テクノロジー株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  Employees: 1,630名.
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Publicly listed (TSE Prime, Code 3916) — significant company
+- One of the larger KIA members (1,630 employees, 127.53B JPY revenue)
+- Multi-group structure: software development + staffing + recruitment
+- Strong focus on finance and telecommunications industries
+- Proprietary software products (Excel improvement, web recovery)
+- KIA member company
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*

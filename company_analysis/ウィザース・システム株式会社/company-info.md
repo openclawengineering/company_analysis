@@ -1,93 +1,65 @@
-# ウィザース・システム株式会社 (ウィザース・システム)
-## Company Analysis Report
+# ウィザース・システム株式会社 (WithEarth System Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+WithEarth System Inc. is an IT solutions company headquartered in Kanagawa Prefecture, Japan. The company specializes in factory and plant control/monitoring system software development, as well as business application design through operation. WithEarth is a member of the WithEarth group, providing comprehensive system development, construction, and consulting services.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | ウィザース・システム株式会社 |
-| **English** | ウィザース・システム |
-| **Reading** | TBD |
+**Website:** https://withearth-system.com/
 
----
+## History
 
-## 2. Company Contact Information
+Detailed history is not publicly available.
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://withearth-system.com/about.html
+## Headquarters & Offices
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+| Location | Details |
+|----------|---------|
+| **Headquarters** | Kanagawa Prefecture, Japan |
 
----
+## Capital & Employees
 
-## 3. Company History & Milestones
+Details not publicly available.
 
-| Date | Event |
-|------|-------|
+## Products & Services
 
----
+### Factory & Plant Systems
+- Control system software development
+- Monitoring system software development
+- Manufacturing IT solutions
 
-## 4. Capital and Employee Count
+### Business Applications
+- Business application system design through operation
+- Existing system review
+- Business reform support
+- System consulting
 
-| Item | Details |
-|------|---------|
-| **代表者 (Representative)** | 自ら現場にて業務を遂行す |
+### Core Strengths
+- Control and monitoring systems for industrial facilities
+- End-to-end business application services
 
----
+## Philosophy
 
-## 5. Products and Services
+"WithEarth Mind" — In today's rapidly changing information society, always presenting an accurate vision, establishing strategies to achieve that vision, and practicing those strategies with conviction.
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+### Core Values
+- Accurate vision
+- Strategic planning
+- Consistent execution
 
-## 6. Key Clients and Industries Served
+## Media Mentions
 
-- Information Technology
-- System Development
-- Software Solutions
+- [Buffett Code](https://www.buffett-code.com/) - "IT solution company handling control/monitoring system software development for factories and plants; business application design through operation"
+- [FROM40](https://www.from-40.jp/) - "40s and 50s mid-career job change FROM40; part of WithEarth group"
+- [En-Hyouban](https://en-hyouban.com/company/10201159154/) - Employee reviews
+- [doda](https://doda.jp/) - Mid-career recruitment
+- [OpenWork](https://www.openwork.jp/) - "System development, construction, and consulting; existing system review, business reform support"
 
----
+## Notes
 
-## 7. Company Philosophy and Culture
-
-・経営方針 会社概要 プライバシーポリシー Our Service Recruit 人材観・求める資質 社員紹介 募集要項 Contact &copy; withearth system Inc. All Rights Reserved. HOME About Us 当社について 役員紹介 Company 会社理念・経営方針 会社概要 プライバシーポリシー Our Service Recruit 人材観・求める資質 社員紹介 募集要項 Contact WITHEARTH Mind この変化の激しい情報化社会において、常に的確なビジョンを掲げ、そのビジョンを達成するがための戦略を立て実践する。そ
----
-
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| [ウィザース・システム株式会社 の企業情報](https://www.buffett-code.com/company/90ahwm1j05/) | Web | ウィザース・システム株式会社は、工場やプラント向けの制御・監視システムのソフトウェア開発と業務アプリケーションの設計から運用までを手がけるITソリューション |
-| [ウィザース・システム株式会社](https://www.from-40.jp/companies/1315) | Web | 1. 40代 50代 ミドル転職のFROM40 ホーム. # ウィザース・システム株式会社. ## ウィザース・システム株式会社. 弊社はWithEarthの精 |
-| [ウィザース・システム株式会社の転職・企業概要](https://doda.jp/DodaFront/View/Company/j_id__10095845876/) | Web | あなたの登録情報（職種・勤務地など）と求人企業が設定した応募歓迎条件が合致すると求人に「マッチングしやすいおすすめ求人 ※1」と表示されることがあります。. あ |
-| [ウィザース・システム株式会社](https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2021001038463) | Web | 経済産業省が提供する gBizINFO(Gビズインフォ) は、政府保有の法人情報を法人番号に紐づけてデータ整理を行い、２次利用可能なオープンデータとして情報提供 |
-| [ウィザース・システムの評判・口コミ](https://en-hyouban.com/company/10201159154/) | Web | # ウィザース・システム株式会社の評判・口コミ - エン カイシャの評判. 回答者： 男性/ 企画・事務・管理系（経営企画、広報、人事、事務 他）/ 現職（回答 |
-| [ウィザース・システムの「経営者への提言」 OpenWork](https://www.openwork.jp/company_answer.php?m_id=a0C10000014ewPk&q_no=10) | Web | ウィザース・システム株式会社 経営者への提言 ... 各種システムの開発・構築や、コンサルティングを行う企業。既存システムの見直し、業務改革サポートやシステムの |
-
----
-
-## 9. Summary
-
-### Company Overview
-ウィザース・システム株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
+- Specializes in factory/plant control and monitoring systems
+- Part of WithEarth group
+- KIA member company
 
 ---
 
 *Report generated: April 2026*
-*Data sources: Company website, Tavily search*
