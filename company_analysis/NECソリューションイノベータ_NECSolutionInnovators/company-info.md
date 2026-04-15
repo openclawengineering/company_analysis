@@ -1,194 +1,101 @@
-# NECソリューションイノベータ株式会社 (NEC Solution Innovators, Ltd.)
+# NECソリューションイノベータ株式会社（NEC Solution Innovators, Ltd.）
 
-## 1. Company Name
+## 企業概要
 
-**Japanese:** NECソリューションイノベータ株式会社  
-**English:** NEC Solution Innovators, Ltd.  
-**Parent Company:** NEC Corporation (NECグループ)
+NECソリューションイノベータ株式会社は、NECグループの社会ソリューション事業を担う中核企業として、約12,000名の従業員を擁する国内最大級のソフトウェア企業である。技術力とドメインナレッジを強みに、官公庁・自治体をはじめ医療、製造、流通、金融、通信など日本のほぼ全産業にソリューションを提供するシステムインテグレータである。
 
----
+1975年の創立以来、約50年にわたり社会インフラから身近なシステムまで、先進技術を駆使して創り出してきた。2014年にはNECグループ内のソフトウェア会社7社が統合し、現在の体制となった。
 
-## 2. Company Contact Information
+**ウェブサイト:** [https://www.nec-solutioninnovators.co.jp](https://www.nec-solutioninnovators.co.jp)
 
-**Headquarters Address:**  
-〒220-0004  
-神奈川県横浜市西区北幸2-9-18  
-横浜西口NKビル6F  
-Japan
+## 沿革
 
-**Website:** https://www.nec-si.co.jp/  
-*Note: Website accessibility could not be verified at time of analysis*
+- 1975年9月9日 - 創立
+- 2014年4月1日 - NECグループ内ソフトウェア会社7社統合、NECソリューションイノベータ発足
+- 現在 - 従業員数約12,000名、全国約40拠点の体制で事業展開
 
-**Recruitment:**
-- 新卒採用 (New Graduate Recruitment)
-- 中途採用 (Mid-Career Recruitment)
+## 資本金・従業員数
 
----
+| 項目 | 内容 |
+|------|------|
+| 従業員数 | 約12,000名 |
+| デジタル領域人材 | 3,790名 |
+| 創立 | 1975年9月9日 |
+| 発足 | 2014年4月1日 |
+| 代表取締役社長 | 岩井 孝夫 |
+| 取締役会長 | 石井 力 |
+| 親会社 | NEC株式会社（NECグループ） |
+| 拠点数 | 全国約40か所 |
 
-## 3. Company History & Milestones
+## 事業内容
 
-**Note:** Due to technical limitations accessing the company website, detailed historical information could not be retrieved. As a member of the NEC Group, the company likely:
+### 受託開発ソフトウェア
+- エンタープライズクライアント向けカスタムソフトウェア開発
+- システムインテグレーション・開発プロジェクト
+- アプリケーション開発サービス
 
-- Was established as part of NEC's software development and solutions division
-- Has evolved to focus on specialized software development and IT services
-- Serves as a key technology partner within the NEC ecosystem
+### パッケージソフトウェア
+- 既製ソフトウェアソリューション
+- 業種別ソフトウェアパッケージ
+- ビジネスアプリケーションスイート
 
-**Recommended Verification:**
-- Visit the company website directly for detailed company history
-- Check NEC Corporation's annual reports for subsidiary information
-- Search Japanese business registries for establishment date
+### 組み込みソフトウェア
+- ファームウェア開発
+- 組み込みシステムプログラミング
+- IoTデバイスソフトウェア
+- 産業機器用ソフトウェア
 
----
+### 情報処理サービス
+- データ処理・管理
+- ビジネスプロセスアウトソーシング
+- ITインフラサービス
 
-## 4. Capital and Employee Count
+### ネットワーク・通信関連
+- ネットワークシステム開発
+- 通信プロトコル実装
+- 通信ソフトウェア
+- ネットワークインフラソリューション
 
-**Note:** Specific figures could not be retrieved due to website access issues.
+### SES（システムエンジニアリングサービス）
+- 技術スタッフ・エンジニアリングサポート
+- システム設計・アーキテクチャ
+- 技術コンサルティング
 
-**Typical NEC Subsidiary Profile:**
-- NEC subsidiaries typically range from several hundred to several thousand employees
-- Capital typically ranges from tens to hundreds of millions of yen
-- For accurate figures, please verify with:
-  - Company website
-  - Japanese corporate registry (登記簿謄本)
-  - NEC Group financial reports
+### クラウド・デジタルソリューション
+- クラウドソリューション・モダナイゼーション
+- システム基盤ソリューション
+- 基盤ソフトウェア開発
+- AI・デジタルテクノロジーを活用した研究開発
 
----
+## 売上構成
 
-## 5. Products and Services
+| 事業領域 | 割合 |
+|----------|------|
+| 官公庁 / 自治体 / 医療 / 通信業 | 35% |
+| プラットフォーム / デジタル関連 | 17% |
+| 製造・プロセス業 / 流通・サービス業 / 金融業 | 27% |
+| その他 | 21% |
 
-Based on the business fields specified:
+## 主要取引先
 
-### 受託開発ソフトウェア (Contract Software Development)
-- Custom software development for enterprise clients
-- System integration and development projects
-- Application development services
+官公庁・自治体、医療機関、通信事業者、製造業、流通・サービス業、金融機関など日本のほぼ全産業
 
-### パッケージソフトウェア (Package Software)
-- Ready-made software solutions
-- Industry-specific software packages
-- Business application suites
+## 企業理念
 
-### 組み込みソフトウェア (Embedded Software)
-- Firmware development
-- Embedded systems programming
-- IoT device software
-- Industrial equipment software
+NECグループのPurposeに基づき、「NECソリューションイノベータ 2030Vision」の実現に取り組む。技術力とドメインナレッジを強みにお客様・社会の課題解決に挑戦する。
 
-### 情報処理サービス (Information Processing Services)
-- Data processing and management
-- Business process outsourcing
-- IT infrastructure services
+**サステナビリティ:**
+- 6つの重要課題（マテリアリティ）を設定
+- バイオテクノロジー、心理学などの人間理解とAI・デジタルテクノロジーを組み合わせた研究開発
 
-### ネットワーク・通信関連 (Network & Communications)
-- Network system development
-- Communication protocol implementation
-- Telecommunications software
-- Network infrastructure solutions
+## 研究開発
 
-### SES (System Engineering Services)
-- Technical staffing and engineering support
-- System design and architecture
-- Technical consulting
+バイオテクノロジー、心理学などの人間理解を軸とした領域とAI・デジタルテクノロジーを組み合わせた研究開発を推進している。
 
----
+## メディア掲載
 
-## 6. Key Clients and Industries Served
-
-**Note:** Client information could not be retrieved from website.
-
-**Likely Industries (based on NEC Group focus):**
-- Government and Public Sector
-- Financial Services
-- Telecommunications
-- Manufacturing
-- Healthcare
-- Infrastructure and Utilities
-- Transportation
-
-**Typical NEC Subsidiary Client Profile:**
-- Large Japanese corporations
-- Government agencies
-- Public institutions
-- Financial institutions
+- [NECソリューションイノベータ 公式サイト](https://www.nec-solutioninnovators.co.jp)
+- [企業情報](https://www.nec-solutioninnovators.co.jp/company/index.html)
 
 ---
-
-## 7. Company Philosophy and Culture
-
-**Note:** Philosophy and culture information could not be retrieved from website.
-
-**Expected Alignment with NEC Group Values:**
-- NEC Group Mission: "To create value through solutions that leverage advanced technologies"
-- Focus on innovation and technological excellence
-- Customer-centric approach
-- Commitment to social responsibility
-
-For accurate philosophy and culture information, please refer to the company's official website or recruitment materials.
-
----
-
-## 8. Media Mentions
-
-**Search Status:** Web search functionality was unavailable at time of analysis.
-
-**Recommended Search Terms for Media Coverage:**
-- "NECソリューションイノベータ" (Japanese)
-- "NEC Solution Innovators" (English)
-- "NECグループ" + "ソフトウェア開発"
-- Check Japanese tech news sites:
-  - [ITmedia](https://www.itmedia.co.jp/)
-  - @IT
-  - 日経XTREND
-  - CIO Japan
-  - Watch Impress
-
-**Suggested Search Periods:**
-- Recent project announcements
-- Partnership news
-- Technology releases
-- Recruitment initiatives
-- Industry awards and recognition
-
----
-
-## 9. Summary
-
-NECソリューションイノベータ株式会社 (NEC Solution Innovators, Ltd.) is a software development and IT services company headquartered in Yokohama, Japan, operating as part of the NEC Group. The company specializes in:
-
-- **Contract software development**
-- **Package software solutions**
-- **Embedded software systems**
-- **Information processing services**
-- **Network and communications technology**
-- **System engineering services (SES)**
-
-Located in Yokohama's Nishi-ku district, the company maintains active recruitment programs for both new graduates and mid-career professionals, indicating ongoing growth and project demand.
-
-**Key Characteristics:**
-- NEC Group subsidiary with access to parent company resources and client base
-- Comprehensive software development capabilities across multiple domains
-- Focus on enterprise and government clients
-- Active in embedded systems and network technologies
-- Positioned in the Yokohama business district, a major tech hub
-
-**Data Collection Limitations:**
-This analysis was conducted with limited web access. The following information could not be retrieved:
-- Detailed company history and establishment date
-- Exact capital and employee count
-- Specific client list and case studies
-- Company philosophy and mission statement
-- Recent media coverage and news
-- Executive leadership details
-
-**Recommendations for Complete Analysis:**
-1. Direct website visit: https://www.nec-si.co.jp/
-2. Contact company directly for corporate materials
-3. Search Japanese business databases (帝国データバンク, 東京商工リサーチ)
-4. Review NEC Corporation annual reports for subsidiary information
-5. Check LinkedIn and Japanese recruitment sites for employee insights
-
----
-
-*Analysis Date: 2026-03-30*  
-*Data Sources: Company information provided, NEC Group knowledge base*  
-*Note: Due to technical limitations, some data could not be verified from primary sources*
+*出典: [NECソリューションイノベータ株式会社 公式サイト](https://www.nec-solutioninnovators.co.jp)*

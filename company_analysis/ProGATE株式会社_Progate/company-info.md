@@ -1,98 +1,101 @@
-# ProGATE株式会社 (Progate Corporation)
+# ProGATE株式会社（ProGATE Co., Ltd.）
 
-## Overview
+## 企業概要
 
-Progate is an online programming learning platform designed to help people learn to code and become creative developers. The platform provides a comprehensive learning experience with illustrative slides, hands-on coding environments, and directed learning paths.
+ProGATE株式会社は、1977年に横須賀市に創業したIT企業である。社名は「繁栄のため（Prosper）、最新の技術を取り込みながら、温故知新の精神（Tradition）を大切にして、本物（Genuine）の前進（Advance）、進化（Evolution）を目指す」という目標を掲げ、これら単語の頭文字を並び替えて命名された。
 
-**Website:** https://progate.com | https://prog-8.com
+YRP（横須賀リサーチパーク）を拠点に、DX、5G、IoT、AIなどのテクノロジーを活用し、地球環境にも配慮した新たなITライフスタイルをデザインする。安心・安全な子供たちの未来につながるデジタル社会の実現に寄与することを理念に掲げている。
 
-**Tagline:** "Learn to code, learn to be creative."
+**ウェブサイト:** [https://www.pro-g.co.jp](https://www.pro-g.co.jp)
 
-## History
+## 沿革
 
-Progate was founded with the mission to make programming education accessible to everyone. The platform has grown to serve millions of users worldwide, helping beginners transition from learners to creators.
+- 1977年（昭和52年）7月2日 - 横須賀市小川町にて設立（資本金150万円）
+- 1980年（昭和55年）12月 - 横須賀市公郷町に移転
+- 1983年（昭和58年）9月 - 増資（資本金500万円）
+- 1985年（昭和60年）7月 - 横須賀市森崎に移転
+- 1995年（平成7年）9月 - 増資（資本金1,000万円）
+- 2006年（平成18年）4月 - 横須賀市光の丘に移転、特定労働者派遣事業届出
+- 2007年（平成19年）1月 - プライバシーマーク付与認定
+- 2009年（平成21年）3月 - ISO 9001:2008取得、横須賀市よりベンチャー事業認定証授与
+- 2010年（平成22年）3月 - ISO 27001:2005取得
+- 2013年（平成25年）8月 - RebornEXサービス開始
+- 2014年（平成26年）6月 - ネットワークカメラシステム販売開始
+- 2015年（平成27年）4月 - 社内ソフトウェア開発（自社請負業務）開始
+- 2015年（平成27年）11月 - 東京オフィス開設
+- 2017年（平成29年）4月 - 労働者派遣事業認可
+- 2018年（平成30年）3月 - ProGATE株式会社に社名変更、東京オフィスを横須賀本社に統合
+- 2019年（平成31年）3月 - コールセンター業務開始、厚生労働省「ユースエール認定企業」に認定
+- 2020年（令和2年）12月 - 折り畳み式飛沫シールド『Cuるっと！』販売開始
+- 2021年（令和3年）9月 - クラウド型日報管理システム『MACS』リリース、クラウド型体温管理システム『らく温』リリース
+- 2022年（令和4年）12月 - 健康保険組合連合会「健康優良企業 銀の認定」
+- 2025年（令和7年）4月 - 健康経営優良法人2025認定
 
-## Capital
+## 資本金・従業員数
 
-Private company
+| 項目 | 内容 |
+|------|------|
+| 資本金 | 1,000万円 |
+| 従業員数 | 42名（2022年10月現在） |
+| 設立 | 1977年7月2日 |
+| 代表取締役社長 | 田中 僚史 |
+| 本社所在地 | 〒239-0847 神奈川県横須賀市光の丘3番4号 YRPセンター1番館413 |
+| 電話番号 | 046-839-4623 |
 
-## Services
+## 事業内容
 
-### Online Programming Courses
-- **HTML & CSS** - Website building and design fundamentals
-- **JavaScript** - Interactive websites to backend servers
-- **jQuery** - JavaScript library for animations and Ajax
-- **Ruby** - Dynamic general-purpose language for web applications
-- **Ruby on Rails** - Web application framework
-- **PHP** - Server-side language for web development
-- **Java** - Popular language for software and mobile apps
-- **Python** - Data science and machine learning
-- **Command Line** - Essential developer skill
-- **Git** - Version control system
-- **SQL** - Database manipulation language
-- **Sass** - CSS extension
-- **Go** - Google's server-side language
-- **React** - Front-end JavaScript library
-- **Node.js** - JavaScript runtime for server-side applications
-- **Generative AI courses** - AI fundamentals and application development
+### ソフトウェア開発
+- 各種ソフトウェア開発
+- 社内ソフトウェア開発（自社請負業務）
 
-### Learning Features
-- **Illustrative Slides** - Visual representation of concepts
-- **Hands-on Learning** - Full coding environment in browser
-- **Directed Learning** - Optimized lesson progression
-- **Mobile App** - Learn on the go (iOS and Android)
+### サーバ構築・販売
+- 各種サーバの構築、販売
 
-### Pricing Plans
-- **Free Plan** - Access to introductory lessons ($0)
-- **Plus Plan** - Full access to all lessons (~$9.92/month with 12-month plan)
+### ISO関連業務
+- ISOに関わる文書作成及び事務局支援業務
 
-## Clients
+### 自社プロダクト
+- **RebornEX** - 自社開発ソフトウェアサービス
+- **MACS** - クラウド型日報管理システム
+- **らく温** - クラウド型体温管理システム
+- **Cuるっと！** - 折り畳み式飛沫シールド
 
-**User Base:**
-- 3,600,000+ active users
-- Users in 100+ countries worldwide
+## 主要取引先
 
-**Target Audience:**
-- Programming beginners
-- Career changers
-- Students
-- Business professionals
-- Companies seeking employee training
+公開情報なし
 
-## Philosophy
+## 企業理念
 
-**Mission:** "Realize Your Full Creative Potential"
+**経営理念:**
+- Future-oriented（未来志向）
+- Customer Focus（お客様重視）
+- Responding to Diverse Needs（多様なニーズに対応）
+- Our team of professionals（専門チーム）
 
-**Core Values:**
-- Even beginners have the potential to master programming skills
-- Support learners from foundation building to real-world application
-- Provide a learning foundation and ongoing support in the programming world
-- Make programming education accessible to everyone
+**行動指針:**
+- お客様の良きパートナーとして多様なニーズに対応
+- DX、5G、IoT、AIなどのテクノロジーを活用したチームワークで新たなITライフスタイルをデザイン
+- 安心・安全な子供たちの未来につながるデジタル社会の実現に寄与
 
-**Learning Philosophy:**
-- Learn by actually writing code
-- Practice consistently
-- Progress from beginner to creator
-- Apply skills to real-world projects
+## 認証・許可
 
-## Contact
+- プライバシーマーク（登録番号: 10822042）
+- 労働者派遣事業（届出受理番号: 派14-301403）
+- 厚生労働大臣認定 ユースエール認定企業
+- 健康優良企業: 銀の認定（認証番号: 健銀第2294号）
+- 健康経営優良法人2025
 
-**Website:** https://progate.com
+## 加盟団体
 
-**Twitter:** @progateJP
+- YRP情報産業協同組合
+- 神奈川県情報サービス産業協会（KIA）
+- 公益社団法人 横須賀法人会
+- NPO法人 産業クラスター研究会
 
-**Mobile Apps:**
-- iOS: https://itunes.apple.com/app/id1335868128?mt=8
-- Android: https://play.google.com/store/apps/details?id=com.progate
+## メディア掲載
 
-**FAQ:** https://progate.com/faqs
-
-## Media Mentions
-
-- [Success Stories](https://progate.com/success_stories) - Inspiring stories from users who started programming
-- [Available Courses](https://progate.com/courses) - Comprehensive course catalog
-- [Pricing Plans](https://progate.com/plans/for_users) - Detailed plan information
+- [ProGATE株式会社 公式サイト](https://www.pro-g.co.jp)
+- [会社概要](https://www.pro-g.co.jp/company/)
 
 ---
-
-*Last Updated: March 31, 2026*
+*出典: [ProGATE株式会社 公式サイト](https://www.pro-g.co.jp)*

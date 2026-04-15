@@ -1,115 +1,120 @@
-# NTTテクノクロス株式会社 (NTT TechnoCross Corporation)
+# NTTテクノクロス株式会社（NTT TechnoCross Corporation）
 
-## Overview
+## 企業概要
 
-NTTテクノクロス株式会社 (NTT TechnoCross) is a software leading company that provides cutting-edge technology and services. The company leverages research results from NTT laboratories, combined with excellent technologies and products from Japan and abroad, to create new products and services that evolve customers' businesses.
+NTTテクノクロス株式会社は、NTTグループの研究開発成果を活用し、日本国内外の優れた技術や製品と組み合わせることで、お客様のビジネスを進化させる新たな製品・サービスを創出するソフトウェアリーディングカンパニーである。
 
-**Website:** https://www.ntt-tx.co.jp
+「テクノロジーをクロス（融合）させて新たな価値を創造する」という社名の通り、NTT研究所による最先端技術と世の中の多様な技術を組み合わせ、製品・サービスを生み出している。AI、IoT、ビッグデータ、クラウド、セキュリティ、モバイル・コミュニケーションなど幅広い技術領域を展開する。
 
-## History
+**ウェブサイト:** [https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp)
 
-NTT TechnoCross was established as part of the NTT Group to commercialize technologies developed by NTT's research laboratories. The company focuses on bridging the gap between innovative research and practical business applications.
+## 沿革
 
-## Capital
+- 1985年7月2日 - NTTソフトウェア株式会社として設立（NTT研究所等からの移籍・出向メンバー23名でスタート）
+- 1987年6月3日 - NTTアイティ株式会社設立
+- 2017年4月1日 - NTTテクノクロス株式会社発足（両社の技術・製品を統合）
+- 2025年3月期 - 売上高 562億8,800万円
 
-Part of the NTT Group (Nippon Telegraph and Telephone Corporation)
+## 資本金・従業員数
 
-## Services
+| 項目 | 内容 |
+|------|------|
+| 資本金 | 5億円 |
+| 従業員数 | 1,920名（2025年3月末日現在） |
+| 売上高 | 56,288百万円（2025年3月期） |
+| 設立 | 1985年7月2日（NTTソフトウェア）/ 2017年4月1日（NTTテクノクロス発足） |
+| 代表取締役社長 | 岡 敦子 |
+| 本社所在地 | 〒108-8202 東京都港区芝浦3-4-1 グランパークタワー15階 |
+| 電話番号 | 03-5860-2900（代） |
+| 株主 | NTT株式会社 |
 
-### Customer Experience (CX)
-- Voice processing technology
-- AI and data analytics
-- CX improvement solutions
+## 事業内容
 
-### Employee Experience (EX)
-- Support for diverse work styles in aging society
-- Productivity and employee experience enhancement
+### カスタマーエクスペリエンス（CX）
+- 音声処理技術
+- AI・データ分析
+- CX改善ソリューション
 
-### Digital Transformation (DX)
-- Security and internal control solutions
-- Business environment adaptation
+### エンプロイーエクスペリエンス（EX）
+- 多様な働き方の支援
+- 生産性向上・従業員エクスペリエンス向上
 
-### Healthcare & Medical
-- Health management strategy support
-- Medical evolution solutions
-- Regional comprehensive care
+### デジタルトランスフォーメーション（DX）
+- セキュリティ・内部統制ソリューション
+- ビジネス環境への適応支援
 
-### Smart Agriculture
-- AI and IoT technology implementation
-- Labor-saving for farmers
-- High-quality production support
+### ヘルスケア・医療
+- 健康経営戦略支援
+- 医療進化ソリューション
+- 地域包括ケア
 
-### Security
-- 30+ years of security product and service experience
-- Corporate growth support
+### スマートアグリカルチャー
+- AI・IoT技術の実装
+- 農業の省力化
+- 高品質生産支援
+
+### セキュリティ
+- 30年以上のセキュリティ製品・サービス実績
+- 企業の成長支援
 
 ### AI
-- AI technology for massive information utilization
-- Value creation support for businesses
+- 大量情報活用AI技術
+- ビジネスの価値創造支援
 
-### Media
-- Long-term R&D-backed technology
-- Media society corporate activity support
+### メディア
+- 長期的R&Dに裏付けられた技術
+- メディア社会における企業活動支援
 
-### Communication
-- Simple and secure communication services
-- Business growth acceleration
+### コミュニケーション
+- シンプルで安全な通信サービス
+- ビジネス成長加速
 
-### Cloud
-- High-quality cloud utilization proposals
-- Corporate competitiveness improvement
+### クラウド
+- 高品質なクラウド活用提案
+- 企業競争力向上
 
-### Consulting
-- IT utilization support services
+### コンサルティング
+- IT活用支援サービス
 
-## Clients
+## 主要取引先
 
-NTT TechnoCross serves clients across various industries including:
-- Financial services (Chiba Bank Securities)
-- Telecommunications (NTT Docomo Business)
-- Agriculture (Kitayatsu Farm)
-- Various enterprise clients
+金融業界（千葉銀証券）、通信業界（NTTドコモビジネス）、農業（北谷農場）をはじめ、NTTグループ内外の多彩な企業
 
-**Notable Case Studies:**
-- [Chiba Bank Securities - DX Reform](https://www.ntt-tx.co.jp/case/chibagin_2603/)
-- [NTT TechnoCross Internal Case - Cloud Service Operations](https://www.ntt-tx.co.jp/case/ntt-tx/)
-- [Kitayatsu Farm - Smart Agriculture](https://www.ntt-tx.co.jp/case/kitayatufarm_2509/)
-- [NTT Docomo Business - Data Analysis Infrastructure](https://www.ntt-tx.co.jp/case/nttdocomobusiness/)
+**主な導入事例:**
+- [千葉銀証券 - DX改革](https://www.ntt-tx.co.jp/case/chibagin_2603/)
+- [NTTテクノクロス社内事例 - クラウドサービス運用](https://www.ntt-tx.co.jp/case/ntt-tx/)
+- [北谷農場 - スマートアグリカルチャー](https://www.ntt-tx.co.jp/case/kitayatufarm_2509/)
+- [NTTドコモビジネス - データ分析インフラ](https://www.ntt-tx.co.jp/case/nttdocomobusiness/)
 
-## Philosophy
+## 企業理念
 
-**Mission:** "Crossing makes the Future" - To continuously co-create the future with customers
+**ミッション:** "Crossing makes the Future" - お客様と共に未来を共创し続ける
 
-**Values:**
-- Innovation through technology integration
-- Creating new value through connections with various industries and customers
-- Providing pioneering products and services
-- Contributing to a sustainable society
+**価値観:**
+- 技術の融合によるイノベーション
+- 多様な産業・お客様とのつながりによる新価値創造
+- 先駆的な製品・サービスの提供
+- 持続可能な社会への貢献
 
-## Contact
+## 外部認証
 
-**Headquarters:** Tokyo, Japan
+- ISO9001品質マネジメント（JQA-1586）
+- ISO14001環境マネジメント（JQA-EM2855）
+- ISO27001情報セキュリティ（JQA-IM0189）
+- ISO27017クラウドセキュリティ（JQA-IC0138）
+- プライバシーマーク（第11820080号）
 
-**Website:** https://www.ntt-tx.co.jp
+## グループ会社
 
-**Blog:** https://www.ntt-tx.co.jp/column/
+- NTTテクノクロスサービス株式会社（https://www.ntt-txs.co.jp/）
 
-**News:** https://www.ntt-tx.co.jp/whatsnew/
+## メディア掲載
 
-**Events/Seminars:** https://www.ntt-tx.co.jp/event/
-
-**ISO Certifications:**
-- International standard certifications
-- Privacy mark certification
-
-## Media Mentions
-
-- [BizFront/NaviAct Product Launch (March 31, 2026)](https://www.ntt-tx.co.jp/whatsnew/2026/260331.html)
-- [PostgreSQL Cloud Journey Blog](https://www.ntt-tx.co.jp/column/postgresql_blog/260331/)
-- [Generative AI in Contact Centers](https://www.ntt-tx.co.jp/column/260331/)
-- [Child Consultation Center Support System](https://www.ntt-tx.co.jp/column/260330/)
-- [Visual Regression Testing with AI](https://www.ntt-tx.co.jp/column/260326/)
+- [BizFront/NaviAct 製品発表（2026年3月31日）](https://www.ntt-tx.co.jp/whatsnew/2026/260331.html)
+- [PostgreSQL Cloud Journey ブログ](https://www.ntt-tx.co.jp/column/postgresql_blog/260331/)
+- [コールセンターにおける生成AI活用](https://www.ntt-tx.co.jp/column/260331/)
+- [児童相談所支援システム](https://www.ntt-tx.co.jp/column/260330/)
+- [AIによるビジュアルリグレッションテスト](https://www.ntt-tx.co.jp/column/260326/)
 
 ---
-
-*Last Updated: March 31, 2026*
+*出典: [NTTテクノクロス株式会社 公式サイト](https://www.ntt-tx.co.jp)*

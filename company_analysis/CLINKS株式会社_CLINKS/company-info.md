@@ -1,93 +1,99 @@
-# CLINKS株式会社 (CLINKS Corporation)
+# CLINKS株式会社（CLINKS Co., Ltd.）
 
-## Company Overview
+## 企業概要
 
-CLINKS株式会社 is an AI-driven IT company specializing in application development, cloud services, IT engineer dispatching, and AI solutions. The company positions itself as an "AI DRIVEN COMPANY" and actively integrates AI technologies into both internal operations and client solutions.
+CLINKS株式会社は、AIドリブンカンパニーを掲げ、アプリケーション開発、クラウドサービス、ITエンジニア派遣、AIソリューションを展開するIT企業である。社内業務からクライアントソリューションまでAI技術を積極的に活用し、お客様のビジネス変革を支援している。
 
-**Website:** [https://www.clinks.jp](https://www.clinks.jp)
+「想いをカタチへ、カタチを笑顔へ。」を企業メッセージに掲げ、これまでに600社以上の取引先、500件以上のアプリ開発実績、4,000名以上の業界未経験者育成実績を有する。
 
-## History
+**ウェブサイト:** [https://www.clinks.jp](https://www.clinks.jp)
 
-- Over 600 client companies served
-- More than 500 application development projects completed
-- Trained over 4,000 industry newcomers to become ready-to-work professionals
+## 沿革
 
-## Capital & Employees
+- 2002年12月19日 - 設立
+- 600社以上の取引先企業との取引実績
+- 500件以上のアプリケーション開発プロジェクト完了
+- 4,000名以上の業界未経験者から即戦力エンジニアへの育成実績
+- 2024年度売上高 74億円
 
-Information not available.
+## 資本金・従業員数
 
-## Services/Products
+| 項目 | 内容 |
+|------|------|
+| 資本金 | 1,000万円 |
+| 従業員数 | 1,277名（2026年1月時点） |
+| 設立 | 2002年12月19日 |
+| 代表取締役 | 河原 浩介 |
+| 本社所在地 | 〒104-0032 東京都中央区八丁堀1-10-7 TMG八丁堀ビル10F |
+| 電話番号 | 03-6262-8135 |
 
-### AI Solutions
-- **AI Development** - Generative AI system development from small-scale PoC to large-scale development with consulting support
-- **Knowleful Chat (ナレフルチャット)** - Corporate generative AI chat service for secure, closed environments
-- **CLINKS Chat AI** - Customer-facing AI chatbot for corporate website inquiries
-- Generative AI passport certification program for all employees
+## 事業内容
 
-### AI Outsourcing
-- **Engineering Services** - IT engineer dispatching with in-house training
-- **Telework IT Engineering Services** - Remote IT engineer dispatching with ICT environment
-- **SmoothSys (スムシス)** - Information systems outsourcing using latest technology and AI
-- **Training One** - Corporate IT training services
+### AIソリューション
+- **AI開発** - 小規模PoCから大規模開発までの生成AIシステム開発（コンサルティングサポート付き）
+- **Knowleful Chat（ナレフルチャット）** - クローズド環境で安全に利用できる企業向け生成AIチャットサービス
+- **CLINKS Chat AI** - 企業ウェブサイトのお問い合わせ対応AIチャットボット
+- 全社員対象の生成AIパスポート認定制度
 
-### Cloud Construction & Operations
-- **Oracle Cloud Infrastructure** - Cloud design, construction, operation, and maintenance
-- **Infrastructure Building** - High-quality infrastructure construction with expert know-how
-- Cloud operations and maintenance services
+### AIアウトソーシング
+- **エンジニアリングサービス** - 社内研修体制を備えたITエンジニア派遣
+- **テレワークITエンジニアリングサービス** - ICT環境を整えたリモートITエンジニア派遣
+- **SmoothSys（スムシス）** - 最新技術とAIを活用した情報システムアウトソーシング
+- **Training One** - 企業向けIT研修サービス
 
-### System Development & DX Support
-- **Web System Development** - One-stop service from planning to maintenance
-- **Smartphone Application Development** - 500+ projects completed
-- **DX Consulting / AI Engineering** - Digital transformation and AI engineering services
-- **DX Promotion / AI Engineering Services** - Digital data engineering and AI engineering
+### クラウド構築・運用
+- **Oracle Cloud Infrastructure** - クラウド設計、構築、運用、保守
+- **インフラ構築** - 専門的ノウハウによる高品質インフラ構築
+- クラウド運用・保守サービス
 
-### Proprietary Products
-- **Kintai-Cloud (キンクラ)** - Cloud-based attendance management system
-- **ZaiTark** - Telework support tool developed from real telework experience
+### システム開発・DX支援
+- **Webシステム開発** - 企画から保守までワンストップ対応
+- **スマートフォンアプリ開発** - 500件以上のプロジェクト実績
+- **DXコンサルティング / AIエンジニアリング** - デジタルトランスフォーメーションとAIエンジニアリングサービス
+- **DX推進 / AIエンジニアリングサービス** - デジタルデータエンジニアリングとAIエンジニアリング
 
-## Clients
+### 自社プロダクト
+- **Kintai-Cloud（キンクラ）** - クラウド型勤怠管理システム
+- **ZaiTark** - 実際のテレワーク経験から開発されたテレワーク支援ツール
 
-- 600+ contracted companies
-- Various industries requiring digital transformation
-- Companies seeking AI integration
-- Organizations needing IT engineer dispatching
+## 主要取引先
 
-## Philosophy
+600社以上の契約企業。主な取引先包括：
+NTTドコモ、NTT東日本、KDDI、ソフトバンク、NECグループ、日立グループ、富士通、SCSK、パナソニック、キヤノン、三菱電機、伊藤忠グループ、電通、セコム、日産証券、ローソン、サイバーエージェント 等
 
-**"AI DRIVEN COMPANY"** - Aiming for every employee to use AI as naturally as a daily tool
+## 企業理念
 
-**Values:**
-- Thorough customer orientation
-- Increasing client sales
-- Reducing client costs
-- Addressing various IT-related management challenges
-- "Today's challenge becomes tomorrow's common sense"
+**「AI DRIVEN COMPANY」** - 全社員がAIを日常的なツールとして自然に活用できる企業を目指す
 
-## AI Initiatives
+**価値観:**
+- 徹底したお客様志向
+- お客様の売上拡大
+- お客様のコスト削減
+- 様々なITに関する経営課題の解決
+- 「今日の挑戦が、明日の当たり前へ」
 
-- Company-wide generative AI passport certification
-- Proprietary secure generative AI tool "Knowleful Chat"
-- Internal AI usage contests and recognition programs
-- Real-time AI chatbot for website visitors
+## 認証・許可
 
-## Contact Information
+- ISMS認証（登録番号: IS622096）
+- プライバシーマーク（登録番号: 第21000659号）
+- 健康経営優良法人2024（大規模法人部門）
+- 有料職業紹介許可（13-ユ-302436）
+- 労働者派遣事業許可（派13-307629）
+- 一般建設業（電気通信工事業）
 
-- **Website:** [https://www.clinks.jp](https://www.clinks.jp)
-- **Services:** [https://www.clinks.jp/service/](https://www.clinks.jp/service/)
-- **Contact:** [https://www.clinks.jp/contact/](https://www.clinks.jp/contact/)
+## 加盟団体
 
-### Product Websites
-- **Knowleful Chat:** [https://www.knowleful.ai/](https://www.knowleful.ai/)
-- **Telework Style:** [https://teleworkstyle.clinks.jp/](https://teleworkstyle.clinks.jp/)
-- **Kintai-Cloud:** [https://www.kintaicloud.jp/](https://www.kintaicloud.jp/)
-- **ZaiTark:** [https://product.zaitark.com/](https://product.zaitark.com/)
-- **Training One:** [https://clinks-training.com/](https://clinks-training.com/)
+- 一般社団法人 神奈川県情報サービス産業協会（KIA）
+- 特定非営利活動法人 日本情報技術取引所（JIET）
+- 特定非営利活動法人 日本ネットワークセキュリティ協会（JNSA）
+- 一般社団法人 日本テレワーク協会
+- 一般社団法人 生成AI活用普及協会（GUGA）
 
-## Media Mentions
+## メディア掲載
 
-- [CLINKS Corporation Official Website](https://www.clinks.jp)
-- [AI Development Service](https://www.clinks.jp/ai-development-lp/)
-- [IT Engineer Dispatch Service](https://www.clinks.jp/service/itengineer/)
+- [CLINKS株式会社 公式サイト](https://www.clinks.jp)
+- [AI開発サービス](https://www.clinks.jp/ai-development-lp/)
+- [ITエンジニア派遣サービス](https://www.clinks.jp/service/itengineer/)
 
 ---
-*Sources: [CLINKS Corporation Official Website](https://www.clinks.jp)*
+*出典: [CLINKS株式会社 公式サイト](https://www.clinks.jp)*

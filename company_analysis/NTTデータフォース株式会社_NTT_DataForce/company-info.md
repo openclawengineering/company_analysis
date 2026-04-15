@@ -1,58 +1,67 @@
-# NTTデータフォース株式会社 (NTT DATA FORCE CORPORATION)
+# NTTデータフォース株式会社（NTT DATA FORCE CORPORATION）
 
-## Company Overview
+## 企業概要
 
-NTT DATA FORCE CORPORATION, a member of the NTT DATA Group, specializes in building and operating information systems for financial institutions. Founded in November 2000 with the core business of outsourcing the core banking systems of Bank of Yokohama, the company now serves regional banks and central government ministries nationwide, including Hokkaido Bank, Hokuriku Bank, 77 Bank, and Higashi-Nippon Bank.
+NTTデータフォース株式会社は、NTTデータグループの一員として、金融機関向け情報システムの構築・運用を主力事業とするIT企業である。2000年11月に、地銀の雄である横浜銀行の基幹システムアウトソーシングをビジネスの柱として設立された。
 
-The company excels in building and operating mission-critical systems, providing comprehensive solution services — from planning and development to operations — that combine banking business expertise with advanced IT technical capabilities. With approximately 700 employees, the company maintains offices in Shin-Yokohama, Sapporo, and Sendai, continuing to expand its business operations.
+現在はMEJAR行を中心としたお客様から「信頼される真のビジネスパートナー」として、銀行業務ノウハウと高度なIT技術力を融合させ、ミッションクリティカルなシステムの構築・運用を手がけている。北海道銀行、北陸銀行、七十七銀行、東日本銀行などが共同利用する基幹システムの主要開発会社であり、約730名の社員とともに新横浜、札幌、仙台に拠点を構えて事業拡大を続けている。
 
-**Website:** https://www.nttdata-force.co.jp
+**ウェブサイト:** [https://www.nttdata-force.co.jp](https://www.nttdata-force.co.jp)
 
-## History
+## 沿革
 
-- **November 2000** - Established with core banking system outsourcing for Bank of Yokohama as the primary business pillar
-- **2000s onwards** - Functioned as the primary development company for shared core banking systems used by Hokkaido Bank, Hokuriku Bank, 77 Bank, Higashi-Nippon Bank, and others
-- **Present** - Operating as a "trusted true business partner" for clients centered on MEJAR Bank
+- 2000年11月1日 - 設立（横浜銀行の基幹システムアウトソーシングを主要事業として産声をあげる）
+- 2000年代以降 - 北海道銀行、北陸銀行、七十七銀行、東日本銀行などが共同利用する基幹システムの主要開発会社として活動
+- 現在 - MEJAR行を中心としたお客様へのサービス提供と独自ソリューション展開
 
-## Capital & Employees
+## 資本金・従業員数
 
-| Field | Value |
-|-------|-------|
-| Capital | 285,000,000 JPY |
-| Employees | 731 (as of April 1, 2026) |
-| Corporate Number | 1020001037724 |
-| Founded | November 1, 2000 |
-| Representative | Motoyoshi Ikeno (President & CEO) |
-| Headquarters | Suite 13, Sutei Shin-Yokohama, 3-7-8 Shin-Yokohama, Kohoku-ku, Yokohama 222-0033 |
-| Phone | 045-470-8335 |
+| 項目 | 内容 |
+|------|------|
+| 資本金 | 2億8,500万円 |
+| 従業員数 | 731名（2026年4月1日現在） |
+| 法人番号 | 1020001037724 |
+| 設立 | 2000年11月1日 |
+| 代表取締役社長 | 池野 元就 |
+| 本社所在地 | 〒222-0033 横浜市港北区新横浜3-7-8 スイテ新横浜13階 |
+| 電話番号 | 045-470-8335（代） |
+| 主要株主 | 株式会社NTTデータ、株式会社横浜銀行、株式会社北海道銀行、株式会社七十七銀行 |
 
-## Services/Products
+## 事業内容
 
-### Outsourcing Services
-Full outsourcing services for client systems, providing proposals that maximize cost benefits and support problem-solving.
+### アウトソーシングサービス
+クライアントシステムのフルアウトソーシングサービスを提供し、コストメリットを最大化する提案と課題解決を支援する。
 
-### Financial System Development & Operations
-- Mission-critical system development and operations for regional banks, central government ministries, and financial institutions
-- Core banking system development (central banking operations)
+### 金融システム開発・運用
+- 地方銀行、中央省庁、金融機関向けミッションクリティカルシステムの開発・運用
+- 基幹システム（銀行の中枢業務）の開発
 
-### Package Product Development
-Packaging the expertise and know-how accumulated over the years into original products, with business development in the financial institution market.
+### パッケージ製品開発
+長年培ってきた実績とノウハウをパッケージ化し、当社オリジナル商品として金融機関を中心としたマーケットでビジネス展開を行う。
 
-## Clients
+## 主要取引先
 
-- Bank of Yokohama
-- Hokkaido Bank
-- Hokuriku Bank
-- 77 Bank
-- Higashi-Nippon Bank
-- Central government ministries
-- Various other financial institutions
+- 横浜銀行
+- 北海道銀行
+- 北陸銀行
+- 七十七銀行
+- 東日本銀行
+- 中央省庁
+- その他金融機関
 
-## Philosophy
+## 企業理念
 
-The company's mission and vision is to become a "trusted true business partner" that "contributes to the growth of client businesses." Leveraging banking business expertise and advanced IT technical capabilities, the company aims to capture the challenges faced by client financial institutions from multiple perspectives and deliver forward-thinking solutions.
+「信頼される真のビジネスパートナー」として「お客様の業績拡大に貢献する」をMission・Visionに掲げる。銀行業務ノウハウと高度なIT技術力を活かし、お客様である金融機関の抱える課題を多角的な視点で捉え、先見性を持った解決策を導き出すことで、お客様の業績拡大に貢献することを目指す。
 
-## Media Mentions
+**3つの事業の柱:**
+- 横浜銀行をはじめとしたMEJAR加盟行へのアウトソーシングサービスの提供
+- NTTデータ金融部門を支えるビジネスパートナー
+- 強み・ノウハウを活かした独自サービスの展開
 
-- June 2024 - Published 24th fiscal year financial results in the Official Gazette (net income: 592 million JPY)
-- 2024 - Featured on recruitment sites such as doda as "the strongest professional team opening the future of financial IT"
+## メディア掲載
+
+- 2024年6月 - 第24期決算公告（官報掲載、純利益: 5億9,200万円）
+- doda等の採用サイトにて「金融ITの未来を切り拓く最強のプロフェッショナルチーム」として紹介
+
+---
+*出典: [NTTデータフォース株式会社 公式サイト](https://www.nttdata-force.co.jp)*
