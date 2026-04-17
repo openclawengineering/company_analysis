@@ -1,87 +1,77 @@
-# ノックスデータ株式会社 (ノックスデータ)
-## Company Analysis Report
+# ノックスデータ株式会社 (KNOX DATA Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+ノックスデータ株式会社は、1974年5月に設立されたソフトウェア開発会社である。東証プライム上場企業（株）アイ・エス・ビー（証券コード：9652）のグループ企業。創業以来、通信インフラを中心にソフトウェア開発に従事し、5G光伝送装置及び放送映像等のソフトウェア受託開発を行っている。
 
-| Language | Name |
-|----------|------|
-| **Japanese** | ノックスデータ株式会社 |
-| **English** | ノックスデータ |
-| **Reading** | TBD |
+IoTの普及に伴い、あらゆる「モノ」がインターネットに接続される環境変化に対応し、フットワークの良さを活かしてお客様のニーズに柔軟に対応。従業員約179名、売上高20億5,000万円。本社は東京都品川区南大井、名古屋事業所（名駅）を開設。ISO 9001認証取得。
 
----
+**Website:** [https://www.knox.co.jp](https://www.knox.co.jp)
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
+- **1974年5月** — 設立（東京都大田区大森北）
+- 通信インフラ系ソフトウェア開発を開始
+- 業務拡張のため品川区南大井に移転
+- 資本金を4,500万円に増資
+- 名古屋事業所を開設（中部圏事業拡大）
+- ISO 9001認証取得
+- 現在 — ISBグループの一員として事業展開
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Capital | 4,500万円 |
+| Revenue | 20億5,000万円 |
+| Employees | 約179名 |
+| Founded | 1974年5月6日 |
+| Representative | 代表取締役 小林 義文 |
+| Headquarters | 東京都品川区南大井6-26-2 大森ベルポートB館10F |
+| Branch | 名古屋事業所（名古屋市東区東大曽根町） |
+| Parent | （株）アイ・エス・ビー（東証プライム：9652） |
 
-## 3. Company History & Milestones
+## Services/Products
 
-| Date | Event |
-|------|-------|
+### アプリケーション開発
+- 光伝送システムソフトウェア
+- 移動体システムソフトウェア
+- オープンシステム開発
+- インターネット関連システム開発
+- 5G光伝送装置ソフトウェア
+- 放送映像ソフトウェア
 
----
+### ファームウェア開発
+- パッケージ搭載ファームウェア開発
+- 各種ドライバ開発
 
-## 4. Capital and Employee Count
+### 通信ネットワーク監視制御
+- クライアント/サーバアプリケーション開発
 
-| Item | Details |
-|------|---------|
+## Clients
 
----
+- 通信キャリア
+- 放送業界
+- ISBグループ各社
+- ネットワーク機器メーカー
 
-## 5. Products and Services
+## Philosophy
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+- 通信インフラ技術で社会に貢献
+- フットワークの良さを活かした柔軟な対応
+- 入社歴や年齢に関わらず実績を評価
 
-## 6. Key Clients and Industries Served
+## Media Mentions
 
-- Information Technology
-- System Development
-- Software Solutions
+- [ノックスデータ公式サイト](https://www.knox.co.jp/company/) — 会社概要
+- [エラベル](https://www.alevelsearch.com/company/knox/) — 企業情報
+- [東京商工リサーチ](https://www.tsr-net.co.jp/alevel/detail/1199483_2071.html) — 企業評価
+- [マイナビ2027](https://job.mynavi.jp/27/pc/search/corp39443/outline.html) — 採用情報
+- [イプロス](https://www.ipros.com/company/detail/2070530/) — 企業情報
 
----
+## Notes
 
-## 7. Company Philosophy and Culture
-
-TBD - Additional research needed.
----
-
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
-
----
-
-## 9. Summary
-
-### Company Overview
-ノックスデータ株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- （株）アイ・エス・ビー（東証プライム：9652）のグループ企業
+- ISO 9001認証取得
+- 通信インフラ系ソフトウェア開発に強み
+- 名古屋事業所あり

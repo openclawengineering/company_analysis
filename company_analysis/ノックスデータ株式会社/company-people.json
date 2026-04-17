@@ -1,10 +1,10 @@
-{
-  "company": {
-    "name_jp": "ノックスデータ株式会社",
-    "name_en": "ノックスデータ",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+[
+  {
+    "name_jp": "小林 義文",
+    "name_en": "Yoshifumi Kobayashi",
+    "position_jp": "代表取締役",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://www.knox.co.jp/company/"
+  }
+]

@@ -1,10 +1,10 @@
-{
-  "company": {
-    "name_jp": "ツークレスト株式会社",
-    "name_en": "ツークレスト",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+[
+  {
+    "name_jp": "川田 真司",
+    "name_en": "Shinji Kawata",
+    "position_jp": "代表取締役",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://www.twocrest.com/company/"
+  }
+]
