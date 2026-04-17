@@ -1,87 +1,73 @@
-# 日興テクノス株式会社 (日興テクノス)
-## Company Analysis Report
+# 日興テクノス株式会社 (Nikko Technos Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+日興テクノス株式会社は、1946年（昭和21年）9月に電話設備工事業者として創業したICT総合インテグレーターである。「誠実と信頼」の経営理念のもと、南関東を中心に企画・販売・構築・導入・運用・保守までのICTを中心としたオフィスに関わる製品・サービスをワンストップで提供している。創業79年の歴史を持つ老舗IT企業。
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 日興テクノス株式会社 |
-| **English** | 日興テクノス |
-| **Reading** | TBD |
+「ネットワーク」「ソリューション」「ヘルスケア」「スマートオフィス」の4つの分野を柱として展開。データ管理システム構築、コンピュータ販売、情報通信設備工事、防犯カメラ販売、予約管理ソフトウェア開発など幅広いサービスを提供する。
 
----
+**Website:** [https://www.nikko-technos.com](https://www.nikko-technos.com)
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
+- **1946年9月** — 電話設備工事業者として創業
+- **1949年12月** — 株式会社設立
+- 通信・PC、工事・土木、広告・制作など多岐にわたる事業展開
+- ICT総合インテグレーターへ転換
+- 現在 — 南関東を中心に「ネットワーク」「ソリューション」「ヘルスケア」「スマートオフィス」の4分野を展開
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Capital | 2,000万円 |
+| Employees | 90名 |
+| Revenue | 約35億円 |
+| Founded | 1949年12月（創業：1946年9月） |
+| Representative | 代表取締役 長谷川 浩正 |
+| Headquarters | 神奈川県横浜市磯子区森3-3-5 |
+| Corporate Number | 3020001003220 |
 
-## 3. Company History & Milestones
+## Services/Products
 
-| Date | Event |
-|------|-------|
+### ネットワーク分野
+- ネットワーク機器の設計・販売・構築
+- 情報通信設備工事
 
----
+### ソリューション分野
+- データ管理システム構築
+- コンピュータ販売
+- 業務系システム構築
 
-## 4. Capital and Employee Count
+### ヘルスケア分野
+- 医療・介護関連ICTソリューション
 
-| Item | Details |
-|------|---------|
+### スマートオフィス分野
+- オフィス環境構築
+- 防犯カメラ販売
 
----
+## Clients
 
-## 5. Products and Services
+- 自治体・官公庁
+- 南関東の地域企業
+- 医療・介護施設
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Philosophy
 
-## 6. Key Clients and Industries Served
+- 「誠実と信頼」の経営理念
+- 地域企業のニーズに真摯に向き合う
+- お客様の課題をICT技術で解決する
 
-- Information Technology
-- System Development
-- Software Solutions
+## Media Mentions
 
----
+- [日興テクノス公式サイト](https://www.nikko-technos.com/company/) — 会社案内
+- [横浜オープンカンパニー](https://yokohama-cci-fair.com/company/nikko-technos/) — 企業PR
+- [東京中小企業投資育成](https://www.sbic.co.jp/investeecompany/detail/index.php?id=2447) — 投資企業情報
+- [SalesNow](https://salesnow.jp/db/companies/jcbugk18f8ggw612) — 会社概要
+- [Gビズインフォ](https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001003220) — 法人情報
 
-## 7. Company Philosophy and Culture
+## Notes
 
-TBD - Additional research needed.
----
-
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
-
----
-
-## 9. Summary
-
-### Company Overview
-日興テクノス株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- 創業79年の老舗企業
+- 電話設備工事からICTインテグレーターへ転換
+- 東京中小企業投資育成株式会社の投資先企業

@@ -1,182 +1,71 @@
-# 株式会社日本システム技術 (Japan System Technology Co., Ltd.)
+# 日本システム技術株式会社 (Japan System Techniques Co., Ltd. / JAST)
 
-## Company Analysis Report
+## Company Overview
 
----
+日本システム技術株式会社（JAST）は、1973年に設立された完全独立系のシステムインテグレーターである。東京証券取引所プライム市場上場（証券コード：4323）。システムコンサルテーション、システムインテグレーション、パッケージソフト開発・販売、ビッグデータ分析の4つのサービスを柱に、DX&SI事業、パッケージ事業、医療ビッグデータ事業、グローバル事業の4領域を展開している。
 
-## 1. Company Name (JP/EN)
+国内に東京・大阪の2本社体制を敷き、海外にシンガポール、タイ、マレーシア、インド、アラブ首長国連邦、中国に拠点を有する。連結子会社14社を含むJASTグループを形成。2025年3月期の連結売上高は293億2,400万円。
 
-| Language | Company Name |
-|----------|--------------|
-| Japanese | 株式会社日本システム技術 |
-| English | Japan System Technology Co., Ltd. |
-| Abbreviation | JST |
+**Website:** [https://www.jast.jp](https://www.jast.jp)
 
-**Important Note:** This company should not be confused with the similarly-named listed company:
-- **日本システム技術株式会社 (JAST)** - Japan System Techniques Co., Ltd.
-  - Stock Code: 4323 (Tokyo Stock Exchange Prime Market)
-  - Headquartered in Tokyo/Osaka
-  - Website: https://www.jast.jp
+## History
 
----
+- **1973年3月** — 日本システム技術株式会社設立
+- **2001年** — プライバシーマーク認定取得
+- **2003年** — ISO14001認証取得
+- **2012年** — ISO9001・ISO27001認証取得
+- **2018年** — ISO20000認証取得、労働者派遣事業許可取得
+- 現在 — 東証プライム市場上場、グローバル7カ国に展開
 
-## 2. Company Contact Information
+## Capital & Employees
 
-| Field | Information |
-|-------|-------------|
-| **Address (Japanese)** | 〒231-0004 横浜市中区栄田町2-75 |
-| **Address (English)** | 2-75 Eida-cho, Naka-ku, Yokohama, Kanagawa 231-0004, Japan |
-| **Website** | https://www.jst.co.jp (⚠️ **Currently Inaccessible**) |
-| **Region** | Kanagawa Prefecture, Japan |
+| Field | Value |
+|-------|-------|
+| Capital | 15億3,540万円（2026年3月31日現在） |
+| Employees | 1,151名（単独）/ 1,613名（連結、2025年3月時点） |
+| Founded | 1973年3月26日 |
+| Representative | 代表取締役社長 平林 卓 |
+| Headquarters | 東京都港区港南2-16-2 太陽生命品川ビル27F（東京本社）/ 大阪市北区中之島2-3-18 中之島フェスティバルタワー29F（大阪本社） |
 
-**Note:** The company website (www.jst.co.jp) was not accessible at the time of this analysis. This could indicate:
-- The website may be temporarily down
-- The company may have changed its domain
-- The company may no longer be actively operating
+## Services/Products
 
----
+### DX&SI事業
+- システムコンサルテーション
+- システムインテグレーションサービス
 
-## 3. Company History & Milestones
+### パッケージ事業
+- パッケージソフト開発・販売・導入・保守サービス
 
-**Research Limitation:** Due to the inaccessible website and limited public information, detailed company history could not be verified. Based on available information:
+### 医療ビッグデータ事業
+- ビッグデータ分析・活用サービス
+- ヘルスケアイノベーション
 
-| Estimated Period | Information |
-|------------------|-------------|
-| **Establishment** | Not publicly verified |
-| **Industry Entry** | Software development and information processing services |
-| **Location** | Yokohama, Kanagawa Prefecture |
+### グローバル事業
+- 東南アジア・中東・中国を中心とした海外展開
 
-This appears to be a smaller, private IT services company based in Yokohama, distinct from larger listed companies with similar names.
+## Clients
 
----
+- 金融機関（BankNeo事業部）
+- 医療機関
+- 教育機関（GAKUEN事業部）
+- 公共・官公庁
+- 各種エンタープライズ企業
 
-## 4. Capital and Employee Count
+## Philosophy
 
-| Metric | Information |
-|--------|-------------|
-| **Capital** | Not publicly disclosed |
-| **Employee Count** | Not publicly disclosed |
-| **Company Scale** | Estimated to be a small to medium-sized enterprise (SME) |
-| **Listing Status** | Not listed on any stock exchange (private company) |
+- 完全独立系SIerとしての中立性・独立性
+- グローバル展開による多国籍チームでの価値創造
 
----
+## Media Mentions
 
-## 5. Products and Services
+- [Wikipedia](https://ja.wikipedia.org/wiki/日本システム技術) — 企業概要
+- [日経COMPASS](https://www.nikkei.com/compass/company/dD6fUbzVaVnMx8mT2bghBW) — 財務・業績情報
+- [SalesNow](https://salesnow.jp/db/companies/jcbxnq8hw7br37) — 会社概要
+- [JAST公式コーポレートサイト](https://www.jast.jp/corporate/outline/) — 会社概要
 
-Based on the business fields specified:
+## Notes
 
-### Primary Business Fields
-
-| Business Field | Description |
-|----------------|-------------|
-| **受託開発ソフトウェア** | Contracted Software Development |
-| | Custom software development for clients |
-| | System design, programming, and implementation |
-| | Application development services |
-| **情報処理サービス** | Information Processing Services |
-| | Data processing and management |
-| | IT infrastructure support |
-| | System maintenance and operations |
-
-### Typical Services for Companies in this Sector:
-- Business system development
-- Web application development
-- Database design and management
-- System integration
-- IT consulting
-- Maintenance and support services
-
----
-
-## 6. Key Clients and Industries Served
-
-**Research Limitation:** Specific client information was not available due to limited public disclosure and inaccessible website.
-
-### Likely Target Industries (Based on Business Fields):
-Companies in this sector typically serve:
-- Manufacturing industry
-- Financial services
-- Retail and distribution
-- Local government and public sector
-- Healthcare and medical institutions
-- Education institutions
-
-### Regional Focus:
-- Yokohama and Kanagawa Prefecture
-- Greater Tokyo metropolitan area
-
----
-
-## 7. Company Philosophy and Culture
-
-**Research Limitation:** Due to inaccessible website, official company philosophy and culture statements could not be verified.
-
-### Expected Values (Industry Standard):
-Companies in the Japanese IT services sector typically emphasize:
-- **Quality First** (品質第一) - Commitment to high-quality deliverables
-- **Customer Satisfaction** - Client-focused approach
-- **Technical Excellence** - Continuous improvement of technical skills
-- **Reliability and Trust** - Building long-term relationships
-
----
-
-## 8. Media Mentions
-
-**Research Result:** No specific media mentions or news coverage was found for this particular company (株式会社日本システム技術 at 横浜市中区栄田町2-75).
-
-**Note:** Most search results returned information about the similarly-named listed company JAST (日本システム技術株式会社), which is a different organization.
-
-### Related Industry Context:
-- Yokohama hosts many IT and software development companies
-- The Kanagawa Information Service Industry Association (KIA) has 308+ member companies
-- The region is a hub for technology and innovation in Japan
-
----
-
-## 9. Summary
-
-### Company Profile
-
-株式会社日本システム技術 (Japan System Technology Co., Ltd.) is a software development and information processing company located in Yokohama, Kanagawa Prefecture, Japan.
-
-| Aspect | Details |
-|--------|---------|
-| **Company Type** | Private (Kabushiki Kaisha) |
-| **Location** | Yokohama, Kanagawa, Japan |
-| **Address** | 〒231-0004 横浜市中区栄田町2-75 |
-| **Business Focus** | Contracted software development, Information processing services |
-| **Website Status** | Currently inaccessible (www.jst.co.jp) |
-| **Market Position** | SME in Yokohama IT services sector |
-
-### Key Observations
-
-1. **Information Scarcity**: Limited public information is available about this specific company, suggesting it may be:
-   - A smaller, privately-held company
-   - Less active in public marketing/PR
-   - Potentially operating under a different domain now
-
-2. **Name Confusion**: This company should not be confused with:
-   - JAST (日本システム技術株式会社) - A large listed company with stock code 4323
-   - JST-Wave (株式会社日本システムテクノロジー) - A different IT company in Tokyo
-
-3. **Regional Context**: Located in Yokohama, a major IT hub in Japan with over 300 information service companies in Kanagawa Prefecture.
-
-### Research Limitations
-
-- **Website inaccessible**: The provided website (jst.co.jp) did not resolve
-- **Limited public records**: No significant media mentions or public disclosures found
-- **Name similarity**: Searches frequently returned results for different companies with similar names
-
-### Recommendations
-
-For more detailed information, consider:
-1. Contacting the Kanagawa Information Service Industry Association (KIA)
-2. Checking Japanese corporate registry databases
-3. Direct contact via phone or postal mail
-4. Verifying if the company operates under a different name or website
-
----
-
-*Report generated: March 30, 2026*
-*Data sources: Web search, industry directories*
-*Note: This analysis is based on publicly available information and has limitations due to inaccessible primary sources.*
+- 東証プライム市場上場（証券コード：4323）
+- 完全独立系（系列なし）
+- JASTグループ連結子会社14社（国内外）
+- ISO 9001 / ISO 14001 / ISO 27001 / ISO 20000 / プライバシーマーク取得

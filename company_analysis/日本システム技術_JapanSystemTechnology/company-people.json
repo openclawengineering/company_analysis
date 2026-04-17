@@ -1,86 +1,10 @@
-{
-  "company": {
-    "name_jp": "株式会社日本システム技術",
-    "name_en": "Japan System Technology Co., Ltd.",
-    "abbreviation": "JST",
-    "address": "〒231-0004 横浜市中区栄田町2-75",
-    "website": "https://www.jst.co.jp",
-    "business_fields": [
-      "受託開発ソフトウェア",
-      "情報処理サービス"
-    ],
-    "research_notes": {
-      "website_accessible": false,
-      "listing_status": "Not listed (Private company)",
-      "note": "This company is distinct from similarly-named JAST (日本システム技術株式会社, stock code 4323)"
-    }
-  },
-  "executives": {
-    "president": {
-      "name": "Not publicly disclosed",
-      "title": "代表取締役社長",
-      "notes": "Information not available due to inaccessible website"
-    },
-    "board_of_directors": [
-      {
-        "name": "Not publicly disclosed",
-        "title": "代表取締役",
-        "notes": "Information not available"
-      }
-    ]
-  },
-  "key_personnel": [
-    {
-      "name": "Not publicly disclosed",
-      "title": "Not specified",
-      "department": "Not specified",
-      "notes": "Detailed personnel information is not publicly available for this company"
-    }
-  ],
-  "organization": {
-    "departments": [
-      {
-        "name": "Software Development",
-        "description_jp": "受託開発ソフトウェア部門",
-        "description_en": "Contracted Software Development Division"
-      },
-      {
-        "name": "Information Processing",
-        "description_jp": "情報処理サービス部門",
-        "description_en": "Information Processing Services Division"
-      }
-    ],
-    "estimated_structure": "Small to medium-sized enterprise with typical Japanese IT company structure"
-  },
-  "contact_points": {
-    "headquarters": {
-      "address": "〒231-0004 横浜市中区栄田町2-75",
-      "phone": "Not publicly disclosed",
-      "fax": "Not publicly disclosed",
-      "email": "Not publicly disclosed"
-    },
-    "notes": [
-      "Website (www.jst.co.jp) was inaccessible at time of research",
-      "Direct contact information should be verified through official channels",
-      "Company may be listed in Kanagawa business directories"
-    ]
-  },
-  "data_quality": {
-    "completeness": "Low - Limited public information available",
-    "source_reliability": "Based on provided information only",
-    "verification_status": "Could not verify due to inaccessible primary sources",
-    "last_updated": "2026-03-30",
-    "researcher": "AI Subagent - Company Analysis Task"
-  },
-  "disclaimer": {
-    "title": "Research Limitations Notice",
-    "content": [
-      "This company-people.json file contains limited information due to research constraints:",
-      "1. Company website (jst.co.jp) was not accessible",
-      "2. No public databases or media mentions found for this specific company",
-      "3. Company appears to be a private SME with limited public disclosure",
-      "4. Information should be verified through official sources before use",
-      "5. This company should not be confused with listed company JAST (Stock Code 4323)"
-    ]
+[
+  {
+    "name_jp": "平林 卓",
+    "name_en": "Taku Hirabayashi",
+    "position_jp": "代表取締役社長",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://www.jast.jp/corporate/outline/"
   }
-}
+]

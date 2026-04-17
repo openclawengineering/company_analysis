@@ -1,151 +1,52 @@
-# シャープシステムサービス株式会社
-## Sharp System Services Co., Ltd.
+# シャープシステムサービス株式会社 → シャープサポートアンドサービス株式会社 (Sharp Support & Service Corporation)
 
----
+## Company Overview
 
-## 1. Company Name
+シャープサポートアンドサービス株式会社（旧：シャープシステムサービス株式会社）は、シャープ株式会社の関連会社として、複合機、POS等の保守サポート事業およびPOSアプリ開発事業を展開する企業である。全国77カ所の事業所（フィールドセンター24カ所、フィールドブランチ32カ所、フィールドデポ20カ所、ICT開発サポートセンター1カ所）を展開し、シャープ製品の保守・サポート体制を全国で構築している。
 
-**Japanese:** シャープシステムサービス株式会社
+本社は千葉県千葉市美浜区のシャープ幕張ビルに所在。シャープマーケティングジャパン株式会社の100%出資子会社。
 
-**English:** Sharp System Services Co., Ltd.
+**Website:** [https://smj.jp.sharp/sss/](https://smj.jp.sharp/sss/)
 
-**Possible Abbreviation:** SSS
+## History
 
----
+- **1977年** — シャープシステムサービスとして創立
+- **2010年12月** — 現法人設立（シャープサポートアンドサービス株式会社）
+- 現在 — 全国77カ所の事業所を展開
 
-## 2. Company Contact Information
+## Capital & Employees
 
-| Field | Details |
-|-------|---------|
-| **Address** | 〒220-8116 横浜市西区みなとみらい2-1-1 横浜アイマークプレイス |
-| **Address (EN)** | Yokohama I-Mark Place, 2-1-1 Minatomirai, Nishi-ku, Yokohama, Kanagawa 220-8116, Japan |
-| **Website** | https://www.sharp-systems.com/ |
-| **Location** | Yokohama, Kanagawa Prefecture, Japan |
+| Field | Value |
+|-------|-------|
+| Capital | 2億円 |
+| Employees | 651名（2025年10月時点） |
+| Founded | 2010年12月1日（創業：1977年） |
+| Representative | 代表取締役 田中 弘一郎 |
+| Headquarters | 千葉県千葉市美浜区中瀬1-9-2 シャープ幕張ビル |
 
-> **Note:** The provided website URL (https://www.sharp-systems.com/) appears to be incorrect as it redirects to a UK-based food equipment manufacturer. The actual company website could not be verified due to web search API limitations.
+## Services/Products
 
----
+### 保守サポート事業
+- 複合機の保守・サポート
+- POS端末の保守・サポート
+- 全国77カ所の事業所から顧客対応
 
-## 3. Company History & Milestones
+### POSアプリ開発事業
+- 幕張事業所（千葉県）でのPOSアプリケーション開発
+- POS関連サポート
 
-| Year | Milestone |
-|------|-----------|
-| TBD | Company establishment date - requires verification |
-| TBD | Major historical milestones - requires verification |
+## Clients
 
-> **Note:** Detailed company history could not be retrieved due to web search API limitations. The company appears to be a subsidiary or affiliate related to Sharp Corporation, focusing on IT/software services.
+- シャープ製品利用企業・店舗
+- 全国の商業施設・小売店舗
+- POSシステム導入企業
 
----
+## Philosophy
 
-## 4. Capital and Employee Count
+- シャープグループのサービス部門として、製品の安心・安全な利用を支援
 
-| Metric | Information |
-|--------|-------------|
-| **Capital** | Not available - requires verification |
-| **Employees** | Not available - requires verification |
-| **Parent Company** | Likely Sharp Corporation (requires verification) |
+## Notes
 
----
-
-## 5. Products and Services
-
-Based on the provided business fields, the company operates in:
-
-### 受託開発ソフトウェア (Contract Software Development)
-- Custom software development services for clients
-- Tailored solutions for business requirements
-
-### パッケージソフトウェア (Package Software)
-- Ready-to-use software products
-- Standardized solutions for common business needs
-
-### 組み込みソフトウェア (Embedded Software)
-- Software for embedded systems
-- Firmware and device software development
-- Integration with hardware products
-
-### 情報処理サービス (Information Processing Services)
-- Data processing services
-- IT infrastructure and system operations
-- Business process outsourcing
-
----
-
-## 6. Key Clients and Industries Served
-
-| Category | Details |
-|----------|---------|
-| **Target Industries** | Not available - requires verification |
-| **Key Clients** | Not available - requires verification |
-| **Business Domain** | IT Services, Software Development |
-
-> **Note:** Client and industry information requires additional research through company official sources or business databases.
-
----
-
-## 7. Company Philosophy and Culture
-
-| Aspect | Information |
-|--------|-------------|
-| **Mission** | Not available - requires verification |
-| **Vision** | Not available - requires verification |
-| **Values** | Not available - requires verification |
-
-### Recruitment
-The company actively recruits for:
-- **新卒採用** (New Graduate Recruitment)
-- **中途採用** (Mid-Career Recruitment)
-
----
-
-## 8. Media Mentions
-
-> **Search Status:** Web search APIs were unavailable during this analysis.
-> 
-> The following could not be verified:
-> - Recent news coverage
-> - Press releases
-> - Industry mentions
-> - Social media presence
-
-**Recommendation:** Conduct manual web search for:
-- News articles about the company
-- Industry publications mentioning the company
-- Press releases from Sharp Corporation group
-
----
-
-## 9. Summary
-
-### Overview
-シャープシステムサービス株式会社 (Sharp System Services Co., Ltd.) is a Japanese IT company headquartered in Yokohama, Kanagawa Prefecture, at the Yokohama I-Mark Place building in the Minatomirai business district.
-
-### Business Focus
-The company specializes in four main areas:
-1. Contract software development
-2. Package software solutions
-3. Embedded software development
-4. Information processing services
-
-### Location Advantage
-Located in Yokohama's Minatomirai area, a major business hub in the Greater Tokyo metropolitan area, providing strategic access to corporate clients and talent.
-
-### Recruitment
-The company maintains active recruitment programs for both new graduates and experienced professionals, indicating ongoing growth and development needs.
-
-### Research Limitations
-This analysis was conducted with limited web search capabilities. The following information requires verification through direct company contact or alternative research methods:
-- Official company website URL
-- Company establishment date and history
-- Capital and employee count
-- Parent company relationship with Sharp Corporation
-- Detailed service offerings and case studies
-- Client portfolio
-- Company philosophy and values
-- Recent media coverage
-
----
-
-*Analysis Date: March 30, 2026*
-*Data Sources: Task-provided information*
-*Note: Web search APIs were unavailable during this analysis*
+- 旧社名：シャープシステムサービス株式会社
+- シャープマーケティングジャパン株式会社100%出資
+- 全国展開：フィールドセンター24カ所、フィールドブランチ32カ所、フィールドデポ20カ所、ICT開発サポートセンター1カ所

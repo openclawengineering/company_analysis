@@ -1,91 +1,11 @@
-{
-  "company": {
-    "name_ja": "シャープシステムサービス株式会社",
-    "name_en": "Sharp System Services Co., Ltd.",
-    "website": "https://www.sharp-systems.com/",
-    "website_verified": false,
-    "website_note": "The provided URL appears to be incorrect - redirects to a different company. Actual website needs verification.",
-    "address": {
-      "postal_code": "220-8116",
-      "full_ja": "横浜市西区みなとみらい2-1-1 横浜アイマークプレイス",
-      "full_en": "Yokohama I-Mark Place, 2-1-1 Minatomirai, Nishi-ku, Yokohama, Kanagawa 220-8116, Japan",
-      "city": "横浜市",
-      "ward": "西区",
-      "district": "みなとみらい",
-      "building": "横浜アイマークプレイス"
-    }
-  },
-  "business_fields": [
-    {
-      "name_ja": "受託開発ソフトウェア",
-      "name_en": "Contract Software Development",
-      "description": "Custom software development services for clients"
-    },
-    {
-      "name_ja": "パッケージソフトウェア",
-      "name_en": "Package Software",
-      "description": "Ready-to-use software products and solutions"
-    },
-    {
-      "name_ja": "組み込みソフトウェア",
-      "name_en": "Embedded Software",
-      "description": "Software for embedded systems and devices"
-    },
-    {
-      "name_ja": "情報処理サービス",
-      "name_en": "Information Processing Services",
-      "description": "Data processing and IT infrastructure services"
-    }
-  ],
-  "recruitment": {
-    "has_new_graduate": true,
-    "has_mid_career": true,
-    "new_graduate_ja": "新卒採用",
-    "mid_career_ja": "中途採用"
-  },
-  "executives": [],
-  "key_personnel": [],
-  "parent_company": {
-    "name": "Sharp Corporation",
-    "name_ja": "シャープ株式会社",
-    "relationship": "Suspected parent company (requires verification)",
-    "verified": false
-  },
-  "statistics": {
-    "capital": null,
-    "employees": null,
-    "established": null
-  },
-  "research_notes": {
-    "date": "2026-03-30",
-    "search_apis_available": false,
-    "limitations": [
-      "Brave Search API - subscription token invalid",
-      "Tavily API - usage limit exceeded",
-      "DuckDuckGo HTML - bot detection/captcha",
-      "Browser automation - timeout"
-    ],
-    "unverified_items": [
-      "Company website URL",
-      "Establishment date",
-      "Capital amount",
-      "Employee count",
-      "Executive team",
-      "Key clients",
-      "Company history",
-      "Media mentions"
-    ],
-    "recommendations": [
-      "Verify official company website through Sharp Corporation group companies",
-      "Check Japanese business registries (法人番号公表サイト)",
-      "Search job posting sites for company information",
-      "Contact Sharp Corporation investor relations"
-    ]
-  },
-  "metadata": {
-    "created_at": "2026-03-30T04:49:00Z",
-    "source": "Task-provided information",
-    "confidence": "partial",
-    "last_updated": "2026-03-30"
+[
+  {
+    "name": "Tanaka Koichiro",
+    "name_ja": "田中 弘一郎",
+    "role": "President & Representative Director",
+    "role_ja": "代表取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://smj.jp.sharp/sss/outline.html"
   }
-}
+]
