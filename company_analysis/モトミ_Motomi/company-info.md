@@ -1,160 +1,69 @@
-# Motomi Co., Ltd. - Company Analysis Report
+# モトミ株式会社 (Motomi Co., Ltd.)
 
-## 1. Company Name
+## Company Overview
 
-| | |
-|---|---|
-| **Japanese Name** | モトミ株式会社 |
-| **English Name** | Motomi Co., Ltd. |
-| **Name Origin** | Information not available |
+モトミ株式会社は、2005年12月に設立された横浜のIT企業である。地域に密着して事業を展開するとともに、首都圏をはじめとする国内だけでなく、海外への事業展開も行っている。主要事業として、ソフトウェアの開発、電子製品の研究開発支援、コンピュータ総合システムの設計・開発、大型データベースの構築と導入、バイオインフォマティクスに関するデータ処理及びDNA解析システムの研究開発、大規模な塩基配列解析などの研究開発を行っている。
 
----
+最先端技術に精通した多くの技術者が蓄積した経験と知識で、顧客のニーズを先取りして実現するとともに、中堅・若手の技術力・情報セキュリティの向上に努めている。
 
-## 2. Company History
+**Website:** http://www.motomi.co.jp ⚠️（ドメイン期限切れ — GMOパーキングページ表示中）
 
-### Founding & Timeline
+## History
 
-| Date | Milestone |
-|------|-----------|
-| **Information not available** | Company founded in Yokohama |
+- **2005年12月** — 設立
+- 横浜に本社を構え、ITシステム開発・研究開発支援を展開
+- バイオインフォマティクス・DNA解析分野に進出
+- 海外展開も開始
+- **2023年1月** — 住所移転（横浜市内）
 
-### Leadership
-- Information not available
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Founded | 2005年12月 |
+| Headquarters | 神奈川県横浜市中区海岸通4-17 東信ビル6F |
+| Corporate Number | 3020001053736 |
 
-## 3. Capital & Employee Count
+## Services/Products
 
-| Metric | Value |
-|--------|-------|
-| **Capital** | Information not available |
-| **Employee Count** | Information not available |
-| **Listing Status** | Private (unlisted) |
+### ソフトウェア開発
+- 各種ソフトウェアの受託開発
 
-### Office Location
-```
-モトミ株式会社
-Yokohama City, Kanagawa Prefecture
+### 電子製品の研究開発支援
+- 電子機器の設計・開発支援
 
-TEL: 045-212-2235
-FAX: 045-212-2235
-E-mail: info@motomi.co.jp
-```
+### コンピュータ総合システム
+- システムの設計・開発
+- 大型データベースの構築と導入
 
-**Website:** http://www.motomi.co.jp
+### バイオインフォマティクス
+- データ処理
+- DNA解析システムの研究開発
+- 大規模塩基配列解析
 
----
+## Clients
 
-## 4. Products and Services
+- 研究機関（バイオインフォマティクス）
+- エンタープライズ企業
+- 横浜・首都圏の企業
 
-### Company Overview
-Motomi is an IT company based in Yokohama that operates locally while also expanding business throughout Japan and overseas.
+## Philosophy
 
-### Service Categories
+- 地域密着型のIT企業
+- 最先端技術の追求
+- 中堅・若手の技術力向上
 
-#### A. Software Development (ソフトウェア開発)
-- Custom software development
-- System development for various industries
+## Media Mentions
 
-#### B. Electronic Product R&D Support (電子製品の研究開発支援)
-- Research and development assistance for electronic products
-- Technical support services
+- [モトミ公式サイト（キャッシュ）](http://www.motomi.co.jp) — ⚠️ ドメイン期限切れ
+- [SalesNow](https://salesnow.jp/db/companies/jcbnt490j7u9wg6s) — 会社概要
+- [BaseConnect](https://baseconnect.in/companies/89dd4e86-ae9e-472a-b290-e69522d3d05a) — 企業情報
+- [全国法人検索](https://houjin.goo.to/corporations/3020001053736) — 法人情報
 
-#### C. Computer System Design & Development (コンピュータ総合システムの設計・開発)
-- Comprehensive computer system design
-- System development and implementation
+## Notes
 
-#### D. Database Construction (大型データベースの構築と導入)
-- Large-scale database design
-- Database implementation and deployment
-
-#### E. Bioinformatics & DNA Analysis (バイオインフォマティクス)
-- Bioinformatics data processing
-- DNA analysis system research and development
-- Large-scale nucleotide sequence analysis
-
-### Technical Expertise
-The company employs engineers with expertise in cutting-edge technologies, accumulating experience and knowledge to anticipate and meet customer needs. Focus on improving technical capabilities and information security among mid-level and young engineers.
-
----
-
-## 5. Key Clients and Industries Served
-
-### Industries & Use Cases
-
-Based on their service portfolio:
-
-1. **Software Development** - General IT solutions
-2. **Electronics Manufacturing** - R&D support services
-3. **Database Management** - Large-scale database solutions
-4. **Biotechnology & Life Sciences** - Bioinformatics, DNA analysis, nucleotide sequence research
-
-### Target Markets
-- Domestic Japan (starting from Yokohama and Kanto region)
-- International markets (overseas business expansion)
-
----
-
-## 6. Company Philosophy and Culture
-
-### Mission
-Deliver cutting-edge technology solutions by leveraging the accumulated experience and knowledge of expert engineers while anticipating customer needs.
-
-### Values & Approach
-
-1. **Technology Excellence**
-   - Focus on cutting-edge technologies
-   - Continuous improvement of technical capabilities
-   
-2. **Information Security**
-   - Commitment to improving information security practices
-   - Emphasis on security in all development activities
-
-3. **Customer-Centric Innovation**
-   - Anticipating customer needs before they arise
-   - Realizing solutions that meet and exceed expectations
-
-### Group Companies & Partners
-
-- **株式会社システムクリエーション** (System Creation Co., Ltd.)
-  - Website: http://www.system-creation.com
-
-- **ハルソフトウェア株式会社** (Hal Software Co., Ltd.)
-
----
-
-## 7. Contact Information
-
-| | |
-|---|---|
-| **Phone** | 045-212-2235 |
-| **Fax** | 045-212-2235 |
-| **Email** | info@motomi.co.jp |
-| **Website** | http://www.motomi.co.jp |
-| **Location** | Yokohama City, Kanagawa Prefecture |
-
----
-
-## 8. Media Mentions & References
-
-*No specific media mentions found during analysis*
-
----
-
-## Summary
-
-**モトミ株式会社 (Motomi Co., Ltd.)** is a Yokohama-based IT company with a diverse service portfolio ranging from traditional software development and database construction to specialized bioinformatics and DNA analysis systems. The company operates both domestically in Japan and internationally.
-
-**Key Differentiators:**
-1. **Diverse Technical Expertise** - From general IT systems to specialized bioinformatics
-2. **R&D Focus** - Active involvement in research and development, particularly in life sciences
-3. **Regional & International Presence** - Strong local foundation in Yokohama with overseas expansion
-4. **Group Network** - Partnerships with System Creation Co., Ltd. and Hal Software Co., Ltd.
-
-The company positions itself as a technology-forward organization with expertise in cutting-edge technologies, serving clients across multiple sectors including general IT, electronics manufacturing, and biotechnology.
-
----
-
-*Report compiled from official company website*
-*Last updated: March 2026*
-*Note: Limited information available on company website. Detailed history, capital, and employee count information not publicly disclosed.*
+- KIA（神奈川IT協会）会員
+- ⚠️ 公式ウェブサイト（motomi.co.jp）ドメイン期限切れ
+- バイオインフォマティクス分野に強み（DNA解析、塩基配列解析）
+- 非常にユニークな事業展開 — IT＋バイオの融合
+- インボイス登録済み
