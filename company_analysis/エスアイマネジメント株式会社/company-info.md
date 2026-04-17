@@ -1,92 +1,81 @@
-# エスアイマネジメント株式会社 (エスアイマネジメント)
-## Company Analysis Report
+# エスアイマネジメント株式会社 (SI Management Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+エスアイマネジメント株式会社は、1994年11月に設立されたITコンサルティング・システム開発会社である。コンピュータシステムの導入企画、運用サポート、コンサルティングから、ソフトウェアの受託開発、パッケージソフトウェアの開発・販売・運用保守まで幅広く手掛ける。また、独自の「墓所使用者情報管理システム」「デジタル参拝」「スマート参拝」「スマート墓所」という登録商標を持ち、寺院・霊園向けのデジタルソリューションにも注力している。
 
-| Language | Name |
-|----------|------|
-| **Japanese** | エスアイマネジメント株式会社 |
-| **English** | エスアイマネジメント |
-| **Reading** | TBD |
+要員構成にコンサルティングスタッフ（経営コンサルタント、社会保険労務士、税理士）、PM、SE、PG、ウェブデザイナー、個人情報保護士を擁し、多角的なITサービスを提供。プライバシーマーク取得。神奈川情報サービス産業協会加盟。渋谷本社と仙台東北支社の2拠点体制。
 
----
+**Website:** [https://www.si-m.com](https://www.si-m.com)
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://www.si-m.com/
+- **1994年** — エスアイマネジメント株式会社創立
+- **2006年** — 東北支社新設（仙台）
+- **2007年** — 事務所移転
+- **2013年** — SICグループホールディングス設立
+- 現在 — 幅広い業界のシステム構築・運用管理・導入サポート
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Capital | 2,000万円 |
+| Founded | 1994年11月2日 |
+| Representative | 代表取締役 藤村 基寛 |
+| Headquarters (渋谷本社) | 東京都渋谷区桜丘町4-17 POTAL Apartment & Art POINT 302 |
+| Branch (東北支社) | 宮城県仙台市青葉区中央2-9-16 朝日生命仙台中央ビル5F |
+| Corporate Number | 5011001028215 |
 
-## 3. Company History & Milestones
+## Services/Products
 
-| Date | Event |
-|------|-------|
+### コンピュータシステム導入企画・運用サポート・コンサルティング
+- 経営コンサルティング
+- システム導入企画・PM
 
----
+### ソフトウェア受託開発
+- カスタムアプリケーション開発
+- Webシステム開発
 
-## 4. Capital and Employee Count
+### パッケージソフトウェア開発・販売・運用保守
+- 自社パッケージソフトの開発・販売
 
-| Item | Details |
-|------|---------|
+### ホームページ制作・ECサイト制作
+- ウェブデザイン・制作
 
----
+### 寺院・霊園向けソリューション
+- **墓所使用者情報管理システム**（登録商標第6076851号）
+- **デジタル参拝**（登録商標第6149081号）
+- **スマート参拝**（登録商標第6179535号）
+- **スマート墓所**（登録商標第6973585号）
 
-## 5. Products and Services
+## Clients
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+- 東北水産流通システム事業共同組合
+- 学校法人早稲田学園
+- 学校法人近畿大学
+- 住友重機械工業株式会社
+- 株式会社ノリタケカンパニーリミテド
+- JAL生活協同組合
+- MS&ADグランアシスタンス株式会社
+- NECソリューションイノベータ株式会社（契約先）
+- 日本電気株式会社（契約先）
+- 富士ソフト株式会社（契約先）
+- その他多数
 
-## 6. Key Clients and Industries Served
+## Philosophy
 
-- Information Technology
-- System Development
-- Software Solutions
+- 幅広い業界のシステムを構築し運営管理、導入サポート
+- 多様な専門スタッフによるトータルITサービス
 
----
+## Media Mentions
 
-## 7. Company Philosophy and Culture
+- [エスアイマネジメント公式サイト](https://www.si-m.com/company/) — 企業情報
+- [プライバシーマーク](https://www.p-mark.or.jp/) — 第10825322号
 
-TBD - Additional research needed.
----
+## Notes
 
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| [エスアイマネジメント株式会社 (@sim__shibuya)](https://www.instagram.com/sim__shibuya/) | Web | 渋谷・仙台のソフトウェア開発・WEB制作会社エスアイマネジメント株式会社の公式アカウントです。 #墓所使用者情報管理 #デジタル参拝 #スマート参拝 #マイスマ |
-| [エスアイマネジメント株式会社 不動産売買・マンション買取](https://www.si-mgt.co.jp/) | Web | # エスアイマネジメント株式会社は池袋から全国へ、土地・戸建て・マンション・収益不動産の買取り・保有・賃貸管理運営を行っています。. * 03-5927-161 |
-| [エスアイマネジメント株式会社の転職・企業概要 − 転職ならdoda（デューダ）](https://doda.jp/DodaFront/View/Company/j_id__10155876025/) | Web | あなたの登録情報（職種・勤務地など）と求人企業が設定した応募歓迎条件が合致すると求人に「マッチングしやすいおすすめ求人 ※1」と表示されることがあります。. あ |
-| [エスアイマネジメント株式会社](https://www.facebook.com/simanagement1994/?locale=ja_JP) | Web | 2018年8月22日～24日、東京ビックサイトにて、エン ディング産業展2018に出展いたしました。出展した場 所も良く、多くの方に【デジタル参拝】を紹介するこ |
-| [会社概要｜エスアイマネジメント株式会社 不動産売買・マンション ...](https://www.si-mgt.co.jp/company/profile/) | Web | # 東京池袋 不動産買取のエスアイマネジメント株式会社の会社概要. ## COMPANY. ### outline会社概要. | 役員 | 取締役　碇谷 乃梨子 |
-| [エスアイマネジメント株式会社の不動産会社情報](https://www.rakumachi.jp/property/realtor/jyriT%252BMn0iQ%253D) | Web | 賃貸管理からリフォームまで、疑問や不安についてご相談ください。長年、不動産と付き合ってきたスペシャリストがおります。弊社の魅力は、長年のお付き合いのあるお客様や |
-
----
-
-## 9. Summary
-
-### Company Overview
-エスアイマネジメント株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- KIA（神奈川情報サービス産業協会）加盟
+- 関東ITソフトウェア健康保険組合加盟
+- 4つの登録商標（墓所管理・参拝関連）
+- 契約先にNEC、日電、富士ソフトなど大手IT企業
