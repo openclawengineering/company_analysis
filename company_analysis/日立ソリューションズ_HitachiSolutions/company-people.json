@@ -1,96 +1,11 @@
-{
-  "company": {
-    "name_jp": "日立ソリューションズ株式会社",
-    "name_en": "Hitachi Solutions, Ltd.",
-    "website": "https://www.hitachisol.co.jp/",
-    "address": {
-      "postal_code": "220-0004",
-      "prefecture": "神奈川県",
-      "city": "横浜市西区",
-      "district": "北幸",
-      "street": "2-9-18",
-      "building": "横浜西口NKビル6F",
-      "full_address_jp": "〒220-0004 横浜市西区北幸2-9-18 横浜西口NKビル6F",
-      "full_address_en": "Yokohama Nishiguchi NK Building 6F, 2-9-18 Kitasaiwai, Nishi-ku, Yokohama, Kanagawa 220-0004, Japan"
-    }
-  },
-  "executives": {
-    "note": "Executive information could not be retrieved due to web search limitations",
-    "leadership": []
-  },
-  "key_personnel": {
-    "note": "Key personnel information could not be retrieved due to web search limitations",
-    "persons": []
-  },
-  "departments": {
-    "inferred_from_business_fields": [
-      {
-        "name": "Custom Software Development",
-        "name_jp": "受託開発ソフトウェア",
-        "function": "Tailored software solutions development"
-      },
-      {
-        "name": "Package Software",
-        "name_jp": "パッケージソフトウェア",
-        "function": "Commercial software products"
-      },
-      {
-        "name": "Embedded Software",
-        "name_jp": "組み込みソフトウェア",
-        "function": "Embedded systems and firmware"
-      },
-      {
-        "name": "Information Processing Services",
-        "name_jp": "情報処理サービス",
-        "function": "Data processing and system integration"
-      },
-      {
-        "name": "Network & Communication",
-        "name_jp": "ネットワーク・通信関連",
-        "function": "Network infrastructure and communication systems"
-      },
-      {
-        "name": "System Engineering Services",
-        "name_jp": "SES",
-        "function": "Technical consulting and engineering support"
-      }
-    ]
-  },
-  "recruitment": {
-    "active_programs": [
-      {
-        "type": "新卒採用",
-        "type_en": "New Graduate Recruitment",
-        "status": "Active"
-      },
-      {
-        "type": "中途採用",
-        "type_en": "Mid-Career Recruitment",
-        "status": "Active"
-      }
-    ],
-    "note": "Specific recruitment contacts and HR personnel information not available"
-  },
-  "data_collection_metadata": {
-    "analysis_date": "2026-03-30",
-    "data_sources": [
-      "Task-provided company information"
-    ],
-    "limitations": [
-      "Brave Search API: Invalid subscription token",
-      "Tavily Search API: Usage limit exceeded",
-      "Direct website access: Domain NXDOMAIN",
-      "Browser automation: Timeout issues",
-      "Company website appears inactive or non-existent"
-    ],
-    "completeness": "Partial - Basic information only",
-    "requires_manual_research": [
-      "Executive leadership team",
-      "Key personnel and department heads",
-      "Employee count and organizational structure",
-      "Board members",
-      "HR and recruitment contacts",
-      "Client relationship managers"
-    ]
+[
+  {
+    "name": "Morita Eiji",
+    "name_ja": "森田 英嗣",
+    "role": "President & Representative Director",
+    "role_ja": "取締役社長",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.hitachi-solutions.co.jp/company/about/"
   }
-}
+]

@@ -1,160 +1,75 @@
-# Company Analysis: 日立ソリューションズ株式会社 (Hitachi Solutions, Ltd.)
+# 株式会社日立ソリューションズ (Hitachi Solutions, Ltd.)
 
-## 1. Company Name
+## Company Overview
 
-**Japanese:** 日立ソリューションズ株式会社  
-**English:** Hitachi Solutions, Ltd.
+株式会社日立ソリューションズは、日立グループのITサービスグループの中核企業として、社会生活や企業活動を支えるソリューションを提供するシステムインテグレーターである。2010年、日立システムアンドサービス株式会社と日立ソフトウェアエンジニアリング株式会社が対等合併し発足。設計開発を中心に対応しており、事業領域は製造、流通、通信を中心として社会、交通、教育、医療など多岐にわたる。
 
----
+豊富な知識と最新の技術で、さまざまな製品やサービスを柔軟に組み合わせ、お客さまや社会の課題に対して最適なソリューションをグローバルに提供している。従業員を最も貴重な経営資源と捉え、働き方改革やダイバーシティ経営、人財育成に力を注いでいる。
 
-## 2. Company Contact Information
+**Website:** [https://www.hitachi-solutions.co.jp](https://www.hitachi-solutions.co.jp)
 
-- **Address:** 〒220-0004 横浜市西区北幸2-9-18 横浜西口NKビル6F  
-  (Yokohama Nishiguchi NK Building 6F, 2-9-18 Kitasaiwai, Nishi-ku, Yokohama, 220-0004)
-- **Website:** https://www.hitachisol.co.jp/
-- **Business Fields:** 
-  - 受託開発ソフトウェア (Custom Software Development)
-  - パッケージソフトウェア (Package Software)
-  - 組み込みソフトウェア (Embedded Software)
-  - 情報処理サービス (Information Processing Services)
-  - ネットワーク・通信関連 (Network & Communication)
-  - SES (System Engineering Services)
+## History
 
----
+- **1970年9月** — 日立システムアンドサービスの前身が設立
+- **1978年** — 日立ソフトウェアエンジニアリングの前身が設立
+- **2010年** — 日立システムアンドサービスと日立ソフトウェアエンジニアリングが対等合併し、日立ソリューションズ発足
+- **2011年** — 中国北京市に日立解決方案（中国）有限公司を設立
+- **2015年** — 日立グループ再編により、金融・公共分野の一部を日立製作所に移管
+- 現在 — 日立製作所 デジタルシステム＆サービス部門傘下で事業展開
 
-## 3. Company History & Milestones
+## Capital & Employees
 
-**Note:** Web search functionality was unavailable during this analysis. Detailed historical information could not be retrieved.
+| Field | Value |
+|-------|-------|
+| Capital | 200億円 |
+| Employees | 5,162名（単独）/ 14,869名（連結、2025年9月時点） |
+| Founded | 1970年9月21日 |
+| Representative | 取締役社長 森田 英嗣 |
+| Headquarters | 東京都品川区東品川4-12-7 |
 
-Based on the company name and association with Hitachi, this appears to be a subsidiary or affiliated company of the Hitachi Group, specializing in software solutions and IT services.
+## Services/Products
 
----
+### ソフトウェア・サービス事業
+- システムインテグレーション（SI）
+- ソフトウェア開発・設計
+- GeoMation 地理情報システムの設計・開発・提供
+- セキュリティ診断業務
+- サブスクリプションプラットフォームサービスの運用保守
 
-## 4. Capital and Employee Count
+### 情報処理機器販売事業
+- 情報処理機器の販売・導入支援
 
-**Note:** Specific capital and employee figures could not be retrieved due to web search limitations.
+### 事業領域
+- 製造業向けソリューション
+- 流通業向けソリューション
+- 通信業向けソリューション
+- 社会インフラ・交通
+- 教育・医療分野
 
-Company size appears to be in the small-to-medium enterprise range based on:
-- Location in a single building floor (6F)
-- Focus on specialized software development services
+## Clients
 
----
+- 官公庁・自治体
+- 製造業各社
+- 流通・小売業
+- 通信キャリア
+- 金融機関（一部は2015年再編で日立製作所へ移管）
 
-## 5. Products and Services
+## Philosophy
 
-**Core Business Areas:**
+- 「未知の扉をひらく。ゆるぎないチカラとともに。」
+- 従業員を最も貴重な経営資源と捉え、働き方改革やダイバーシティ経営を推進
+- 人財育成に注力し、高度な技術力で自社製品・サービスを開発
+- グローバル展開（米国・中国に拠点）
 
-1. **受託開発ソフトウェア (Custom Software Development)**
-   - Tailored software solutions for client requirements
-   - Full lifecycle development services
+## Media Mentions
 
-2. **パッケージソフトウェア (Package Software)**
-   - Pre-built software solutions
-   - Commercial off-the-shelf products
+- [Wikipedia](https://ja.wikipedia.org/wiki/日立ソリューションズ) — 企業概要・沿革
+- [日経COMPASS](https://www.nikkei.com/compass/company/dWsHpfeDqxsMu5pb1K4EkB) — 企業情報
+- [OpenWork](https://www.openwork.jp/) — 企業紹介
 
-3. **組み込みソフトウェア (Embedded Software)**
-   - Firmware development
-   - Hardware-software integration
+## Notes
 
-4. **情報処理サービス (Information Processing Services)**
-   - Data processing solutions
-   - System integration services
-
-5. **ネットワーク・通信関連 (Network & Communication)**
-   - Network infrastructure solutions
-   - Communication systems development
-
-6. **SES (System Engineering Services)**
-   - Technical consulting
-   - System engineering and support
-
----
-
-## 6. Key Clients and Industries Served
-
-**Note:** Specific client information could not be retrieved due to web search limitations.
-
-Based on business fields, likely industries served:
-- Manufacturing
-- Finance and Banking
-- Healthcare
-- Government and Public Sector
-- Telecommunications
-- General Enterprise
-
----
-
-## 7. Company Philosophy and Culture
-
-**Note:** Detailed philosophy and culture information could not be retrieved.
-
-**Recruitment Information:**
-- 新卒採用 (New Graduate Recruitment) - Active
-- 中途採用 (Mid-Career Recruitment) - Active
-
-This suggests:
-- Active growth and talent acquisition
-- Commitment to developing both fresh and experienced talent
-- Potential for career development opportunities
-
----
-
-## 8. Media Mentions
-
-**⚠️ IMPORTANT NOTE:** Web search functionality was unavailable during this analysis due to:
-- Brave Search API: Invalid subscription token
-- Tavily Search API: Usage limit exceeded
-- Direct website access: Domain does not exist (NXDOMAIN for hitachisol.co.jp)
-- Browser automation: Timeout issues
-
-**Recommendation:** Manual web search required for:
-- Recent news coverage
-- Press releases
-- Industry mentions
-- Client testimonials
-- Business partnerships
-- Market presence indicators
-
-Suggested search queries:
-- "日立ソリューションズ ニュース"
-- "日立ソリューションズ 事例"
-- "Hitachi Solutions Yokohama"
-- "横浜市西区北幸2-9-18 ソフトウェア"
-
----
-
-## 9. Summary
-
-**日立ソリューションズ株式会社 (Hitachi Solutions, Ltd.)** is a software development company located in Yokohama, Japan. The company operates in multiple IT service domains including custom software development, package software, embedded systems, information processing, and network solutions.
-
-**Key Characteristics:**
-- Location: Yokohama, Kanagawa Prefecture (major IT hub in Japan)
-- Diversified service portfolio across software and IT services
-- Active recruitment for both new graduates and experienced professionals
-- Likely affiliated with or inspired by the Hitachi brand (one of Japan's largest technology conglomerates)
-
-**Data Limitations:**
-Due to technical issues with web access tools, comprehensive information about:
-- Company history and founding
-- Capital and financial details
-- Employee count
-- Specific clients and case studies
-- Recent news and media coverage
-- Company philosophy and culture details
-
-could not be obtained. A manual web search or alternative data sources would be needed to complete this analysis.
-
-**Verification Note:**
-The company website (https://www.hitachisol.co.jp/) appears to be inactive or non-existent at the time of this analysis. This may indicate:
-- Website has moved to a new domain
-- Company has been renamed, merged, or acquired
-- Temporary technical issues
-- Incorrect URL in source data
-
-Further verification of the company's current status and web presence is recommended.
-
----
-
-*Analysis Date: 2026-03-30*  
-*Data Sources: Task-provided information only*  
-*Web Search Status: Unavailable due to API limitations*
+- 日立グループ情報通信事業分野（システム＆サービスビジネス）の中核企業
+- ISO 9001 / ISO 14001 / ISO 27001 / ISO 27701 / プライバシーマーク取得
+- 子会社：日立ソリューションズ東日本、日立ソリューションズ西日本、日立ソリューションズ・クリエイト、日立ソリューションズ・テクノロジー
+- 情報処理技術者試験やベンダー資格を取得しているITエンジニアが多数在籍

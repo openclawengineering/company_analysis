@@ -1,84 +1,11 @@
-{
-  "company": {
-    "name_jp": "カシオ情報機器株式会社",
-    "name_en": "Casio Information Equipment Co., Ltd.",
-    "status": "Website Inaccessible - Current Status Unknown",
-    "website": "https://www.casio-info.co.jp/",
-    "website_accessible": false,
-    "listed_in_casio_group": false
-  },
-  "contact": {
-    "address": {
-      "postal_code": "220-0004",
-      "city": "横浜市西区",
-      "street": "北幸2-9-18 横浜西口NKビル6F",
-      "building": "Yokohama Nishiguchi NK Building 6F",
-      "full_address_jp": "220-0004 横浜市西区北幸2-9-18 横浜西口NKビル6F",
-      "prefecture": "神奈川県"
-    },
-    "phone": "Not Available",
-    "fax": "Not Available",
-    "email": "Not Available"
-  },
-  "business_information": {
-    "business_fields": [
-      "受託開発ソフトウェア (Contract Software Development)",
-      "パッケージソフトウェア (Package Software)",
-      "情報処理サービス (Information Processing Services)",
-      "ネットワーク・通信関連 (Network & Communication Solutions)"
-    ],
-    "capital": "Not Available",
-    "employee_count": "Not Available",
-    "established_date": "Not Available",
-    "fiscal_year_end": "Not Available"
-  },
-  "recruitment": {
-    "new_graduate": true,
-    "mid_career": true,
-    "recruitment_page": "Not Available"
-  },
-  "key_personnel": {
-    "executives": [],
-    "board_members": [],
-    "representative": {
-      "name": "Not Available",
-      "title": "Not Available"
-    },
-    "note": "Personnel information unavailable due to inaccessible website"
-  },
-  "parent_company": {
-    "name": "カシオ計算機株式会社 (Casio Computer Co., Ltd.)",
-    "relationship": "Unknown - Not currently listed as a subsidiary",
-    "website": "https://www.casio.co.jp/"
-  },
-  "data_quality": {
-    "last_updated": "2026-03-30",
-    "data_completeness": "Low",
-    "source_limitations": [
-      "Company website inaccessible",
-      "Not listed in current Casio Group companies",
-      "Web search API unavailable"
-    ],
-    "verification_status": "Unverified - Requires official registry check"
-  },
-  "recommendations": {
-    "verification_steps": [
-      "Check Japanese corporate registry (法務省登記簿)",
-      "Review Casio Computer Co., Ltd. historical annual reports",
-      "Contact Yokohama Chamber of Commerce",
-      "Search Japanese business news archives",
-      "Verify company registration status"
-    ],
-    "alternative_sources": [
-      "Tokyo Shoko Research (TSR)",
-      "Teikoku Databank",
-      "Nikkei Telecom database",
-      "Ministry of Justice corporate registry"
-    ]
-  },
-  "media_mentions": {
-    "available": false,
-    "note": "Unable to search for media mentions due to API limitations",
-    "search_required": true
+[
+  {
+    "name": "Todoroki Koichi",
+    "name_ja": "轟 宏一",
+    "role": "President & Representative Director",
+    "role_ja": "代表取締役社長",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://ja.wikipedia.org/wiki/カシオ情報機器"
   }
-}
+]

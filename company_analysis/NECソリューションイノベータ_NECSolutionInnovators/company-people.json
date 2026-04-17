@@ -1,150 +1,101 @@
-{
-  "company": {
-    "name_jp": "NECソリューションイノベータ株式会社",
-    "name_en": "NEC Solution Innovators, Ltd.",
-    "website": "https://www.nec-si.co.jp/",
-    "parent_company": "NEC Corporation",
-    "group": "NEC Group"
+[
+  {
+    "name": "Ishii Tsutomu",
+    "name_ja": "石井 力",
+    "role": "Chairman of the Board",
+    "role_ja": "取締役会長",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   },
-  "contact": {
-    "headquarters": {
-      "postal_code": "220-0004",
-      "prefecture": "神奈川県",
-      "city": "横浜市西区",
-      "district": "北幸2-9-18",
-      "building": "横浜西口NKビル6F",
-      "full_address_jp": "〒220-0004 神奈川県横浜市西区北幸2-9-18 横浜西口NKビル6F",
-      "country": "Japan"
-    }
+  {
+    "name": "Iwai Takao",
+    "name_ja": "岩井 孝夫",
+    "role": "President & Representative Director",
+    "role_ja": "代表取締役社長",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   },
-  "business_fields": [
-    {
-      "name_jp": "受託開発ソフトウェア",
-      "name_en": "Contract Software Development",
-      "description": "Custom software development and system integration"
-    },
-    {
-      "name_jp": "パッケージソフトウェア",
-      "name_en": "Package Software",
-      "description": "Ready-made software solutions and business applications"
-    },
-    {
-      "name_jp": "組み込みソフトウェア",
-      "name_en": "Embedded Software",
-      "description": "Firmware and embedded systems development"
-    },
-    {
-      "name_jp": "情報処理サービス",
-      "name_en": "Information Processing Services",
-      "description": "Data processing and IT infrastructure services"
-    },
-    {
-      "name_jp": "ネットワーク・通信関連",
-      "name_en": "Network & Communications",
-      "description": "Network systems and telecommunications software"
-    },
-    {
-      "name_jp": "SES",
-      "name_en": "System Engineering Services",
-      "description": "Technical staffing and system engineering support"
-    }
-  ],
-  "recruitment": {
-    "new_graduates": {
-      "jp": "新卒採用",
-      "en": "New Graduate Recruitment",
-      "status": "Active"
-    },
-    "mid_career": {
-      "jp": "中途採用",
-      "en": "Mid-Career Recruitment",
-      "status": "Active"
-    }
+  {
+    "name": "Yoshizaki Satoshi",
+    "name_ja": "吉崎 敏文",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   },
-  "corporate_data": {
-    "capital": {
-      "amount": null,
-      "currency": "JPY",
-      "note": "Data not available - verify with company registry"
-    },
-    "employee_count": {
-      "total": null,
-      "engineers": null,
-      "note": "Data not available - verify with company sources"
-    },
-    "established": {
-      "date": null,
-      "note": "Data not available - verify with company registry"
-    }
+  {
+    "name": "Hashimoto Yutaka",
+    "name_ja": "橋本 裕",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   },
-  "leadership": {
-    "executives": [],
-    "note": "Leadership information not available - website inaccessible"
+  {
+    "name": "Tachito Mayuko",
+    "name_ja": "帯刀 繭子",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   },
-  "key_departments": [
-    {
-      "name": "Software Development",
-      "description": "Contract and package software development"
-    },
-    {
-      "name": "Embedded Systems",
-      "description": "Firmware and embedded software"
-    },
-    {
-      "name": "Network Solutions",
-      "description": "Network and communications systems"
-    },
-    {
-      "name": "System Engineering",
-      "description": "SES and technical support services"
-    }
-  ],
-  "target_industries": [
-    "Government and Public Sector",
-    "Financial Services",
-    "Telecommunications",
-    "Manufacturing",
-    "Healthcare",
-    "Infrastructure",
-    "Transportation"
-  ],
-  "data_collection": {
-    "analysis_date": "2026-03-30",
-    "data_sources": [
-      "Provided company information",
-      "NEC Group knowledge base"
-    ],
-    "limitations": [
-      "Web search API unavailable",
-      "Company website inaccessible",
-      "Browser automation failed",
-      "Limited access to Japanese corporate databases"
-    ],
-    "verification_needed": [
-      "Company history and establishment date",
-      "Exact capital amount",
-      "Employee count",
-      "Leadership team",
-      "Client list",
-      "Company philosophy and mission",
-      "Recent media coverage",
-      "Financial performance"
-    ]
+  {
+    "name": "Ide Shinichiro",
+    "name_ja": "井手 伸一郎",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   },
-  "next_steps": {
-    "recommended_actions": [
-      "Visit company website directly: https://www.nec-si.co.jp/",
-      "Search Japanese business databases (帝国データバンク, 東京商工リサーチ)",
-      "Review NEC Corporation annual reports for subsidiary information",
-      "Check Japanese recruitment sites (リクナビ, マイナビ) for company details",
-      "Search LinkedIn for employee insights",
-      "Contact company directly for corporate materials"
-    ],
-    "search_resources": [
-      "https://www.nec.co.jp/ (Parent company)",
-      "https://company.nikkei.com/ (Nikkei Company Profile)",
-      "https://www.tdb.co.jp/ (Teikoku Databank)",
-      "https://www.tsr-net.co.jp/ (Tokyo Shoko Research)"
-    ]
+  {
+    "name": "Katsura Masahiro",
+    "name_ja": "桂 正浩",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
+  },
+  {
+    "name": "Sato Chiaka",
+    "name_ja": "佐藤 千佳",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
+  },
+  {
+    "name": "Sakai Yasushi",
+    "name_ja": "酒井 泰",
+    "role": "Corporate Auditor",
+    "role_ja": "監査役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
+  },
+  {
+    "name": "Nasu Atsushi",
+    "name_ja": "那須 厚",
+    "role": "Corporate Auditor",
+    "role_ja": "監査役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
+  },
+  {
+    "name": "Oku Teruaki",
+    "name_ja": "奥 輝明",
+    "role": "Corporate Auditor",
+    "role_ja": "監査役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.nec-solutioninnovators.co.jp/company/profile.html"
   }
-}
+]

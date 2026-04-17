@@ -1,194 +1,78 @@
 # NECソリューションイノベータ株式会社 (NEC Solution Innovators, Ltd.)
 
-## 1. Company Name
+## Company Overview
 
-**Japanese:** NECソリューションイノベータ株式会社  
-**English:** NEC Solution Innovators, Ltd.  
-**Parent Company:** NEC Corporation (NECグループ)
+NECソリューションイノベータ株式会社は、NECグループの社会ソリューション事業の中核企業として、官公庁や自治体、製造、流通、通信、医療など多岐にわたる業種に対してシステムソリューションを提供するシステムインテグレーターである。従業員数は約12,000名を超え、そのうち約10,000名がシステムエンジニアとして活動する、国内最大級のソフトウェア企業の一つである。
 
----
+2014年4月、NECソフトウェアグループを形成していた7社（NECソフト株式会社を含む）が統合し、現在の社名に変更された。NECグループの民需プロフェッショナル部門として、またグローバルビジネスを支えるICT部門として、社会や顧客とともにソリューションとイノベーションで新たな価値を創造している。
 
-## 2. Company Contact Information
+**Website:** [https://www.nec-solutioninnovators.co.jp](https://www.nec-solutioninnovators.co.jp)
 
-**Headquarters Address:**  
-〒220-0004  
-神奈川県横浜市西区北幸2-9-18  
-横浜西口NKビル6F  
-Japan
+## History
 
-**Website:** https://www.nec-si.co.jp/  
-*Note: Website accessibility could not be verified at time of analysis*
+- **1975年9月** — NECソフト株式会社設立
+- **2014年4月** — NECソフトウェアグループ7社統合により「NECソリューションイノベータ株式会社」発足
+- **2019年頃** — DX（デジタルトランスフォーメーション）ビジネス転換を推進、11の強化領域を設定
+- **2020年代** — バイオテクノロジー・心理学とAI・デジタルテクノロジーを組み合わせたデジタルヘルスケアサービスを展開
+- 現在 — 「NECソリューションイノベータ 2030Vision」に基づく6つのマテリアリティを設定し、サステナビリティ経営に取り組む
 
-**Recruitment:**
-- 新卒採用 (New Graduate Recruitment)
-- 中途採用 (Mid-Career Recruitment)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Capital | 86億6,800万円 |
+| Employees | 12,321名（2023年3月時点） |
+| Founded | 1975年9月9日 |
+| Representative | 代表取締役社長 岩井 孝夫 |
+| Headquarters | 東京都江東区新木場1-18-7 |
 
-## 3. Company History & Milestones
+## Services/Products
 
-**Note:** Due to technical limitations accessing the company website, detailed historical information could not be retrieved. As a member of the NEC Group, the company likely:
+### システムインテグレーション
+- 大規模システムの企画・設計・開発・運用・保守を一気通貫で対応
+- アーキテクチャデザインから実装・保守までの高い技術力を提供
+- アプリケーション領域、プロダクト領域、インフラ領域（オンプレ・クラウド）のSIを担う
 
-- Was established as part of NEC's software development and solutions division
-- Has evolved to focus on specialized software development and IT services
-- Serves as a key technology partner within the NEC ecosystem
+### DX推進
+- 部門横断型システム連携によるスピーディで高品質な提案と作業効率化
+- 営業支援システム導入による営業組織の強化支援
+- AI・クラウドを活用した社会課題解決
 
-**Recommended Verification:**
-- Visit the company website directly for detailed company history
-- Check NEC Corporation's annual reports for subsidiary information
-- Search Japanese business registries for establishment date
+### デジタルヘルスケア
+- バイオテクノロジー、心理学などの人間理解を軸とした研究開発
+- 「未病・予防」にフォーカスした独自のデジタルヘルスケアサービス
+- Well-beingの実現を目指す各種サービス提供
 
----
+### ヘルスケア・バリュープロバイダー事業
+- 各種ヘルスケア関連サービスの提供
 
-## 4. Capital and Employee Count
+## Clients
 
-**Note:** Specific figures could not be retrieved due to website access issues.
+- 官公庁・自治体
+- 金融機関
+- 製造業
+- 流通業
+- 通信業
+- 医療機関
+- 日本の産業全般にわたる多様な業種
 
-**Typical NEC Subsidiary Profile:**
-- NEC subsidiaries typically range from several hundred to several thousand employees
-- Capital typically ranges from tens to hundreds of millions of yen
-- For accurate figures, please verify with:
-  - Company website
-  - Japanese corporate registry (登記簿謄本)
-  - NEC Group financial reports
+## Philosophy
 
----
+- 「未知の扉をひらく。ゆるぎないチカラとともに。」（経営ビジョン）
+- NECソリューションイノベータ 2030Visionに基づく6つのマテリアリティを設定
+- 社員の自律的成長を支援し、企業の成長につなげる考え方
+- 学びと成長、チームで支え合う文化を重視
 
-## 5. Products and Services
+## Media Mentions
 
-Based on the business fields specified:
+- [OpenWork](https://www.openwork.jp/a0C1000000XyofD/pr/) — 企業紹介・事業内容
+- [B-Lab Tokyo](https://b-lab.tokyo.jp/companies/nec-solutioninnovators/) — 事業部徹底解剖
+- [Wikipedia](https://ja.wikipedia.org/wiki/NECソリューションイノベータ) — 企業概要
+- [InfoBase](https://www.infbs.net/corp/nec_solution) — 企業情報
 
-### 受託開発ソフトウェア (Contract Software Development)
-- Custom software development for enterprise clients
-- System integration and development projects
-- Application development services
+## Notes
 
-### パッケージソフトウェア (Package Software)
-- Ready-made software solutions
-- Industry-specific software packages
-- Business application suites
-
-### 組み込みソフトウェア (Embedded Software)
-- Firmware development
-- Embedded systems programming
-- IoT device software
-- Industrial equipment software
-
-### 情報処理サービス (Information Processing Services)
-- Data processing and management
-- Business process outsourcing
-- IT infrastructure services
-
-### ネットワーク・通信関連 (Network & Communications)
-- Network system development
-- Communication protocol implementation
-- Telecommunications software
-- Network infrastructure solutions
-
-### SES (System Engineering Services)
-- Technical staffing and engineering support
-- System design and architecture
-- Technical consulting
-
----
-
-## 6. Key Clients and Industries Served
-
-**Note:** Client information could not be retrieved from website.
-
-**Likely Industries (based on NEC Group focus):**
-- Government and Public Sector
-- Financial Services
-- Telecommunications
-- Manufacturing
-- Healthcare
-- Infrastructure and Utilities
-- Transportation
-
-**Typical NEC Subsidiary Client Profile:**
-- Large Japanese corporations
-- Government agencies
-- Public institutions
-- Financial institutions
-
----
-
-## 7. Company Philosophy and Culture
-
-**Note:** Philosophy and culture information could not be retrieved from website.
-
-**Expected Alignment with NEC Group Values:**
-- NEC Group Mission: "To create value through solutions that leverage advanced technologies"
-- Focus on innovation and technological excellence
-- Customer-centric approach
-- Commitment to social responsibility
-
-For accurate philosophy and culture information, please refer to the company's official website or recruitment materials.
-
----
-
-## 8. Media Mentions
-
-**Search Status:** Web search functionality was unavailable at time of analysis.
-
-**Recommended Search Terms for Media Coverage:**
-- "NECソリューションイノベータ" (Japanese)
-- "NEC Solution Innovators" (English)
-- "NECグループ" + "ソフトウェア開発"
-- Check Japanese tech news sites:
-  - [ITmedia](https://www.itmedia.co.jp/)
-  - @IT
-  - 日経XTREND
-  - CIO Japan
-  - Watch Impress
-
-**Suggested Search Periods:**
-- Recent project announcements
-- Partnership news
-- Technology releases
-- Recruitment initiatives
-- Industry awards and recognition
-
----
-
-## 9. Summary
-
-NECソリューションイノベータ株式会社 (NEC Solution Innovators, Ltd.) is a software development and IT services company headquartered in Yokohama, Japan, operating as part of the NEC Group. The company specializes in:
-
-- **Contract software development**
-- **Package software solutions**
-- **Embedded software systems**
-- **Information processing services**
-- **Network and communications technology**
-- **System engineering services (SES)**
-
-Located in Yokohama's Nishi-ku district, the company maintains active recruitment programs for both new graduates and mid-career professionals, indicating ongoing growth and project demand.
-
-**Key Characteristics:**
-- NEC Group subsidiary with access to parent company resources and client base
-- Comprehensive software development capabilities across multiple domains
-- Focus on enterprise and government clients
-- Active in embedded systems and network technologies
-- Positioned in the Yokohama business district, a major tech hub
-
-**Data Collection Limitations:**
-This analysis was conducted with limited web access. The following information could not be retrieved:
-- Detailed company history and establishment date
-- Exact capital and employee count
-- Specific client list and case studies
-- Company philosophy and mission statement
-- Recent media coverage and news
-- Executive leadership details
-
-**Recommendations for Complete Analysis:**
-1. Direct website visit: https://www.nec-si.co.jp/
-2. Contact company directly for corporate materials
-3. Search Japanese business databases (帝国データバンク, 東京商工リサーチ)
-4. Review NEC Corporation annual reports for subsidiary information
-5. Check LinkedIn and Japanese recruitment sites for employee insights
-
----
-
-*Analysis Date: 2026-03-30*  
-*Data Sources: Company information provided, NEC Group knowledge base*  
-*Note: Due to technical limitations, some data could not be verified from primary sources*
+- NECグループの中核SIerとして、日本最大級のシステムエンジニア集団を擁する
+- 2022年度売上高は約3,180億円
+- 全国に拠点を展開し、地域ごとのエリア別採用を実施
+- 従業員平均年収は約604万円

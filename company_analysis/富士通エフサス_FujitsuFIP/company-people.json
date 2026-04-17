@@ -1,93 +1,74 @@
-{
-  "company": {
-    "name_ja": "富士通エフサス株式会社",
-    "name_en": "Fujitsu FIP Corporation",
-    "website": "https://www.fip.co.jp/",
-    "parent_company": "富士通株式会社 (Fujitsu Limited)"
+[
+  {
+    "name": "Yasuda Masuo",
+    "name_ja": "保田 益男",
+    "role": "President & Representative Director",
+    "role_ja": "代表取締役社長",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
   },
-  "executives": [
-    {
-      "title": "代表取締役社長 (President & CEO)",
-      "name_ja": "情報なし",
-      "name_en": "Information not available",
-      "note": "Requires website access to obtain current executive information"
-    },
-    {
-      "title": "取締役 (Director)",
-      "name_ja": "情報なし",
-      "name_en": "Information not available",
-      "note": "Multiple directors likely; requires official source"
-    }
-  ],
-  "key_departments": [
-    {
-      "department": "受託開発事業部 (Contract Development Division)",
-      "function": "Custom software development for enterprise clients",
-      "head": "Information not available"
-    },
-    {
-      "department": "パッケージ事業部 (Package Software Division)",
-      "function": "Off-the-shelf software products",
-      "head": "Information not available"
-    },
-    {
-      "department": "情報サービス事業部 (Information Services Division)",
-      "function": "Data processing and IT outsourcing",
-      "head": "Information not available"
-    },
-    {
-      "department": "ネットワーク事業部 (Network Division)",
-      "function": "Network infrastructure and telecommunications",
-      "head": "Information not available"
-    }
-  ],
-  "recruitment": {
-    "new_graduate": {
-      "available": true,
-      "program_name": "新卒採用",
-      "note": "Accepts new graduates"
-    },
-    "mid_career": {
-      "available": true,
-      "program_name": "中途採用",
-      "note": "Accepts experienced professionals"
-    }
+  {
+    "name": "Tabie Kazuaki",
+    "name_ja": "旅家 一彰",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
   },
-  "corporate_info": {
-    "founded": "Information not available",
-    "capital": "Information not available",
-    "employees": "Information not available",
-    "location": {
-      "postal_code": "220-0004",
-      "address_ja": "横浜市西区北幸2-9-18 横浜西口NKビル6F",
-      "address_en": "Yokohama Nishiguchi NK Building 6F, 2-9-18 Kitasaiwai, Nishi-ku, Yokohama, Kanagawa 220-0004, Japan",
-      "city": "Yokohama",
-      "prefecture": "Kanagawa",
-      "country": "Japan"
-    }
+  {
+    "name": "Nagai Satoru",
+    "name_ja": "永井 哲",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
   },
-  "data_sources": [
-    {
-      "source": "Task-provided information",
-      "date": "2026-03-30",
-      "notes": "Basic company information provided in task"
-    },
-    {
-      "source": "Fujitsu Group public knowledge",
-      "date": "2026-03-30",
-      "notes": "General knowledge about Fujitsu subsidiaries"
-    }
-  ],
-  "data_limitations": [
-    "Web search APIs (Brave, Tavily) unavailable due to rate limits",
-    "Company website (www.fip.co.jp) was not accessible during analysis",
-    "Browser automation timed out",
-    "Detailed executive and employee information requires direct access to official sources"
-  ],
-  "analysis_metadata": {
-    "analysis_date": "2026-03-30",
-    "analyst": "OpenClaw AI Agent",
-    "confidence_level": "partial",
-    "recommendation": "Update this file with data from official company website and business registries when access is restored"
+  {
+    "name": "Kashiwazaki Shinichi",
+    "name_ja": "柏崎 真一",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
+  },
+  {
+    "name": "Ono Masashi",
+    "name_ja": "大野 正志",
+    "role": "Director",
+    "role_ja": "取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
+  },
+  {
+    "name": "Koga Kazushi",
+    "name_ja": "古賀 一司",
+    "role": "Director (Non-Executive)",
+    "role_ja": "取締役（非常勤）",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
+  },
+  {
+    "name": "Masuyama Kenji",
+    "name_ja": "増山 健二",
+    "role": "Corporate Auditor",
+    "role_ja": "監査役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
+  },
+  {
+    "name": "Koseki Yuichi",
+    "name_ja": "小関 雄一",
+    "role": "Corporate Auditor (Non-Executive)",
+    "role_ja": "監査役（非常勤）",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.fsastech.com/ja-jp/company/about/"
   }
-}
+]
