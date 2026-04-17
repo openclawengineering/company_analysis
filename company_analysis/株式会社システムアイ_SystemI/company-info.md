@@ -1,211 +1,77 @@
 # 株式会社システムアイ (System I Co., Ltd.)
 
-## 1. Company Name
+## Company Overview
 
-**Japanese:** 株式会社システムアイ  
-**English:** System I Co., Ltd.  
-**Business Type:** CAD/CAM Software Development and Sales
+株式会社システムアイは、1996年8月に創業した「独立系システム会社」として、業種に特化することなく多種多様なシステムソリューションを提供する横浜を拠点とするシステム開発会社である。先端技術を選定・適用した最適なWebシステムをモダンなアーキテクチャ上で実現し、業務系システム開発への長年の取組によるノウハウで上流工程から運用まで一貫したプロジェクト遂行のほか、トータル的にお客様のシステムをサポートするコンサルティングを提供している。
 
----
+AI、Fintech、クラウドなどの先端プロジェクトに多数参画し、自社内でも生成AIをフルに活用。代表や役員も現役エンジニアという「Geek集団」の会社。ビッグIT企業が集積するシアトル（米国）に拠点を新設し、グローバル展開にも着手している。リスキリングチャレンジ採用としてプログラミング未経験者を育てる取り組みも実施。
 
-## 2. Company Contact Information
+**Website:** [https://systemi.co.jp](https://systemi.co.jp)
 
-**Website:** https://www.system-i.co.jp
+## History
 
-**Note:** Detailed contact information not available from extracted website content.
+- **1996年8月** — 創業
+- 幅広い業界のシステム・Webサービスの企画開発、運用保守、クラウド化を展開
+- AI・Fintech・クラウド等の先端プロジェクトに参画
+- シアトル（米国）に海外拠点を新設
+- リスキリングチャレンジ採用を開始
+- 現在 — 横浜ランドマークタワー14Fに本社を構え事業展開
 
----
+## Capital & Employees
 
-## 3. Company History & Milestones
+| Field | Value |
+|-------|-------|
+| Capital | 2,500万円 |
+| Revenue | 10億〜50億円 |
+| Founded | 1996年8月 |
+| Representative | 代表取締役 葛川 敬祐 |
+| Headquarters | 神奈川県横浜市西区みなとみらい2-2-1 横浜ランドマークタワー14F |
+| Corporate Number | 4020001042589 |
 
-**Note:** Company history and founding date information not available from website content.
+## Services/Products
 
----
+### Webシステム開発
+- 先端技術を適用したモダンアーキテクチャでのWebシステム構築
+- AI・Fintech・クラウドプロジェクト
 
-## 4. Capital and Employee Count
+### 業務系システム開発
+- 上流工程（企画・要件定義）から運用まで一貫対応
+- クラウド化支援
 
-**Note:** Capital and employee count information not available from website.
+### システムコンサルティング
+- トータル的なシステムサポートコンサルティング
+- 技術的負債を蓄積しないシステム構築
 
----
+### リスキリング・人材育成
+- リスキリングチャレンジ採用（未経験者向けIT育成プログラム）
+- 社内「大人の夏期講習」によるスキルアップ
 
-## 5. Products and Services
+## Clients
 
-### Core Business
-Development and sales of 2D and 2.5D CAD/CAM software
+- 金融業界（Fintech）
+- 各種エンタープライズ企業
+- プライム案件が7割を超える
 
-### Main Products
+## Philosophy
 
-#### HandyCAD MarkⅡ
-- 2D design and drafting software
-- Focus on making design work "simpler and more efficient"
-- Responds to designers' requirements
-- Refined usability based on years of accumulated know-how
-- Frees designers from daily stress
-- Supports new creative ideas
+- 「独立系システム会社」としての中立性
+- Developer Experienceを追求
+- 「自分らしく」を形にするエンジニア文化
+- リスキリングによる社会貢献
 
-### Service Categories
+## Media Mentions
 
-#### 1. 製品情報 (Products)
-- 2D design and drafting solutions
-- CAD software tailored to designer needs
+- [システムアイ公式サイト](https://systemi.co.jp/company/profile/) — Company Profile
+- [InfoBase](https://www.infbs.net/corp/aapkt) — リスキリング・シアトル拠点の報道
+- [Wantedly](https://www.wantedly.com/companies/company_8807883) — 企業情報
+- [BaseConnect](https://baseconnect.in/companies/4de9e15f-da9e-42e7-8de0-5b52bd92bcaf) — 企業データ
+- [JAISTマッチング](https://matching-web.jaist.ac.jp/portal/list/pdf/131.pdf) — 会社情報PDF
 
-#### 2. カスタマイズ (Customization)
-- CAD standalone customization
-- Complex system development integrating Web and databases
-- Small-scale command creation
-- Large-scale system development
-- Services for all industries, business types, and scales
+## Notes
 
-#### 3. サポート (Support)
-- Free support included with products
-- Paid premium support services available
-- Technical staff for problem resolution
-- Support for operations and version upgrades
-
-### Solutions Approach
-"解決 → 進化しつづける製品、進化するためのサポート" (Solution → Continuously evolving products, support for evolution)
-
-### Technical Capabilities
-- Rich experience and accumulated know-how
-- CAD customization expertise
-- Web and database integration
-- Custom command development
-- Full-scale system development
-
----
-
-## 6. Key Clients and Industries Served
-
-**Target Industries:**
-- Manufacturing (design and drafting)
-- Architecture and construction
-- Any industry requiring 2D/2.5D design capabilities
-
-**Client Types:**
-- Designers and engineers
-- Manufacturing companies
-- Organizations requiring CAD/CAM solutions
-
-**Service Scope:**
-- Industry: All sectors
-- Business type: All types
-- Scale: Small to large organizations
-
----
-
-## 7. Company Philosophy and Culture
-
-### Product Philosophy
-"思い通りの'モノづくり'へ" (Toward ideal "monozukuri" - craftsmanship)
-
-### Core Values
-
-1. **Product Excellence**
-   - Simple and efficient design tools
-   - User-friendly interfaces
-   - Stress-free design experience
-   - Support for creative thinking
-
-2. **Customization Freedom**
-   - "より使いやすく、より自由に" (More usable, more free)
-   - Customer-driven advanced customization
-   - Flexible solutions for all needs
-
-3. **Support Quality**
-   - Comprehensive support system
-   - Technical staff expertise
-   - Post-implementation assistance
-   - Continuous improvement
-
----
-
-## 8. Recent News and Events
-
-### Recent Updates (from website)
-
-**2026:**
-- 2026/01/19 - 製品情報 (Product Information)
-
-**2025:**
-- 2025/12/02 - お知らせ (Announcements)
-- 2025/11/27 - 製品情報 (Product Information)
-- 2025/10/31 - お知らせ (Announcements)
-- 2025/10/06 - イベント (Events)
-- 2025/09/30 - お知らせ (Announcements)
-- 2025/08/29 - お知らせ (Announcements)
-- 2025/07/24 - お知らせ (Announcements)
-- 2025/07/18 - 製品情報 (Product Information)
-- 2025/03/03 - 製品情報 (Product Information)
-- 2025/09/26 - イベント (Events)
-
-**2024:**
-- 2024/12/16 - イベント (Events)
-- 2024/10/17 - 製品情報 (Product Information)
-
-### Activity Level
-- Regular product updates and announcements
-- Active event participation
-- Continuous product evolution
-
----
-
-## 9. Media Mentions
-
-**Search Status:** Web search unavailable due to API limitations
-
-**Recommended Search Terms:**
-- "株式会社システムアイ"
-- "HandyCAD MarkⅡ"
-- "System I CAD"
-- "2D CAD Japan"
-
-**Suggested Sources:**
-- CAD industry publications
-- Manufacturing technology magazines
-- Design software review sites
-- Japanese IT media
-
----
-
-## 10. Summary
-
-**株式会社システムアイ (System I Co., Ltd.)** is a specialized software company focused on the development and sales of 2D and 2.5D CAD/CAM software, with their flagship product HandyCAD MarkⅡ. The company serves designers and engineers across various industries by providing efficient, user-friendly design tools.
-
-### Key Strengths:
-1. **Specialized Focus** - Deep expertise in 2D/2.5D CAD/CAM software
-2. **User-Centric Design** - Products designed to reduce designer stress
-3. **Flexible Customization** - Solutions for all scales and industries
-4. **Comprehensive Support** - Both free and premium support services
-5. **Continuous Evolution** - Regular updates and product improvements
-
-### Product Highlights:
-- **HandyCAD MarkⅡ** - Main 2D design and drafting software
-- Emphasis on simplicity and efficiency
-- Years of accumulated know-how
-- Refined usability
-
-### Service Capabilities:
-- Standalone CAD customization
-- Web and database integration
-- Custom command development
-- Full-scale system development
-- Technical support
-
-### Business Philosophy:
-- Enable ideal "monozukuri" (craftsmanship)
-- Support creative thinking
-- Provide stress-free design tools
-- Enable customer-driven customization
-
-### Competitive Advantages:
-- Long experience in CAD software development
-- Focus on user experience
-- Flexible customization options
-- Comprehensive support system
-- Regular product evolution and updates
-
----
-
-*Analysis Date: 2026-03-31*  
-*Data Source: Official company website (https://www.system-i.co.jp)*  
-*Note: Detailed company profile, history, and financial information not available on website*
+- 独立系（特定のメーカーグループに属さない）
+- シアトル（米国）に海外拠点あり
+- 代表・役員が現役エンジニア
+- プライム案件比率7割超
+- クラウド関連資格取得者が急増中
+- KIA（神奈川IT協会）会員

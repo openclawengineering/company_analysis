@@ -2,54 +2,60 @@
 
 ## Company Overview
 
-**Japanese Name:** アイエスシー株式会社
-**English Name:** ISC Co., Ltd.
-**Industry:** Image Processing Systems / Software Development
-**Founded:** 1988 (36 years of history as of 2024)
-**Website:** http://www.isc-net.co.jp
+アイエスシー株式会社は、1988年に設立された画像処理・コンピュータビジョンを専門とする技術開発会社である。画像処理用ライブラリ、マッチングエンジン、OCRエンジン、バーコード読取エンジンなどの自社開発ミドルウェアを核に、工業用画像処理装置、医療用画像処理システム、セキュリティ認証システム、産業用自動検査装置の開発・販売を手掛けている。
 
-### Core Business
-アイエスシー株式会社 specializes in image processing inspection systems and software development. With over 36 years of experience in image and video processing technology, the company provides comprehensive system solutions to meet customer needs.
+工場の自動化（FA）分野に強みを持ち、製造業の品質検査工程における画像検査システムの導入実績が豊富。川崎市中原区に本社を構え、約36年の歴史を持つ。
 
-## Services & Products
+**Website:** [http://www.isc-net.co.jp](http://www.isc-net.co.jp)
 
-### 1. 画像処理検査装置 (Image Processing Inspection Systems)
-- Automated product and appearance inspection using camera and laser technology
-- Detects minute defects such as scratches, dirt, and deformations that visual inspection might miss
-- Benefits: Reduced work time, labor cost savings, improved quality
+## History
 
-### 2. 映像解析・物体認識システム (Video Analysis & Object Recognition Systems)
-- Image analysis and object recognition systems for various applications
-- Applications include digital camera face recognition and image search technology
+- **1988年** — 設立
+- 画像処理用ソフトウェアの自社開発を開始
+- 画像処理ミドルウェア製品のラインナップ拡大
+- 工業用・医療用画像処理システムの展開
+- 現在 — 画像処理・コンピュータビジョンの専門企業として事業展開
 
-### 3. VR/AR Technology Solutions
-- Virtual Reality and Augmented Reality system development
-- Applied in medical, automotive, and wearable devices like Google Glass
+## Capital & Employees
 
-### 4. Additional Services
-- Web application development
-- Driver development
-- Hardware development and integration
+| Field | Value |
+|-------|-------|
+| Employees | 約20-30名（推定） |
+| Founded | 1988年 |
+| Headquarters | 神奈川県川崎市中原区上丸子山王町1-874-5 ユーテムビル2階 |
 
-## Company Philosophy
+## Services/Products
 
-The company is committed to providing customers with the system solutions they need through image and video processing technology cultivated over 36 years. They focus on:
-- Custom solutions tailored to budget, purpose, and production line scale
-- High-precision defect detection
-- Automation of inspection processes
+### 自社開発ミドルウェア
+- **画像処理ライブラリ** — 各種画像処理アルゴリズム
+- **マッチングエンジン** — パターンマッチング・位置合わせ
+- **OCRエンジン** — 文字認識
+- **バーコード読取エンジン** — 各種バーコードの読み取り
 
-## Contact Information
+### ソリューション
+- **工業用画像処理装置** — FAラインでの外観検査
+- **医療用画像処理システム** — 医療画像の解析支援
+- **セキュリティ認証システム** — 生体認証・顔認識
+- **産業用自動検査装置** — 品質管理・欠陥検出
 
-**Address:** 211-0002 神奈川県川崎市中原区上丸子山王町1-874-5 ユーテムビル2階
-**Website:** http://www.isc-net.co.jp
+## Clients
+
+- 製造業（品質検査・外観検査）
+- 医療機関
+- セキュリティ業界
+- 自動化設備メーカー
+
+## Philosophy
+
+- 画像処理技術を核に、産業の自動化・効率化に貢献
+- 高精度な画像認識技術の追求
 
 ## Media Mentions
 
-- The company has established itself as a specialist in image processing inspection equipment
-- Serves major enterprises with their technology
-- Positioned as a "reliable partner" in the industry
+- [アイエスシー公式サイト](http://www.isc-net.co.jp) — 企業情報・製品情報
 
 ## Notes
-- Specializes in both software and hardware development
-- Provides end-to-end solutions from system development to hardware implementation
-- Focus on production and manufacturing line automation
+
+- KIA（神奈川IT協会）会員
+- 画像処理・コンピュータビジョンの専門企業
+- FA（ファクトリーオートメーション）分野に強み

@@ -2,74 +2,62 @@
 
 ## Company Overview
 
-ISIS Co., Ltd. is a business software support and system development company with over 37 years of history. Based in Kawasaki, Kanagawa, the company provides comprehensive business application implementation guidance, from the dawn of PC business applications through modern cloud migration.
+アイシス株式会社は、神奈川県川崎市麻生区新百合ヶ丘に本社を置くシステム開発会社である。組み込みソフトウェア、パッケージソフトウェア、情報処理サービス、その他の情報サービス、SES（技術者派遣）を事業展開している。事業理念として「楽しく仕事をして、お客様に貢献する」を掲げ、社員のやりがいとお客様への価値提供の両立を目指している。
 
-**Japanese Name:** ISIS Co., Ltd.
-**Industry:** Business Software Support & System Development
-**Founded:** 37+ years ago (as of 2024)
-**Website:** http://www.isis.co.jp / https://www.isis.co.jp
+新百合ヶ丘駅前の新百合ヶ丘シティビルディングに本社を構え、中途採用・新卒採用を積極的に実施している。
 
-### Company Name Origin
-The company name "isis" comes from the musical term "double sharp" meaning "up and up" in German notation. The founder, who was a piano teacher, named the company with the wish that it would continuously improve and grow.
+**Website:** [http://www.isis.co.jp](http://www.isis.co.jp)
 
-## Services & Products
+## History
 
-### 1. Business Application Implementation
-- Long-standing provider of business application implementation guidance
-- From the dawn of PC business applications to the present day
-- Focus on IT and cloud migration support
+- 設立（詳細設立年は要確認）
+- 組み込みソフトウェア開発を主力に事業展開
+- パッケージソフトウェア・情報処理サービスを拡充
+- SES（技術者派遣）事業を開始
 
-### 2. Core Business Solutions
-- Accounting systems
-- Payroll systems
-- Personnel management
-- Sales and inventory management
-- Customer relationship management (CRM)
+## Capital & Employees
 
-### 3. System Development
-- Custom business software development
-- Cloud migration support
-- IT infrastructure consulting
+| Field | Value |
+|-------|-------|
+| Headquarters | 神奈川県川崎市麻生区万福寺1-1-1 新百合ヶ丘シティビルディング3F |
 
-## Company Philosophy & Culture
+## Services/Products
 
-### Management Philosophy
-- Focus on customer-centric problem solving
-- Propose optimal equipment and software from the customer's perspective
-- Help customers efficiently and continuously advance their IT and cloud initiatives
+### 組み込みソフトウェア
+- 組込みシステムの設計・開発
 
-### Employee Focus
-- "Employees are the company's treasure"
-- Strong emphasis on individual employee growth and development
-- Commitment to employee health and well-being
-- Actively welcomes young talent
+### パッケージソフトウェア
+- 自社パッケージソフトの開発・販売
 
-### Work-Life Balance Initiatives
-- Creating an environment where women can continue working through life events (marriage, childbirth, childcare)
-- Supporting all employees in balancing work and childcare
-- In-house career consultant available for consultations
-- Focus on enabling employees to pursue their desired "life career"
+### 情報処理サービス
+- データ処理・業務処理サービス
 
-## Contact Information
+### その他の情報サービス
+- 各種IT関連サービス
 
-- **Address:** Shin-Yurigaoka City Building 3F, 1-1-1 Manpukuji, Asao-ku, Kawasaki, Kanagawa 215-0004
-- **Representative:** Saaya Takagi, Representative Director
-- **Website:** https://www.isis.co.jp
+### SES（技術者派遣）
+- 技術者派遣サービス
 
-## Business Fields
-- Embedded Software
-- Package Software
-- Information Processing Services
-- Other Information Services
-- SES (System Engineering Services)
+## Clients
 
-## Recruiting
-- New Graduate Recruitment
-- Mid-Career Recruitment
-- On-site/Dispatch
+- 製造業（組み込み系）
+- 各種IT企業
+- エンタープライズ顧客
+
+## Philosophy
+
+- 「楽しく仕事をして、お客様に貢献する」
+- 社員のやりがいと成長を重視
+- 技術力を核にお客様の課題を解決
+
+## Media Mentions
+
+- [アイシス公式サイト](http://www.isis.co.jp/company/) — 企業情報
+- [神奈川労働局 職業紹介](https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/hourei_seido_tetsuzuki/shokugyou_shoukai/_120575.html) — 職業紹介
+- [川崎市](https://www.city.kawasaki.jp/250/page/0000171636.html) — 掲載情報
 
 ## Notes
-- 37+ years of experience in business software industry
-- Strong focus on female-friendly workplace
-- Comprehensive business application support from accounting to CRM
-- Member of Kanagawa Information Technology Association (KIA)
+
+- KIA（神奈川IT協会）会員
+- 新百合ヶ丘駅前の好立地
+- ⚠️ ウェブサイトの会社概要ページに資本金・従業員数の記載なし（Limited information available）
