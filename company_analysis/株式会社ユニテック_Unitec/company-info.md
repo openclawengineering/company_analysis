@@ -1,31 +1,58 @@
 # 株式会社ユニテック (Unitec Co., Ltd.)
 
-## Overview
-Unitec Co., Ltd. provides program development and 3D CAD/CAE support services. The company strives to improve its employees' technical skills to become "high-value engineers," aiming to provide satisfaction and trust to clients by meeting their needs and requirements.
+## Company Overview
+
+株式会社ユニテックは、2001年11月に設立されたシステム開発会社である。建設、流通、物流・製造など様々な業種のベストなソリューションをご提供することをミッションに、受託開発ソフトウェア、パッケージソフトウェア、情報処理サービスを展開している。本社は東京都千代田区神田東松下町。
+
+従業員約35名の中小規模IT企業。建設業界向けソリューションを強みとし、様々な業種の業務システム開発に対応。
+
+**Website:** [https://www.unitec-net.co.jp](https://www.unitec-net.co.jp) ⚠️（サイトにアクセスできない — 2026年4月現在）
 
 ## History
-Detailed corporate history not publicly available.
 
-## Capital
-Not disclosed.
+- **2001年11月** — 設立
+- 建設・流通・物流・製造業向けシステム開発を展開
+- 現在 — 各種業種のソリューション提供
 
-## Services
-- Program development
-- 3D CAD/CAE support services
-- Engineer dispatch/staffing
+## Capital & Employees
+
+| Field | Value |
+|-------|-------|
+| Employees | 約35名（推定） |
+| Founded | 2001年11月 |
+| Headquarters | 東京都千代田区神田東松下町41-2 ウエキビル3F |
+
+## Services/Products
+
+### 受託開発ソフトウェア
+- 建設業向けシステム開発
+- 流通・物流業向けシステム開発
+- 製造業向けシステム開発
+
+### パッケージソフトウェア
+- 業務パッケージソフトの開発・販売
+
+### 情報処理サービス
+- データ処理・業務処理サービス
 
 ## Clients
-Manufacturing and design sector clients.
+
+- 建設業
+- 流通業
+- 物流業
+- 製造業
 
 ## Philosophy
-The company encourages every employee to hold "big future goals — dreams" and the belief that "dreams can absolutely be realized." The company provides technical training and certification support to help employees achieve their goals. Through each employee realizing their dreams and becoming high-value engineers, the company aims to grow as an enterprise contributing to society through manufacturing.
 
-## Contact
-- **Address:** Gotenyama Trust Tower, Shinagawa-ku, Tokyo 141-0022
-- **URL:** https://www.unitec.co.jp/
-
-## Certifications
-Various certifications obtained.
+- 様々な業種のベストなソリューションを提供
 
 ## Media Mentions
-For company information, please refer to the official website.
+
+- [ユニテック公式サイト](https://www.unitec-net.co.jp/aboutus) — 企業情報 ⚠️（アクセス不可）
+- [SalesNow](https://salesnow.jp/db/companies/jcb8u70jt7wwuwa9) — 会社概要
+
+## Notes
+
+- KIA（神奈川IT協会）会員
+- ⚠️ 公式ウェブサイトにアクセスできない（2026年4月現在）
+- ⚠️ 公開情報が限定的

@@ -1,36 +1,75 @@
 # 株式会社フジシステムズ (Fuji Systems Co., Ltd.)
 
-## Overview
-Fuji Systems Co., Ltd. operates under the corporate philosophy of "Trust," "Creation," and "Practice." Based on advanced technical capabilities and extensive know-how, the company continuously pursues the creation of new value. Within the software technology produced by constant innovation, each engineer identifies core technologies based on a future-oriented vision and drives self-renewal in software technology.
+## Company Overview
+
+株式会社フジシステムズは、1982年4月にフジサンケイグループ設立のIT企業としてスタートしたシステムインテグレーターである。独自のソフトウェアテクノロジーの確立を目指し、制御システムエンジニアリング事業、通信ネットワーク開発事業、監視カメラシステム製造事業、組み込みシステム開発事業、システムマネジメント事業、ネットショップ構築事業など幅広い業務を展開している。
+
+フジテレビをはじめとするフジサンケイグループの中核IT企業として、インターネット、e-ビジネス、スマートフォン、カーナビゲーション、デジタル放送システムなど、常に提案型システムインテグレータとしてソフトウェア開発を推進。従業員約108名。
+
+**Website:** [https://www.fujisystems.co.jp](https://www.fujisystems.co.jp)
 
 ## History
-Detailed corporate history is not publicly available.
 
-## Capital
-Not disclosed.
+- **1982年4月** — フジサンケイグループとして設立
+- 制御システムエンジニアリング事業を開始
+- 通信ネットワーク開発事業を展開
+- 監視カメラシステム製造事業を開始
+- 組み込みシステム開発・システムマネジメント事業を拡充
+- ネットショップ構築事業を開始
+- 現在 — 幅広いIT分野で事業展開
 
-## Services
-- Software development
-- System integration
-- AIleun network camera control × GPU programming
-- Forest Magic cloud service implementation support
-- Vehicle license plate recognition system (object recognition × character recognition)
-- Wi-Pasha (Wi-Fi Direct × Android)
+## Capital & Employees
+
+| Field | Value |
+|-------|-------|
+| Employees | 約108名 |
+| Founded | 1982年4月 |
+| Headquarters | 東京都 |
+| Group | フジサンケイグループ |
+
+## Services/Products
+
+### 制御システムエンジニアリング
+- 産業用制御システムの設計・開発
+
+### 通信ネットワーク開発
+- ネットワークシステムの設計・構築
+
+### 監視カメラシステム製造
+- セキュリティカメラシステムの製造・販売
+
+### 組み込みシステム開発
+- 組込みソフトウェアの設計・開発
+
+### システムマネジメント
+- システム運用・保守・管理
+
+### ネットショップ構築
+- ECサイトの構築・運用支援
 
 ## Clients
-Diverse system development tailored to customer needs.
+
+- フジサンケイグループ各社（フジテレビ等）
+- 放送業界
+- セキュリティ業界
+- 各種エンタープライズ企業
 
 ## Philosophy
-### Corporate Philosophy
-- Trust
-- Creation
-- Practice
 
-### Management Policy
-Pursuing continuous self-renewal.
-
-## Contact
-- **URL:** https://www.fujisystems.co.jp/
+- 独自のソフトウェアテクノロジーの確立
+- 専門特化による高レベルエンジニアリング力
+- 提案型システムインテグレーターとしての役割
 
 ## Media Mentions
-- [Exhibition Information](https://dxpo.jp/real/fox/yokohama/sales/) - 1st Sales & Marketing DXPO Yokohama '26
+
+- [フジシステムズ公式サイト](https://www.fujisystems.co.jp/company/) — 企業情報
+- [マイナビ2027](https://job.mynavi.jp/27/pc/search/corp501086/outline.html) — 採用情報
+- [SalesNow](https://salesnow.jp/db/companies/jcb3fadca67aw3trh) — 会社概要
+- [doda](https://doda.jp/DodaFront/View/Company/j_id__10146409564/) — 企業情報
+- [Yahoo!しごとカタログ](https://jobcatalog.yahoo.co.jp/company/2002737387/information/) — 企業情報
+
+## Notes
+
+- フジサンケイグループのIT企業
+- ⚠️ 資本金の公開情報なし（Limited information）
+- 多角的な事業展開（制御・通信・カメラ・EC等）
