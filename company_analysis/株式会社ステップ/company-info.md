@@ -1,93 +1,77 @@
-# 株式会社ステップ (ステップ)
-## Company Analysis Report
+# 株式会社ステップ (Step Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+株式会社ステップは、1986年10月に移動通信ネットワークの可能性に着目した3人の技術者によって設立されたソフトウェア開発会社である。携帯端末・通信制御ソフトウェアなどの移動体通信のプログラム開発をコアビジネスとして実績を積み上げ、培った技術・ノウハウをベースにWebシステム開発、AI、IoT、データ分析などの分野にも進出している。
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社ステップ |
-| **English** | ステップ |
-| **Reading** | TBD |
+主要取引先にNTTドコモ、NTTテクノクロス、ドコモ・テクノロジ、コムシス情報システム、横須賀市などを持ち、基地局ソフトウェア、携帯端末ソフトウェア、支援ソフトウェアを主要業務とする。従業員128名、ISO 27001認証取得、健康経営優良法人2026認定。
 
----
+**Website:** [https://www.step-japan.co.jp](https://www.step-japan.co.jp)
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** 〒812-0893 福岡県福岡市博多区那珂5-8-28 TEL:092-474-6521 FAX:092-474-6530 プライバシーポリシー Copyrig
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** http://step-ep.jp/
+- **1986年10月** — 3人の技術者により設立
+- 携帯端末・通信制御ソフトウェア開発をコアビジネスとして展開
+- Webシステム開発、AI、IoT、データ分析分野に進出
+- ISO 27001認証取得
+- 総務省「テレワーク先駆者百選」選出
+- 健康経営優良法人2026認定
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Capital | 4,000万円 |
+| Employees | 128名（2025年4月） |
+| Founded | 1986年10月1日 |
+| Representative | 代表取締役社長 小黒 雅己 |
+| Headquarters | 神奈川県横須賀市神明町1-50 |
+| Banking | 横浜銀行 / 三菱UFJ銀行 |
 
-## 3. Company History & Milestones
+## Services/Products
 
-| Date | Event |
-|------|-------|
+### 移動体通信関連ソフトウェア開発
+- 基地局ソフトウェア
+- 携帯端末ソフトウェア
+- 支援ソフトウェア
 
----
+### Webシステム開発
+- 企業向けWebアプリケーション開発
 
-## 4. Capital and Employee Count
+### AI・IoT・データ分析
+- 先端技術領域への展開
 
-| Item | Details |
-|------|---------|
+### 労働者派遣事業
+- 神奈川県労働者派遣許可取得
 
----
+## Clients
 
-## 5. Products and Services
+- NTTテクノクロス株式会社
+- 株式会社NTTドコモ
+- NTTドコモビジネス株式会社
+- ドコモ・テクノロジ株式会社
+- コムシス情報システム株式会社
+- 株式会社アイエスピー
+- アドソル日進株式会社
+- 株式会社ニフコ
+- 横須賀市
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Philosophy
 
-## 6. Key Clients and Industries Served
+- 「先端技術で、人と社会の未来をつなぐ」
+- 最先端技術への挑戦と高品質の追求
+- 多様な人材が輝く、持続可能な組織づくり
+- 社会との共生と責任
 
-- Information Technology
-- System Development
-- Software Solutions
+## Media Mentions
 
----
+- [総務省「テレワーク先駆者百選」](https://www.soumu.go.jp/) — テレワーク先進企業として選出
+- [健康経営優良法人2026](https://www.mhlw.go.jp/) — 厚生労働省認定
+- [株式会社ステップ 公式サイト](https://www.step-japan.co.jp/company/) — 企業情報
 
-## 7. Company Philosophy and Culture
+## Notes
 
-TBD - Additional research needed.
----
-
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| [会社情報](https://www.kk-step.jp/company/) | Web | # 株式会社STEP 会社概要. ## 会社概要. | 本社所在地 | 〒569-0062 大阪府高槻市下田部町2丁目7-2 TEL:072-648-3311  |
-| [株式会社ステップ](https://www.step-japan.co.jp/) | Web | ## What’s STEP INC. ### 日本の携帯通信技術を創る 横須賀のITカンパニー. 「日本の携帯通信技術を創る横須賀のITカンパニー」株式会社ス |
-| [(株)ステップの新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp77105/outline.html) | Web | # (株)ステップ. | PHOTO  お客様の笑顔を大切に、販売を通じて喜びを届けることで、自らも成長できる企業です。 | 弊社では≪Enjoy the Ch |
-| [株式会社ステップ ホームページ](https://www.stepltd.co.jp/) | Web | 私たちは、情報通信・医療・電気・建設・流通・製造・金融・自治体・官公庁など、多種多様な業種・業態へ、お客様のニーズに合った高品質なITソリューションを提供してお |
-| [株式会社ステップ 採用情報](https://www.stepv.co.jp/) | Web | 当社は、神奈川県藤沢市でスタートした学習塾です。中学部、高校部、個別指導部門、学童部門を合わせ神奈川県内に169スクール(2026年度)を展開しています。 生徒 |
-| [株式会社ステップ（STEP）](https://www.stepnet.co.jp/company/) | Web | Special Teaching and. Education by Professionals. お知らせNEWS. 2026/03/23. 自己株式の取得状 |
-| [株式会社ステップ｜CM音楽制作・MAスタジオ・イベント・ラジオ ...](https://stepjapan.jp/) | Web | テレビ・ラジオCMや映画・PV・WEBムービー等の音の制作からMAスタジオ、イベントプロデュース、ラジオ番組の企画制作まで、トータルにご提案します。 |
-
----
-
-## 9. Summary
-
-### Company Overview
-株式会社ステップ is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- 関連会社：株式会社ステップホールディングス、南京邁特望科技有限公司（中国）、株式会社ESS、株式会社エンベデッドプロ
+- 加盟団体：神奈川県情報サービス産業協会、YRP情報産業協同組合
+- 資格保有社員多数：基本情報技術者50名、応用情報技術者22名、情報処理安全確保支援士8名
+- AWS認定資格者7名、ネットワークスペシャリスト7名

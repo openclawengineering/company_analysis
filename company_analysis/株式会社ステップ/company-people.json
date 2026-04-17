@@ -1,10 +1,10 @@
-{
-  "company": {
-    "name_jp": "株式会社ステップ",
-    "name_en": "ステップ",
-    "website": "http://step-ep.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+[
+  {
+    "name_jp": "小黒 雅己",
+    "name_en": "Masami Oguro",
+    "position_jp": "代表取締役社長",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://www.step-japan.co.jp/company/"
+  }
+]

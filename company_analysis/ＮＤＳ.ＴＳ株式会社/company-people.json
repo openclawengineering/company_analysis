@@ -1,10 +1,10 @@
-{
-  "company": {
-    "name_jp": "ＮＤＳ.ＴＳ株式会社",
-    "name_en": "ＮＤＳ.ＴＳ",
-    "website": "https://www.nds-g.co.jp/ndsts/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+[
+  {
+    "name_jp": "多賀 孝夫",
+    "name_en": "Takao Taga",
+    "position_jp": "代表取締役",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://www.nds-g.co.jp/ndsts/about/outline.php"
+  }
+]

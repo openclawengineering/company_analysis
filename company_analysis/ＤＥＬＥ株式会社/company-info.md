@@ -1,87 +1,72 @@
-# ＤＥＬＥ株式会社 (ＤＥＬＥ)
-## Company Analysis Report
+# ＤＥＬＥ株式会社 (DELE Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+DELE株式会社は、データの「消去（Delete）」に特化したプラットフォーム企業である。データ消去トレーサビリティ事業、データ消去プラットフォーム事業、データ消去装置の販売・レンタル、データ消去サービス（出張・送付）を展開。確実にデータを消去することで情報漏えいやリスクを根本から断ち、人々の不安を消すことを使命としている。
 
-| Language | Name |
-|----------|------|
-| **Japanese** | ＤＥＬＥ株式会社 |
-| **English** | ＤＥＬＥ |
-| **Reading** | TBD |
+本社は神奈川県川崎市。ADEC消去プロセス認証、プライバシーマーク付与事業者、古物商取引免許、産業廃棄物収集運搬業許可を取得。「かわさき☆えるぼし」「かわさきSDGsゴールドパートナー」認証企業。データ適正消去実行証明協議会の会計幹事を務める。
 
----
+**Website:** [https://dele.gr](https://dele.gr)
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
+- 設立（詳細設立年月日は要確認）
+- データ消去事業を開始
+- ADEC消去プロセス認証取得（P2022-001）
+- 各種公的入札参加資格を取得（東京都、神奈川県、横浜市、川崎市等）
+- 2022年 — かながわSDGsパートナー認定
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Representative | 代表取締役 福地真由香 |
+| Headquarters | 神奈川県川崎市川崎区南渡田町1-1 京浜ビル2F |
+| Phone | 044-223-7820 |
 
-## 3. Company History & Milestones
+## Services/Products
 
-| Date | Event |
-|------|-------|
+### データ消去トレーサビリティ事業
+- データ消去の記録・証明システム
 
----
+### データ消去プラットフォーム事業
+- クラウド型データ消去プラットフォーム
 
-## 4. Capital and Employee Count
+### データ消去装置の販売・レンタル
+- 各種データ消去装置の提供
 
-| Item | Details |
-|------|---------|
+### データ消去サービス
+- 出張消去サービス
+- 送付消去サービス
 
----
+### その他事業
+- 広告関連事業
+- リサイクル事業
 
-## 5. Products and Services
+## Clients
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+- 官公庁・自治体（各省庁統一入札資格保有）
+- 東京都・神奈川県・横浜市・川崎市等
+- 企業のデータセキュリティ対応
 
-## 6. Key Clients and Industries Served
+## Philosophy
 
-- Information Technology
-- System Development
-- Software Solutions
+- 「消すこと」で新しい価値を創造し、「消すこと」で未来を守る
+- データの進化する社会で、「データを消す」ことの重要性に注目
+- SDGsに基づくサステナビリティ経営（サーキュラー・エコノミー推進）
+- 障がいを持つ方に働く場と機会を提供
 
----
+## Media Mentions
 
-## 7. Company Philosophy and Culture
+- **2021年** — かながわ経済新聞（5月、10月）掲載
+- **2021年** — TEIKOKU NEWS（11月）掲載
+- **2022年** — かながわ経済新聞（5月）掲載
+- [DELE公式サイト](https://dele.gr/corporate/) — 企業情報
 
-TBD - Additional research needed.
----
+## Notes
 
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
-
----
-
-## 9. Summary
-
-### Company Overview
-ＤＥＬＥ株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- 「かわさき☆えるぼし」「かわさきSDGsゴールドパートナー」認証
+- 2022年かながわSDGsパートナー
+- 全省庁統一入札参加資格保有
+- データ適正消去実行証明協議会 会計幹事
+- 一般社団法人神奈川県情報サービス産業協会 理事

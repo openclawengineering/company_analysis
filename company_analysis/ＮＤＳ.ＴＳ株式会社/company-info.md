@@ -1,92 +1,68 @@
-# ＮＤＳ.ＴＳ株式会社 (ＮＤＳ.ＴＳ)
-## Company Analysis Report
+# ＮＤＳ.ＴＳ株式会社 (NDS.TS Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+NDS.TS株式会社は、1986年8月に設立されたモバイル通信・組み込みソフトウェア専門の技術開発会社である。NDSグループに属し、無線ネットワーク機器やモバイル端末の評価・検証、3G/LTE/5G基地局の評価・検証、組み込みソフトウェア開発、各種アプリケーション開発事業を展開している。急速に変化するモバイル分野において、長年にわたり黒字経営を維持する堅実な経営基盤を持つ。
 
-| Language | Name |
-|----------|------|
-| **Japanese** | ＮＤＳ.ＴＳ株式会社 |
-| **English** | ＮＤＳ.ＴＳ |
-| **Reading** | TBD |
+次世代移動通信サービスの開発支援を主力とし、通信システムを構成する無線ネットワーク機器やスマートフォンの機能テストを手掛ける。また、社員提案の自社アプリ開発も行う。
 
----
+**Website:** [https://www.nds-g.co.jp/ndsts/](https://www.nds-g.co.jp/ndsts/)
 
-## 2. Company Contact Information
+## History
 
-### Headquarters
-- **Address:** 〒222-0033 神奈川県横浜市港北区新横浜二丁目３番地４ Information Security Policy Privacy Policy Copyri
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://www.nds-g.co.jp/ndsts/
+- **1986年8月** — 設立
+- モバイル通信機器の評価・検証事業を開始
+- 3G/LTE/5G基地局の評価・検証に対応
+- 組み込みソフトウェア開発・アプリ開発事業を拡大
+- 現在 — NDSグループの一員として事業展開
 
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
+## Capital & Employees
 
----
+| Field | Value |
+|-------|-------|
+| Capital | 8,000万円 |
+| Employees | 約60-68名 |
+| Founded | 1986年8月 |
+| Representative | 代表取締役 多賀 孝夫 |
+| Headquarters | 神奈川県横浜市港北区新横浜2-3-4 クレシェンドビル5F |
+| Corporate Number | 2021001006429 |
 
-## 3. Company History & Milestones
+## Services/Products
 
-| Date | Event |
-|------|-------|
+### 通信機器評価・検証
+- 無線ネットワーク機器の評価・検証
+- モバイル端末の評価・検証
+- 3G/LTE/5G基地局の評価・検証
 
----
+### 組み込みソフトウェア開発
+- 組込みシステムの設計・開発
 
-## 4. Capital and Employee Count
+### アプリケーション開発
+- モバイルアプリ開発
+- Webアプリ開発
+- 自社アプリ開発（社員提案）
 
-| Item | Details |
-|------|---------|
+## Clients
 
----
+- 通信キャリア
+- ネットワーク機器メーカー
+- スマートフォンメーカー
 
-## 5. Products and Services
+## Philosophy
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+- 最先端のモバイルコミュニケーションインフラを構築する
+- 急速に変化するモバイル分野で堅実な経営
+- 技術力を核とした成長
 
-## 6. Key Clients and Industries Served
+## Media Mentions
 
-- Information Technology
-- System Development
-- Software Solutions
+- [NDS.TS公式サイト](https://www.nds-g.co.jp/ndsts/about/outline.php) — 会社概要
+- [東京商工リサーチ](https://www.tsr-net.co.jp/alevel/detail/1199273_2071.html) — 企業情報
+- [SalesNow](https://salesnow.jp/db/companies/jcbks42frtkyhhhh) — 会社概要
+- [Career-Tasu](https://job.career-tasu.jp/corp/00137173/detail-uc/) — 企業情報
 
----
+## Notes
 
-## 7. Company Philosophy and Culture
-
-会社概要 沿革 アクセス 評価・検証関連 ソフトウェア開発 --> INTERVIEW --> STAFF BLOG --> OUR STAFF --> --> Creating Value that Delights 笑顔と価値を 創造する Our Business Evaluation and Validation 評価・検証関連 Software Development ソフトウェア開発 About Us 「人」がＮＤＳ.ＴＳの宝 --> Top Message トップメッセージ Philosophy 会社理念 Outline 会社概要 History 沿革 Access アクセス To
----
-
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| [NDS．TS株式会社の企業情報](https://job.career-tasu.jp/corp/00137173/detail-uc/) | Web | ## ログイン/会員登録. ### キャリタス就活TOP. ### 仕事や会社の雰囲気を体験しよう！. ### 本選考にエントリーしよう！. ### 企業情報や |
-| [NDS．TS株式会社](https://www.careermap.jp/corporations/99572) | Web | ## 笑顔と価値を創造する. ～「人」がＮＤＳ．ＴＳの宝～ 私たちは、宝物である「人」の持つ能力を最大限に発揮し、皆様のお役に立ちたいと考えています。 ～お客様 |
-| [NDS．TS株式会社の中途採用・転職・求人情報](https://www.r-agent.com/company/e2892/) | Web | 【横須賀/基地局評価試験】年休129日/完全週休二日制/資格取得支援制度あり ネットワークエンジニア · 月給. 27万円～43万円. 勤務地 · 仕事の内容. |
-| [NDS.TS(株)【NDSグループ】の新卒採用・会社概要](https://job.mynavi.jp/27/pc/search/corp285508/outline.html) | Web | NDS.TS(株)【NDSグループ】の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 |
-| [NDS.TS](https://www.alevelsearch.com/company/nds-g/) | Web | # NDS.TS株式会社. ## 最先端のR＆D開発へ参画しています. 現在、AR、VR、メタバースなどのアプリケーション開発・評価支援業務が拡大しており、これ |
-| [ＮＤＳ．ＴＳ株式会社の会社情報と与信管理](https://www.nikkei.com/compass/company/qVRhT1ADWoGBTWocdUdupV) | News | # ＮＤＳ．ＴＳ株式会社. ## 固定電話・データ通信事業. ## 有価証券報告書(最新10件). コムシスホールディングス 有価証券報告書－第22期(2024 |
-
----
-
-## 9. Summary
-
-### Company Overview
-ＮＤＳ.ＴＳ株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- NDSグループ所属
+- 長期黒字経営
+- 新横浜に本社を構える
