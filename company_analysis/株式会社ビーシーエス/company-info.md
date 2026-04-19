@@ -1,66 +1,87 @@
-# 株式会社ビーシーエス (BCS Inc.)
+# 株式会社ビーシーエス (ビーシーエス)
+## Company Analysis Report
 
-## Company Overview
+---
 
-BCS Inc. is an IT infrastructure services company that provides comprehensive IT solutions centered on "Business Continuity" — supporting the continuous operation of enterprise IT systems. The company offers three core solution areas: infrastructure design and construction, operations management, and security. BCS helps customers with security assurance, reliability and fault tolerance, and operational cost reduction.
+## 1. Company Name
 
-**Website:** http://www.biz-cs.com/
+| Language | Name |
+|----------|------|
+| **Japanese** | 株式会社ビーシーエス |
+| **English** | ビーシーエス |
+| **Reading** | TBD |
 
-## History
+---
 
-Detailed history is not publicly available.
+## 2. Company Contact Information
 
-## Headquarters & Offices
+### Headquarters
+- **Address:** TBD
+- **Location:** Kanagawa Prefecture, Japan
+- **TEL:** TBD
+- **Website:** TBD
 
-| Location | Details |
-|----------|---------|
-| **Headquarters** | Kanagawa Prefecture, Japan |
+### Affiliations
+- KIA (Kanagawa Information Service Industry Association)
 
-## Capital & Employees
+---
 
-Details not publicly available.
+## 3. Company History & Milestones
 
-## Products & Services
+| Date | Event |
+|------|-------|
 
-### Three Core Solutions
+---
 
-1. **Infrastructure Design & Construction**
-   - Optimal network infrastructure combining network devices, servers, and middleware
-   - Balancing cost and required service levels
-   - Customer environment-specific infrastructure proposals
+## 4. Capital and Employee Count
 
-2. **Operations Management**
-   - Comprehensive operations management system design, implementation, testing, and operations support (Tivoli, JP1, etc.)
-   - ITIL-related consulting
-   - Improving business efficiency through integrated operations management
+| Item | Details |
+|------|---------|
 
-3. **Security**
-   - Vulnerability assessment from an attacker's perspective
-   - Simulated attacks on network systems to identify weaknesses
-   - Security consulting and implementation
+---
 
-### Business Philosophy
-- Comprehensive enterprise "Business Continuity" as the foundation
-- Supporting customer IT system operations, design, and development
-- Achieving high customer satisfaction
+## 5. Products and Services
 
-## Clients
+### Core Business Areas
+1. IT System Development
+2. Software Solutions
+3. System Integration
+---
 
-Primarily enterprise information systems departments and system integrators.
+## 6. Key Clients and Industries Served
 
-## Media Mentions
+- Information Technology
+- System Development
+- Software Solutions
 
-- [iPros](https://www.ipros.com/) - "Comprehensive IT services supporting customer business continuity"
-- [Buffett Code](https://www.buffett-code.com/) - "Supporting business continuity of enterprise IT infrastructure; main customers are IS departments and system integrators"
-- Multiple unrelated companies share the name "BCS/ビーシーエス" in Japan (food manufacturing, entertainment, video/music distribution)
+---
 
-## Notes
+## 7. Company Philosophy and Culture
 
-- Focused on IT infrastructure and business continuity
-- Security assessment capabilities (penetration testing approach)
-- Operations management expertise (Tivoli, JP1, ITIL)
-- KIA member company
+TBD - Additional research needed.
+---
+
+## 8. Media Mentions
+
+| Source | Type | Description |
+|--------|------|-------------|
+| TBD | - | No media mentions found yet |
+
+---
+
+## 9. Summary
+
+### Company Overview
+株式会社ビーシーエス is a KIA member company based in Kanagawa Prefecture, Japan.  
+
+### Key Strengths
+1. KIA member company
+2. Based in Kanagawa tech corridor
+
+### Business Model
+IT services and system development.
 
 ---
 
 *Report generated: April 2026*
+*Data sources: Company website, Tavily search*

@@ -1,4 +1,4 @@
-# 株式会社エーアイネット・テクノロジ (エーアイネット・テクノロジ)
+# 株式会社スカイリミット (スカイリミット)
 ## Company Analysis Report
 
 ---
@@ -7,8 +7,8 @@
 
 | Language | Name |
 |----------|------|
-| **Japanese** | 株式会社エーアイネット・テクノロジ |
-| **English** | エーアイネット・テクノロジ |
+| **Japanese** | 株式会社スカイリミット |
+| **English** | スカイリミット |
 | **Reading** | TBD |
 
 ---
@@ -72,7 +72,7 @@ TBD - Additional research needed.
 ## 9. Summary
 
 ### Company Overview
-株式会社エーアイネット・テクノロジ is a KIA member company based in Kanagawa Prefecture, Japan.  
+株式会社スカイリミット is a KIA member company based in Kanagawa Prefecture, Japan.  
 
 ### Key Strengths
 1. KIA member company

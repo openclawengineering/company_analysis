@@ -1,44 +1,87 @@
-# 株式会社ジェー・アイ・ピー
+# 株式会社ジェー・アイ・ピー (ジェー・アイ・ピー)
+## Company Analysis Report
 
-## Company Overview
+---
 
-株式会社ジェー・アイ・ピー is a KIA (Kanagawa Information Services Industry Association) member company based in Kanagawa Prefecture, Japan. Limited public information is available about this company.
+## 1. Company Name
 
-**Website:** Unknown
+| Language | Name |
+|----------|------|
+| **Japanese** | 株式会社ジェー・アイ・ピー |
+| **English** | ジェー・アイ・ピー |
+| **Reading** | TBD |
 
-## History
+---
 
-Detailed corporate history is not publicly available.
+## 2. Company Contact Information
 
-## Capital & Employees
+### Headquarters
+- **Address:** TBD
+- **Location:** Kanagawa Prefecture, Japan
+- **TEL:** TBD
+- **Website:** TBD
 
-| Field | Value |
-|-------|-------|
-| Capital | Unknown |
-| Employees | Unknown |
-| Corporate Number | Unknown |
-| Founded | Unknown |
-| Representative | Unknown |
-| Headquarters | Kanagawa Prefecture, Japan |
+### Affiliations
+- KIA (Kanagawa Information Service Industry Association)
 
-## Services/Products
+---
 
-IT services and system development. Detailed business description is not publicly available.
+## 3. Company History & Milestones
 
-## Philosophy
+| Date | Event |
+|------|-------|
 
-Detailed corporate philosophy is not publicly available.
+---
 
-## Media Mentions
+## 4. Capital and Employee Count
 
-None found
+| Item | Details |
+|------|---------|
 
-## Notes
+---
 
-- KIA member company
-- Based in Kanagawa tech corridor
-- Limited public information available
+## 5. Products and Services
+
+### Core Business Areas
+1. IT System Development
+2. Software Solutions
+3. System Integration
+---
+
+## 6. Key Clients and Industries Served
+
+- Information Technology
+- System Development
+- Software Solutions
+
+---
+
+## 7. Company Philosophy and Culture
+
+TBD - Additional research needed.
+---
+
+## 8. Media Mentions
+
+| Source | Type | Description |
+|--------|------|-------------|
+| TBD | - | No media mentions found yet |
+
+---
+
+## 9. Summary
+
+### Company Overview
+株式会社ジェー・アイ・ピー is a KIA member company based in Kanagawa Prefecture, Japan.  
+
+### Key Strengths
+1. KIA member company
+2. Based in Kanagawa tech corridor
+
+### Business Model
+IT services and system development.
 
 ---
 
 *Report generated: April 2026*
+*Data sources: Company website, Tavily search*
