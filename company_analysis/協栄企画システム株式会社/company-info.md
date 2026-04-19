@@ -1,4 +1,4 @@
-# 株式会社富士ミライ (富士ミライ)
+# 協栄企画システム株式会社 (協栄企画システム)
 ## Company Analysis Report
 
 ---
@@ -7,8 +7,8 @@
 
 | Language | Name |
 |----------|------|
-| **Japanese** | 株式会社富士ミライ |
-| **English** | 富士ミライ |
+| **Japanese** | 協栄企画システム株式会社 |
+| **English** | 協栄企画システム |
 | **Reading** | TBD |
 
 ---
@@ -72,7 +72,7 @@ TBD - Additional research needed.
 ## 9. Summary
 
 ### Company Overview
-株式会社富士ミライ is a KIA member company based in Kanagawa Prefecture, Japan.  
+協栄企画システム株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
 
 ### Key Strengths
 1. KIA member company
