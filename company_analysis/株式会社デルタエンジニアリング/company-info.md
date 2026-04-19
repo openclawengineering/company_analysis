@@ -1,4 +1,4 @@
-# 株式会社ＮＴＴデータＩＭジェイエスピー (ＮＴＴデータＩＭジェイエスピー)
+# 株式会社デルタエンジニアリング (デルタエンジニアリング)
 ## Company Analysis Report
 
 ---
@@ -7,8 +7,8 @@
 
 | Language | Name |
 |----------|------|
-| **Japanese** | 株式会社ＮＴＴデータＩＭジェイエスピー |
-| **English** | ＮＴＴデータＩＭジェイエスピー |
+| **Japanese** | 株式会社デルタエンジニアリング |
+| **English** | デルタエンジニアリング |
 | **Reading** | TBD |
 
 ---
@@ -72,7 +72,7 @@ TBD - Additional research needed.
 ## 9. Summary
 
 ### Company Overview
-株式会社ＮＴＴデータＩＭジェイエスピー is a KIA member company based in Kanagawa Prefecture, Japan.  
+株式会社デルタエンジニアリング is a KIA member company based in Kanagawa Prefecture, Japan.  
 
 ### Key Strengths
 1. KIA member company

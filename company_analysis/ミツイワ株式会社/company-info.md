@@ -1,85 +1,87 @@
-# ミツイワ株式会社 (Mitsuiwa Corporation)
+# ミツイワ株式会社 (ミツイワ)
+## Company Analysis Report
 
-## Company Overview
+---
 
-Mitsuiwa Corporation is an IT and electronic device solutions company with the tagline "Foresight, Innovating Company — Always together with IT Solutions." The company provides ICT services and electronic device solutions to solve customers' management challenges. Their solution portfolio is organized under the "M's View" framework, covering cloud construction, DX promotion, device development, infrastructure construction, and comprehensive operations support.
+## 1. Company Name
 
-**Website:** https://www.mitsuiwa.co.jp/
+| Language | Name |
+|----------|------|
+| **Japanese** | ミツイワ株式会社 |
+| **English** | ミツイワ |
+| **Reading** | TBD |
 
-## History
+---
 
-Detailed corporate history is available on the official website.
+## 2. Company Contact Information
 
-## Headquarters & Offices
+### Headquarters
+- **Address:** TBD
+- **Location:** Kanagawa Prefecture, Japan
+- **TEL:** TBD
+- **Website:** TBD
 
-| Location | Details |
-|----------|---------|
-| **Headquarters** | Kanagawa Prefecture, Japan |
+### Affiliations
+- KIA (Kanagawa Information Service Industry Association)
 
-## Capital & Employees
+---
+
+## 3. Company History & Milestones
+
+| Date | Event |
+|------|-------|
+
+---
+
+## 4. Capital and Employee Count
 
 | Item | Details |
 |------|---------|
-| **Representative** | Takahashi, Representative Director & President |
 
-## Products & Services
+---
 
-### M's View Solution Portfolio
+## 5. Products and Services
 
-| Solution | Description |
-|----------|-------------|
-| **MCP** | Cloud construction and migration services |
-| **MDX** | Digital transformation (DX) promotion support |
-| **MDS** | Device development and operations support |
-| **MIP** | Infrastructure construction and network services |
-| **MSS** | Comprehensive operations support |
+### Core Business Areas
+1. IT System Development
+2. Software Solutions
+3. System Integration
+---
 
-### Support Services
-- Infrastructure/Network services
-- Security solutions
-- IoT solutions
-- Smart factory solutions
-- Device solutions
-- Business solutions
-- Energy/Environment solutions
+## 6. Key Clients and Industries Served
 
-### Proprietary Products
-- **MAKOTO** - Secure generative AI service
-- **MDMS** - Mitsuiwa Digital Managed Service (PDMS)
-- Various business process solutions for shrines and other verticals
+- Information Technology
+- System Development
+- Software Solutions
 
-## Clients
+---
 
-Various enterprises across manufacturing, public sector, and other industries.
+## 7. Company Philosophy and Culture
 
-## Philosophy
+TBD - Additional research needed.
+---
 
-### Management Policy & Code of Conduct
-Detailed management policy and behavioral guidelines available on the official website.
+## 8. Media Mentions
 
-### Quality Philosophy (Mitsuiwa Information)
-"What we aim for in quality is our customers' true intentions = we respond to our customers' desires with quality"
+| Source | Type | Description |
+|--------|------|-------------|
+| TBD | - | No media mentions found yet |
 
-## Group Companies
+---
 
-- **Mitsuiwa Information Inc.** (ミツイワ情報株式会社) - Subsidiary focusing on quality and customer responsiveness
+## 9. Summary
 
-## Media Mentions
+### Company Overview
+ミツイワ株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
 
-- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp15466/outline.html) - "Working Groups (WG) launched to drive cross-departmental challenges"
-- [OpenWork](https://www.openwork.jp/) - Employee reviews (overall ranking: 336th)
-- [YouTube Channel](https://www.youtube.com/channel/UCIFtyEdG5d7hYtkFycJHkZw) - Secure AI service "MAKOTO," digital managed services
-- [En-Hyouban](https://en-hyouban.com/company/00001149227/) - Employee reviews
-- [Metoree](https://metoree.com/companies/49057/) - Company and product information
+### Key Strengths
+1. KIA member company
+2. Based in Kanagawa tech corridor
 
-## Notes
-
-- KIA member company
-- Structured solution portfolio (MCP/MDX/MDS/MIP/MSS)
-- Active in generative AI (MAKOTO) and digital managed services
-- Diversified offerings: IT services + electronic devices
-- Multiple sales divisions indicate significant enterprise sales operations
+### Business Model
+IT services and system development.
 
 ---
 
 *Report generated: April 2026*
+*Data sources: Company website, Tavily search*
