@@ -1,4 +1,4 @@
-# 株式会社シンシア (シンシア)
+# ネットリサーチ株式会社 (ネットリサーチ)
 ## Company Analysis Report
 
 ---
@@ -7,8 +7,8 @@
 
 | Language | Name |
 |----------|------|
-| **Japanese** | 株式会社シンシア |
-| **English** | シンシア |
+| **Japanese** | ネットリサーチ株式会社 |
+| **English** | ネットリサーチ |
 | **Reading** | TBD |
 
 ---
@@ -72,7 +72,7 @@ TBD - Additional research needed.
 ## 9. Summary
 
 ### Company Overview
-株式会社シンシア is a KIA member company based in Kanagawa Prefecture, Japan.  
+ネットリサーチ株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
 
 ### Key Strengths
 1. KIA member company

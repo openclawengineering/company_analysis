@@ -1,4 +1,4 @@
-# 株式会社シンシア (シンシア)
+# 株式会社ハイマックス (ハイマックス)
 ## Company Analysis Report
 
 ---
@@ -7,8 +7,8 @@
 
 | Language | Name |
 |----------|------|
-| **Japanese** | 株式会社シンシア |
-| **English** | シンシア |
+| **Japanese** | 株式会社ハイマックス |
+| **English** | ハイマックス |
 | **Reading** | TBD |
 
 ---
@@ -72,7 +72,7 @@ TBD - Additional research needed.
 ## 9. Summary
 
 ### Company Overview
-株式会社シンシア is a KIA member company based in Kanagawa Prefecture, Japan.  
+株式会社ハイマックス is a KIA member company based in Kanagawa Prefecture, Japan.  
 
 ### Key Strengths
 1. KIA member company
