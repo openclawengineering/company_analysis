@@ -1,10 +1,11 @@
-{
-  "company": {
-    "name_jp": "株式会社アイポケット",
-    "name_en": "アイポケット",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-19"
-}
+[
+  {
+    "name_jp": "代表取締役",
+    "name_en": "Representative Director",
+    "position_jp": "代表取締役",
+    "position_en": "Representative Director",
+    "role": "CEO",
+    "source_page": "https://www.i-pocket.co.jp/",
+    "notes": "Name not publicly disclosed on company website"
+  }
+]

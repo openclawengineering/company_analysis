@@ -1,87 +1,57 @@
-# 株式会社 アクウェア (アクウェア)
-## Company Analysis Report
+# 株式会社 アクウェア (Acquware Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+Acquware Inc. is an Atsugi-based software development company specializing in custom software development, package software, and system engineering services. The company emphasizes technology-driven innovation and encourages engineers who are enthusiastic about leveraging technology trends.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社 アクウェア |
-| **English** | アクウェア |
-| **Reading** | TBD |
+**Website:** https://www.acquware.com/
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒243-0018 神奈川県厚木市中町2-7-6 LGビル7F |
 
----
+## Company Details
 
-## 5. Products and Services
+| Field | Details |
+|-------|---------|
+| **Founded** | — |
+| **Capital** | — |
+| **Representative** | — |
+| **Business Fields** | Custom software development, Package software, IT services, SES, Internet-related services |
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Leadership
 
-## 6. Key Clients and Industries Served
+| Name | Position | Notes |
+|------|----------|-------|
+| *Not publicly listed* | 代表取締役 | Representative Director |
 
-- Information Technology
-- System Development
-- Software Solutions
+## Business Description
 
----
+Acquware provides software development services across multiple domains:
 
-## 7. Company Philosophy and Culture
+1. **Custom Software Development** — Tailored software solutions for business clients
 
-TBD - Additional research needed.
----
+2. **Package Software** — Development and distribution of software packages
 
-## 8. Media Mentions
+3. **System Engineering Services (SES)** — Engineer dispatch to client sites
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+4. **Internet-Related Services** — Web-based services and applications
 
----
+## Key Characteristics
 
-## 9. Summary
+- **Atsugi location** — Based in Atsugi's Nakamachi area, part of the Sagami River technology corridor
+- **Engineer-first culture** — Recruitment messaging emphasizes "wanting to use technology trends," "wanting to actively converse with customers," and "wanting to change the company through proactive opinions"
+- **Welcomes entry-level** — Explicitly welcomes candidates with no prior experience who are willing to put in effort
+- **Work-life balance emphasis** — States commitment to balancing work and private life
 
-### Company Overview
-株式会社 アクウェア is a KIA member company based in Kanagawa Prefecture, Japan.  
+## Media Mentions
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+- No significant media coverage identified in public sources
 
-### Business Model
-IT services and system development.
+## Notes
 
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Company website is a single-page site with limited information
+- Recruitment messaging suggests a relatively young, growth-oriented company culture

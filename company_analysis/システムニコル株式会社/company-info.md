@@ -1,87 +1,42 @@
-# システムニコル株式会社 (システムニコル)
-## Company Analysis Report
+# 株式会社システムニコル (Systemicol Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Systemicol Co., Ltd. is a Yokohama-based IT company providing custom software development and system engineering services. The company is a member of the Kanagawa IT Industry Association.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | システムニコル株式会社 |
-| **English** | システムニコル |
-| **Reading** | TBD |
+**Website:** http://www.systemicol.co.jp/ (currently inaccessible — domain does not resolve)
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒244-0813 神奈川県横浜市戸塚区舞岡町644-13 ユニバーサル・ビジネスセンター4F |
 
----
+## Company Details
 
-## 5. Products and Services
+| Field | Details |
+|-------|---------|
+| **Founded** | — |
+| **Capital** | — |
+| **Representative** | — |
+| **Business Fields** | Custom software development |
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Business Description
 
-## 6. Key Clients and Industries Served
+Systemicol provides custom software development services from its Totsuka Ward office in Yokohama. According to the KIA member directory, the company focuses on contracted software development projects.
 
-- Information Technology
-- System Development
-- Software Solutions
+## Key Characteristics
 
----
+- **Totsuka Ward location** — Based in the Maigaoka area of Yokohama's Totsuka Ward
+- **Universal Business Center** — Located in the Universal Business Center building
 
-## 7. Company Philosophy and Culture
+## Media Mentions
 
-TBD - Additional research needed.
----
+- No significant media coverage identified in public sources
+- Company website (systemicol.co.jp) is currently inaccessible — domain does not resolve
 
-## 8. Media Mentions
+## Notes
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
-
----
-
-## 9. Summary
-
-### Company Overview
-システムニコル株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Website domain does not resolve (DNS failure), suggesting the company may have ceased operations or not maintained their web presence
+- Previous research may exist in git history

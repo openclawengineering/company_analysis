@@ -1,87 +1,44 @@
-# 協栄企画システム株式会社 (協栄企画システム)
-## Company Analysis Report
+# 協栄企画システム株式会社 (Kyoei Keikaku System Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+Kyoei Keikaku System Co., Ltd. is a Tokyo-headquartered IT company specializing in software development and system engineering services. The company is a member of the Kanagawa IT Industry Association despite being based in Shinagawa, Tokyo.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 協栄企画システム株式会社 |
-| **English** | 協栄企画システム |
-| **Reading** | TBD |
+**Website:** http://www.kyouei-kikaku.com/ (limited content available)
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒141-0033 東京都品川区西品川1-23-19 |
 
----
+Note: Despite being a KIA member, the company is based in Tokyo (Shinagawa), not Kanagawa.
 
-## 5. Products and Services
+## Company Details
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+| Field | Details |
+|-------|---------|
+| **Founded** | — |
+| **Capital** | — |
+| **Representative** | — |
+| **Business Fields** | Custom software development, SES |
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
+| **Prefecture** | 東京都 (Tokyo) per KIA listing |
 
-## 6. Key Clients and Industries Served
+## Business Description
 
-- Information Technology
-- System Development
-- Software Solutions
+Kyoei Keikaku System provides custom software development and system engineering services. The company website is minimal with limited public information available.
 
----
+## Key Characteristics
 
-## 7. Company Philosophy and Culture
+- **Tokyo-based KIA member** — Headquarters in Shinagawa, Tokyo, but actively participates in the Kanagawa IT ecosystem
+- **Minimal web presence** — Company website has very limited content
 
-TBD - Additional research needed.
----
+## Media Mentions
 
-## 8. Media Mentions
+- No significant media coverage identified in public sources
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+## Notes
 
----
-
-## 9. Summary
-
-### Company Overview
-協栄企画システム株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Company website provided minimal data during research
+- Previously researched in an earlier session — the existing repo folder contains stub content only

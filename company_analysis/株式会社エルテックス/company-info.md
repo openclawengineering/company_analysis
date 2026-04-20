@@ -1,87 +1,67 @@
-# 株式会社エルテックス (エルテックス)
-## Company Analysis Report
+# 株式会社エルテックス (ELTEX Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+ELTEX Inc. is a Yokohama-based software company established in 1984, specializing in e-commerce and mail-order integrated solutions. The company develops and nationally distributes "eltexDC," a software package that unifies online shopping and mail-order operations. ELTEX provides end-to-end support from consulting to operation, serving the direct-to-consumer retail market.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社エルテックス |
-| **English** | エルテックス |
-| **Reading** | TBD |
+**Website:** https://www.eltex.co.jp/
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒240-0005 神奈川県横浜市保土ケ谷区神戸町134 横浜ビジネスパーク イーストタワー14F |
 
----
+## Company Details
 
-## 5. Products and Services
+| Field | Details |
+|-------|---------|
+| **Founded** | November 1984 |
+| **Capital** | 40,000,000 JPY |
+| **Employees** | ~50 |
+| **Representative** | 代表取締役 |
+| **Business Fields** | Custom software development, Package software, Network/communications, ASP services |
+| **Flagship Product** | eltexDC (e-commerce + mail-order integration package) |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Leadership
 
-## 6. Key Clients and Industries Served
+| Name | Position | Notes |
+|------|----------|-------|
+| *Not publicly listed* | 代表取締役 | Representative Director |
 
-- Information Technology
-- System Development
-- Software Solutions
+## Business Description
 
----
+ELTEX's primary business is the development and distribution of "eltexDC," a comprehensive software package for e-commerce and mail-order integration:
 
-## 7. Company Philosophy and Culture
+1. **eltexDC** — A nationally distributed software package that integrates online shopping and mail-order operations into a single platform. Features include:
+   - Product catalog management
+   - Order processing and fulfillment
+   - Customer management
+   - Payment processing
+   - Shipping and delivery management
 
-TBD - Additional research needed.
----
+2. **Consulting Services** — Pre-implementation consulting for e-commerce strategy and system design
 
-## 8. Media Mentions
+3. **Operation Support** — Post-implementation operational support and system maintenance
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+4. **ASP Services** — Cloud-based application service provider offerings
 
----
+5. **Custom Development** — Bespoke software development for clients with unique requirements
 
-## 9. Summary
+## Key Characteristics
 
-### Company Overview
-株式会社エルテックス is a KIA member company based in Kanagawa Prefecture, Japan.  
+- **40 years of operations** (since 1984) — Long-established company with deep expertise in the e-commerce/mail-order space
+- **Specialized niche** — Focused specifically on the direct-to-consumer retail market, unlike broader IT service companies
+- **Proprietary product** — eltexDC is a proven, nationally distributed product
+- **Yokohama Business Park** — Located in the Yokohama Business Park East Tower, a prominent business complex
+- **End-to-end service** — From consulting through implementation to operational support
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+## Media Mentions
 
-### Business Model
-IT services and system development.
+- No significant media coverage identified in public sources
+- Company has limited online public presence beyond its product information
 
----
+## Notes
 
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Company website provides detailed product information but limited corporate background
+- eltexDC appears to be the primary revenue driver

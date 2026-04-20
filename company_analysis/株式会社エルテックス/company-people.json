@@ -1,10 +1,11 @@
-{
-  "company": {
-    "name_jp": "株式会社エルテックス",
-    "name_en": "エルテックス",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-19"
-}
+[
+  {
+    "name_jp": "代表取締役",
+    "name_en": "Representative Director",
+    "position_jp": "代表取締役",
+    "position_en": "Representative Director",
+    "role": "CEO",
+    "source_page": "https://www.eltex.co.jp/company/",
+    "notes": "Name not publicly disclosed on company website"
+  }
+]
