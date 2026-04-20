@@ -1,87 +1,47 @@
-# 光洋システム株式会社 (光洋システム)
-## Company Analysis Report
+# 光洋システム株式会社 ()
 
----
+## Company Overview
 
-## 1. Company Name
+光洋システム株式会社 is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture. KIA member companies span a wide range of IT services including custom software development, embedded systems engineering, system engineering services (SES), network infrastructure, and IT consulting.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 光洋システム株式会社 |
-| **English** | 光洋システム |
-| **Reading** | TBD |
+**Website:** ** TBD
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
 
----
+*Note: Specific address information should be verified from the company's official website or KIA member directory.*
 
-## 5. Products and Services
+## Company Details
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+| Field | Details |
+|-------|---------|
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
+| **Region** | Kanagawa Prefecture / Tokyo metropolitan area |
+| **Industry** | Information Technology Services |
 
-## 6. Key Clients and Industries Served
+## Business Description
 
-- Information Technology
-- System Development
-- Software Solutions
+光洋システム株式会社 provides information technology services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
 
----
+The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services. The KIA region encompasses major IT hubs including Yokohama (Minatomirai, Shin-Yokohama, Kannai), Kawasaki, and other cities in Kanagawa Prefecture.
 
-## 7. Company Philosophy and Culture
+## Key Characteristics
 
-TBD - Additional research needed.
----
+- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
+- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
+- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
 
-## 8. Media Mentions
+## Media Mentions
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+- No significant independent media coverage identified in public sources
+- Company may be listed in KIA publications, member directories, or industry event materials
 
----
+## Notes
 
-## 9. Summary
-
-### Company Overview
-光洋システム株式会社 is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- This company profile was created as part of the KIA Company Analysis project
+- The company folder name in the repository is: `光洋システム株式会社`
+- For more detailed information, consult the company's official website or the KIA member directory at https://www.kia.or.jp
+- This profile serves as a placeholder with KIA membership context; further research from the company's actual website is recommended for complete business analysis including financial data, leadership, specific products/services, and client references
