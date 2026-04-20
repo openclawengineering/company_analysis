@@ -1,0 +1,154 @@
+{
+  "company": {
+    "name_jp": "株式会社ブラザー販売",
+    "name_en": "Brother Sales, Ltd.",
+    "name_short": "Brother Hanbai"
+  },
+  "executives": [
+    {
+      "position_jp": "代表取締役社長",
+      "position_en": "Representative Director and President",
+      "name_jp": "安井 宏一",
+      "name_en": "Koichi Yasui",
+      "profile_url": "https://www.brother.co.jp/corporate/bsl/message/index.aspx"
+    },
+    {
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "name_jp": "伊藤 英雄",
+      "name_en": "Hideo Ito"
+    },
+    {
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "name_jp": "藤森 幸雄",
+      "name_en": "Yukio Fujimori"
+    },
+    {
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "name_jp": "兼広 友里恵",
+      "name_en": "Yurie Kanehiro"
+    },
+    {
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "name_jp": "吉川 元偉",
+      "name_en": "Motoi Yoshikawa"
+    },
+    {
+      "position_jp": "取締役",
+      "position_en": "Director",
+      "name_jp": "鈴木 則和",
+      "name_en": "Norikazu Suzuki"
+    },
+    {
+      "position_jp": "常勤監査役",
+      "position_en": "Standing Corporate Auditor",
+      "name_jp": "阪本 誠",
+      "name_en": "Makoto Sakamoto"
+    },
+    {
+      "position_jp": "監査役",
+      "position_en": "Corporate Auditor",
+      "name_jp": "中島 聡",
+      "name_en": "Satoshi Nakajima"
+    }
+  ],
+  "key_departments": [
+    {
+      "department_jp": "営業職",
+      "department_en": "Sales Division",
+      "roles": [
+        {
+          "role_jp": "ビジネスソリューション営業",
+          "role_en": "Business Solutions Sales",
+          "description": "B2B sales to corporations and government agencies, working with trading companies and SIers"
+        },
+        {
+          "role_jp": "コンシューマー営業",
+          "role_en": "Consumer Sales",
+          "description": "B2C sales of home products including printers and sewing machines"
+        }
+      ]
+    },
+    {
+      "department_jp": "マーケティング部門",
+      "department_en": "Marketing Division",
+      "description": "Market development, demand generation, and customer engagement initiatives"
+    },
+    {
+      "department_jp": "アフターサポート",
+      "department_en": "After-Sales Support",
+      "description": "Technical support, repair services, and customer assistance"
+    }
+  ],
+  "employee_statistics": {
+    "total_employees": 338,
+    "as_of": "March 31, 2025",
+    "employee_type": "Regular full-time employees"
+  },
+  "recruitment": {
+    "has_mid_career_hiring": true,
+    "hiring_types": [
+      {
+        "type_jp": "中途採用",
+        "type_en": "Mid-Career Recruitment",
+        "positions": [
+          "Sales representatives",
+          "Marketing specialists",
+          "Technical support staff",
+          "Solution consultants"
+        ]
+      },
+      {
+        "type_jp": "総合職コース",
+        "type_en": "General Career Track",
+        "description": "Career path covering sales, marketing, and after-sales support across multiple departments"
+      }
+    ],
+    "salary_range": {
+      "min_annual_jpy": 2800000,
+      "max_annual_jpy": 4200000,
+      "currency": "JPY",
+      "note": "Monthly salary range 28-42万 yen for B2B sales positions"
+    },
+    "work_environment": {
+      "remote_work": true,
+      "flextime": true,
+      "overtime_hours": "10-20 hours/month for B2B sales",
+      "paid_leave_utilization": "87.1% (Brother Industries, FY2023)",
+      "turnover_rate": "1.4% (Brother Industries, FY2023)"
+    }
+  },
+  "parent_company_executives_reference": {
+    "note": "As a 100% subsidiary, key strategic decisions involve coordination with Brother Industries leadership",
+    "parent_company": "Brother Industries, Ltd. (ブラザー工業株式会社)",
+    "parent_stock_listing": "Tokyo Stock Exchange Prime Market"
+  },
+  "partnerships_key_personnel": [
+    {
+      "partner": "Fujitsu Limited",
+      "collaboration": "Interstage List Works Print Agent integration",
+      "nature": "Software solution partnership for enterprise printing"
+    },
+    {
+      "partner": "NTT Group (NTT Marketing Act ProCX)",
+      "collaboration": "Next-generation contact center project",
+      "nature": "AI and digital transformation initiatives (announced 2025)"
+    }
+  ],
+  "data_sources": [
+    "https://www.brother.co.jp/corporate/bsl/profile/",
+    "https://www.brother.co.jp/corporate/bsl/message/",
+    "https://www.r-agent.com/company/b8401/",
+    "https://job.mynavi.jp/27/pc/search/corp55223/outline.html"
+  ],
+  "last_updated": "2026-03-30",
+  "notes": [
+    "Executive names are based on official company website as of March 2026",
+    "Brother Sales operates as a 100% subsidiary with independent management structure",
+    "Key business decisions require coordination with parent company Brother Industries",
+    "The company actively recruits mid-career professionals for various positions"
+  ]
+}

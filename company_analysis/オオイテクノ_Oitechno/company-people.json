@@ -1,0 +1,142 @@
+{
+  "company": {
+    "name_ja": "オオイテクノ株式会社",
+    "name_en": "Oitechno Corporation",
+    "short_name": "OTN",
+    "website": "https://www.oitechno.co.jp/"
+  },
+  "people": [
+    {
+      "name_ja": "村上 安弘",
+      "name_en": "Yasuhiro Murakami",
+      "role_ja": "代表取締役社長",
+      "role_en": "Representative Director & President",
+      "is_executive": true
+    },
+    {
+      "name_ja": "山口 恭司",
+      "name_en": "Kyoji Yamaguchi",
+      "role_ja": "取締役",
+      "role_en": "Director",
+      "is_executive": true
+    },
+    {
+      "name_ja": "千葉 尚幸",
+      "name_en": "Naoyuki Chiba",
+      "role_ja": "取締役",
+      "role_en": "Director",
+      "is_executive": true
+    },
+    {
+      "name_ja": "野田 学",
+      "name_en": "Manabu Noda",
+      "role_ja": "取締役",
+      "role_en": "Director",
+      "is_executive": true
+    },
+    {
+      "name_ja": "工藤 宏和",
+      "name_en": "Hirokazu Kudo",
+      "role_ja": "非常勤取締役",
+      "role_en": "Part-time Director",
+      "is_executive": false
+    }
+  ],
+  "departments": [
+    {
+      "name_ja": "総務部",
+      "name_en": "General Affairs Department",
+      "location": "本社"
+    },
+    {
+      "name_ja": "情報通信部",
+      "name_en": "Information Communication Department",
+      "location": "本社"
+    },
+    {
+      "name_ja": "開発保守横浜G",
+      "name_en": "Development & Maintenance Yokohama Group",
+      "location": "本社"
+    },
+    {
+      "name_ja": "水沢事業所",
+      "name_en": "Mizusawa Office",
+      "location": "岩手県奥州市"
+    }
+  ],
+  "related_companies": [
+    {
+      "name_ja": "大井電気株式会社",
+      "name_en": "Ooi Electric Co., Ltd.",
+      "relationship": "Parent Company (75% shareholder)",
+      "business": "Communication equipment, electronic device design, manufacturing, sales",
+      "address": "〒222-0011 神奈川県横浜市港北区菊名7-3-16",
+      "website": "https://www.ooi.co.jp/"
+    },
+    {
+      "name_ja": "日本フィールド・エンジニアリング株式会社",
+      "name_en": "Nippon Field Engineering Co., Ltd.",
+      "relationship": "Affiliate",
+      "business": "Electronic communication facility installation, maintenance",
+      "address": "〒141-0031 東京都品川区五反田1-14-8 西五反田T・Fビル",
+      "website": "https://www.nfe.co.jp/"
+    },
+    {
+      "name_ja": "日本テクニカル・サービス株式会社",
+      "name_en": "Nippon Technical Service Co., Ltd.",
+      "relationship": "Affiliate / Original Shareholder (25%)",
+      "business": "Communication, electronic equipment sales, installation, maintenance",
+      "address": "〒154-0001 東京都世田谷区池尻3-10-3 三菱電機世田谷ビル",
+      "website": "https://www.nitteku.co.jp/"
+    },
+    {
+      "name_ja": "株式会社クリエイト・オオイ",
+      "name_en": "Create Ooi Co., Ltd.",
+      "relationship": "Affiliate",
+      "business": "Building maintenance, cleaning, food service, daily goods sales/lease",
+      "address": "〒222-0011 神奈川県横浜市港北区菊名7-3-16"
+    }
+  ],
+  "major_clients": [
+    {
+      "name_ja": "大井電気株式会社",
+      "name_en": "Ooi Electric Co., Ltd."
+    },
+    {
+      "name_ja": "日本テクニカル・サービス株式会社",
+      "name_en": "Nippon Technical Service Co., Ltd."
+    },
+    {
+      "name_ja": "日本フィールド・エンジニアリング株式会社",
+      "name_en": "Nippon Field Engineering Co., Ltd."
+    },
+    {
+      "name_ja": "三菱電機エンジニアリング株式会社",
+      "name_en": "Mitsubishi Electric Engineering Co., Ltd."
+    },
+    {
+      "name_ja": "三菱電機ソフトウエア株式会社",
+      "name_en": "Mitsubishi Electric Software Co., Ltd."
+    },
+    {
+      "name_ja": "コマツ",
+      "name_en": "Komatsu Ltd."
+    }
+  ],
+  "metadata": {
+    "analysis_date": "2026-03-30",
+    "employee_count": 59,
+    "employee_count_date": "2025-06",
+    "capital_jpy": 20000000,
+    "revenue_jpy": 530000000,
+    "revenue_date": "2025-03",
+    "founded_date": "1986-04-11",
+    "data_sources": [
+      "https://www.oitechno.co.jp/gaiyo/",
+      "https://www.oitechno.co.jp/our-works/",
+      "https://www.oitechno.co.jp/product/",
+      "https://baseconnect.in/companies/7179c091-e62e-4f24-b757-6a574275ab53",
+      "https://www.buffett-code.com/company/1wptxn24j2/"
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "company": {
+    "name_ja": "株式会社ライフビジネスウェア",
+    "name_en": "Life Businessware Co., Ltd.",
+    "abbreviation": "LB-ware",
+    "website": "https://www.lb-ware.co.jp",
+    "website_status": "inaccessible"
+  },
+  "contact": {
+    "postal_code": "220-0004",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "ward": "西区",
+    "district": "北幸",
+    "street_address": "2-9-18",
+    "building": "横浜西口NKビル6F",
+    "building_en": "Yokohama Nishiguchi KN Building 6F",
+    "nearest_station": "JR横浜駅西口",
+    "walking_distance": "約8分"
+  },
+  "business_fields": [
+    {
+      "ja": "受託開発ソフトウェア",
+      "en": "Contract Software Development",
+      "description": "Custom software development services"
+    },
+    {
+      "ja": "パッケージソフトウェア",
+      "en": "Packaged Software",
+      "description": "Ready-made software products"
+    },
+    {
+      "ja": "情報処理サービス",
+      "en": "Information Processing Services",
+      "description": "Data processing and IT support"
+    },
+    {
+      "ja": "ネットワーク・通信関連",
+      "en": "Network & Communication",
+      "description": "Network infrastructure solutions"
+    }
+  ],
+  "recruitment": {
+    "new_graduate": {
+      "ja": "新卒採用",
+      "en": "New Graduate Recruitment",
+      "status": "available"
+    },
+    "mid_career": {
+      "ja": "中途採用",
+      "en": "Mid-Career Recruitment",
+      "status": "available"
+    }
+  },
+  "people": {
+    "executives": [],
+    "key_personnel": [],
+    "note": "Personnel information not publicly available"
+  },
+  "financials": {
+    "capital": null,
+    "employee_count": null,
+    "established_date": null,
+    "note": "Financial and employee data not publicly available"
+  },
+  "media_mentions": [],
+  "research_metadata": {
+    "search_date": "2026-03-30",
+    "search_methods": [
+      "Tavily API web search",
+      "Direct website access attempt",
+      "Building information lookup"
+    ],
+    "findings": {
+      "website_accessible": false,
+      "public_information_available": false,
+      "media_coverage_found": false,
+      "possible_reasons": [
+        "Small to medium-sized enterprise with limited online presence",
+        "B2B-focused company without consumer-facing marketing",
+        "Website may be inactive or domain expired"
+      ]
+    },
+    "data_availability": {
+      "company_name": "confirmed",
+      "address": "confirmed",
+      "business_fields": "confirmed",
+      "website": "unconfirmed_inactive",
+      "history": "unavailable",
+      "capital": "unavailable",
+      "employee_count": "unavailable",
+      "executives": "unavailable",
+      "clients": "unavailable",
+      "philosophy": "unavailable"
+    }
+  },
+  "building_info": {
+    "name": "横浜西口KNビル",
+    "name_en": "Yokohama Nishiguchi KN Building",
+    "completion_year": 1986,
+    "renovation_year": 2012,
+    "structure": "SRC (Steel Reinforced Concrete)",
+    "floors": {
+      "above_ground": 18,
+      "below_ground": 2
+    },
+    "parking_capacity": 190,
+    "managed_by": "日本生命保険相互会社 (Nippon Life Insurance)"
+  }
+}

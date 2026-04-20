@@ -1,0 +1,156 @@
+{
+  "company": {
+    "name_jp": "富士通マーケティング株式会社",
+    "name_en": "Fujitsu Marketing Ltd.",
+    "current_name_jp": "toBeマーケティング株式会社",
+    "current_name_en": "toBe Marketing, Inc.",
+    "parent_company": "富士通株式会社 (Fujitsu Limited)",
+    "website": "https://tobem.jp/",
+    "established": "2015-06",
+    "capital_jpy": 100000000
+  },
+  "executives": [
+    {
+      "name_jp": "小池 智和",
+      "name_en": "Tomokazu Koike",
+      "title_jp": "代表取締役",
+      "title_en": "Representative Director / CEO",
+      "background": [
+        "Recruit Corporation - Corporate sales promotion business",
+        "Nexway Corporation - Internet advertising business launch and product development manager",
+        "Salesforce.com - Partner Alliance Department, partner support and regional scheme construction",
+        "August 2014 - Participated in founding 2BC Corporation",
+        "Founded toBeマーケティング株式会社 to specialize in marketing automation"
+      ]
+    },
+    {
+      "name_jp": "髙橋 伸",
+      "name_en": "Shin Takahashi",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "background": [
+        "Prime-listed major game manufacturer - Marketing and sales",
+        "Spiral Inc. (formerly Piped Bits) - Business manager, CMO, CFO",
+        "Foreign security software maker Japan office - CFO",
+        "October 2024 - Joined toBe Marketing as Executive Officer",
+        "April 2025 - Appointed as Director"
+      ]
+    },
+    {
+      "name_jp": "桐生 卓",
+      "name_en": "Taku Kiryu",
+      "title_jp": "取締役",
+      "title_en": "Director",
+      "background": [
+        "SAP Japan - Vice President, Distribution/Service Industry Sales Headquarters Manager",
+        "Oracle Corporation Japan - Managing Executive Officer, ERP/EPM Cloud Business Headquarters Manager",
+        "Blue Yonder Japan - President and CEO",
+        "2023 - Fujitsu Limited, Global Business Applications Business Headquarters Manager",
+        "December 2023 - Appointed as Director of toBe Marketing"
+      ]
+    },
+    {
+      "name_jp": "篠原 隆史",
+      "name_en": "Takashi Shinohara",
+      "title_jp": "監査役",
+      "title_en": "Audit & Supervisory Board Member",
+      "background": []
+    }
+  ],
+  "executive_officers": [
+    {
+      "name_jp": "加藤 秀樹",
+      "name_en": "Hideki Kato",
+      "title_jp": "執行役員",
+      "title_en": "Executive Officer",
+      "background": [
+        "Software vendor - System engineer",
+        "B2B marketer for 10 years in marketing planning and execution",
+        "2015 - Digital marketing consulting",
+        "Over 200 Pardot implementation projects",
+        "Former Consulting Team Manager and Pardot Business Unit Manager",
+        "April 2021 - Current position"
+      ]
+    },
+    {
+      "name_jp": "鈴木 智也",
+      "name_en": "Tomoya Suzuki",
+      "title_jp": "執行役員",
+      "title_en": "Executive Officer",
+      "background": [
+        "3 IT venture companies including early-stage startups",
+        "November 2015 - Joined toBe Marketing (5 months after establishment)",
+        "15+ years of startup management experience",
+        "Former Manager of MA implementation support, CRM implementation support, and Customer Success departments",
+        "April 2022 - Current position"
+      ]
+    },
+    {
+      "name_jp": "八木 賢太郎",
+      "name_en": "Kentaro Yagi",
+      "title_jp": "執行役員",
+      "title_en": "Executive Officer",
+      "background": [
+        "System development company - Engineer and PM",
+        "Led development as PM for in-house EC package creation project",
+        "April 2019 - Joined toBe Marketing",
+        "Marketing Cloud implementation PM",
+        "Former Marketing Cloud Promotion Department Manager",
+        "April 2023 - Current position"
+      ]
+    },
+    {
+      "name_jp": "矢作 英樹",
+      "name_en": "Hideki Yahagi",
+      "title_jp": "執行役員",
+      "title_en": "Executive Officer",
+      "background": [
+        "B2B marketing specialized company - Business manager for marketing support business (approx. 10 years)",
+        "New customer development support, nurturing design, ABM strategy planning",
+        "Database marketing for major IT companies DX support, inside sales construction support",
+        "2018 - Joined toBe Marketing",
+        "Former Consulting Team Manager and Department Manager",
+        "April 2023 - Current position"
+      ]
+    }
+  ],
+  "advisors": [
+    {
+      "name_jp": "坂本 元気",
+      "name_en": "Genki Sakamoto",
+      "title_jp": "フェロー",
+      "title_en": "Fellow",
+      "background": [
+        "Innovation Corporation, Change Corporation",
+        "V-Cube Corporation - Salesforce integration service planning/development, business development",
+        "Established Partner Business Strategy Office",
+        "Kanto area partner network construction and partner business sales expansion",
+        "March 2016 - Appointed as Director COO",
+        "April 2025 - Current position as Fellow"
+      ]
+    }
+  ],
+  "key_departments": [
+    {
+      "name": "Consulting Team",
+      "focus": "Marketing automation and CRM consulting"
+    },
+    {
+      "name": "Pardot Business Unit",
+      "focus": "Account Engagement (Pardot) implementation"
+    },
+    {
+      "name": "Marketing Cloud Promotion Department",
+      "focus": "Marketing Cloud implementation and support"
+    },
+    {
+      "name": "Customer Success Department",
+      "focus": "Post-implementation support and ongoing success"
+    }
+  ],
+  "data_source": {
+    "url": "https://tobem.jp/about.html",
+    "retrieved": "2026-03-30",
+    "notes": "Company has been rebranded from 富士通マーケティング株式会社 to toBeマーケティング株式会社"
+  }
+}

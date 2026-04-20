@@ -1,0 +1,104 @@
+{
+  "company": {
+    "name_jp": "株式会社フォーサイト",
+    "name_en": "Foresight Co., Ltd.",
+    "website": "https://www.fsight.co.jp/"
+  },
+  "key_people": [
+    {
+      "name_jp": "寺坂 昭",
+      "name_en": "Akira Terusaka",
+      "position": "代表取締役",
+      "position_en": "Representative Director / President",
+      "role": "Company leadership and strategic direction",
+      "contact_role": "Recruitment contact"
+    }
+  ],
+  "departments": [
+    {
+      "name": "開発部",
+      "name_en": "Development Department",
+      "description": "System development and programming",
+      "technologies": ["Visual Basic", "VB.NET", "C++", "C", "Delphi", "Oracle", "SQL Server"]
+    },
+    {
+      "name": "営業部",
+      "name_en": "Sales Department", 
+      "description": "Client relations and business development"
+    }
+  ],
+  "employees": {
+    "total_count": 6,
+    "count_date": "2015-10-01",
+    "note": "Small-scale IT development company"
+  },
+  "hiring_contacts": [
+    {
+      "name": "寺坂",
+      "role": "採用担当",
+      "role_en": "Recruitment Contact",
+      "phone": "06-6366-4321",
+      "email": "info@foresight.nu"
+    }
+  ],
+  "organizational_structure": {
+    "type": "Small enterprise",
+    "leadership": [
+      {
+        "level": "Executive",
+        "positions": ["代表取締役"]
+      }
+    ],
+    "note": "Compact organization enabling direct communication with leadership"
+  },
+  "recruitment": {
+    "entry_level": {
+      "positions": ["SE・プログラマー"],
+      "education_requirement": "高卒以上",
+      "training_program": "1-2ヶ月間社内教育担当を設けて新人研修"
+    },
+    "career_level": {
+      "available": true,
+      "positions": ["SE・プログラマー"],
+      "note": "中途採用あり"
+    }
+  },
+  "affiliations": [
+    {
+      "name": "一般社団法人神奈川県情報サービス産業協会",
+      "name_en": "Kanagawa Information Service Industry Association (KIA)",
+      "type": "Industry Association",
+      "note": "Based on Yokohama location"
+    }
+  ],
+  "partnerships": [
+    {
+      "name": "NTT Communications",
+      "type": "Technology Partner",
+      "description": "Utilizes Group VPN closed network for client connectivity"
+    },
+    {
+      "name": "Oracle Partner Network",
+      "type": "Technology Partner",
+      "level": "Member Partner",
+      "description": "Specializes in Oracle database development"
+    }
+  ],
+  "data_sources": [
+    {
+      "source": "Company Website",
+      "url": "http://www.fsight.co.jp/",
+      "accessed": "2026-03-30"
+    },
+    {
+      "source": "KIA Member Directory",
+      "url": "https://www.kia.or.jp/",
+      "accessed": "2026-03-30"
+    }
+  ],
+  "notes": [
+    "Company has small staff size (6 employees as of 2015)",
+    "Direct contact with president for recruitment inquiries",
+    "Multiple companies share similar 'Foresight' name in Japan"
+  ]
+}

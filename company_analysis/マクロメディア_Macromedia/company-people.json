@@ -1,0 +1,50 @@
+{
+  "company": {
+    "name_jp": "株式会社マクロメディア",
+    "name_en": "Macromedia Co., Ltd.",
+    "address": {
+      "postal_code": "220-0012",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "district": "みなとみらい",
+      "street": "4-4-5",
+      "building": "横浜アイマークプレイス",
+      "full_address_jp": "神奈川県横浜市西区みなとみらい4-4-5 横浜アイマークプレイス"
+    },
+    "website": "https://www.macroedia.co.jp",
+    "website_status": "unreachable"
+  },
+  "executives": [],
+  "employees": [],
+  "research_notes": {
+    "search_date": "2026-03-30",
+    "search_tools": ["Tavily AI Search"],
+    "result": "No personnel information found through public web sources",
+    "possible_reasons": [
+      "Company may have minimal online presence",
+      "Company may be dormant or dissolved",
+      "Personnel information not publicly disclosed"
+    ]
+  },
+  "data_sources": [
+    {
+      "type": "web_search",
+      "queries": [
+        "株式会社マクロメディア 横浜 みなとみらい 会社概要",
+        "Macromedia Co., Ltd. Yokohama software development SES",
+        "マクロメディア 横浜アイマークプレイス ソフトウェア 受託開発 組み込み",
+        "株式会社マクロメディア SES 情報処理サービス 採用"
+      ],
+      "results": "No specific company information found; all results returned information about the unrelated American Macromedia Inc. (acquired by Adobe in 2005)"
+    }
+  ],
+  "recommendations": {
+    "verification_sources": [
+      "Japanese corporate registry (法務省 登記所)",
+      "Teikoku Databank (帝国データバンク)",
+      "Tokyo Shoko Research (東京商工リサーチ)",
+      "Yokohama City business licensing office",
+      "Japanese phone directory services (タウンページ)"
+    ]
+  }
+}
