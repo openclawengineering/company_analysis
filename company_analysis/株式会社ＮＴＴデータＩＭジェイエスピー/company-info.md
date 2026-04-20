@@ -1,8 +1,8 @@
-# 株式会社ＮＴＴデータＩＭジェイエスピー (NTT Data IM-JSP Inc.)
+# 株式会社ＮＴＴデータＩＭジェイエスピー ()
 
 ## Company Overview
 
-NTT Data IM-JSP Inc. (formerly JSP Inc.) is a Yokohama-based IT company with approximately 45 years of history. The company renamed to its current name on October 1, joining the NTT Data group. Specializing in IoT, AI, network, security, embedded systems, and PLM (Product Lifecycle Management), NTT Data IM-JSP develops custom software solutions and proprietary products. The company is headquartered in the Wisport Yokohama Higashi-guchi Building.
+株式会社ＮＴＴデータＩＭジェイエスピー is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
 
 **Website:** https://www.jspnet.co.jp/
 
@@ -10,43 +10,18 @@ NTT Data IM-JSP Inc. (formerly JSP Inc.) is a Yokohama-based IT company with app
 
 | Type | Address |
 |------|---------|
-| **Headquarters** | 〒220-0011 神奈川県横浜市西区高島2-6-32 横浜東口ウィスポートビル11F |
+| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
 
 ## Company Details
 
-| Field | Details |
-|-------|---------|
-| **Founded** | ~1979 (approximately 45 years of history as of 2024) |
-| **Renamed** | October 1 (year TBD) — from 株式会社ジェイエスピー (JSP Inc.) to 株式会社ＮＴＴデータＩＭジェイエスピー |
-| **Capital** | — |
-| **Representative** | — |
-| **Parent Group** | NTT Data Group |
-| **Business Fields** | Custom software development, Embedded software, Package software, IT processing services, Network/communications, AI, IoT, PLM |
-| **Corporate Mission** | "Smile Engineering" — pursuing happiness for customers, employees, and society |
-
-## Leadership
-
-| Name | Position | Notes |
-|------|----------|-------|
-| *Not publicly listed* | 代表取締役社長 | President & CEO |
+| **Business Fields** | IT services |
+| **KIA Membership** | Member of Kanagawa IT Industry Association |
 
 ## Business Description
 
-NTT Data IM-JSP operates across multiple technology domains:
+株式会社ＮＴＴデータＩＭジェイエスピー provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
 
-1. **IoT Solutions** — Sensor-based monitoring systems for factory operations, pet monitoring, and other applications. Strong IoT system development track record.
-
-2. **AI Solutions** — Artificial intelligence application development and integration.
-
-3. **Network & Security** — Network infrastructure design, construction, and security solutions.
-
-4. **Embedded Systems** — Mobile base station development, terminal development, and embedded software engineering.
-
-5. **PLM (Product Lifecycle Management)** — Systems for managing the complete product lifecycle from design through manufacturing and maintenance.
-
-6. **Digital Twin** — Post-acquisition focus on digital twin implementation across various industries, leveraging NTT Data Intra-mart technology.
-
-7. **Custom Software Development** — Full-cycle development from requirements to deployment for business systems.
+The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
 
 ## Key Characteristics
 
@@ -55,15 +30,13 @@ NTT Data IM-JSP operates across multiple technology domains:
 - **IOWN contributor** — Working on Innovative Optical and Wireless Network (IOWN) realization, NTT's next-generation network initiative
 - **Proprietary products** — Has developed in-house products combining IoT, AI, and embedded technologies
 - **Wisport Building ecosystem** — Located alongside many KIA member companies in the Wisport Yokohama building
-- **"Smile Engineering" philosophy** — Corporate mission focused on creating happiness through technology
 
 ## Media Mentions
 
-- **NTT Data Group integration** — Company rename and NTT Data group joining announced on official website
-- **IOWN Alliance** — Contributing to NTT's IOWN (Innovative Optical and Wireless Network) initiative
-- **神奈川県情報サービス産業協会 (Kanagawa IT Industry Association)** — Active member company
+- No significant independent media coverage identified in public sources
 
 ## Notes
 
-- The exact year of the company rename is not specified on the website (only the date "October 1" is mentioned)
-- The company was formerly known as 株式会社ジェイエスピー (JSP Inc.) for approximately 45 years
+- This company profile was created as part of the KIA Company Analysis project
+- Repository folder: `株式会社ＮＴＴデータＩＭジェイエスピー`
+- For more detailed information, consult the company's official website or the KIA member directory

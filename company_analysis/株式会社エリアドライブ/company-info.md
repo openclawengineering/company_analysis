@@ -1,93 +1,41 @@
-# 株式会社エリアドライブ (エリアドライブ)
-## Company Analysis Report
+# 株式会社エリアドライブ ()
 
----
+## Company Overview
 
-## 1. Company Name
+株式会社エリアドライブ is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社エリアドライブ |
-| **English** | エリアドライブ |
-| **Reading** | TBD |
+**Website:** https://x.com/areadrive_ad
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** https://x.com/areadrive_ad
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
 
----
+## Company Details
 
-## 5. Products and Services
+| **Business Fields** | IT services |
+| **KIA Membership** | Member of Kanagawa IT Industry Association |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Business Description
 
-## 6. Key Clients and Industries Served
+株式会社エリアドライブ provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
 
+The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
+
+## Key Characteristics
+
+- **Location:** Kanagawa Prefecture, Japan
+- **Website:** https://x.com/areadrive_ad
+- KIA (Kanagawa Information Service Industry Association)
 - Information Technology
-- System Development
-- Software Solutions
 
----
+## Media Mentions
 
-## 7. Company Philosophy and Culture
+- No significant independent media coverage identified in public sources
 
-TBD - Additional research needed.
----
+## Notes
 
-## 8. Media Mentions
-
-| Source | Type | Description |
-|--------|------|-------------|
-| [株式会社エリアドライブの電話番号、評判、口コミなどの会社概要 神奈川県のホームページ制作会社](https://yuryoweb.com/company_info/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-2/) | Web | 電話受付中 平日10:00~19:00 03-5919-0044. お急ぎの方はお電話で !（ 平日10:00〜19:00 ）. 優良WEB >  全国のホーム |
-| [運営会社案内](https://akashi.tv/footer/5/) | Web | 会社名, 株式会社 エリアドライブ ; 英文社名, AreaDrive Inc. ; 設立日, 2014年12月12日 ; 代表取締役, 佐藤 健太郎 ; 所在 |
-| [初めてのnote｜横浜で企業を支える制作会社エリアドライブの自己 ...](https://note.com/areadrive_lab/n/n939a072e274e) | Web | # 初めてのnote｜横浜で企業を支える制作会社エリアドライブの自己紹介. AREA DRIVE｜横浜%22%20d%3D%22M-100-100h300v30 |
-| [横浜の制作業者｜株式会社エリアドライブ](https://www.areadrive.jp/) | Web | # 横浜の制作業者として、 企業の成長を全力サポート. ## INFORMATION. * 2026.01.06 【重要】当社代表を騙る「LINEグループ作成」 |
-| [株式会社エリアドライブ (@areadrive_yokohama)](https://www.instagram.com/areadrive_yokohama/) | Web | 神奈川を中心にWeb制作・広告運用・ドローン空撮など幅広くサポート HP制作や映像・集客のことならお気軽にDMください✉️ フォローも大歓迎です✨ #エリアドラ |
-| [株式会社エリアドライブ](https://www.facebook.com/AreaDrive/) | Web | 【WEB制作・プロモーションムービー制作】 パーソナルトレーニングジムのハイパージム様のHPと プロモーションムービーを制作いたしました！ お正月から太ってしま |
-| [株式会社エリアドライブ](https://salmon704312.studio.site/) | Web | 先端のテクノロジーを活用し企業のデジタル変革を加速させる · 生成AIを活用した定額制DX講座 · SNSを活用した定額制DX講座 · WEBマーケティングを活 |
-
----
-
-## 9. Summary
-
-### Company Overview
-株式会社エリアドライブ is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- This company profile was created as part of the KIA Company Analysis project
+- Repository folder: `株式会社エリアドライブ`
+- For more detailed information, consult the company's official website or the KIA member directory
