@@ -1,87 +1,63 @@
-# 株式会社エム・ソフト (エム・ソフト)
-## Company Analysis Report
+# 株式会社エム・ソフト (M-Soft Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+M-Soft Co., Ltd. is a Tokyo-based technology company specializing in embedded/control systems development, web system development, mobile app development, and XR (VR/AR/MR) technologies. The company holds multiple domestic and international patents and provides cloud services leveraging AWS. Founded in 1987, M-Soft has over 35 years of software engineering experience.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社エム・ソフト |
-| **English** | エム・ソフト |
-| **Reading** | TBD |
+**Website:** https://www.msoft.co.jp/
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒110-0015 東京都台東区東上野2-18-10 日本生命上野ビル6階 |
 
----
+**Contact:**
+- TEL: 03-3835-5111
+- FAX: 03-3835-5112
 
-## 5. Products and Services
+## Company Details
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+| Field | Details |
+|-------|---------|
+| **Founded** | October 1987 |
+| **Capital** | 30,000,000 JPY |
+| **Employees** | ~100 |
+| **Representative** | 代表取締役 |
+| **Business Fields** | Embedded systems, Web systems, Mobile apps, XR (VR/AR/MR), Cloud services (AWS) |
+| **Key Strengths** | Multiple patents (domestic & international), XR technology development |
 
-## 6. Key Clients and Industries Served
+## Leadership
 
-- Information Technology
-- System Development
-- Software Solutions
+| Name | Position | Notes |
+|------|----------|-------|
+| *Not publicly listed* | 代表取締役 | Representative Director details not prominently disclosed |
 
----
+## Business Description
 
-## 7. Company Philosophy and Culture
+M-Soft operates across five core technology domains:
 
-TBD - Additional research needed.
----
+1. **Embedded/Control System Development** — Firmware and control software for hardware devices, leveraging decades of experience in low-level system development
 
-## 8. Media Mentions
+2. **Web System Development** — Full-stack web application development for business systems and consumer-facing services
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+3. **Mobile Application Development** — iOS and Android native and cross-platform mobile app development
 
----
+4. **XR Technology (VR/AR/MR)** — Extended reality solutions including VR training simulators, AR overlay applications, and mixed reality experiences
 
-## 9. Summary
+5. **AWS Cloud Services** — Cloud architecture, migration, and managed services on Amazon Web Platform
 
-### Company Overview
-株式会社エム・ソフト is a KIA member company based in Kanagawa Prefecture, Japan.  
+The company differentiates itself through its patent portfolio, with numerous registered patents in Japan and internationally. Their combination of traditional embedded expertise with cutting-edge XR technology is relatively uncommon in the industry.
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+## Key Characteristics
 
-### Business Model
-IT services and system development.
+- **Deep patent portfolio** — Multiple domestic and international patents across embedded systems, XR, and software technologies
+- **Rare technology stack** — Combining embedded/control engineering with XR/VR/AR capabilities is uncommon, creating a unique competitive moat
+- **35+ years of operations** — Founded in 1987, demonstrating long-term business stability
+- **AWS competency** — Active cloud services practice
+- **Tokyo-headquartered but Kanagawa IT Association member** — Member of KIA despite Tokyo base
 
----
+## Media Mentions
 
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- No significant media coverage identified in public search results
+- Company website provides limited public information about specific projects or clients

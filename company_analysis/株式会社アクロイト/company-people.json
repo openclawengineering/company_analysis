@@ -1,10 +1,34 @@
-{
-  "company": {
-    "name_jp": "株式会社アクロイト",
-    "name_en": "アクロイト",
-    "website": ""
+[
+  {
+    "name_jp": "田村 孝章",
+    "name_en": "Takaaki Tamura",
+    "position_jp": "代表取締役社長",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://acroit.co.jp/about/"
   },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+  {
+    "name_jp": "宗片 敏昭",
+    "name_en": "Toshiaki Munekata",
+    "position_jp": "取締役",
+    "position_en": "Director",
+    "role": "Director",
+    "source_page": "https://acroit.co.jp/about/"
+  },
+  {
+    "name_jp": "池端 梨千子",
+    "name_en": "Richiko Ikehata",
+    "position_jp": "取締役",
+    "position_en": "Director",
+    "role": "Director",
+    "source_page": "https://acroit.co.jp/about/"
+  },
+  {
+    "name_jp": "田中 完",
+    "name_en": "Kan Tanaka",
+    "position_jp": "監査役",
+    "position_en": "Auditor",
+    "role": "Auditor",
+    "source_page": "https://acroit.co.jp/about/"
+  }
+]

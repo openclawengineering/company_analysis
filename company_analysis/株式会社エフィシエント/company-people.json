@@ -1,10 +1,10 @@
-{
-  "company": {
-    "name_jp": "株式会社エフィシエント",
-    "name_en": "エフィシエント",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+[
+  {
+    "name_jp": "脇坂 健一郎",
+    "name_en": "Kenichiro Wakisaka",
+    "position_jp": "代表取締役社長",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "https://efficient-inc.com/"
+  }
+]

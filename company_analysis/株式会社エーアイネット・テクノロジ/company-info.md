@@ -1,87 +1,57 @@
-# 株式会社エーアイネット・テクノロジ (エーアイネット・テクノロジ)
-## Company Analysis Report
+# 株式会社エーアイネット・テクノロジ (AINet Technology Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+AINet Technology Co., Ltd. is a Yokohama-based IT company established in 1998, specializing in custom software development and system engineering services (SES). The company operates from the Wisport Yokohama Higashi-guchi Building and is a member of the Kanagawa IT Industry Association.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社エーアイネット・テクノロジ |
-| **English** | エーアイネット・テクノロジ |
-| **Reading** | TBD |
+**Website:** https://www.a-inet.jp/
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒220-0011 神奈川県横浜市西区高島2-6-32 横浜東口ウィスポートビル3F |
 
----
+**Contact:**
+- TEL: 045-316-3060
+- FAX: 045-316-3061
+- Email: info@a-inet.jp
 
-## 5. Products and Services
+## Company Details
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+| Field | Details |
+|-------|---------|
+| **Founded** | March 1998 |
+| **Capital** | 10,000,000 JPY |
+| **Employees** | ~50 |
+| **Representative** | 代表取締役 |
+| **Business Fields** | Custom software development, SES |
+| **Certifications** | — |
 
-## 6. Key Clients and Industries Served
+## Leadership
 
-- Information Technology
-- System Development
-- Software Solutions
+| Name | Position | Notes |
+|------|----------|-------|
+| *Not publicly listed on website* | 代表取締役 | Representative Director details not disclosed on corporate site |
 
----
+## Business Description
 
-## 7. Company Philosophy and Culture
+AINet Technology focuses on two primary business areas:
 
-TBD - Additional research needed.
----
+1. **Custom Software Development (受託開発ソフトウェア)** — Developing tailored software solutions for clients across various industries. The company emphasizes building systems that align with client business needs.
 
-## 8. Media Mentions
+2. **System Engineering Services (SES)** — Dispatching skilled IT engineers to client sites for project-based development work. This forms a significant portion of their business operations.
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+The company positions itself as "Team AINet" with the philosophy of "creating a more enjoyable present" through technology solutions. They emphasize team cohesion and a collaborative approach to engineering.
 
----
+## Key Characteristics
 
-## 9. Summary
+- **Long-established** — Operating since 1998, over 25 years of continuous business
+- **Wisport Building location** — Same building complex as several other KIA member companies (NTT DATA FORCE, Corefutech, CIS, Kobelco SysAd, etc.), indicating active participation in the local IT ecosystem
+- **Team-oriented culture** — "Team AINet" branding emphasizes collaborative engineering culture
+- **Mid-size operation** — Approximately 50 employees, positioning them as a mid-tier IT services company
 
-### Company Overview
-株式会社エーアイネット・テクノロジ is a KIA member company based in Kanagawa Prefecture, Japan.  
+## Media Mentions
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- **神奈川県情報サービス産業協会 (Kanagawa IT Industry Association)** — Active member company
+- No significant media coverage identified in public sources
