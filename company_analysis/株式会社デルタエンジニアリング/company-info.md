@@ -1,87 +1,42 @@
-# 株式会社デルタエンジニアリング (デルタエンジニアリング)
-## Company Analysis Report
+# デルタエンジニアリング株式会社 (Delta Engineering Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+Delta Engineering Inc. is a Yokohama-based IT company specializing in software development and system engineering services. The company is a member of the Kanagawa IT Industry Association and is located in the Technowave 100 Building in Shin-Yokohama.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社デルタエンジニアリング |
-| **English** | デルタエンジニアリング |
-| **Reading** | TBD |
+**Website:** https://www.delta-eng.co.jp/ (currently inaccessible)
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒221-0031 神奈川県横浜市神奈川区新浦島町1-1-25 テクノウェイブ100ビル 16F |
 
----
+## Company Details
 
-## 5. Products and Services
+| Field | Details |
+|-------|---------|
+| **Founded** | — |
+| **Capital** | — |
+| **Representative** | — |
+| **Business Fields** | Custom software development, SES |
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Business Description
 
-## 6. Key Clients and Industries Served
+Delta Engineering provides custom software development and system engineering services. The company is located in the Technowave 100 Building in Minatomirai, Yokohama — a building that houses many KIA member companies and serves as a hub for the local IT industry.
 
-- Information Technology
-- System Development
-- Software Solutions
+## Key Characteristics
 
----
+- **Technowave 100 Building** — Strategic location in Yokohama's IT corridor alongside numerous KIA member companies
+- **KIA member** — Active participant in the Kanagawa IT ecosystem
 
-## 7. Company Philosophy and Culture
+## Media Mentions
 
-TBD - Additional research needed.
----
+- No significant media coverage identified in public sources
+- Company website (delta-eng.co.jp) is currently inaccessible
 
-## 8. Media Mentions
+## Notes
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
-
----
-
-## 9. Summary
-
-### Company Overview
-株式会社デルタエンジニアリング is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Website was unreachable during research; company may have migrated domains or ceased operations
+- Previously researched in an earlier session — research may exist in the git history

@@ -1,87 +1,42 @@
-# 株式会社スカイリミット (スカイリミット)
-## Company Analysis Report
+# 株式会社スカイリミット (Sky Limit Inc.)
 
----
+## Company Overview
 
-## 1. Company Name
+Sky Limit Inc. is a Yokohama-based IT company headquartered in Kohoku Ward's Green Hills Tsutsuki area. The company provides custom software development, system engineering services, and IT consulting services. It is a member of the Kanagawa IT Industry Association.
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社スカイリミット |
-| **English** | スカイリミット |
-| **Reading** | TBD |
+**Website:** https://www.sky-limit.co.jp/ (currently inaccessible)
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒224-0002 神奈川県横浜市都筑区茅ヶ崎東4-13-3 グリーンヒルズ都筑4F |
 
----
+## Company Details
 
-## 5. Products and Services
+| Field | Details |
+|-------|---------|
+| **Founded** | — |
+| **Capital** | — |
+| **Representative** | — |
+| **Business Fields** | Custom software development, SES |
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Business Description
 
-## 6. Key Clients and Industries Served
+Sky Limit provides custom software development and system engineering services. According to the KIA member directory, the company focuses on contracted software development projects.
 
-- Information Technology
-- System Development
-- Software Solutions
+## Key Characteristics
 
----
+- **Tsutsuki/Yokohama location** — Green Hills Tsutsuki building in Kohoku Ward
+- **KIA member** — Active participant in the Kanagawa IT ecosystem
 
-## 7. Company Philosophy and Culture
+## Media Mentions
 
-TBD - Additional research needed.
----
+- No significant media coverage identified in public sources
+- Company website (sky-limit.co.jp) is currently inaccessible
 
-## 8. Media Mentions
+## Notes
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
-
----
-
-## 9. Summary
-
-### Company Overview
-株式会社スカイリミット is a KIA member company based in Kanagawa Prefecture, Japan.  
-
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
-
-### Business Model
-IT services and system development.
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Website was unreachable during research; company may have ceased operations or migrated to a new domain
+- KIA directory listing (https://www.kia.or.jp) may have more current information

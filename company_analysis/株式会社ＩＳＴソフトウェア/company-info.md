@@ -1,87 +1,73 @@
-# 株式会社ＩＳＴソフトウェア (ＩＳＴソフトウェア)
-## Company Analysis Report
+# 株式会社ＩＳＴソフトウェア (IST Software Co., Ltd.)
 
----
+## Company Overview
 
-## 1. Company Name
+IST Software Co., Ltd. is a well-established Japanese software company founded in 1975, headquartered in Ota Ward, Tokyo. With approximately 509 employees and a 79% self-capital ratio (outstanding financial health), IST Software provides a comprehensive range of IT services including custom software development, embedded systems, package software, and generative AI solutions. The company has its own data center and cloud services (inetcloud).
 
-| Language | Name |
-|----------|------|
-| **Japanese** | 株式会社ＩＳＴソフトウェア |
-| **English** | ＩＳＴソフトウェア |
-| **Reading** | TBD |
+**Website:** http://www.ist-software.co.jp/
 
----
+## Headquarters & Offices
 
-## 2. Company Contact Information
-
-### Headquarters
-- **Address:** TBD
-- **Location:** Kanagawa Prefecture, Japan
-- **TEL:** TBD
-- **Website:** TBD
-
-### Affiliations
-- KIA (Kanagawa Information Service Industry Association)
-
----
-
-## 3. Company History & Milestones
-
-| Date | Event |
-|------|-------|
-
----
-
-## 4. Capital and Employee Count
-
-| Item | Details |
+| Type | Address |
 |------|---------|
+| **Headquarters** | 〒144-8721 東京都大田区蒲田5-37-1 ニッセイアロマスクエア13F |
 
----
+## Company Details
 
-## 5. Products and Services
+| Field | Details |
+|-------|---------|
+| **Founded** | March 1975 |
+| **Capital** | 500,000,000 JPY |
+| **Employees** | 509 (as of latest disclosure) |
+| **Self-Capital Ratio** | 79% (extremely high financial stability) |
+| **Representative** | 代表取締役社長 |
+| **Business Fields** | Custom software development, Embedded software, Package software, IT processing services, Network/communications, SES, Cybersecurity, AI/OCR |
+| **Data Center** | Own data center (inetcloud) |
 
-### Core Business Areas
-1. IT System Development
-2. Software Solutions
-3. System Integration
----
+## Leadership
 
-## 6. Key Clients and Industries Served
+| Name | Position | Notes |
+|------|----------|-------|
+| *Not publicly listed on website* | 代表取締役社長 | President & CEO |
 
-- Information Technology
-- System Development
-- Software Solutions
+## Business Description
 
----
+IST Software operates across seven major service domains:
 
-## 7. Company Philosophy and Culture
+1. **Generative AI Solutions** — Including proprietary AI tool "ZeroPro" (ゼロプロ) for generative AI applications
 
-TBD - Additional research needed.
----
+2. **Government & Public Sector** — 
+   - "SpoTec" (スポテク): Sports learning support app for physical education
+   - "Life Guardian": Health center management system for public health administration
 
-## 8. Media Mentions
+3. **Tourism & Leisure** —
+   - "mitte" series: Web promotion services for tourism associations
+   - "Aqua-LAN": Sales management system for hot spring facilities
 
-| Source | Type | Description |
-|--------|------|-------------|
-| TBD | - | No media mentions found yet |
+4. **Infrastructure & Cybersecurity** — Cybersecurity solutions menu and inet data center/cloud services
 
----
+5. **DX (Business Efficiency)** —
+   - "QueryMaker": System development tool for rapid application development
+   - "AIRead": Next-generation AI-OCR solution for document digitization
+   - "Rakuraku Hanbai": Low-code development tool for sales systems
 
-## 9. Summary
+6. **Custom Software Development** — Full-cycle software development from requirements to deployment
 
-### Company Overview
-株式会社ＩＳＴソフトウェア is a KIA member company based in Kanagawa Prefecture, Japan.  
+7. **Embedded Systems** — Firmware and embedded software for hardware products
 
-### Key Strengths
-1. KIA member company
-2. Based in Kanagawa tech corridor
+8. **International Compliance** — Product regulatory compliance services for companies expanding overseas
 
-### Business Model
-IT services and system development.
+## Key Characteristics
 
----
+- **49 years of continuous operation** (since 1975) — One of the longest-standing IT companies in the KIA membership
+- **Exceptional financial health** — 79% self-capital ratio is extraordinarily high, indicating strong retained earnings and minimal debt
+- **Large employer** — 509 employees makes IST one of the larger KIA member companies
+- **Own data center** — Operates inet data center, providing cloud infrastructure services
+- **Product portfolio** — Multiple proprietary products (QueryMaker, AIRead, ZeroPro, SpoTec, mittte, Aqua-LAN, Life Guardian)
+- **Generative AI early adopter** — Already offering generative AI solutions and tools
+- **Public sector strength** — Multiple solutions targeted at government agencies and tourism associations
 
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+## Media Mentions
+
+- **神奈川県情報サービス産業協会 (Kanagawa IT Industry Association)** — Active member company
+- **ニッセイアロマスクエア** — Headquartered in Nissei Aroma Square, a prominent office complex in Kamata, Tokyo

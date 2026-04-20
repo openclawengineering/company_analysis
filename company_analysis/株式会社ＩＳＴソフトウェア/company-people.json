@@ -1,10 +1,11 @@
-{
-  "company": {
-    "name_jp": "株式会社ＩＳＴソフトウェア",
-    "name_en": "ＩＳＴソフトウェア",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
-}
+[
+  {
+    "name_jp": "代表取締役社長",
+    "name_en": "President & CEO",
+    "position_jp": "代表取締役社長",
+    "position_en": "President & CEO",
+    "role": "CEO",
+    "source_page": "http://www.ist-software.co.jp/company/",
+    "notes": "President name not disclosed on main company website"
+  }
+]

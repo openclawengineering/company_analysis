@@ -2,37 +2,41 @@
 
 ## Company Overview
 
-Castle Inc. is a KIA member company. Due to garbled scraped content (hotel/hospitality website data mixed in during research), limited reliable information is available. The company appears to be based in the Kanto region.
+Castle Inc. is a Yokosuka-based IT company providing custom software development and system engineering services. The company is a member of the Kanagawa IT Industry Association.
 
-**Website:** https://www.castle.co.jp/
+**Website:** http://www.castle-in.co.jp/ (currently inaccessible)
 
 ## Headquarters & Offices
 
-| Location | Details |
-|----------|---------|
-| **Corporate Number** | 3013301029877 |
+| Type | Address |
+|------|---------|
+| **Headquarters** | 〒238-0022 神奈川県横須賀市公郷町1-53-41 |
 
-## Capital & Employees
+## Company Details
 
-Details not available.
+| Field | Details |
+|-------|---------|
+| **Founded** | — |
+| **Capital** | — |
+| **Representative** | — |
+| **Business Fields** | Custom software development |
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
 
-## Products & Services
+## Business Description
 
-IT services and system development (specific details unavailable due to data quality issues during research).
+Castle Inc. provides custom software development services from its Yokosuka headquarters. According to the KIA member directory, the company focuses on contracted software development projects.
+
+## Key Characteristics
+
+- **Yokosuka location** — One of the few KIA members based in Yokosuka (south Kanagawa), rather than the more common Yokohama/Kawasaki locations
+- **KIA member** — Active participant in the Kanagawa IT ecosystem
 
 ## Media Mentions
 
-- [Corporate Navigator](https://cnavi.g-search.or.jp/) - Corporate registration: Toshima-ku, Tokyo
-- [Castle Computer Inc.](https://www.castlecomputer.co.jp/) - Separate company supporting space development engineering (may be related)
-- Multiple companies share the name "Castle" (キャッスル) in Japan across different industries
+- No significant media coverage identified in public sources
+- Company website (castle-in.co.jp) is currently inaccessible
 
 ## Notes
 
-- **⚠️ Data Quality Note:** The original research captured content from an unrelated hotel website (Nagoya hotel group). The information above has been cleaned but remains limited.
-- KIA member company
-- Multiple unrelated companies in Japan share the name "キャッスル"
-
----
-
-*Report generated: April 2026*
-*Data sources: Company website, Tavily search*
+- Website was unreachable during research; company may have migrated domains or ceased operations
+- Previous research attempt encountered garbled content from a hotel/hospitality website — the domain may have been repurposed
