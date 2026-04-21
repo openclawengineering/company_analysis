@@ -1,94 +1,34 @@
-# あさかわシステムズ株式会社 (Asakawa Systems Co., Ltd.)
+# あさかわシステムズ株式会社
 
-## Company Overview
+## 会社概要
 
-Asakawa Systems Co., Ltd. is a software company specializing in ERP (core business systems) for the construction and civil engineering industry. Founded in 1984 (Showa 59), the company spun off from a general contractor's computing department. Listed on the TOKYO PRO Market (Securities Code: 5249), Asakawa Systems is a leading company driving innovation in the construction and civil engineering industry.
+建設・工事業向けソフトウェア開発会社。創業から40年以上、自社開発のパッケージ製品を通じて、財務・原価・安全などバックオフィスにおける多様な課題の解決を支援している。経験と信頼に裏打ちされた製品力とサポート体制で、建設・工事業の持続的な成長と企業価値向上をともに目指している。
 
-The company treats its users as its most important asset and has built its business on in-house development and maintenance systems, providing products and services that meet the needs and expectations of the construction industry.
+自社開発のパッケージソフト／クラウドサービスを全国展開し、建設・工事業の業務改善と信頼あるサポートを提供している。
 
-**Website:** https://www.a-sk.co.jp/
+**ウェブサイト:** [https://www.a-sk.co.jp](https://www.a-sk.co.jp)
 
-## History
+## 事業内容
 
-- **1984 (Showa 59)** - Company founded, spun off from a general contractor's computing department
-- **Present** - Listed on TOKYO PRO Market (Securities Code: 5249)
+### 建設・工事業向けソリューション
+- 建設・工事業向けERPソリューションとして基幹業務をカバーする豊富な業務別サブシステムを提供
 
-## Capital & Employees
+### 産廃（建廃）・砕石業
+- トラックスケール、計量ポストなど周辺機器と連携し、入出荷・請求・支払・マニフェスト業務の簡素化を実現
 
-| Item | Details |
-|------|---------|
-| **Capital** | 64,800,000 JPY |
-| **Employees** | 89 |
-| **Securities Code** | 5249 (TOKYO PRO Market) |
-| **Fiscal Year End** | March |
-| **Headquarters** | SiS Rinku Tower, 1 Rinku Kourai-kita, Izumisano, Osaka 598-0048 |
-| **Phone** | 072-464-7831 |
+### その他
+- その他様々な製品・サービスをラインアップ
 
-## Products & Services
+## 特徴・強み
 
-### Core Solutions for Construction & Civil Engineering
+- 創業40年以上の歴史と実績
+- 自社開発のパッケージ製品
+- 建設・工事業特化のノウハウ
+- 豊富な業務別サブシステム
+- トラックスケール、計量ポストなど周辺機器との連携
+- 全国展開するクラウドサービス
+- 信頼あるサポート体制
 
-#### Construction Industry ERP
-- **GALAXY Series** - ERP for construction and civil engineering companies
-- **GALAXY X - Takumi** - ERP for small-scale construction and civil engineering companies
+## 採用情報
 
-#### Attendance & Payroll
-- **Kin-CON-Kan** - Attendance management system
-- **Denchou Hato** - Electronic payment slip issuance
-- **Powerful Tecchan-smart** - Bill issuance system
-
-#### Project & Safety Management
-- **Kanbei-e** - Member management for safety cooperation associations
-- **Excel Cell** - Resident-facing website for large-scale renovation projects
-- **Genba Tsushinbo** - Subcontractor evaluation system
-- **Kenestsu Ichiban-fuda** - Bidding management system
-
-#### Business Intelligence & AI
-- **Keishin Master** - Business qualification examination simulation
-- **AI Initiatives** - Artificial intelligence applications for construction industry
-- **Data Fit** - Inter-system integration assist tool
-
-#### Industry-Specific
-- **Kiwami** - Measurement/sales management system for industrial waste and crushed stone
-- **Tomename-ru** - Custom solutions (Otsuka Corporation dealer)
-- **Cyber Security Helpers** - Chamber of commerce cybersecurity support
-
-#### Cloud Services
-- **Soratobu Koji BOX** - Cloud storage for construction projects
-
-## Clients
-
-Construction and civil engineering companies across Japan.
-
-## Philosophy
-
-Detailed corporate philosophy is available on the official website.
-
-## Affiliations
-
-- Kanagawa Information Services Industry Association (KIA)
-- Japan Information Technology Services Industry Association (JISA)
-- JISA Kansai District Conference
-- IT Coordinator Association (ITCA)
-- Wakayama Information Services Industry Association (WAK-ISIA)
-- Smart SME Supporter
-
-## Media Mentions
-
-- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp85110/outline.html) - "Asakawa Systems is a software manufacturer developing ERP systems centered on the construction and civil engineering industry. Founded in 1984."
-- [Nikkei Company Overview](https://www.nikkei.com/nkd/company/gaiyo/?scode=5249) - Securities Code 5249, 89 employees
-- [OpenWork](https://www.openwork.jp/) - Employee reviews
-- [Facebook](https://www.facebook.com/asakawasystems/) - Company page
-- [Japan Build Exhibition](https://www.japan-build.jp/) - Exhibition participant
-
-## Notes
-
-- Publicly listed company (TOKYO PRO Market)
-- Deep specialization in construction and civil engineering ERP
-- Cloud-based solutions (Soratobu Koji BOX)
-- AI initiatives for construction industry
-- Smart SME Supporter certification
-
----
-
-*Report generated: April 2026*
+- 建設業界のDXを推進する当社で、あなたの力を活かしませんか？

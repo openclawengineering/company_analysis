@@ -1,170 +1,75 @@
-# enefla株式会社 (enefla Corporation)
+# enefla株式会社
 
-## Overview
+## 会社概要
 
-enefla株式会社 is a company dedicated to solving infrastructure challenges in the pursuit of carbon neutrality. The company specializes in EV (Electric Vehicle) and PHEV (Plug-in Hybrid Electric Vehicle) charging infrastructure, providing comprehensive solutions from charger sales and installation to payment system development.
+カーボンニュートラルの実現に向けてインフラ課題を解決する企業。EV充電器販売・施工、EV充電課金システム開発・販売、V2H（Vehicle-to-Home）販売・施工を手がける。2023年12月設立の新興企業。
 
-**Website:** https://enefla.co.jp
+自社開発の充電器課金システム「エネフラチャージ（enefla Charge）」を展開。会員登録不要で充電器本体のQRコードを読み込むだけで簡単・便利に利用できるのが特徴。
 
-**Mission:** "We solve infrastructure challenges toward achieving carbon neutrality"
+グループ会社に電気設備会社があるため、確実な品質をご提供できるのが強み。システム開発、補助金申請等の広範囲な業務を自社で対応し、ワンストップサービスを提供している。
 
-## History
+**ウェブサイト:** [https://enefla.co.jp](https://enefla.co.jp)
 
-**Founded:** December 2023
+## 所在地
 
-enefla was established by a team of professionals committed to carbon neutrality. The company combines expertise in electrical equipment, system development, and subsidy applications to provide one-stop EV charging solutions.
+- 本社: 〒神奈川県川崎市高津区子母口421 1F
+- E-mail: contact(※)enefla.co.jp（※を@に置き換えてご連絡ください）
 
-## Capital
+## 事業内容
 
-Private company (established December 2023)
+### EV充電器販売・設置
+- 普通充電器: 自宅や職場での長時間駐車に最適、安価な料金で充電
+- 急速充電器: 経路での充電、時間がない時の充電に最適、普通充電器より割高
+- 充電器課金システム「エネフラチャージ」: マンション、店舗等の不特定多数の方がご利用する充電器には課金システムの導入がポイント
 
-## Services
+### 充電器オーナー様向け課金システム
+- **エネフラチャージ月額プラン**:
+  - 基本料金: 2,970円/月
+  - 決済手数料: 10%
+- **キャンペーン実施中**（2026年4月〜7月までの新規お申込み対象）:
+  - 基本料金: 2,970円/月 → **990円/月**（3ヶ月間）
+  - 充電器設置日翌月から3ヶ月間が対象
+- ※価格はすべて税込表示
+- ※キャンペーンは事前予告なく変更または終了する場合がございます
+- ※課金システムは普通充電器のみ対象
+- ※QRコードは株式会社デンソーウェーブの登録商標
 
-### 1. EV Charger Sales & Installation
+## 特徴・強み
 
-#### Standard Chargers (普通充電器)
-- Ideal for long-term parking at homes or workplaces
-- Lower charging costs
-- Suitable for overnight charging
+### eneflaが選ばれている3つのポイント
+1. **対応力**: グループ会社に電気設備会社があるため、確実な品質をご提供
+2. **技術力**: システム開発、補助金申請等の広範囲な業務を自社で対応
+3. **提案力**: お客様の立場で、お客様の状況に合わせたご提案を徹底
 
-#### Quick Chargers (急速充電器)
-- Perfect for charging during travel or when time is limited
-- Higher cost than standard chargers
-- Rapid charging capability
+### サービスフロー
+- ご提案から現場調査、お見積り、補助金申請、設置工事までワンストップで対応可能
+- 充電器の導入は補助金を活用することで大幅に導入費用を削減できる場合がございます
+- 国の補助金＋地方自治体の補助金（※地方自治体により補助金がない場合もございます）
 
-### 2. Charging Payment System
+## 企業情報
 
-**Key Features:**
-- No membership registration required
-- QR code scanning for easy use
-- Self-developed system for simplicity and convenience
-- Single screen for both charging and payment
+| 項目 | 値 |
+|------|-----|
+| 社名 | enefla株式会社 |
+| 設立 | 2023年12月 |
+| 所在地 | 神奈川県川崎市高津区子母口421 1F |
+| 代表取締役 | 佐藤 雄一 |
+| 事業内容 | EV充電器販売・施工、EV充電課金システム開発・販売、V2H販売・施工 |
+| 取引銀行 | 三井住友銀行 溝ノ口支店、川崎信用金庫 新城支店 |
 
-*Note: Payment system available for standard chargers only*
+## 代表メッセージ
 
-### 3. Payment System Plans for Charger Owners
+「enefla株式会社はカーボンニュートラルの実現に向けて本気で取り組む仲間が集まり誕生しました。
 
-#### Plan A
-- **Basic Fee:** ¥2,970/month (tax included)
-- **Payment Fee:** 10%
-- *Recommended for initial deployment with lower monthly costs*
+出来ることはまだまだ小さいですが確実に歩みながら社会に貢献したいと思っています。
 
-#### Plan B
-- **Basic Fee:** ¥3,850/month (tax included)
-- **Payment Fee:** 6%
-- *Recommended for high charger utilization with lower payment fees*
+誠実、迅速、柔軟に対応して頼られる企業を目指します。」
 
-**No Contract Period Binding** - Flexible cancellation policy
+— 代表取締役 佐藤 雄一
 
-### 4. V2H (Vehicle-to-Home) Sales & Installation
-- Bidirectional charging solutions
-- Home energy management integration
+## 代表プロフィール
 
-### 5. Subsidy Application Support
-- National subsidy applications
-- Local government subsidy support (varies by municipality)
-- Significant cost reduction on installation expenses
-
-## Three Key Strengths
-
-### 1. Capability (対応力)
-- Group company includes an electrical equipment company
-- Guaranteed quality installation services
-
-### 2. Technical Expertise (技術力)
-- In-house system development
-- Subsidy application support
-- Comprehensive service coverage
-
-### 3. Proposal Power (提案力)
-- Customer-centric approach
-- Customized proposals based on client situation
-- From proposal to installation - all in-house
-
-**One-Stop Service:**
-- Proposal → Site Survey → Quotation → Subsidy Application → Installation
-
-## Clients
-
-**Target Markets:**
-- Condominium/apartment complexes
-- Commercial facilities
-- Businesses with parking facilities
-- Homeowners with EV/PHEV vehicles
-- Property developers
-
-**Industries Served:**
-- Real estate
-- Retail
-- Corporate offices
-- Residential
-
-## Philosophy
-
-**Representative's Message:**
-> "enefla Corporation was born from a gathering of colleagues seriously committed to achieving carbon neutrality. While our capabilities are still small, we are determined to steadily move forward and contribute to society. We aim to be a reliable company that responds with sincerity, speed, and flexibility."
-
-**Core Values:**
-- Sincerity (誠実)
-- Speed (迅速)
-- Flexibility (柔軟)
-- Reliability (頼られる企業)
-- Carbon neutrality commitment
-
-## Corporate Information
-
-**Company Name:** enefla株式会社 (enefla Corporation)
-
-**Location:** 1F, 421 Komukai, Takatsu-ku, Kawasaki-shi, Kanagawa Prefecture
-
-**Established:** December 2023
-
-**Representative Director:** Yuichi Sato
-
-**Business Activities:**
-- EV charger sales and installation
-- EV charging payment system development and sales
-- V2H sales and installation
-
-**Banking Partners:**
-- Sumitomo Mitsui Banking Corporation, Mizonokuchi Branch
-- Kawasaki Shinkin Bank, Shinjo Branch
-
-## Leadership
-
-**Representative Director: Yuichi Sato**
-
-**Career:**
-- Nippon Ecosystem Corporation
-- Rakuten, Inc.
-- WILLER Corporation
-- Director at Harada Electric Co., Ltd. (current)
-- Founded enefla Corporation in 2023 as Representative Director
-
-**Expertise:**
-- Payment system development
-- Subsidy application processing
-- One-stop service delivery through group company collaboration
-- Infrastructure problem-solving for carbon neutrality
-
-## Contact
-
-**Address:** 1F, 421 Komukai, Takatsu-ku, Kawasaki-shi, Kanagawa Prefecture, Japan
-
-**Email:** contact(※)enefla.co.jp
-*(Replace (※) with @)*
-
-**Website:** https://enefla.co.jp
-
-**Contact Form:** https://enefla.co.jp/contact/
-
-## Media Mentions
-
-- [Services Page - EV Charging Solutions](https://enefla.co.jp/#services)
-- [Pricing Plans](https://enefla.co.jp/#plans)
-- [Corporate Information](https://enefla.co.jp/#overview)
-- [Representative Message](https://enefla.co.jp/#profile)
-
----
-
-*Last Updated: March 31, 2026*
+- 株式会社日本エコシステム、楽天株式会社、WILLER株式会社を経て原田電気株式会社取締役就任（現任）
+- その後、EV充電器サービスに特化したenefla株式会社を2023年設立し代表取締役に就任
+- 課金システム開発、補助金申請は自社で対応し、設置工事はグループ会社で対応できるワンストップサービスにこだわり仲間と共にeneflaを設立
+- 今までの経験を活かしカーボンニュートラルの実現に向けてインフラの課題解決を推進中
