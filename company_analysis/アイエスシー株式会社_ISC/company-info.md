@@ -1,65 +1,97 @@
-# アイエスシー株式会社
+# アイエスシー株式会社 (ISC Corporation)
 
-## 会社概要
+## Company Overview
 
-カメラ・レーザーで撮影した画像から製品検査・外観検査を行う「画像処理検査装置」を開発・提供する企業。創業から36年にわたり画像・映像処理技術と制御系ソフトウェアの開発を手がけてきた。
+アイエスシー株式会社 (ISC) is a Kanagawa-based company specializing in product inspection and appearance inspection equipment. With 36 years of experience since founding, ISC provides high-precision inspection systems that combine camera and lighting capture with advanced image processing technology. The company offers comprehensive solutions from software/hardware development to system integration, supporting industrial automation and quality control.
 
-製品検査・外観検査の自動化により、作業時間の短縮や人件費カット、品質向上など多くのメリットを発生。長年培ってきた経験とノウハウを活かし、ご予算や目的、また生産ラインの規模に合わせて最適な画像処理検査装置をご提案している。
+**Website:** http://www.isc-net.co.jp
 
-VR（バーチャルリアリティ）、AR（オーグメンテッド・リアリティ）といった最先端技術のご提案も行っている。ハードウェア・ソフトウェアの両側からシステムソリューションを提供。
+## Company Profile
 
-**ウェブサイト:** [http://www.isc-net.co.jp](http://www.isc-net.co.jp)
+| Item | Details |
+|------|---------|
+| **Company Name** | アイエスシー株式会社 |
+| **Founded** | 1988年 (36 years as of 2024) |
+| **Headquarters** | 神奈川県川崎市中原区小杉町3-826 |
+| **Business** | 画像処理検査装置の開発・製造・販売 |
 
-## 事業内容
+## Mission & Philosophy
 
-### 画像処理検査装置（製品検査・外観検査）
-- カメラ・レーザーで撮影した画像から製品検査・外観検査
-- 自動化により作業時間短縮、人件費カット、品質向上
-- 肉眼検査では見逃してしまうような微細な「キズ」「汚れ」「変形」を高精度で判別
+### Core Value
+技術力と対応力で、お客様の求めるソリューションを実現します。
 
-### 画像解析・物体認識
-- 映像（画像）解析や物体認識を応用したシステム
-- デジタルカメラの顔認識や画像検索などの技術
-- VR（バーチャルリアリティ）、AR（オーグメンテッド・リアリティ）技術のご提案
+## Products & Services
 
-### システム受託開発
-- 映像（画像）解析システム開発
-- 物体認識システム
-- Webアプリケーション開発
-- ドライバ開発
-- 実際にアクションを起こすハードウェアまで事業領域を拡大
+### 1. 画像処理検査装置 (Image Processing Inspection Equipment)
 
-## 特徴・強み
+**Overview:**
+カメラ・レーザーで撮影した画像から製品検査・外観検査を行う「画像処理検査装置」を導入し自動化することで、作業時間の短縮や人件費カット、品質向上など多くのメリットが発生します。
 
-### 技術力と対応力で、お客様の求めるソリューションを実現
-1. **ハードウェア・ソフトウェアの両側からサポート**
-   - 36年の実績で蓄積された画像処理技術
-   - それらを活用するためのソフトウェアの知識とノウハウ
-   - 実際に機械に組み込むためのハードウェアまで含め、総合的なシステム開発に対応
+**Capabilities:**
+- 高精度な画像処理技術 (High-precision image processing technology)
+- カメラとレーザーによる撮影 (Camera and laser capture)
+- 微細な「キズ」「汚れ」「変形」を検出 (Detection of minute defects, dirt, deformities)
+- 人間に頼らず検査を自動化 (Automated inspection without human intervention)
+- 効率化・コスト削減 (Efficiency improvement and cost reduction)
 
-2. **目的に合わせた最適なソリューション**
-   - 機器を販売するメーカーではなく、お客様の目的に合わせた製品を提供するソリューション企業
-   - 既存製品にとらわれず、最適なシステムを開発可能
-   - 生産・製造現場のお悩みをお聞きしながら、ベストなシステムやサービスをコンサルタントとしてご提案
+### 2. Technical Expertise
 
-3. **36年にわたり培った画像処理技術による開発実績**
-   - 創業から36年にわたって技術を蓄積してきた画像処理・映像処理技術には絶対の自信
-   - オートトラッキングや3次元化といった技術に加え、流体解析・温度解析、画像補正やフォーマット変換など、様々な画像処理に対応
-   - GPUを活用することで高速画像処理を実現
-   - 短時間で膨大な映像・画像の処理にも対応
+#### 映像処理技術の進歩 (Image Processing Technology Advancement)
+映像処理技術の進歩や高精度なセンサーの開発によって、さまざまなシーンで映像（画像）解析や物体認識が活用されています。
 
-4. **大企業にも技術提供する豊富な実績**
-   - 画像処理・映像処理技術を活用した分析・解析やハイスピードカメラのファームウェア開発にはじまり
-   - ソフトウェア・ハードウェア・システムの受託開発、そしてシステム全体の設計まで含めて総合的にシステムソリューションをご提案
-   - システムの多様化や高速化を実現するために、製品やシステム開発の品質向上に努めてきた
-   - 高い品質と性能から、現在では大手企業様にも技術を提供
+**Applications:**
+- デジタルカメラの顔認識 (Digital camera face recognition)
+- Googleなどの画像検索 (Image search engines like Google)
+- VR・AR (Virtual Reality/Augmented Reality)
 
-5. **海外への積極的展開**
-   - 豊富な実績から培った画像処理・映像処理技術に関して海外への積極的な展開
-   - 海外の展示会にてスタッフがインタビューに答えた動画など
+### 3. System Development Portfolio
 
-## 企業メッセージ
+Since founding, ISC has been engaged in image and video processing system development, leveraging accumulated technology.
 
-「システム開発だけでは、お客様に真のソリューションをお届けすることはできません。そこで当社では、Webアプリケーションやドライバの開発、実際にアクションを起こすハードウェアまで事業領域を拡大。独自のシステムを数多く開発してきました。
+#### Web Applications & Driver Development
+- Webアプリケーションやドライバの開発 (Web applications and driver development)
+- 実際にアクションを起こすハードウェアまで事業領域を拡大 (Hardware development to drive real actions)
 
-その高い品質と性能から、現在では大手企業様にも技術を提供しております。今後も皆様の『信頼できるパートナー』であり続けるために、既成概念にとらわれず挑戦を続けてまいります。」
+#### Latest Technologies
+- VR (Virtual Reality) — 仮想現実の技術
+- AR (Augmented Reality) — 拡張現実の技術
+- Google Glass — メガネ型ウェアラブル端末 (Wearable smart glass terminal)
+- Medical, automotive, wearable device applications
+
+### 4. System Integration Approach
+
+**ソフトウェアだけでは、お客様に真のソリューションをお届けすることはできません。**
+
+ISC's comprehensive approach:
+- ソフトウェア開発 (Software development)
+- ハードウェア開発 (Hardware development)
+- システムソリューション (System solutions)
+
+**Advantages:**
+- システム開発だけではなく、ハードウェアまで含めた総合的なシステム開発に対応していることが最大の特徴
+- お客様の目的に合わせた製品を提供するソリューション企業 (Solution company providing products tailored to customer purposes)
+- 既存製品ともらわれず、最適なシステムを開発可能 (Can develop optimal systems even with existing products)
+- メーカーであれば製品ありきでシステム開発を行う必要あり (If manufacturer provides products, system development may be needed)
+- 独自のシステムを数多く開発してきました (Developed many proprietary systems)
+
+### 5. Market Position
+
+**Quality & Performance:**
+その高い品質と性能から、現在では大手企業様にも技術を提供しております。
+
+**Future Direction:**
+今後も皆様の「信頼できるパートナー」であり続けるために、既成概念にとらわれず挑戦を続けてまいります。
+
+## Notes
+
+- 36 years of experience in image processing technology
+- Combines camera/laser capture with advanced image processing
+- Specializes in detecting minute defects (キズ, 汚れ, 変形)
+- Comprehensive solutions: software, hardware, system integration
+- Strong track record serving major Japanese enterprises
+- Capable of providing systems for medical, automotive, and wearable device markets
+- VR/AR technology applications in cutting-edge fields
+
+---
+
+*Report generated: April 2026*

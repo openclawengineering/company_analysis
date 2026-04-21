@@ -1,55 +1,103 @@
 # SGビジネス株式会社
 
-## 会社概要
+## Company Overview
 
-「新しいは楽しい」を体現し、「未知を、価値に」するワクワクとの出会いを通じて、新しい挑戦を楽しみながらこれまでにない価値を生み出し続けるIT企業。システム開発で新しい価値を創造することに軸を置く。
+SGビジネス株式会社 (SGB) is a Yokohama-based system development company founded in June 2015. With a mission to "create new value through system development," SGB proactively captures risks to drive social innovation. The company develops software and hardware, provides system development/maintenance/operations, web business systems, and maintains a diverse portfolio across system development and food businesses.
 
-代表取締役社長は渡邊一平。元々大手SIerに所属し、成果第一で業務に取り組んできたが、強く感じたのが「人の壁」。「何をするか」よりも「誰とするか」が重要であると考え、社員一人ひとりが飾らない自分で居られ、心置きなく力を発揮できる環境を提供する会社を目指している。
+**Website:** https://www.sgb.co.jp/
 
-**ウェブサイト:** [https://www.sgb.co.jp](https://www.sgb.co.jp)
+## Company Profile
 
-## 事業内容
+| Item | Details |
+|------|---------|
+| **Company Name** | SGビジネス株式会社 (SGB) |
+| **Founded** | 2015年6月1日 |
+| **Headquarters** | 神奈川県横浜市都筑区中川中央1-37-23 ルネス・ヴィクトワール2F |
+| **Phone/Fax** | 045-530-5612 / 045-911-8558 |
+| **Capital** | 20,000,000円 |
+| **President** | 渡邉 一平 |
+| **Employees** | 41名（契約社員含む） |
 
-### システム開発
-- ソフトウェア開発・保守・運用
-- Web系業務システム開発
-- ハードウェア（製品）開発・販売
+## Offices
 
-### 企業理念・カルチャー
-- **SAFE SYSTEM**: 社会に安心を
-- **COMPANION**: 誰とするか（「何をするか」よりも「誰とするか」）
-- **MOVE MIND**: ワクワクする挑戦を
-- **BRAVE**: 変化を恐れない
+### 横浜本社 (Yokohama HQ)
+- **Address:** 〒224-0003 神奈川県横浜市都筑区中川中央1-37-23 ルネス・ヴィクトワール2F
+- **Phone/Fax:** 045-530-5612 / 045-911-8558
+- **Access:** 地下鉄ブルーライン・地下鉄グリーンライン センター北駅下車 徒歩2分
 
-## 特徴・強み
+### 東京事務所 (Tokyo Office)
+- **Address:** 〒153-0064 東京都目黒区下目黒1-8-1 目黒アルコタワー7F
+- **Phone:** 03-6825-0665
+- **Access:** JR・東京メトロ・都営地下鉄・東急 目黒駅 徒歩5分
 
-- 代表の渡邊一平による「誰とするか」重視の経営哲学
-- 顧客・社会・社員全てに価値ある会社を目指す
-- 社会に発展に寄与しつづける企業を目指す
+## Philosophy
 
-## 代表メッセージ（渡邊一平）
+### 経営理念
+**『新しい価値を創造する』**
 
-「私は以前、大手SIerに所属していました。成果第一で業務に取り組み、最後は取締役として多くの方と仕事で関わってきましたが、その時強く感じたのが『人の壁』でした。
+リスクを能動的に捉ることで、新しい価値を創造しソーシャルイノベーションを生み出すことにより常に社会の発展に寄与しつづける企業を目指します。
 
-どんなに高い技術や豊富な知識を持つ人が集まっていたとしても、同じ方向を向いていなければ力を発揮できず、それどころか互いの道を阻む壁となってしまうのです。
+### Core Values
+- **SAFE SYSTEM** — 社会に安心を
+- **COMPANION** — 誰とするか
+- **MOVE MIND** — ワクワクする挑戦を
+- **BRAVE** — 変化を恐れない
 
-私は仕事において、『何をするか』はもちろん大事ですが、それよりも『誰とするか』がより重要なのではないかと考えています。
+### Corporate Purpose
+システム開発でこれまで重要視されてきた「お客様目線の価値」に加え、これからの多様化社会では「多方面からの信頼」が求められるようになります。
 
-嫌いな人と食べる高級フランス料理と、好きな人と食べるファーストフードであれば、後者を選ぶ人が圧倒的に多いのではないでしょうか。
+SGBは、社会・顧客・社員全てに価値ある会社を創造するため、幅広い価値観を持つ技術者の方を募集しています。
 
-そうして会社という存在を考え直した時、働く人一人ひとりが飾らない自分で居られ、心置きなく力を発揮できる環境があれば、もっといい世の中ができるのではないか？と思ったんです。
+## Products & Services
 
-また、人が持つ力をより発揮できる環境を突き詰めていくと、機械のように仕事をして『仕事の喜びが見えない会社』や、働く人が経済的に安心できない『不安な会社』にもしてはいけない、という思いが強まりました。
+### System Development
+SGビジネスは「システム開発で新しい価値を創造する」ことに軸足を置き、以下のサービスを提供しています：
 
-これは、以前の会社で私が感じた後悔や失敗に対して『同じ轍を社員に踏んで欲しくない、踏ませるような会社にしてはいけない』という気持ちも原点になっています。
+#### 1. ソフトウェア開発・保守・運用 (Software Development & Maintenance)
+ソフトウェアの開発・保守・運用等のソリューションサービス
 
-個々のもつ技術が集まり、皆でプロフェッショナルになれるのが会社です。
+#### 2. Web系業務システム開発 (Web Business System Development)
+Web系業務システムの開発
 
-働く環境が変われば、仕事の結果も当然変わりますし、仕事以上に大切に思えることが見つかるかもしれません。
+#### 3. ハードウェア開発・販売 (Hardware Development & Sales)
+ハードウェア（製品）の開発・販売
 
-だからこそ、これから新たに入られる方にも、ぜひ働きやすい仲間と一緒に楽しく仕事をやってもらえたら嬉しいですね。」
+### Business Areas
+SGビジネス maintains diverse operations across:
 
-## 採用情報
+- **システム開発** (System Development)
+- **食品事業** (Food Business)
 
-- カルチャーに共感できる方を幅広く募集
-- 福利厚生: SGBの特徴的な福利厚生をご紹介
+### Service Philosophy
+リスクを能動的に捉りソーシャルイノベーションを生み出すことにより、常に社会の発展に寄与しつづける企業を目指します。
+
+## Recruitment
+
+### For Engineers
+SGビジネス seeks engineers with diverse values:
+- カルチャーに共感できる方 (Can relate to culture)
+- 幅広く募集します
+
+### Benefits & Welfare
+- **福利厚生** (Welfare benefits): SGBの特徴的な福利厚生をご紹介します
+
+### Available Positions
+- エンジニア募集中 (Engineer recruitment集中)
+
+### Employee Profiles
+- **[PERSON]** — SGBで活躍できる方 カルチャーに共感できる方を幅広く募集します
+- **[MESSAGE]** — 代表メッセージ 代表の渡邉より皆さまへのメッセージです
+- **[BENEFITS]** — 福利厚生 SGBの特徴的な福利厚生をご紹介します
+
+## Notes
+
+- Founded in 2015, relatively young but established with 20億円 capital
+- Dual-office structure: Yokohama HQ and Tokyo office
+- Values-driven company focusing on social contribution through technology
+- Diversified business portfolio: system development and food business
+- Emphasizes proactive risk capture for innovation
+- Safe System (安心), Companion (共感), Move Mind (挑戦), Brave (変化) as core values
+
+---
+
+*Report generated: April 2026*

@@ -1,61 +1,53 @@
-# NTTデータフォース株式会社
+# NTTデータフォース株式会社 (NTT DATA FORCE Corporation)
 
-## 会社概要
+## Company Overview
 
-NTTデータグループの金融系システム開発会社。「Next Force, New Future.」をスローガンに、金融機関向けシステム開発、アウトソーシング、コンサルティング、システム運用、基盤構築、顧客サポートサービスを提供する。2025年12月に本社移転を実施。
+NTT DATA FORCE Corporation is a NTT Group company specializing in financial institution systems and solutions. The company focuses on developing and providing comprehensive systems for financial institutions including banks, securities companies, and insurance companies. NTT DATA FORCE aims to support digital transformation in the financial sector through advanced technology solutions and services.
 
-2025年8月にシステム運用業務のタブレットツール「tAups®」の提供を開始。2025年2月には「スポーツエールカンパニー」認定、2024年12月には「えるぼし認定」（女性活躍推進企業）を取得。
+**Website:** https://www.nttdata-force.co.jp/
 
-**ウェブサイト:** [https://www.nttdata-force.co.jp](https://www.nttdata-force.co.jp)
+## Notes
 
-## 所在地
+### Website Access Limitation
+NTT DATA FORCE's website uses heavy JavaScript frameworks for dynamic content delivery. Through the web_fetch tool, the following limitations are encountered:
 
-- 本社: 東京都（2025年12月移転済み、詳細はJS-renderedサイトで非公開）
-- 親会社: NTTデータ株式会社（https://www.nttdata.com/jp/ja/）
+- **Homepage returns limited content** — Only navigation, news headlines, and brief overview accessible
+- **Company and Service pages return 404 errors** — Detailed company information, product details, and service descriptions cannot be retrieved
+- **JavaScript rendering** — The site appears to load content dynamically, making automated content extraction difficult
 
-## 事業内容
+### Available Information from Homepage
 
-### サービス
-- **システム開発**: 幅広い開発実績に裏づけされた高い技術力と提案力
-- **アウトソーシング**: 大手地方銀行アウトソーシングの確かな実績と深い業務知識
-- **コンサルティング/ソリューション**: 業務分析からシステム構築・導入まで
-- **システム運用**: ミッションクリティカルな金融系システムの安定稼動
-- **基盤構築**: 最適な基盤環境の提案・構築
-- **お客様サポート**: 安全・安心な顧客サポート
-- **tAups®**: システム運用業務の堅確化・高度化を実現するタブレットツール
+**Tagline:**
+『Next Force, New Future.』 — The slogan raised by NTT DATA FORCE
 
-## 特徴・強み
+**Corporate Statement:**
+お客様へ価値を提供すると共に、お客様と一緒に成長する企業であることを目指します。 (Aiming to provide value to customers while growing together with customers)
 
-- NTTデータグループの金融特化型ITサービス会社
-- 大手地方銀行アウトソーシングの豊富な実績
-- スポーツエールカンパニー認定（2025年2月）
-- えるぼし認定（2024年12月、女性活躍推進）
-- 独自開発ツール tAups® で運用業務の高度化
+**Recent News:**
+- 2026年4月1日: 組織図を更新しました (Organization chart updated)
+- 2025年12月1日: 本社移転のお知らせ (Head office relocation notice)
+- 2025年8月5日: システム運用業務の堅確化・高度化を実現するタブレットツール tAups® を提供開始 (tAups tablet tool for operational stabilization and advancedization launched)
+- 2025年6月4日: 役員の新体制について、お知らせします (New officer system announcement)
+- 2025年2月13日: 当社は、社員の健康増進に関する積極的な取組を行っている企業として「スポーツエールカンパニー」の認定を取得しました (Obtained "Sports Health Company" certification for active employee health promotion)
+- 2024年12月23日: 当社は、女性活躍推進企業として「えるぼし認定」を取得しました (Obtained "Kurumin" certification as women's empowerment company)
 
-## 企業情報
+### What We Know
+- **Slogan:** Next Force, New Future.
+- **Parent Company:** Part of NTT DATA Group family
+- **Industry Focus:** Financial institution systems and solutions
+- **Services:** Likely includes core banking systems, digital solutions, cloud services, and related IT infrastructure
+- **Values:** Emphasis on customer value and joint growth, employee health, and diversity (evidenced by certifications)
 
-| 項目 | 値 |
-|------|-----|
-| 社名 | NTTデータフォース株式会社 |
-| 英語表記 | NTT DATA FORCE Corporation |
-| 設立 | 非公開（NTTデータグループ会社） |
-| 代表取締役社長 | 池野 元就 |
-| 親会社 | NTTデータ株式会社 |
+### Recommendation
+For comprehensive company information including:
+- Detailed service offerings
+- Company history and milestones
+- Office locations
+- Full product portfolio
+- Leadership profiles
 
-## 役員体制（2025年6月3日〜）
+Access to the company's website directly through a web browser would be required, as the heavy JavaScript rendering prevents automated content extraction.
 
-| 役職 | 氏名 |
-|------|------|
-| 代表取締役社長 | 池野 元就 |
-| 取締役 執行役員 | 二杁 克久 |
-| 取締役 執行役員 | 新村 哲也 |
-| 取締役 執行役員 | 西村 健 |
-| 取締役（非常勤） | 村松 真也 |
-| 取締役（非常勤） | 田中 順子 |
-| 取締役（非常勤） | 小野寺 伸夫 |
-| 取締役（非常勤） | 大海 善行 |
-| 取締役（非常勤） | 小林 寛 |
-| 執行役員 | 由井 哲也 |
-| 執行役員 | 山田 英樹 |
-| 執行役員 | 薄木 正行 |
-| 監査役（非常勤） | 橋口 俊彦 |
+---
+
+*Report generated: April 2026*

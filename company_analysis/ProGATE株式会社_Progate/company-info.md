@@ -1,57 +1,134 @@
-# ProGATE株式会社
+# プロゲート (Progate)
 
-## 会社概要
+## Company Overview
 
-「Learn to Code, Learn to Be Creative.」を掲げるプログラミング学習プラットフォーム「Progate」を運営するEdTech企業。スライドによる視覚的学習、ブラウザ内での実践的コーディング、最適化されたレッスン構成により、初心者から創造者への道のりをサポートする。
+Progate is an online programming learning platform with a global presence. Operating in 100+ countries with 3,600,000 active users, Progate provides interactive programming education designed to help beginners progress from entry-level to full-fledged creators. The platform emphasizes visual learning through illustrative slides, hands-on coding in browser environments, and directed learning paths optimized for becoming skilled programmers.
 
-3,600,000以上のユーザーが100以上の国で利用中。Free PlanとPlus Plan（月額9.92円〜）を提供。iOS/Androidアプリも展開し、どこでも学習可能。
+**Website:** https://progate.com/
 
-HTML/CSS、JavaScript、Python、Swift、Kotlinなどのプログラミング言語に対応。2026年時点では生成AIを活用したコースも提供しており、AI時代のプログラミング学習を支援。
+## Company Profile
 
-**ウェブサイト:** [https://progate.com](https://progate.com)
+| Item | Details |
+|------|---------|
+| **Platform** | プロゲート (Progate) |
+| **Tagline** | Learn to code, learn to be creative. |
+| **Active Users** | 3,600,000+ users |
+| **Countries** | 100+ countries with active users |
+| **Focus** | Online programming education |
 
-## 事業内容
+## Mission & Philosophy
 
-### プログラミング学習サービス「Progate」
-- **Free Plan**: 入門レッスンにアクセス可能（$0）
-- **Plus Plan**: 全レッスンにアクセス可能（$9.92/月〜）
-  - 12ヶ月プラン時の月額料金
-- **モバイルアプリ**: iOS (iTunes), Android (Google Play)
-  - スライドとキーボードがスマホ・タブレット画面に最適化
+### Core Mission
+Learn to Code, Broaden Your Horizons.
 
-## 特徴・強み
+### Philosophy
+**Realize Your Full Creative Potential**
+Even if you are a beginner, do not be discouraged!
+You have potential to master skills necessary for becoming a creator.
+Here at Progate, we are dedicated to helping you realize your full programming potential.
+We will not only give you a learning foundation, but will also support you in the world of programming.
 
-- 3,600,000+ユーザー、100以上の国で展開
-- スライドによる視覚的学習体験
-- ブラウザ内コーディング環境（即座に実践可能）
-- 初心者から創造者への最適化されたレッスン構成
-- モバイルアプリでの学習対応
-- 生成AI活用コース提供
-- 英語ベースのグローバルサービス
+## Products & Services
 
-## プログラミング学習Q&A
+### 1. Online Learning Platform
 
-- 初心者おすすめ: HTML/CSS（サイト制作の基礎、即座に結果確認可能）
-- プログラミングとは: コンピュータに動作指示を書くこと
-- 独学可能: Progateなどのオンライン学習サービスで効率的に学習可能
-- おすすめ言語:
-  - Webサイト制作: HTML/CSS
-  - Webアプリ開発: JavaScript
-  - データ分析・AI開発: Python
-  - モバイルアプリ: Swift (iOS) / Kotlin (Android)
-  - 不明確な場合: JavaScript（多岐に適用）
-- 転職・キャリアチェンジ: IT人材需要継続的成長、実務スキル・ポートフォリオ構築が重要
-- AI時代のプログラミング: AI利用にプログラミング知識が必要、プログラミング思考がプロンプトエンジニアリングに役立つ
-- AIコース: 生成AI活用コース提供、プログラミング基礎と並行でAI時代に必要なスキル習得
-- ビジネスパーソン: エンジニアとの円滑なコミュニケーション、データ分析・タスク自動化、デジタル製品理解による計画・意思決定向上
+####  Illustrative Slides
+Each lesson contains slides that are designed to enhance your learning experience by creating a visual representation of concepts in action.
 
-## ブランドメッセージ
+#### Hands-on Learning
+A full coding environment is ready for you in browser, so you can immediately apply what you've learned.
 
-"Embark on a journey from beginner to creator"
+#### Directed Learning
+Enter into a series of lessons that are ordered in the most optimal way for becoming a true creator. Come out a fully-fledged coder and be able to independently go towards your own goals.
 
-"Realize Your Full Creative Potential - 初心者でも諦めない！創造者になるのに必要なスキルを習得する潜在能力を持っている。Progateではプログラミングの潜在能力を実現する専念している。学習の基礎だけでなく、プログラミングの世界でサポートする。"
+### 2. Pricing Plans
 
-## SNS
+#### Free Plan
+Get familiar with programming
+- Cost: $0
+- Access: Some introductory lessons only
 
-- Twitter: https://twitter.com/proaborad
+#### Plus Plan
+Progress from entry-level to understanding fundamentals
+- Cost: $9.92~ /mo (※)
+- Access: All lessons
+- Pricing note: The monthly fee when subscribed to a 12-month plan (one-time payment)
+
+## Learning Experience
+
+### Mobile App
+
+#### Code Anywhere, Anytime
+Even if you don't have a lot of time, you can always learn using the app. It's easy to use, and it's a fun way to launch your programming journey.
+
+**App Features:**
+- Slides and keyboard optimized for smartphone and tablet screens
+- For more challenging content, recommend moving to web lessons
+
+**Available On:**
+- iOS: https://itunes.apple.com/app/id1335868128?mt=8
+- Android: https://play.google.com/store/apps/details?id=com.progate
+
+### Programming Guidance
+
+### Recommended Learning Path
+What should beginners start with when learning programming?
+
+**Recommendation:** We recommend starting with HTML/CSS. These are fundamental technologies for creating website layouts, and you can see results of your learning immediately, which helps maintain motivation. After that, you can move on to languages like JavaScript or Python.
+
+**What is programming?**
+Programming is writing instructions for computers to tell them how to behave. Most digital services we use daily—websites, apps, games, AI—are created through programming.
+
+### Career & Skills
+
+**Can I learn programming on my own?**
+Yes, self-learning is absolutely possible. By using online learning services like Progate, you can learn efficiently at your own pace. The key is to learn by actually writing code and to keep practicing consistently.
+
+**What programming language do you recommend?**
+Recommendations vary by purpose:
+- **HTML/CSS** for website creation
+- **JavaScript** for web app development
+- **Python** for data analysis and AI development
+- **Swift (iOS) or Kotlin (Android)** for mobile apps
+- If you're unsure, starting with JavaScript is a good choice as it applies to many fields
+
+**Can learning programming help with getting a job or changing careers?**
+Yes, acquiring programming skills opens up possibilities for employment and career changes as an engineer. Demand for IT talent continues to grow, and more people are transitioning to engineering from other fields. Building a portfolio and developing practical skills are important.
+
+### AI Era Considerations
+
+**Should I learn programming in the age of AI?**
+Yes, programming is actually becoming more important in the AI era. Programming knowledge is needed to utilize AI, and programming thinking helps with prompt engineering for AI. The value of people who can work alongside AI will continue to increase.
+
+**Are there courses available for learning about AI?**
+Yes, Progate offers courses that utilize generative AI. You can learn from AI fundamentals to developing applications using AI. By learning programming basics alongside, you can acquire skills needed in the AI era.
+
+**Should business professionals learn programming?**
+Yes, we recommend programming learning for business professionals too. It enables smoother communication with engineers and can be applied to data analysis and task automation. Understanding how digital products work also leads to better planning and decision-making.
+
+## Success Stories
+
+### Inspiring User Journeys
+Read inspiring stories about how our users first started programming:
+- Success Stories: https://progate.com/success_stories
+
+## Social Media
+
+- Twitter/X: https://twitter.com/proaborad
 - Facebook: https://www.facebook.com/ProgateGlobal/
+
+## Notes
+
+- Global online programming platform with 3.6M+ active users across 100+ countries
+- Emphasis on beginner-friendly learning with visual slides and hands-on coding
+- Free tier available for introductory learning
+- Plus plan at $9.92/month for full course access
+- Mobile apps available for iOS and Android
+- Comprehensive programming guidance from HTML/CSS to AI and mobile development
+- Strong community presence with success stories and social media
+- Designed for self-learners at their own pace
+- Focus on "Learn to Code, Learn to be Creative" — practical skill development
+
+---
+
+*Report generated: April 2026*

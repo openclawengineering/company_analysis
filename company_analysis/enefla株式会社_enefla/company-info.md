@@ -1,75 +1,95 @@
 # enefla株式会社
 
-## 会社概要
+## Company Overview
 
-カーボンニュートラルの実現に向けてインフラ課題を解決する企業。EV充電器販売・施工、EV充電課金システム開発・販売、V2H（Vehicle-to-Home）販売・施工を手がける。2023年12月設立の新興企業。
+enefla株式会社 is a startup company established in December 2023, specializing in EV (Electric Vehicle) charging infrastructure. The company provides a one-stop service for EV charger sales, installation, charging system development, and subsidy application support. With a mission to solve infrastructure challenges toward carbon neutrality, enefla differentiates itself through in-house system development and group company electrical installation capabilities.
 
-自社開発の充電器課金システム「エネフラチャージ（enefla Charge）」を展開。会員登録不要で充電器本体のQRコードを読み込むだけで簡単・便利に利用できるのが特徴。
+**Website:** https://enefla.co.jp/
 
-グループ会社に電気設備会社があるため、確実な品質をご提供できるのが強み。システム開発、補助金申請等の広範囲な業務を自社で対応し、ワンストップサービスを提供している。
+## Company Profile
 
-**ウェブサイト:** [https://enefla.co.jp](https://enefla.co.jp)
+| Item | Details |
+|------|---------|
+| **Company Name** | enefla株式会社 |
+| **Founded** | 2023年12月 |
+| **Headquarters** | 神奈川県川崎市高津区子母口421 1F |
+| **President** | 佐藤 雄一 |
+| **Business** | EV充電器販売・施工, EV充電課金システム開発・販売, V2H販売・施工 |
+| **Email** | contact@enefla.co.jp |
+| **Banks** | 三井住友銀行 溝ノ口支店, 川崎信用金庫 新城支店 |
 
-## 所在地
+## President Profile
 
-- 本社: 〒神奈川県川崎市高津区子母口421 1F
-- E-mail: contact(※)enefla.co.jp（※を@に置き換えてご連絡ください）
+**佐藤 雄一** — 代表取締役
 
-## 事業内容
+Previous experience:
+- 株式会社日本エコシステム
+- 楽天株式会社
+- WILLER株式会社
+- 原田電気株式会社 取締役 (現任)
 
-### EV充電器販売・設置
-- 普通充電器: 自宅や職場での長時間駐車に最適、安価な料金で充電
-- 急速充電器: 経路での充電、時間がない時の充電に最適、普通充電器より割高
-- 充電器課金システム「エネフラチャージ」: マンション、店舗等の不特定多数の方がご利用する充電器には課金システムの導入がポイント
+Founded enefla in 2023 to focus exclusively on EV charging services, leveraging in-house charging system development, subsidy application expertise, and group company installation capabilities.
 
-### 充電器オーナー様向け課金システム
-- **エネフラチャージ月額プラン**:
-  - 基本料金: 2,970円/月
-  - 決済手数料: 10%
-- **キャンペーン実施中**（2026年4月〜7月までの新規お申込み対象）:
-  - 基本料金: 2,970円/月 → **990円/月**（3ヶ月間）
-  - 充電器設置日翌月から3ヶ月間が対象
-- ※価格はすべて税込表示
-- ※キャンペーンは事前予告なく変更または終了する場合がございます
-- ※課金システムは普通充電器のみ対象
-- ※QRコードは株式会社デンソーウェーブの登録商標
+## Products & Services
 
-## 特徴・強み
+### 1. EV充電器販売・設置 (EV Charger Sales & Installation)
 
-### eneflaが選ばれている3つのポイント
-1. **対応力**: グループ会社に電気設備会社があるため、確実な品質をご提供
-2. **技術力**: システム開発、補助金申請等の広範囲な業務を自社で対応
-3. **提案力**: お客様の立場で、お客様の状況に合わせたご提案を徹底
+#### 普通充電器 (Normal Chargers)
+- Suited for long-term parking at home or workplace
+- Lower cost charging
 
-### サービスフロー
-- ご提案から現場調査、お見積り、補助金申請、設置工事までワンストップで対応可能
-- 充電器の導入は補助金を活用することで大幅に導入費用を削減できる場合がございます
-- 国の補助金＋地方自治体の補助金（※地方自治体により補助金がない場合もございます）
+#### 急速充電器 (Quick Chargers)
+- Suited for en-route charging and time-constrained situations
+- Higher cost than normal chargers
 
-## 企業情報
+### 2. 充電器課金システム「エネフラチャージ」 (Charging Billing System)
+- Self-developed charging and billing system
+- No membership registration required — scan QR code to use
+- Single screen for charging and billing operations
+- Applicable to normal chargers only
+- QR code is a registered trademark of 株式会社デンソーウェーブ
 
-| 項目 | 値 |
-|------|-----|
-| 社名 | enefla株式会社 |
-| 設立 | 2023年12月 |
-| 所在地 | 神奈川県川崎市高津区子母口421 1F |
-| 代表取締役 | 佐藤 雄一 |
-| 事業内容 | EV充電器販売・施工、EV充電課金システム開発・販売、V2H販売・施工 |
-| 取引銀行 | 三井住友銀行 溝ノ口支店、川崎信用金庫 新城支店 |
+#### Pricing Plans
+- **Monthly Plan**: 基本料金 2,970円/月 + 決済手数料 10%
+- **Campaign (Apr-Jul 2026)**: 990円/月 for first 3 months for new registrations
 
-## 代表メッセージ
+### 3. V2H販売・施工 (Vehicle-to-Home Sales & Installation)
+- V2H system sales and installation services
 
-「enefla株式会社はカーボンニュートラルの実現に向けて本気で取り組む仲間が集まり誕生しました。
+### One-Stop Service
+enefla provides end-to-end support:
+- Consultation and proposal
+- On-site survey
+- Cost estimation
+- Subsidy application (national + local government)
+- Installation work (handled by group electrical company)
 
-出来ることはまだまだ小さいですが確実に歩みながら社会に貢献したいと思っています。
+### Competitive Advantages
+- **対応力 (Responsiveness)**: Group company with electrical equipment capabilities ensures reliable quality
+- **技術力 (Technical capability)**: In-house system development and subsidy application handling
+- **提案力 (Proposal capability)**: Customer-centric proposals tailored to individual situations
 
-誠実、迅速、柔軟に対応して頼られる企業を目指します。」
+## Philosophy
 
-— 代表取締役 佐藤 雄一
+### Corporate Message
+「カーボンニュートラルの実現に向けてインフラ課題を解決します」
 
-## 代表プロフィール
+enefla株式会社はカーボンニュートラルの実現に向けて本気で取り組む仲間が集まり誕生しました。出来る事はまだまだ小さいですが確実に歩みながら社会に貢献したいと思っています。誠実、迅速、柔軟に対応して頼られる企業を目指します。
 
-- 株式会社日本エコシステム、楽天株式会社、WILLER株式会社を経て原田電気株式会社取締役就任（現任）
-- その後、EV充電器サービスに特化したenefla株式会社を2023年設立し代表取締役に就任
-- 課金システム開発、補助金申請は自社で対応し、設置工事はグループ会社で対応できるワンストップサービスにこだわり仲間と共にeneflaを設立
-- 今までの経験を活かしカーボンニュートラルの実現に向けてインフラの課題解決を推進中
+## Media Mentions
+
+*(No external media mentions found as of April 2026)*
+
+## Notes
+
+- Very young company (founded December 2023)
+- Small startup focused exclusively on EV charging infrastructure
+- Group company provides electrical installation capabilities
+- Self-developed charging billing system ("エネフラチャージ")
+- President has diverse background: Japan Ecosystem, Rakuten, WILLER, Harada Electric
+- Currently running promotional campaign (Apr-Jul 2026) for new charging system subscriptions
+- Leverages government subsidies (national + local) to reduce customer installation costs
+
+---
+
+*Report generated: April 2026*

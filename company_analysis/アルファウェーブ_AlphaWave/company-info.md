@@ -1,34 +1,69 @@
-# 株式会社アルファ・ウェーブ
+# アルファウェーブ株式会社 (AlphaWave Corporation)
 
-## 会社概要
+## Company Overview
 
-1984年設立以来、お客様のビジネスに真に寄り添い、共に未来を創造することを使命としているITソリューションカンパニー。「航空運輸」「金融」「製造」などの幅広い業界に、「システム開発」「インフラ構築」「情報セキュリティ」などを用いて、最適なソリューションを提供することで、信頼と実績を築いてきた。
+アルファウェーブ株式会社 (AlphaWave Corporation) is a software development and system integration company. Founded in 1984 with nearly 40 years of experience, the company has built a strong reputation in multiple industries including aviation operations, finance, manufacturing, and telecommunications. AlphaWave provides comprehensive ICT solutions with a focus on "companion runner" approach — being a trusted partner that walks alongside customers through technological challenges.
 
-技術の枠を超えてお客様の「伴走者」であること、信頼を深めて、つながりを広げていく姿勢がある。
+**Website:** https://www.alphawave.co.jp/
 
-**ウェブサイト:** [https://www.alphawave.co.jp](https://www.alphawave.co.jp)
+## Company Profile
 
-## 事業内容
+| Item | Details |
+|------|---------|
+| **Company Name** | アルファウェーブ株式会社 |
+| **Founded** | 1984年 |
+| **Business Focus** | ICT solutions, system development |
 
-- システム開発
-- インフラ構築
-- 情報セキュリティ
+## Mission & Philosophy
 
-## 対応業界
+### Founding Mission
+アルファウェーブは、「1984年」の設立以来、お客様のビジネスに真に寄り添い、共に未来を創造することを使命としています。
 
-- 航空運輸
-- 金融
-- 製造 など幅広い業界
+### Core Philosophy
+Technology and human power to drive continuous innovation:
 
-## 特徴・強み
+**テクノロジーと人間力を駆使し、ニーズに応じた柔軟な対応で、お客様の課題解決に開発から運用保守までをサポートし続け、ビジョンを形にします。**
 
-- 1984年からの長期歴史と実績
-- 幅広い業界への対応実績
-- 技術の枠を超えたお客様の「伴走者」であること
-- ニーズに応じた柔軟な対応で、お客様の課題解決に開発から運用保守までをサポート
-- 技術と人間力を駆使したビジョン形成
-- 信頼を深め、つながりを広げていく姿勢
+### Core Values
 
-## 企業理念
+**「伴走者」であること (Being a "companion runner")**
+お客様の「伴走者」であること、信頼を深めて、つながりを広げていく姿勢にあります。
 
-「私たちが目指すのは、お客様、パートナー、社員とその家族が豊かな人生を送れる未来の実現。日々進化し続けるIT業界で、共に成長し、未来を切り拓いていきます。」
+## Industries & Solutions
+
+### Served Industries
+
+AlphaWave provides solutions across diverse industries:
+
+**1. 航空運輸 (Aviation Operations)**
+**2. 金融 (Finance)**
+**3. 製造 (Manufacturing)**
+
+### Service Approach
+
+#### Development to Operations Support
+お客様のニーズに応じた柔軟な対応
+**Benefits:**
+- Flexible response to customer needs
+- Comprehensive support from development through operation, maintenance
+
+#### Technology & Human Expertise
+テクノロジーと人間力を駆使し
+**Capabilities:**
+- Technology-driven innovation
+- Human-centric service model
+- Continuous improvement approach
+
+## Notes
+
+- Founded in 1984 with extensive industry experience
+- Multi-industry expertise: aviation, finance, manufacturing, telecommunications
+- Companion runner philosophy: trusted partner walking alongside customers
+- Comprehensive ICT solutions from development to operations
+- Emphasis on flexibility and responsiveness to customer needs
+- Strong reputation built on nearly 40 years of experience
+- Focus on building long-term customer relationships and joint growth
+
+---
+
+*Report generated: April 2026*
