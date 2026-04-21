@@ -1,58 +1,55 @@
-# SGビジネス株式会社 (SG Business Corporation)
+# SGビジネス株式会社
 
-## Company Overview
+## 会社概要
 
-SGビジネス株式会社 (SG Business Corporation) is a system development company focused on creating new value through software development. The company provides software development, maintenance, and operation solutions, as well as web-based business system development and hardware product development and sales.
+「新しいは楽しい」を体現し、「未知を、価値に」するワクワクとの出会いを通じて、新しい挑戦を楽しみながらこれまでにない価値を生み出し続けるIT企業。システム開発で新しい価値を創造することに軸を置く。
 
-**Website:** [https://www.sgb.co.jp](https://www.sgb.co.jp)
+代表取締役社長は渡邊一平。元々大手SIerに所属し、成果第一で業務に取り組んできたが、強く感じたのが「人の壁」。「何をするか」よりも「誰とするか」が重要であると考え、社員一人ひとりが飾らない自分で居られ、心置きなく力を発揮できる環境を提供する会社を目指している。
 
-## History
+**ウェブサイト:** [https://www.sgb.co.jp](https://www.sgb.co.jp)
 
-Information not available.
+## 事業内容
 
-## Capital & Employees
+### システム開発
+- ソフトウェア開発・保守・運用
+- Web系業務システム開発
+- ハードウェア（製品）開発・販売
 
-Information not available.
+### 企業理念・カルチャー
+- **SAFE SYSTEM**: 社会に安心を
+- **COMPANION**: 誰とするか（「何をするか」よりも「誰とするか」）
+- **MOVE MIND**: ワクワクする挑戦を
+- **BRAVE**: 変化を恐れない
 
-## Services/Products
+## 特徴・強み
 
-### System Development
-- Software development
-- Maintenance and operation solutions
-- Web-based business system development
+- 代表の渡邊一平による「誰とするか」重視の経営哲学
+- 顧客・社会・社員全てに価値ある会社を目指す
+- 社会に発展に寄与しつづける企業を目指す
 
-### Hardware Development
-- Product development and sales
+## 代表メッセージ（渡邊一平）
 
-### Value Proposition
-"新しいは楽しい。" (New is fun) - New challenges bring exciting encounters that move the heart. The company continues to create unprecedented value while enjoying challenges.
+「私は以前、大手SIerに所属していました。成果第一で業務に取り組み、最後は取締役として多くの方と仕事で関わってきましたが、その時強く感じたのが『人の壁』でした。
 
-## Clients
+どんなに高い技術や豊富な知識を持つ人が集まっていたとしても、同じ方向を向いていなければ力を発揮できず、それどころか互いの道を阻む壁となってしまうのです。
 
-Various industries requiring system development solutions.
+私は仕事において、『何をするか』はもちろん大事ですが、それよりも『誰とするか』がより重要なのではないかと考えています。
 
-## Philosophy
+嫌いな人と食べる高級フランス料理と、好きな人と食べるファーストフードであれば、後者を選ぶ人が圧倒的に多いのではないでしょうか。
 
-**Corporate Values:**
-- **SAFE SYSTEM** - Providing peace of mind to society
-- **COMPANION** - Who you work with matters
-- **MOVE MIND** - Exciting challenges
-- **BRAVE** - Not fearing change
+そうして会社という存在を考え直した時、働く人一人ひとりが飾らない自分で居られ、心置きなく力を発揮できる環境があれば、もっといい世の中ができるのではないか？と思ったんです。
 
-**Mission:** Creating a company that provides value to customers, society, and all employees.
+また、人が持つ力をより発揮できる環境を突き詰めていくと、機械のように仕事をして『仕事の喜びが見えない会社』や、働く人が経済的に安心できない『不安な会社』にもしてはいけない、という思いが強まりました。
 
-In addition to the "customer-focused value" traditionally emphasized in system development, SGB recognizes that in today's diverse society, "trust from multiple perspectives" is increasingly important. The company aims to create a company that provides value to society, customers, and employees by recruiting engineers with diverse values.
+これは、以前の会社で私が感じた後悔や失敗に対して『同じ轍を社員に踏んで欲しくない、踏ませるような会社にしてはいけない』という気持ちも原点になっています。
 
-## Contact Information
+個々のもつ技術が集まり、皆でプロフェッショナルになれるのが会社です。
 
-- **Website:** [https://www.sgb.co.jp](https://www.sgb.co.jp)
-- **Recruitment:** [https://www.sgb.co.jp/person/](https://www.sgb.co.jp/person/)
-- **Message from CEO:** [https://www.sgb.co.jp/message/](https://www.sgb.co.jp/message/)
-- **Benefits:** [https://www.sgb.co.jp/benefit/](https://www.sgb.co.jp/benefit/)
+働く環境が変われば、仕事の結果も当然変わりますし、仕事以上に大切に思えることが見つかるかもしれません。
 
-## Media Mentions
+だからこそ、これから新たに入られる方にも、ぜひ働きやすい仲間と一緒に楽しく仕事をやってもらえたら嬉しいですね。」
 
-- [SG Business Corporation Official Website](https://www.sgb.co.jp)
+## 採用情報
 
----
-*Sources: [SG Business Corporation Official Website](https://www.sgb.co.jp)*
+- カルチャーに共感できる方を幅広く募集
+- 福利厚生: SGBの特徴的な福利厚生をご紹介

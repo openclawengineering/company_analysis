@@ -1,122 +1,37 @@
-# TERAPOC株式会社 (TERAPOC Corporation)
+# TERAPOC株式会社
 
-## Overview
+## 会社概要
 
-TERAPOC株式会社 is an IT solutions company focused on transforming ideas into reality through technology to contribute to society. The company specializes in industrial software development, IoT systems, and broadcast equipment control software.
+IoT、産業機械制御ソフトウェア、放送機器制御ソフトウェア開発を手がける企業。様々な環境で使用されている産業機械その状況を理解し、機械と人を繋ぐソフトウェア開発を行っている。自社製品開発も手がける。
 
-**Website:** https://terapoc.co.jp
+**ウェブサイト:** [https://terapoc.co.jp](https://terapoc.co.jp)
 
-**Motto:** "ITでアイディアを形にして社会貢献へ" (Turning ideas into reality through IT to contribute to society)
+## 事業内容
 
-## History
+### 産業機械制御ソフト開発
+- 様々な環境で使用されている産業機械の状況を理解し、機械と人を繋ぐソフトウェア開発
+- 工場内インラインシステム、産業機器の稼働管理、無線化など多種多様な機器を扱うシステムでも柔軟に対応
 
-TERAPOC has accumulated extensive experience in wireless communication technologies, GPS, information analysis, and data visualization through various IoT system development projects. The company continues to build on its technical expertise while developing both client solutions and proprietary products.
+### IoTによる監視ソフト開発
+- 測定器、溶接機、移動体の遠隔稼働管理、位置管理開発
+- 小規模なIoTシステムから大規模まで、サーバサイドからクライアントアプリまでをワンストップで開発
+- 遠隔監視、データ化などを行うことで業務効率化、人材不足を補うIT化を実現
 
-## Capital
+### 放送機器制御ソフト
+- 放送機器制御に特化
+- ノンリニア編集機などを扱い、報道支援や制作の効率化が図れるよう幅広くアプリケーション開発
+- 映像素材の管理、インジェスト、各サーバへの転送処理など放送機器制御に関わるソフトウェア全般を開発可能
 
-Private company (details not publicly disclosed)
+### 自社開発
+- IoTを使った自社製品開発
+- AI、ビッグデータの活用を採用
+- 人材不足やIT化があまり進まない業種に目を向け、社会貢献できる自社製品開発
+- スマートグラス、ドローンなど幅広い選択肢からお客様のニーズにお応えできるよう研究開発にも注力
 
-## Services
+## 特徴・強み
 
-### 1. Industrial Machine Control Software Development
-- Software development connecting machines and people
-- Understanding various industrial machinery environments
-- Factory inline systems
-- Industrial equipment operation management
-- Wireless solutions for diverse equipment
-
-**Key Capabilities:**
-- Flexible response to multi-type equipment systems
-- Best proposals based on industrial machine characteristics
-- Custom solutions for specific operational requirements
-
-### 2. IoT Monitoring Software Development
-- Measuring equipment systems
-- Welding machine remote operation management
-- Mobile object position management
-- End-to-end IoT system development (server-side to client applications)
-- Remote monitoring and data conversion solutions
-
-**Benefits:**
-- Operational efficiency improvement
-- Addressing labor shortages through IT
-- Cost-effective solutions
-
-### 3. Broadcast Equipment Control Software
-- Specialized in broadcast equipment control
-- Non-linear editing systems
-- News production support
-- Production efficiency improvement
-- Video material management
-- Ingest processing
-- Server transfer operations
-
-**Capabilities:**
-- Comprehensive broadcast equipment control software development
-- Integration with various broadcast infrastructure systems
-
-### 4. Proprietary Product Development
-- Self-developed IoT products
-- AI and big data utilization
-- Focus on industries with labor shortages and slow IT adoption
-- Smart glass technology
-- Drone technology
-- Research and development for expanded customer options
-
-## Clients
-
-TERAPOC serves clients across multiple industries:
-- Manufacturing sector
-- Industrial machinery companies
-- Broadcasting industry
-- IoT system implementers
-- Companies seeking operational efficiency improvements
-
-**Target Markets:**
-- Industries with labor shortages
-- Sectors requiring IT transformation
-- Manufacturing and production facilities
-- Broadcasting and media companies
-
-## Philosophy
-
-**Corporate Philosophy:**
-- Transforming ideas into reality through IT
-- Contributing to society through technology
-- Addressing labor shortages and IT challenges in various industries
-
-**Approach:**
-- Discuss software implementation benefits and drawbacks with clients
-- Develop superior systems through collaboration
-- Accumulate experience with new technologies
-- Conduct steady research and development of proprietary products
-
-**Values:**
-- Technical excellence in wireless communication and IoT
-- Flexible adaptation to customer needs
-- Continuous innovation and R&D investment
-- Social contribution through technology solutions
-
-## Contact
-
-**Website:** https://terapoc.co.jp
-
-**Email:** Contact through website
-
-**Services:**
-- TOP: https://terapoc.co.jp
-- About: https://terapoc.co.jp/about.html
-- Services/Products: https://terapoc.co.jp/service.html
-- Company Information: https://terapoc.co.jp/about.html#comp_overview
-- Careers: https://terapoc.co.jp/recruit.html
-- Contact: https://terapoc.co.jp/#contact
-
-## Media Mentions
-
-- Company website features detailed service descriptions and case studies
-- Industry presentations on IoT and industrial software solutions
-- Technical articles on broadcast equipment control systems
-
----
-
-*Last Updated: March 31, 2026*
+- 産業機械の特徴を理解したシステム開発
+- 小規模〜大規模までIoTシステムをワンストップ開発
+- 放送機器制御に特化した開発実績
+- スマートグラス、ドローンなど最新技術を活用した自社製品開発
+- 人材不足・IT化の進んでいない業種へのソリューション提供

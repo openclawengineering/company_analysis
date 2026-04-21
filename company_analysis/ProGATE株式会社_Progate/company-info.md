@@ -1,98 +1,57 @@
-# ProGATE株式会社 (Progate Corporation)
+# ProGATE株式会社
 
-## Overview
+## 会社概要
 
-Progate is an online programming learning platform designed to help people learn to code and become creative developers. The platform provides a comprehensive learning experience with illustrative slides, hands-on coding environments, and directed learning paths.
+「Learn to Code, Learn to Be Creative.」を掲げるプログラミング学習プラットフォーム「Progate」を運営するEdTech企業。スライドによる視覚的学習、ブラウザ内での実践的コーディング、最適化されたレッスン構成により、初心者から創造者への道のりをサポートする。
 
-**Website:** https://progate.com | https://prog-8.com
+3,600,000以上のユーザーが100以上の国で利用中。Free PlanとPlus Plan（月額9.92円〜）を提供。iOS/Androidアプリも展開し、どこでも学習可能。
 
-**Tagline:** "Learn to code, learn to be creative."
+HTML/CSS、JavaScript、Python、Swift、Kotlinなどのプログラミング言語に対応。2026年時点では生成AIを活用したコースも提供しており、AI時代のプログラミング学習を支援。
 
-## History
+**ウェブサイト:** [https://progate.com](https://progate.com)
 
-Progate was founded with the mission to make programming education accessible to everyone. The platform has grown to serve millions of users worldwide, helping beginners transition from learners to creators.
+## 事業内容
 
-## Capital
+### プログラミング学習サービス「Progate」
+- **Free Plan**: 入門レッスンにアクセス可能（$0）
+- **Plus Plan**: 全レッスンにアクセス可能（$9.92/月〜）
+  - 12ヶ月プラン時の月額料金
+- **モバイルアプリ**: iOS (iTunes), Android (Google Play)
+  - スライドとキーボードがスマホ・タブレット画面に最適化
 
-Private company
+## 特徴・強み
 
-## Services
+- 3,600,000+ユーザー、100以上の国で展開
+- スライドによる視覚的学習体験
+- ブラウザ内コーディング環境（即座に実践可能）
+- 初心者から創造者への最適化されたレッスン構成
+- モバイルアプリでの学習対応
+- 生成AI活用コース提供
+- 英語ベースのグローバルサービス
 
-### Online Programming Courses
-- **HTML & CSS** - Website building and design fundamentals
-- **JavaScript** - Interactive websites to backend servers
-- **jQuery** - JavaScript library for animations and Ajax
-- **Ruby** - Dynamic general-purpose language for web applications
-- **Ruby on Rails** - Web application framework
-- **PHP** - Server-side language for web development
-- **Java** - Popular language for software and mobile apps
-- **Python** - Data science and machine learning
-- **Command Line** - Essential developer skill
-- **Git** - Version control system
-- **SQL** - Database manipulation language
-- **Sass** - CSS extension
-- **Go** - Google's server-side language
-- **React** - Front-end JavaScript library
-- **Node.js** - JavaScript runtime for server-side applications
-- **Generative AI courses** - AI fundamentals and application development
+## プログラミング学習Q&A
 
-### Learning Features
-- **Illustrative Slides** - Visual representation of concepts
-- **Hands-on Learning** - Full coding environment in browser
-- **Directed Learning** - Optimized lesson progression
-- **Mobile App** - Learn on the go (iOS and Android)
+- 初心者おすすめ: HTML/CSS（サイト制作の基礎、即座に結果確認可能）
+- プログラミングとは: コンピュータに動作指示を書くこと
+- 独学可能: Progateなどのオンライン学習サービスで効率的に学習可能
+- おすすめ言語:
+  - Webサイト制作: HTML/CSS
+  - Webアプリ開発: JavaScript
+  - データ分析・AI開発: Python
+  - モバイルアプリ: Swift (iOS) / Kotlin (Android)
+  - 不明確な場合: JavaScript（多岐に適用）
+- 転職・キャリアチェンジ: IT人材需要継続的成長、実務スキル・ポートフォリオ構築が重要
+- AI時代のプログラミング: AI利用にプログラミング知識が必要、プログラミング思考がプロンプトエンジニアリングに役立つ
+- AIコース: 生成AI活用コース提供、プログラミング基礎と並行でAI時代に必要なスキル習得
+- ビジネスパーソン: エンジニアとの円滑なコミュニケーション、データ分析・タスク自動化、デジタル製品理解による計画・意思決定向上
 
-### Pricing Plans
-- **Free Plan** - Access to introductory lessons ($0)
-- **Plus Plan** - Full access to all lessons (~$9.92/month with 12-month plan)
+## ブランドメッセージ
 
-## Clients
+"Embark on a journey from beginner to creator"
 
-**User Base:**
-- 3,600,000+ active users
-- Users in 100+ countries worldwide
+"Realize Your Full Creative Potential - 初心者でも諦めない！創造者になるのに必要なスキルを習得する潜在能力を持っている。Progateではプログラミングの潜在能力を実現する専念している。学習の基礎だけでなく、プログラミングの世界でサポートする。"
 
-**Target Audience:**
-- Programming beginners
-- Career changers
-- Students
-- Business professionals
-- Companies seeking employee training
+## SNS
 
-## Philosophy
-
-**Mission:** "Realize Your Full Creative Potential"
-
-**Core Values:**
-- Even beginners have the potential to master programming skills
-- Support learners from foundation building to real-world application
-- Provide a learning foundation and ongoing support in the programming world
-- Make programming education accessible to everyone
-
-**Learning Philosophy:**
-- Learn by actually writing code
-- Practice consistently
-- Progress from beginner to creator
-- Apply skills to real-world projects
-
-## Contact
-
-**Website:** https://progate.com
-
-**Twitter:** @progateJP
-
-**Mobile Apps:**
-- iOS: https://itunes.apple.com/app/id1335868128?mt=8
-- Android: https://play.google.com/store/apps/details?id=com.progate
-
-**FAQ:** https://progate.com/faqs
-
-## Media Mentions
-
-- [Success Stories](https://progate.com/success_stories) - Inspiring stories from users who started programming
-- [Available Courses](https://progate.com/courses) - Comprehensive course catalog
-- [Pricing Plans](https://progate.com/plans/for_users) - Detailed plan information
-
----
-
-*Last Updated: March 31, 2026*
+- Twitter: https://twitter.com/proaborad
+- Facebook: https://www.facebook.com/ProgateGlobal/
