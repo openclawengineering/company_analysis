@@ -1,83 +1,54 @@
 [
   {
-    "name": "Ikeno Mototomi",
-    "name_ja": "池野 元就",
-    "role": "Representative Director / President",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "池野 元就",
+    "title": "代表取締役社長"
   },
   {
-    "name": "Futatsuka Katsuhisa",
-    "name_ja": "二杁 克久",
-    "role": "Managing Director / Executive Officer",
-    "role_ja": "取締役 執行役員",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "二杁 克久",
+    "title": "取締役 執行役員"
   },
   {
-    "name": "Niimura Tetsuya",
-    "name_ja": "新村 哲也",
-    "role": "Managing Director / Executive Officer",
-    "role_ja": "取締役 執行役員",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "新村 哲也",
+    "title": "取締役 執行役員"
   },
   {
-    "name": "Nishimura Ken",
-    "name_ja": "西村 健",
-    "role": "Managing Director / Executive Officer",
-    "role_ja": "取締役 執行役員",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "西村 健",
+    "title": "取締役 執行役員"
   },
   {
-    "name": "Muramatsu Shinya",
-    "name_ja": "村松 真也",
-    "role": "Director (Non-Executive)",
-    "role_ja": "取締役（非常勤）",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "村松 真也",
+    "title": "取締役（非常勤）"
   },
   {
-    "name": "Tanaka Junko",
-    "name_ja": "田中 順子",
-    "role": "Director (Non-Executive)",
-    "role_ja": "取締役（非常勤）",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "田中 順子",
+    "title": "取締役（非常勤）"
   },
   {
-    "name": "Onodori Nobuo",
-    "name_ja": "小野寺 伸夫",
-    "role": "Director (Non-Executive)",
-    "role_ja": "取締役（非常勤）",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "小野寺 伸夫",
+    "title": "取締役（非常勤）"
   },
   {
-    "name": "Omi Yoshinobu",
-    "name_ja": "大海 善行",
-    "role": "Director (Non-Executive)",
-    "role_ja": "取締役（非常勤）",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "大海 善行",
+    "title": "取締役（非常勤）"
   },
   {
-    "name": "Kobayashi Hiroshi",
-    "name_ja": "小林 寛",
-    "role": "Director (Non-Executive)",
-    "role_ja": "取締役（非常勤）",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nttdata-force.co.jp/information/2025/20250604-377.html"
+    "name": "小林 寛",
+    "title": "取締役（非常勤）"
+  },
+  {
+    "name": "由井 哲也",
+    "title": "執行役員"
+  },
+  {
+    "name": "山田 英樹",
+    "title": "執行役員"
+  },
+  {
+    "name": "薄木 正行",
+    "title": "執行役員"
+  },
+  {
+    "name": "橋口 俊彦",
+    "title": "監査役（非常勤）"
   }
 ]

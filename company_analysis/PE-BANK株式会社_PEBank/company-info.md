@@ -1,102 +1,80 @@
-# PE-BANK株式会社 (PE-BANK)
+# 株式会社PE-BANK
 
-## Company Overview
+## 会社概要
 
-PE-BANK株式会社 is a comprehensive IT human resources and engineering services company founded in 1989. With over 36 years of experience, the company specializes in IT engineer recruitment, freelance IT engineering, IT staffing, IT training, and welfare services for IT professionals. PE-BANK operates nationwide with 12 locations and focuses on providing high-quality IT talent to businesses while supporting engineers in achieving their career goals. The company is committed to improving the social status of freelance engineers and creating an environment where each individual can shine.
+1989年（平成元年）5月1日設立のITフリーランス総合サービス企業。企業とITエンジニアのマッチングを通じて、ITフリーランスが安心して働ける環境を提供し、活躍の場を創出している。創業から36年以上の実績を持ち、全国12拠点を展開。
 
-**Website:** [https://pe-bank.co.jp/](https://pe-bank.co.jp/)
+ITフリーランスエージェント事業、ITエンジニア派遣・紹介事業、IT人材教育事業（Pe-BANKカレッジ）、ITフリーランス向け福利厚生事業（サポートプラス）を展開。2025年8月末時点で就業ITフリーランス2,279名、取扱高199億円、売上高22.5億円。
 
-## History
+グループ会社に持株会社の株式会社MCEAホールディングスとアスノシステム株式会社を持つ。
 
-- **1989** - PE-BANK株式会社 established with a mission to improve the social status of freelance engineers
-- **2010s** - Expanded services to include IT staffing and human resources development
-- **2020s** - Enhanced digital transformation services and AI-powered recruitment solutions
-- **2026** - Continued expansion of nationwide services and digital platforms
+**ウェブサイト:** [https://pe-bank.co.jp](https://pe-bank.co.jp)
 
-## Capital & Employees
+## 所在地
 
-| Field | Value |
-|-------|-------|
-| Capital | (Not specified in sources) |
-| Employees | (Not specified in detail, but operates nationwide with 12 locations) |
-| Corporate Number | (Not specified in sources) |
-| Founded | 1989 |
-| Representative | (Not specified in sources) |
+- 本社: 〒108-0074 東京都港区高輪2-15-8 グレイスビル泉岳寺前
+- 北海道支店、東北支店、横浜営業所、中部支店、関西支店、京都営業所、神戸営業所、岡山支店、広島支店、九州支店、北九州営業所
 
-## Services/Products
+## 事業内容
 
-### IT Freelance Engineering
-- **Engineer Agent Business** - Supporting freelance engineers for over 30+ years
-- **Working Environment Improvement** - Creating environments where engineers can shine in their own way
-- **High-Skill Engineers** - Engineers who meet the company's proprietary professional standards
-- **IT Engineer Platform** - Comprehensive service site for IT freelancers (pe-bank.jp)
+### ITフリーランスエージェント事業
+- ITフリーランス向け案件情報サイト「pe-bank.jp」
+- エンジニアの社会的地位向上を使命
 
-### IT Engineer Dispatch/Introduction
-- **Staffing Solutions** - Long-term experience in supporting engineers through dispatch work
-- **Flexible Work Options** - Offering dispatch as one of many work style choices
-- **High Technical Capability Utilization** - Helping engineers leverage their high technical skills
-- **Career Support** - Various career path options for IT professionals
+### ITエンジニア派遣・紹介事業
+- ITエンジニア派遣専門求人サイト「career.pe-bank.jp」
+- 労働者派遣事業：派13-303319
+- 有料職業紹介事業：13-ユ-303453
 
-### IT Human Resources Education
-- **PE-BANK College** - IT talent development and training solutions
-- **HR Development** - Solutions for HR departments concerned about IT talent development
-- **IT Staff Training** - Comprehensive training programs for IT personnel
-- **Skill Enhancement** - Programs to improve overall capabilities of IT staff
+### IT人材教育事業
+- 「Pe-BANKカレッジ」でIT人材育成・社員研修ソリューション
 
-### IT Engineer Welfare Services
-- **Comprehensive Benefits** - Providing benefits for IT engineers to live安心 and enriched lives
-- **Family Support** - Services available not just to engineers but also their families and freelancers
-- **General Access** - Services accessible to general public beyond just IT engineers
-- **Support Plus** - Special privileges and advantageous services for registered members
+### ITフリーランス・ITエンジニア向け福利厚生事業
+- 「サポートプラス（S+）」で福利厚生サービスを提供
 
-## Clients
+## 特徴・強み
 
-- **Enterprise Clients** - Companies of all sizes (from 10 to 2000+ employees)
-- **Regional Coverage** - Clients across all regions including Kyushu, Chubu, Kansai, and Kanto
-- **Industry Diversity** - IT/Web companies, consulting firms, system development companies
-- **Project Types** - Large-scale business development, cutting-edge technology projects, communication system maintenance, user information system management
+- 創業36年以上の歴史と信頼
+- 全国12拠点展開による地域対応力
+- 独自のプロ基準をクリアした高スキルエンジニアを多数所属
+- ISO 27001（ISMS）認証取得（2010年8月）
+- スポーツエールカンパニー認定（2025年2月）
+- えるぼし認定取得（女性活躍推進、2024年12月）
+- Developers Summit 2026 アワード 話題賞2位受賞（2026年4月）
 
-## Specialties & Achievements
+## 企業情報
 
-### SPECIALISTS
-- **High-Skill Engineers** - Numerous engineers who meet proprietary professional standards
-- **Technical Excellence** - Focus on engineers with cutting-edge technical capabilities
+| 項目 | 値 |
+|------|-----|
+| 社名 | 株式会社PE-BANK |
+| 英語表記 | PE-BANK,inc. |
+| 設立 | 1989年（平成元年）5月1日 |
+| 資本金 | 3億1,295万円 |
+| 売上高 | 22.5億円（2025年8月末） |
+| 取扱高 | 199億円（2025年8月末） |
+| 従業員数 | 89名（2025年8月末） |
+| 就業ITフリーランス | 2,279名（2025年8月末） |
+| 代表取締役社長 | 髙田 幹也 |
+| 労働者派遣事業 | 派13-303319 |
+| 有料職業紹介事業 | 13-ユ-303453 |
 
-### ACHIEVEMENT
-- **36+ Years Experience** - Trust and proven results in solving problems for companies and engineers
-- **Industry Recognition** - Awarded 2nd place in "Developers Summit 2026 Awards" for practical Claude Code implementation
+## グループ会社
 
-### ANYWHERE
-- **Nationwide Coverage** - 12 locations across Japan
-- **Regional Customization** - Ability to introduce engineers suited to specific regions
+- 株式会社MCEAホールディングス（持株会社）
+- アスノシステム株式会社（ソフトウェア開発・Webメディア運営）
 
-## Philosophy
+## 主要取引先
 
-**"Let's create together. Career design for the 100-year life era."**
+野村ホールディングス、日立製作所、リクルート、NTTデータ、富士通、ソフトバンク、ソニー、LINE、NEC、SCSK、伊藤忠テクノソリューションズ、パナソニック、三菱電機、日鉄ソリューションズ、弥生、クラスメソッド 等
 
-The company is committed to:
-- Creating ideal lifestyles that people envision
-- Accelerating business through digital transformation
-- Building social infrastructure that makes life convenient and rich
-- Creating a society where all generations can continue to be active
-- Bringing surprise and stimulation to people, creating a better future
+## 加盟団体
 
-**"No matter how technology evolves, we face people."**
-**"Existing frameworks to break through, open up new areas."**
-
-Since its founding moment in 1989, the company's determination has not changed.
-
-## Recent Achievements (2026)
-
-- **2026/04/16** - Awarded 2nd place in "Developers Summit 2026 Awards" for practical Claude Code implementation
-- **2026/04/09** - Hosted webinar on AI coding "Not too late now AI Coding Vol.3"
-- **2026/04/07** - Featured in Weekly BCN+ for IT talent retention event in Hokkaido area
-- **2026/04/06** - Featured in Nikkan Kogyo Shimbun WEB for IT talent retention discussion
-- **2026/04/02** - Held 2026 entrance ceremony for new employees
-
-## Media Mentions
-
-- **2026** - Regular coverage in IT industry publications for recruitment expertise
-- **2026** - Featured in major newspapers like Nikkan Kogyo Shimbun
-- **Ongoing** - Recognition in technology publications for AI and coding support services
-- **2026** - Coverage in industry magazines for talent acquisition strategies
+- 一般社団法人 神奈川情報サービス産業協会（KIA）
+- 一般社団法人 愛知県情報サービス産業協会（AIA）
+- 一般社団法人 広島県情報産業協会（HIA）
+- 一般社団法人 福岡県情報サービス産業協会（FISA）
+- 一般社団法人 宮城県情報サービス産業協会（MISA）
+- 一般社団法人 PMI日本支部
+- NPO法人 日本情報技術取引所（JIET）
+- 全国ソフトウェア協同組合連合会（JASPA）
+- 一般社団法人 ITフリーランス支援機構（AITF）

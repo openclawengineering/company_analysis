@@ -1,20 +1,16 @@
 [
   {
-    "name": "Ashizawa Hitoshi",
-    "name_ja": "芦澤 仁",
-    "role": "Representative Director / President",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://andone-eng.co.jp/index_2.html"
+    "name": "芦澤 仁",
+    "title": "代表取締役社長",
+    "note": "創業者"
   },
   {
-    "name": "Kiyoshi Kiyomi",
-    "name_ja": "清水 康",
-    "role": "Managing Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://andone-eng.co.jp/index_2.html"
+    "name": "高橋 信春",
+    "title": "取締役",
+    "note": "2020年2月就任"
+  },
+  {
+    "name": "清水 康",
+    "title": "取締役"
   }
 ]

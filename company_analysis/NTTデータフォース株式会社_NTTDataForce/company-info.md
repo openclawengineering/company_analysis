@@ -1,85 +1,61 @@
-# NTTデータフォース株式会社 (NTT DATA FORCE CORPORATION)
+# NTTデータフォース株式会社
 
-## Company Overview
+## 会社概要
 
-NTTデータフォース株式会社 is a system development and IT services company specializing in solutions for financial institutions. Established in 2000, the company is part of the NTT Data group and provides comprehensive services including system development, outsourcing, consulting, system operations, infrastructure construction, and customer support. With a strong focus on the financial sector, NTTデータフォース serves major regional banks and financial institutions across Japan, offering mission-critical system solutions with high reliability and quality.
+NTTデータグループの金融系システム開発会社。「Next Force, New Future.」をスローガンに、金融機関向けシステム開発、アウトソーシング、コンサルティング、システム運用、基盤構築、顧客サポートサービスを提供する。2025年12月に本社移転を実施。
 
-**Website:** [https://www.nttdata-force.co.jp/](https://www.nttdata-force.co.jp/)
+2025年8月にシステム運用業務のタブレットツール「tAups®」の提供を開始。2025年2月には「スポーツエールカンパニー」認定、2024年12月には「えるぼし認定」（女性活躍推進企業）を取得。
 
-## History
+**ウェブサイト:** [https://www.nttdata-force.co.jp](https://www.nttdata-force.co.jp)
 
-- **2000/11/01** - エヌ・ティ・ティ・データ・フォース株式会社 established with capital of 285 million yen
-- **2025/12/01** - Relocated head office to current location at Shin-Yokohama
-- **2025/08/05** - Started providing tAups® tablet tool for system operation enhancement
-- **2025/06/04** - Updated executive management structure
-- **2025/02/13** - Obtained "Sports-Ele Company" certification for employee health promotion initiatives
-- **2024/12/23** - Acquired "Eruboshi" certification for women's empowerment initiatives
+## 所在地
 
-## Capital & Employees
+- 本社: 東京都（2025年12月移転済み、詳細はJS-renderedサイトで非公開）
+- 親会社: NTTデータ株式会社（https://www.nttdata.com/jp/ja/）
 
-| Field | Value |
-|-------|-------|
-| Capital | 285,000,000 yen |
-| Employees | 731 (as of April 1, 2026) |
-| Corporate Number | (Not specified in sources) |
-| Founded | November 1, 2000 |
-| Representative | Ikeno Mototomi (池野 元就), Representative Director President |
+## 事業内容
 
-## Services/Products
+### サービス
+- **システム開発**: 幅広い開発実績に裏づけされた高い技術力と提案力
+- **アウトソーシング**: 大手地方銀行アウトソーシングの確かな実績と深い業務知識
+- **コンサルティング/ソリューション**: 業務分析からシステム構築・導入まで
+- **システム運用**: ミッションクリティカルな金融系システムの安定稼動
+- **基盤構築**: 最適な基盤環境の提案・構築
+- **お客様サポート**: 安全・安心な顧客サポート
+- **tAups®**: システム運用業務の堅確化・高度化を実現するタブレットツール
 
-### System Development
-- **Comprehensive Development Services** - Broad development experience supporting various customer needs with high technical capability and proposal power
-- **Custom Solutions** - Tailored system development for specific business requirements
-- **Technology Innovation** - Implementation of cutting-edge technologies in financial systems
+## 特徴・強み
 
-### Outsourcing Services
-- **IT Outsourcing** - Reliable outsourcing services for major regional banks with extensive experience and deep business knowledge
-- **Business Process Outsourcing** - Support for customer IT operations and business processes
-- **Cost Optimization** - Efficient cost reduction through professional management
+- NTTデータグループの金融特化型ITサービス会社
+- 大手地方銀行アウトソーシングの豊富な実績
+- スポーツエールカンパニー認定（2025年2月）
+- えるぼし認定（2024年12月、女性活躍推進）
+- 独自開発ツール tAups® で運用業務の高度化
 
-### Consulting & Solutions
-- **Business Analysis** - From business analysis to system implementation and deployment
-- **High-Effectiveness Consulting** - Consulting services with strong feasibility and practical effectiveness
-- **Digital Transformation** - Supporting business modernization through technology
+## 企業情報
 
-### System Operations
-- **Mission-Critical Operations** - Highly reliable and high-quality system operations essential for financial system stability
-- **24/7 Support** - Continuous system monitoring and maintenance
-- **Security Management** - Comprehensive security operations for financial systems
+| 項目 | 値 |
+|------|-----|
+| 社名 | NTTデータフォース株式会社 |
+| 英語表記 | NTT DATA FORCE Corporation |
+| 設立 | 非公開（NTTデータグループ会社） |
+| 代表取締役社長 | 池野 元就 |
+| 親会社 | NTTデータ株式会社 |
 
-### Infrastructure Construction
-- **Optimal Infrastructure** - Proposal and construction of optimal infrastructure environments for customer solutions and services
-- **Cloud Solutions** - Modern cloud infrastructure implementation
-- **System Integration** - Seamless integration of various system components
+## 役員体制（2025年6月3日〜）
 
-### Customer Support
-- **Infrastructure Support** - Support for social infrastructure and surrounding services/solutions
-- **Safety & Security** - Ensuring safe and reliable use of services and solutions
-- **Technical Assistance** - Comprehensive technical support and maintenance
-
-## Clients
-
-- **Major Regional Banks** - Partnership with Yokohama Bank, Hokkaido Bank, Nanao Bank, and other regional financial institutions
-- **Financial Institutions** - Various banks, credit unions, and financial service providers
-- **Government Agencies** - Support for public sector financial systems
-- **Corporate Clients** - Financial system support for major corporations
-
-## Business Philosophy
-
-**"Next Force, New Future."** - The company's slogan represents its commitment to creating new futures for customers while providing value and growing together with them.
-
-**"The future of FORCE"** - Aiming to be a company that provides value to customers and grows together with them, focusing on the future of IT services.
-
-## Achievements & Certifications
-
-- **2025** - "Sports-Ele Company" certification for employee health promotion
-- **2024** - "Eruboshi" certification for women's advancement in the workplace
-- **Financial Sector Expertise** - Extensive experience in mission-critical financial systems
-- **System Innovation** - Development of innovative tools like tAups® for system operations
-
-## Media Mentions
-
-- **2025** - Featured in industry publications for tAups® tablet tool launch
-- **2024** - Recognized for women's empowerment initiatives with Eruboshi certification
-- **2025** - Coverage of organizational structure updates and management changes
-- **Ongoing** - Regular mentions in IT industry publications for financial system expertise
+| 役職 | 氏名 |
+|------|------|
+| 代表取締役社長 | 池野 元就 |
+| 取締役 執行役員 | 二杁 克久 |
+| 取締役 執行役員 | 新村 哲也 |
+| 取締役 執行役員 | 西村 健 |
+| 取締役（非常勤） | 村松 真也 |
+| 取締役（非常勤） | 田中 順子 |
+| 取締役（非常勤） | 小野寺 伸夫 |
+| 取締役（非常勤） | 大海 善行 |
+| 取締役（非常勤） | 小林 寛 |
+| 執行役員 | 由井 哲也 |
+| 執行役員 | 山田 英樹 |
+| 執行役員 | 薄木 正行 |
+| 監査役（非常勤） | 橋口 俊彦 |

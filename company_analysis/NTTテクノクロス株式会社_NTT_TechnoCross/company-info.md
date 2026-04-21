@@ -1,115 +1,61 @@
-# NTTテクノクロス株式会社 (NTT TechnoCross Corporation)
+# NTTテクノクロス株式会社
 
-## Overview
+## 会社概要
 
-NTTテクノクロス株式会社 (NTT TechnoCross) is a software leading company that provides cutting-edge technology and services. The company leverages research results from NTT laboratories, combined with excellent technologies and products from Japan and abroad, to create new products and services that evolve customers' businesses.
+1985年7月2日設立のNTTグループのソフトウェアリーディングカンパニー。設立時社名は「NTTソフトウェア株式会社」。NTT研究所が生み出す研究成果と国内外の優れた技術・商材を掛け合わせ、お客さまのビジネスを進化させる製品・サービスを創出する。
 
-**Website:** https://www.ntt-tx.co.jp
+2024年度末時点の売上高は563億円、従業員数1,920名（技術系職1,542名）。資本金5億円。メール誤送信防止、特権ID管理、匿名加工情報作成、健康管理システムの4分野で国内シェアNo.1を誇る。
 
-## History
+AI、メディア、セキュリティ、クラウド、ネットワークの5つの主要技術分野を軸に、カスタマーエクスペリエンス、エンプロイーエクスペリエンス、デジタルトランスフォーメーション、ヘルスケア・メディカル、スマート農業、セキュリティ、AI、メディア、コミュニケーション、クラウド等のサービスを提供する。
 
-NTT TechnoCross was established as part of the NTT Group to commercialize technologies developed by NTT's research laboratories. The company focuses on bridging the gap between innovative research and practical business applications.
+**ウェブサイト:** [https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp)
 
-## Capital
+## 所在地
 
-Part of the NTT Group (Nippon Telegraph and Telephone Corporation)
+- 田町（本社）
+- 横浜
+- 武蔵野
+- 名古屋
+- 大阪
 
-## Services
+## 事業内容
 
-### Customer Experience (CX)
-- Voice processing technology
-- AI and data analytics
-- CX improvement solutions
+### 製品・サービス
+- カスタマーエクスペリエンス（CX）：音声処理技術やAI、データ分析を活用したCX向上
+- エンプロイーエクスペリエンス（EX）：多様な働き方支援、生産性向上
+- デジタルトランスフォーメーション（DX）：セキュリティや内部統制を確保したDX推進
+- ヘルスケア・メディカル：健康経営、医療進化、地域包括ケア支援
+- スマート農業：AIやIoT活用による省力化・高品質生産支援
+- セキュリティ：30年以上の実績あるセキュリティ製品・サービス
+- AI：AI技術を活用した企業の価値創造支援
+- メディア：研究開発に裏付けられたメディア関連技術
+- コミュニケーション：安全なコミュニケーションサービス
+- クラウド：高品質なクラウド活用提案
 
-### Employee Experience (EX)
-- Support for diverse work styles in aging society
-- Productivity and employee experience enhancement
+## 特徴・強み
 
-### Digital Transformation (DX)
-- Security and internal control solutions
-- Business environment adaptation
+- 4製品分野で国内シェアNo.1
+- NTT研究所の研究成果を事業化
+- ISO 3規格 + プライバシーマークを全社で取得・運用
+- 延べ2,704名のハイレベル資格保有者（AWS、Salesforce、CISSP等）
+- 時間外労働月平均22.3時間、有給休暇取得率100%、育児休暇取得率100%
+- 40年の歴史と実績
 
-### Healthcare & Medical
-- Health management strategy support
-- Medical evolution solutions
-- Regional comprehensive care
+## 企業情報
 
-### Smart Agriculture
-- AI and IoT technology implementation
-- Labor-saving for farmers
-- High-quality production support
+| 項目 | 値 |
+|------|-----|
+| 社名 | NTTテクノクロス株式会社 |
+| 設立 | 1985年7月2日（設立時社名：NTTソフトウェア株式会社） |
+| 資本金 | 5億円 |
+| 売上高 | 563億円（2024年度末） |
+| 従業員数 | 1,920名（技術系職1,542名、2024年度末） |
+| 拠点数 | 5拠点（田町、横浜、武蔵野、名古屋、大阪） |
+| 主要技術分野 | AI、メディア、セキュリティ、クラウド、ネットワーク |
 
-### Security
-- 30+ years of security product and service experience
-- Corporate growth support
+## 国内シェアNo.1製品
 
-### AI
-- AI technology for massive information utilization
-- Value creation support for businesses
-
-### Media
-- Long-term R&D-backed technology
-- Media society corporate activity support
-
-### Communication
-- Simple and secure communication services
-- Business growth acceleration
-
-### Cloud
-- High-quality cloud utilization proposals
-- Corporate competitiveness improvement
-
-### Consulting
-- IT utilization support services
-
-## Clients
-
-NTT TechnoCross serves clients across various industries including:
-- Financial services (Chiba Bank Securities)
-- Telecommunications (NTT Docomo Business)
-- Agriculture (Kitayatsu Farm)
-- Various enterprise clients
-
-**Notable Case Studies:**
-- [Chiba Bank Securities - DX Reform](https://www.ntt-tx.co.jp/case/chibagin_2603/)
-- [NTT TechnoCross Internal Case - Cloud Service Operations](https://www.ntt-tx.co.jp/case/ntt-tx/)
-- [Kitayatsu Farm - Smart Agriculture](https://www.ntt-tx.co.jp/case/kitayatufarm_2509/)
-- [NTT Docomo Business - Data Analysis Infrastructure](https://www.ntt-tx.co.jp/case/nttdocomobusiness/)
-
-## Philosophy
-
-**Mission:** "Crossing makes the Future" - To continuously co-create the future with customers
-
-**Values:**
-- Innovation through technology integration
-- Creating new value through connections with various industries and customers
-- Providing pioneering products and services
-- Contributing to a sustainable society
-
-## Contact
-
-**Headquarters:** Tokyo, Japan
-
-**Website:** https://www.ntt-tx.co.jp
-
-**Blog:** https://www.ntt-tx.co.jp/column/
-
-**News:** https://www.ntt-tx.co.jp/whatsnew/
-
-**Events/Seminars:** https://www.ntt-tx.co.jp/event/
-
-**ISO Certifications:**
-- International standard certifications
-- Privacy mark certification
-
-## Media Mentions
-
-- [BizFront/NaviAct Product Launch (March 31, 2026)](https://www.ntt-tx.co.jp/whatsnew/2026/260331.html)
-- [PostgreSQL Cloud Journey Blog](https://www.ntt-tx.co.jp/column/postgresql_blog/260331/)
-- [Generative AI in Contact Centers](https://www.ntt-tx.co.jp/column/260331/)
-- [Child Consultation Center Support System](https://www.ntt-tx.co.jp/column/260330/)
-- [Visual Regression Testing with AI](https://www.ntt-tx.co.jp/column/260326/)
-
----
-
-*Last Updated: March 31, 2026*
+1. メール誤送信防止
+2. 特権ID管理
+3. 匿名加工情報作成
+4. 健康管理システム（大手企業向け）

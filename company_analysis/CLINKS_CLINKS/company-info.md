@@ -1,80 +1,86 @@
-# CLINKS株式会社 (CLINKS Co., Ltd.)
+# CLINKS株式会社
 
-## Company Overview
+## 会社概要
 
-CLINKS is a comprehensive IT solutions provider that specializes in application development, cloud service utilization support, and IT engineer dispatch services. The company has positioned itself as an "AI-driven company," focusing on integrating AI technology into both internal operations and client services.
+2002年12月19日設立のAI駆動型IT企業。「AI DRIVEN COMPANY」を掲げ、社員一人ひとりが日常業務でAIを活用できる状態を目指す。アプリ開発、クラウド構築・運用、AIソリューション、ITエンジニア派遣、システム開発・DX支援など多岐にわたるITサービスを提供する。
 
-Established in 2002, CLINKS has grown to become a significant player in Japan's IT outsourcing and system development market, with over 1,200 employees as of 2026. The company emphasizes customer-oriented services and has built strong relationships with major corporations across various industries.
+独自の生成AIチャットツール「ナレフルチャット（Knowleful）」を開発し、社内外で展開。一般社団法人生成AI活用普及協会（GUGA）の生成AIパスポート試験の全社員取得を推進するなど、AI活用の先進企業として注目を集めている。
 
-**Website:** [https://www.clinks.jp](https://www.clinks.jp)
+2026年1月時点の従業員数は1,277名。東京本社、大阪支社、横浜オフィスを展開。
 
-## History
+**ウェブサイト:** [https://www.clinks.jp](https://www.clinks.jp)
 
-- **2002年 12月 19日** - Company established
-- **Growth through IT outsourcing services** - Expanded from basic IT services to comprehensive system development
-- **AI Integration Initiative** - Launched "AI DRIVEN COMPANY" initiative to incorporate AI into daily operations
-- **Development of KNOWLEFUL** - Created proprietary enterprise-grade generative AI chat service
-- **Expansion** - Established offices in Tokyo, Osaka, and Yokohama to serve national clients
+## 所在地
 
-## Capital & Employees
+- 東京本社: 〒104-0032 東京都中央区八丁堀1-10-7 TMG八丁堀ビル10F
+- TEL: 03-6262-8135（代表）/ FAX: 03-6262-8136
+- 大阪支社: 〒530-0057 大阪府大阪市北区曽根崎2-5-10 梅田パシフィックビルディング2F
+- 横浜オフィス: 〒220-8133 神奈川県横浜市西区みなとみらい2-2-1 横浜ランドマークタワー33F
 
-| Field | Value |
-|-------|-------|
-| Capital | 10,000,000 yen |
-| Employees | 1,277名（2026年1月時点） |
-| Corporate Number | Available through business registrations (派13-307629, etc.) |
-| Founded | December 19, 2002 |
-| Representative | 河原 浩介 (Kawara Kosuke) |
+## 事業内容
 
-## Services/Products
+### AIソリューション
+- AIに関する受託開発
+- 法人向け生成AIチャットサービス「ナレフルチャット（Knowleful）」
+- AIアウトソーシング（AI・データ活用専門人材のアサイン）
 
-### AIソリューション (AI Solutions)
-- **ナレフルチャット (KNOWLEFUL)** - Enterprise-grade generative AI chat service for secure, closed environments
-- **AI Development Services** - Custom AI system development from PoC to large-scale implementation
-- **AI Consulting** - Strategic AI implementation consulting
+### クラウド構築・運用
+- Oracleエンジニアリングサービス
+- インフラ構築・運用保守
 
-### ITアウトソーシング (IT Outsourcing)
-- **エンジニアリングサービス** - Professional IT engineering and development services
-- **在宅ITエンジニアリングサービス** - Remote IT engineering services
-- **情報システム業務アウトソーシング (スムシス)** - Information system outsourcing services
+### システム開発・DX支援
+- システム開発・運用保守
+- スマートフォンアプリ開発・運用保守
+- DX推進・AIエンジニアリングサービス
+- クラウド勤怠管理システム「キンクラ」
+- テレワーク支援システム「ZaiTark」
 
-### クラウド構築・運用 (Cloud Build & Operations)
-- **Oracleエンジニアリングサービス** - Oracle cloud engineering and management
-- **インフラ構築・運用保守** - Infrastructure build and operations
-- **クラウド運用** - Cloud operations and maintenance
+### ITエンジニア派遣
+- 正社員ITエンジニア派遣
+- 在宅ITエンジニアリングサービス（Telework Style）
+- 情報システム業務アウトソーシング「スムシス（SmoothSys）」
+- 法人向けIT研修「Training One」
 
-### システム開発・DX支援 (System Development & DX Support)
-- **WEBシステム開発** - Web system development (600+ contract companies)
-- **スマートフォンアプリ開発・運用保守** - Mobile application development
-- **DX推進・AIエンジニアリングサービス** - DX promotion and AI engineering
-- **キンクラ (KINTAI-CLOUD)** - Cloud-based attendance management system
-- **ZaiTark** - Telework support system
+## 特徴・強み
 
-## Clients
+- 「AI DRIVEN COMPANY」を企業理念に掲げ、全社的にAI活用を推進
+- 生成AIパスポート試験の全社員取得計画
+- 独自開発の「ナレフルチャット」でセキュアな社内AI活用環境を構築
+- 「CLINKS Chat AI」でコーポレートサイト上の対話型AIを提供
+- ISMS認証取得（IS622096）、プライバシーマーク取得（第21000659号）
+- 健康経営優良法人2024（大規模法人部門）
+- 契約企業600社以上、受託開発実績500本以上
+- 4,000名以上の業界未経験者を即戦力に育成したノウハウ
 
-Major client companies include:
-- 株式会社アイ・イーグループ
-- アサヒグループホールディングス株式会社
-- 株式会社アズジェント
-- 伊藤忠インタラクティブ株式会社
-- 伊藤忠テクノソリューションズ株式会社
-- 株式会社インテック
-- NECソリューションイノベータ株式会社
-- NTTドコモビジネス株式会社
-- キヤノンITソリューションズ株式会社
-- 富士通株式会社
-- 三菱電機デジタルイノベーション株式会社
-- 株式会社ローソン
+## 認定・許可
 
-## Philosophy
+| 項目 | 番号 |
+|------|------|
+| 労働者派遣事業 | 派13-307629 |
+| 有料職業紹介事業 | 13-ユ-302436 |
+| ISMS認証 | IS622096 |
+| プライバシーマーク | 第21000659号 |
+| 一般建設業（電気通信工事業） | 東京都知事認可（般-6）第133657号 |
 
-"想いをカタチへ、カタチを笑顔へ" (Transform ideas into form, form into smiles)
+## 企業情報
 
-CLINKS operates with a fundamental philosophy of helping customers increase sales and reduce costs through IT solutions. The company emphasizes:
-- **徹底した顧客志向** (Thorough customer orientation)
-- **技術力、コミュニケーション力、そして「人間力」の向上** (Improvement of technical skills, communication skills, and "human ability")
-- **AI DRIVEN COMPANY** - Making AI a normal part of daily work operations
+| 項目 | 値 |
+|------|-----|
+| 社名 | CLINKS株式会社（CLINKS Co., Ltd.） |
+| 設立 | 2002年12月19日 |
+| 資本金 | 1,000万円 |
+| 代表取締役 | 河原 浩介 |
+| 従業員数 | 1,277名（2026年1月時点） |
+| 電話 | 03-6262-8135（代表） |
 
-## Media Mentions
+## 主要取引先
 
-*Note: Additional media mentions can be found through searching recent industry publications and press releases related to AI implementation and IT services in Japan.*
+NTTドコモ、NTTデータ、KDDI、ソフトバンク、富士通、日立ソリューションズ、NEC、SCSK、パナソニック、電通、サイバーエージェント、三菱電機デジタルイノベーション、伊藤忠テクノソリューションズ、セコムトラストシステムズ 等
+
+## 加盟団体
+
+- 一般社団法人 神奈川県情報サービス産業協会（KIA）
+- 一般社団法人 日本テレワーク協会
+- 特定非営利活動法人 日本ネットワークセキュリティ協会（JNSA）
+- 特定非営利活動法人 日本情報技術取引所（JIET）
+- 一般社団法人 生成AI活用普及協会（GUGA）

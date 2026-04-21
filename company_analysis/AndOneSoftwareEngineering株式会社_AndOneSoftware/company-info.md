@@ -1,68 +1,59 @@
-# And One Software Engineering株式会社 (And One Software Engineering)
+# And One Software Engineering株式会社
 
-## Company Overview
+## 会社概要
 
-And One Software Engineering株式会社 is a software development company based in Kawasaki City, Kanagawa Prefecture. Founded in 2019, the company specializes in creating high-quality software solutions for various industries including sports, public facilities, AI systems, and infrastructure monitoring. The company is known for its ArenaScoreDisplaySystem used in professional sports and has achieved ISO/IEC 27001 certification for information security management.
+2019年（令和元年）2月21日設立のソフトウェア開発会社。神奈川県川崎市に本社を置く。スポーツビジネス・アリーナ向けシステム開発を強みとし、独自の「ArenaScoreDisplaySystem」を開発・展示するなど、スポーツ×IT分野に注力している。
 
-**Website:** [https://andone-eng.co.jp](https://andone-eng.co.jp)
+2021年7月に「かわさきSDGsゴールドパートナー」に認証され、2022年にはISO/IEC 27001（ISMS）認証を取得。2023年には川崎市の「働き方改革・生産性向上推進事業者」として表彰を受けるなど、労働環境向上に積極的に取り組んでいる。
 
-## History
+2026年2月に創立7周年を迎えた。
 
-- **2019/02/21** - And One Software Engineering 株式会社 established with 7 million yen capital, Representative Director President Ashizawa Hitoshi
-- **2019/02/27** - Exhibited "ArenaScoreDisplaySystem" at the 2nd Sports Business Industry Expo
-- **2020/02/21** - Joined Kanagawa Prefecture Information Service Industry Association
-- **2020/03/01** - National Health Insurance Association membership
-- **2021/02/21** - Capital increased to 30 million yen
-- **2021/07/30** - Relocated head office to current address: 〒210-0012 神奈川県川崎市川崎区宮前町2番2号川崎エヌズビル2F
-- **2021/12/22** - Achieved "Kawasaki City SDGs Gold Partner" certification for SDGs initiatives
-- **2022/04/01** - Obtained worker dispatch business license (派14-303355)
-- **2022/07/15** - Acquired ISO/IEC 27001 Information Security Management System Certification (Registration No. JQA-IM1905)
-- **2023/02/03** - Received award from Kawasaki City for labor environment improvement initiatives
+**ウェブサイト:** [https://andone-eng.co.jp](https://andone-eng.co.jp)
 
-## Capital & Employees
+## 所在地
 
-| Field | Value |
-|-------|-------|
-| Capital | 30,000,000 yen |
-| Employees | Not specified |
-| Corporate Number | 5020001130054 |
-| Founded | February 21, 2019 |
-| Representative | Ashizawa Hitoshi (芦澤仁), Representative Director President |
+- 本社: 〒210-0012 神奈川県川崎市川崎区宮前町2番2号 川崎エヌズビル2F
+- TEL/FAX: 044-280-6731
 
-## Services/Products
+## 事業内容
 
-### Sports Systems
-- **ArenaScoreDisplaySystem** - Indoor sports scoring system for basketball, handball, volleyball, table tennis, martial arts, futsal. Used in professional leagues and national sports events. Features team introduction animations and synchronized display technology.
+- ソフトウェア開発（スポーツビジネス・アリーナ向けシステム）
+- システム開発・保守
+- 労働者派遣事業（派14-303355）
 
-### Public Racing Services
-- **Public Racing Services** - Comprehensive solutions for horse racing, velodrome, boat racing, and auto racing venues including audio guidance, odds/race result displays, special seating sales, entry gates, point management, membership management, event integration, and prize/ payroll calculation systems.
+## 特徴・強み
 
-### Facility Guidance Systems
-- **Public/Private Facility Guidance** - Event guidance, signage control for airports, baseball stadiums, soccer fields with large scoreboards, hospitals, pharmacies, libraries, art galleries, ceremony halls, and funeral halls.
+- スポーツ×IT分野への注力（ArenaScoreDisplaySystem開発）
+- ISO/IEC 27001（ISMS）認証取得（登録証番号 JQA-IM1905）
+- かわさきSDGsゴールドパートナー認証
+- 川崎市 働き方改革・生産性向上推進事業者 表彰（令和4年度）
+- 神奈川県情報サービス産業協会（KIA）加盟
 
-### Remote Monitoring & Control
-- **Remote Monitoring & Control** - Systems for remote control of dams and water gates, river/sea level monitoring, weather/temperature/rainfall/wind measurement, communication line traffic monitoring. Supports social infrastructure monitoring.
+## 企業情報
 
-### AI Systems
-- **AI Image Analysis** - Extracts features from camera/sensor images to analyze object color, shape, length, area, speed, etc.
-- **AI Prediction** - Uses deep learning on accumulated data for predictions. Continuously models and validates AI systems with the latest data for improved accuracy.
-- **AIDream** - AI-powered boat race prediction system (https://aidream.online) based on 5 years of historical boat racing data.
+| 項目 | 値 |
+|------|-----|
+| 社名 | And One Software Engineering株式会社 |
+| 設立 | 2019年（令和元年）2月21日 |
+| 資本金 | 3,000万円（2021年2月増資、当初700万円） |
+| 代表取締役社長 | 芦澤 仁 |
+| 取締役 | 高橋 信春 |
+| 取締役 | 清水 康 |
+| 労働者派遣許可 | 派14-303355 |
+| ISMS認証 | ISO/IEC 27001（JQA-IM1905） |
 
-## Clients
+## 沿革
 
-- Professional basketball and handball leagues (using ArenaScoreDisplaySystem)
-- National sports events and large gymnasiums
-- Public racing venues (horse racing, velodrome, boat racing, auto racing)
-- Airports, sports stadiums, public facilities
-- Infrastructure monitoring systems for water management
-
-## Philosophy
-
-The company's mission is to realize customer ideas through comprehensive software development from proposal to maintenance. They focus on creating competitive, high-quality software by incorporating on-site feedback and leveraging advanced technologies including AI and remote monitoring systems.
-
-## Media Mentions
-
-- **2026** - Listed in Nikkei Compass database
-- **2025** - Recognized in various IT industry publications for software development expertise
-- **2023** - Awarded by Kawasaki City for labor environment improvements
-- **2021** - Certified as Kawasaki City SDGs Gold Partner
+| 日付 | イベント |
+|------|---------|
+| 2019年2月21日 | And One Software Engineering株式会社設立（神奈川県川崎市川崎区貝塚、資本金700万円） |
+| 2020年2月20日 | 取締役 高橋信春 就任 |
+| 2020年2月21日 | 全国健康保険協会加入、ホームページ開設 |
+| 2020年3月1日 | 神奈川県情報サービス産業協会加入 |
+| 2021年2月21日 | 資本金を3,000万円に増資 |
+| 2021年7月30日 | かわさきSDGsゴールドパートナー認証取得 |
+| 2021年12月22日 | 本社事務所移転（川崎区宮前町 川崎エヌズビル2F） |
+| 2022年4月1日 | 労働者派遣事業許可取得（派14-303355） |
+| 2022年7月15日 | ISO/IEC 27001（ISMS）認証取得 |
+| 2023年2月3日 | 令和4年度川崎市働き方改革・生産性向上推進事業者表彰 |
+| 2026年2月21日 | 創立7周年 |
