@@ -1,21 +1,96 @@
-# CLINKS株式会社 (Duplicate Note)
+# CLINKS株式会社
 
-## Overview
+## 会社概要
 
-**NOTE:** This folder corresponds to a duplicate entry in the company list. The main CLINKS company profile is maintained in the `CLINKS_CLINKS/` folder. This folder was created during earlier cleanup operations and represents redundant data.
+CLINKS株式会社は、2002年12月設立のIT企業。「AI DRIVEN COMPANY」を掲げ、ITアウトソーシング事業、システム開発事業、AIサービス事業、教育訓練事業の4本柱で展開。2026年1月時点で1,277名の従業員を擁する中堅IT企業。東京本社（八丁堀）、大阪支社、横浜オフィス（ランドマークタワー33F）の3拠点体制。自社開発の対話型生成AIチャットツール「ナレフルチャット（Knowleful）」、クラウド勤怠管理システム「キンクラ（KINTAI-CLOUD）」、テレワーク支援システム「ZaiTark」などのプロダクトを展開。ISMS、プライバシーマーク、健康経営優良法人2024を取得。
 
-**Primary Company Folder:** `/company_analysis/CLINKS_CLINKS/`
+**ウェブサイト:** https://www.clinks.jp/
 
-**Duplicate Status:** This folder should be considered a duplicate reference only.
+## 会社情報
 
-## Recommendation
+| 項目 | 詳細 |
+|------|------|
+| **商号** | CLINKS株式会社（CLINKS Co., Ltd.） |
+| **設立** | 2002年12月19日 |
+| **資本金** | 1,000万円 |
+| **代表取締役** | 河原 浩介 |
+| **従業員数** | 1,277名（2026年1月時点） |
+| **電話** | 03-6262-8135 |
 
-For CLINKS company information, please refer to:
-- `/company_analysis/CLINKS_CLINKS/company-info.md`
-- `/company_analysis/CLINKS_CLINKS/company-people.json`
+## 事業所
 
-The CLINKS_CLINKS folder contains the primary, authoritative company research.
+| 事業所 | 所在地 |
+|--------|--------|
+| **東京本社** | 〒104-0032 東京都中央区八丁堀1-10-7 TMG八丁堀ビル10F |
+| **大阪支社** | 〒530-0057 大阪府大阪市北区曽根崎2-5-10 梅田パシフィックビル2F |
+| **横浜オフィス** | 〒220-8133 横浜市西区みなとみらい2-2-1 ランドマークタワー33F |
+
+## 事業内容
+
+### ITアウトソーシング事業
+- 在宅ITエンジニアリングサービス「Telework Style」
+- 情報システム業務アウトソーシング「スムシス（Smoosys）」
+- 法人向けIT研修「Training One」（4,000名以上の業界未経験者を即戦力に育成）
+
+### システム開発事業
+- システム開発・運用保守（契約企業600社以上）
+- スマートフォンアプリ開発・運用保守（受託開発実績500本以上）
+- DX推進・AIエンジニアリングサービス
+
+### AIサービス事業
+- 生成AIシステム受託開発
+- 法人向け生成AIチャットサービス「ナレフルチャット（Knowleful）」
+- AIアウトソーシング（AI・データ活用人材のアサイン）
+- CLINKS Chat AI（コーポレートサイト上のAIチャット）
+
+### 自社プロダクト
+| プロダクト | 詳細 |
+|-----------|------|
+| **ナレフルチャット（Knowleful）** | 企業専用クローズド環境の対話型生成AIチャットツール |
+| **キンクラ（KINTAI-CLOUD）** | 多様な勤務形態対応のクラウド型勤怠管理システム |
+| **ZaiTark** | テレワーク現場の意見を詰め込んで開発したテレワーク支援ツール |
+
+### クラウド構築・運用
+- Oracleエンジニアリングサービス（OCI）
+- インフラ構築・運用保守
+
+## 認定・許可
+
+- ISMS認証 IS622096
+- プライバシーマーク 第21000659号
+- 有料職業紹介許可 13-ユ-302436
+- 労働者派遣事業許可 派13-307629
+- 一般建設業（電気通信工事業）
+- 健康経営優良法人2024（大規模法人部門）
+
+## 所属団体
+
+- 神奈川県情報サービス産業協会（KIA）
+- 日本テレワーク協会
+- 生成AI活用普及協会（GUGA）
+- 日本ネットワークセキュリティ協会（JNSA）
+- 日本情報技術取引所（JIET）
+
+## グループ・関連企業
+
+- グループ企業: Fly Penguin（https://www.flypenguin.jp/）
+- 関連企業: ヒューマンテクノシステムホールディングス
+
+## 主要取引先（抜粋）
+
+NTTドコモ、NTTデータ、富士通、SCSK、KDDI、ソフトバンク、パナソニック、三菱電機、日立システムズ、日鉄ソリューションズ、電通、サイバーエージェント、キヤノンITソリューションズ、セコムトラストシステムズ 等80社以上
+
+## 特徴
+
+- **1,277名の従業員** — KIA加盟企業の中でも大規模
+- 「AI DRIVEN COMPANY」を掲げ、全社員の生成AIパスポート取得を推進
+- 自社開発のAIツール「ナレフルチャット」を内外で活用
+- 受託開発実績600社以上、アプリ開発500本以上
+- 4,000名以上の業界未経験者育成実績 — 教育事業に強み
+- 在宅派遣専門サービス「Telework Style」— テレワークの先駆者
+- ランドマークタワー33Fに横浜オフィス
+- 健康経営優良法人2024認定
 
 ---
 
-*Report generated: April 2026*
+*レポート作成: 2026年4月*
