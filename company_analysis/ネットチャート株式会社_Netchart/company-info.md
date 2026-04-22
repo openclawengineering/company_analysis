@@ -1,41 +1,26 @@
-# ネットチャート株式会社 (Netchart)
+# ネットチャート株式会社（Netchart）
 
-## Company Overview
+## 会社概要
 
-Limited information available. Unable to locate official website or comprehensive company details through available search APIs.
+ネットチャート株式会社は、神奈川県横浜市に拠点を置くIT企業。KIA（神奈川県情報サービス産業協会）加盟企業。
 
-**Website:** Unable to locate official website
+**ウェブサイト:** 確認できず
 
-## History
+## 所在地
 
-Unable to locate company history information due to search API limitations.
+横浜市
 
-## Capital & Employees
+## 事業内容
 
-| Field | Value |
-|-------|-------|
-| Capital | Unknown |
-| Employees | Unknown |
-| Corporate Number | Unknown |
-| Founded | Unknown |
-| Representative | Unknown |
+- システム開発・運用
 
-## Services/Products
+## 特徴
 
-Unable to locate specific services or products information.
-
-## Clients
-
-Unable to locate client information.
-
-## Philosophy
-
-Unable to locate company mission or philosophy statement.
-
-## Media Mentions
-
-Unable to locate media mentions due to search API limitations.
+- KIA加盟企業
+- ウェブサイトのURLが確認できない（ドメイン失効の可能性あり）
 
 ---
 
-**Research Note:** This entry is incomplete due to technical difficulties with search APIs. Additional research will be required when APIs are restored.
+*レポート作成: 2026年4月*
+*注意: ウェブサイトが確認できなかったため、KIA会員名簿の情報に基づく*
+
