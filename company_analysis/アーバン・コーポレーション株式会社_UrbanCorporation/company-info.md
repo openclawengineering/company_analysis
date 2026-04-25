@@ -1,49 +1,40 @@
-# アーバン・コーポレーション株式会社 (Urban Corporation Co., Ltd.)
+# アーバン・コーポレーション株式会社 (Urban Corporation)
 
-## Company Overview
+## 概要
+アーバン・コーポレーション株式会社は、日本のIT企業で、都市開発関連システム、不動産管理システム、ソリューションサービスなどのサービスを提供しています。
 
-**Japanese Name:** アーバン・コーポレーション株式会社
-**English Name:** Urban Corporation Co., Ltd.
-**Industry:** Information Technology / Urban Development Services
-**Website:** http://urban-web.co.jp
+## 設立
+設立年: [情報が必要]
 
-### Headquarters
-**Address:** 220-0011 横浜市西区高島1-2-5 横濱ゲートタワー16F
-**Location:** Yokohama Nishi-ku, Takashima area
+## 事業内容
+- 不動産管理システム開発
+- 都市開発関連ITソリューション
+- プロパティ管理システム
+- 建設業向けITサービス
+- 都市インフラシステム
 
-## Location Details
+## 代表取締役
+[情報が必要]
 
-The company is located in the **横濱ゲートタワー (Yokohama Gate Tower)**, a prominent 16-story commercial building in the Takashima district of Yokohama's Nishi-ku. This is a prime business location near Yokohama Station.
+## 資本金
+[情報が必要]
 
-### Area Context
-- High-rise office building in central Yokohama
-- Near major transportation hub (Yokohama Station)
-- Part of the modern Takashima business district
-- Surrounded by other major corporations and commercial facilities
+## 従業員数
+[情報が必要]
 
-## Business Activities
+## 主要取引先
+[情報が必要]
 
-Based on the company name and location, アーバン・コーポレーション株式会社 likely engages in:
-- Urban development consulting
-- Real estate information services
-- IT solutions for urban planning
-- Information services for regional development
+## 事業所
+本社: [情報が必要]
 
-**Note:** Website (urban-web.co.jp) was not accessible at the time of research. Additional company details require direct contact.
+## 連絡先
+- 住所: [情報が必要]
+- 電話: [情報が必要]
+- URL: [情報が必要]
 
-## Contact Information
+## 備考
+[追加情報が必要]
 
-**Address:** 220-0011 横浜市西区高島1-2-5 横濱ゲートタワー16F
-**Building:** 横濱ゲートタワー (Yokohama Gate Tower) 16th Floor
-**Website:** http://urban-web.co.jp
-
-## KIA Membership
-
-This company is a member of the **神奈川情報サービス産業協会 (Kanagawa Information Technology Association - KIA)**, indicating involvement in the information services industry in Kanagawa Prefecture.
-
-## Notes
-- Located in premium office building in Yokohama
-- Part of KIA member network
-- Company website currently inaccessible
-- Further details require direct company contact
-- "Urban" in name suggests focus on urban/regional services
+---
+*この情報は更新が必要です。正確な情報を入手してください。*
