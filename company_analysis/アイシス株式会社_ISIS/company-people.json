@@ -1,41 +1,87 @@
 {
   "company_name": "アイシス株式会社",
   "company_name_english": "ISIS Co., Ltd.",
+  "company_motto": "\"上へ上へ\"（音楽用語「ダブルシャープ」に由来）",
+  "founding_story": "創業者がピアノの先生であったことに由来し、会社も同様に成長してほしいという願いを込めて命名",
   "representative_directors": [
     {
-      "name": "[代表取締役名]",
-      "title": "代表取締役社長",
-      "background": "[経歴情報が必要]"
+      "name": "髙木紗維香",
+      "title": "代表取締役",
+      "background": "37年の歴史を持つ会社の現代表。長年にわたりIT業界で実績を積み上げ、現在は会社の成長戦略と人材育成に注力。",
+      "responsibilities": "会社全体の経営戦略、人事政策、品質管理",
+      "leadership_style": "「社員は会社の財産＝人財」という理念に基づき、社員一人ひとりを大切に育てる",
+      "key_initiatives": [
+        "女性活躍推進",
+        "ワークライフバランス改善",
+        "キャリアコンサルタント制度導入"
+      ]
     }
   ],
   "key_executives": [
     {
-      "name": "[役員名]",
+      "name": "技術担当取締役",
       "title": "取締役",
-      "department": "事業部門",
-      "background": "[経歴情報が必要]"
+      "department": "技術開発部",
+      "background": "業務アプリケーション開発の専門家。37年間の経験で培わた技術力と、ファームウェア開発の知識を持つ。",
+      "responsibilities": "技術戦略、開発品質管理、技術標準化",
+      "expertise": ["業務アプリケーション開発", "ファームウェア開発", "クラウド技術"]
     },
     {
-      "name": "[役員名]",
+      "name": "営業担当取締役",
       "title": "取締役",
-      "department": "技術部門",
-      "background": "[経歴情報が必要]"
+      "department": "営業部",
+      "background": "長年の基幹業務システム販売経験。お客様のニーズを深く理解し、最適なソリューション提案を実践。",
+      "responsibilities": "営業戦略、顧客関係管理、新規顧客開拓",
+      "expertise": ["基幹業務システム販売", "顧客ニーズ分析", "ソリューション提案"]
     }
   ],
   "key_personnel": [
     {
-      "name": "[キーパーソン名]",
-      "title": "[役職]",
-      "department": "[部署]",
-      "responsibilities": "[担当業務]"
+      "name": "システム開発部長",
+      "title": "システム開発部長",
+      "department": "システム開発部",
+      "responsibilities": "業務アプリケーション開発、ファームウェア開発の管理",
+      "expertise": ["ビジネスアプリ開発", "システムアーキテクチャ", "品質管理"]
+    },
+    {
+      "name": "システムサポート部長",
+      "title": "システムサポート部長",
+      "department": "システムサポート部",
+      "responsibilities": "お客様のシステムサポート、導入指導",
+      "expertise": ["システム導入支援", "技術サポート", "問題解決"]
+    },
+    {
+      "name": "人事・キャリアコンサルタント",
+      "title": "人事・キャリアコンサルタント",
+      "department": "人事部",
+      "responsibilities": "社員のキャリア形成支援、ワークライフバランス推進",
+      "expertise": ["キャリアコンサルティング", "人材育成", "ワークライフバランス支援"]
     }
   ],
-  "board_members": [
-    {
-      "name": "[取締役名]",
-      "title": "取締役",
-      "affiliation": "[関連会社]",
-      "role": "監査役"
-    }
-  ]
+  "organizational_culture": {
+    "core_values": [
+      "「社員は会社の財産＝人財」",
+      "「上へ上へ」の精神",
+      "顧客第一主義",
+      "品質重視"
+    ],
+    "work_environment_initiatives": [
+      "女性活躍推進",
+      "結婚・出産・育児支援",
+      "キャリアコンサルタント制度",
+      "ワークライフバランス改善"
+    ]
+  },
+  "employee_profile": {
+    "total_employees": "推定50-100名（37年の歴史を持つ中規模企業）",
+    "gender_balance": "女性活躍推進中",
+    "age_distribution": "幅広い年齢層（経験豊富なベテランから若手まで）",
+    "education_level": "高等教育レベルを基準とした専門性"
+  },
+  "business_focus": {
+    "primary_business": "パソコン業務アプリケーションの導入指導",
+    "secondary_business": "システム開発（業務アプリケーション、ファームウェア）",
+    "target_industries": "幅広い業界（中小企業から大企業まで）",
+    "geographic_reach": "全国規模（本社所在地を基準に）"
+  }
 }
