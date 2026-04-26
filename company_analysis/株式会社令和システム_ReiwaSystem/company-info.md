@@ -1,14 +1,14 @@
-# 株式会社 ＥＳＵ
+# 株式会社 令和システム
 
 ## Company Overview
 
-株式会社 ＥＳＵ (ESU Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社 令和システム (Reiwa System Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
 
 ## Company Profile
 
 | Item | Details |
 |------|---------|
-| **Company Name** | 株式会社 ＥＳＵ (ESU Inc.) |
+| **Company Name** | 株式会社 令和システム (Reiwa System Inc.) |
 | **Status** | Research pending - web search API unavailable |
 
 ## Notes

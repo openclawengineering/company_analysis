@@ -1,14 +1,14 @@
-# 株式会社 ＥＳＵ
+# オオイテクノ
 
 ## Company Overview
 
-株式会社 ＥＳＵ (ESU Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+オオイテクノ (OOI Technology) is a Japanese technology company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
 
 ## Company Profile
 
 | Item | Details |
 |------|---------|
-| **Company Name** | 株式会社 ＥＳＵ (ESU Inc.) |
+| **Company Name** | オオイテクノ (OOI Technology) |
 | **Status** | Research pending - web search API unavailable |
 
 ## Notes

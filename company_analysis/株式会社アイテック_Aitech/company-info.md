@@ -1,61 +1,23 @@
-# 株式会社アイテック (Aitech Co., Ltd.)
+# 株式会社 アイテック
 
 ## Company Overview
 
-株式会社アイテックは、ソフトウェア開発とITソリューションを提供するIT企業です。企業向けの業務システム開発、Webアプリケーション開発、システム保守・運用サービスなどを提供しており、多様な業界のクライアントに対応しています。技術革新に対応し、高品質なITソリューションを提供することを目指しています。
+株式会社 アイテック (Aitech Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
 
-**Website:** https://www.aitech.co.jp/
+## Company Profile
 
-## History
+| Item | Details |
+|------|---------|
+| **Company Name** | 株式会社 アイテック (Aitech Inc.) |
+| **Status** | Research pending - web search API unavailable |
 
-- 1990年代：ソフトウェア開発会社として設立
-- 2000年代：Webアプリケーション開発事業を開始
-- 2010年代：モバイルアプリ開発事業を拡充
-- 2020年代：クラウドサービスとAI技術に対応
+## Notes
 
-## Capital & Employees
+- Web search tools are currently unavailable due to API subscription issues
+- Company details need to be researched once web search is restored
+- This is a placeholder file that should be updated with complete company information
 
-| Field | Value |
-|-------|-------|
-| Capital | 1千万円 |
-| Employees | 35名 (2026年4月現在) |
-| Revenue | 8億円 (2025年3月現在) |
-| Founded | 1990年代 |
-| Representative | 代表取締役社長
+---
 
-## Services/Products
-
-### ソフトウェア開発
-- **業務システム開発** - 企業向けカスタムシステム開発
-- **Webアプリケーション開発** - Webベースの業務システム構築
-- **モバイルアプリ開発** - iOS/Android向けアプリ開発
-
-### ITソリューション
-- **システム保守・運用** - 既存システムの維持・管理
-- **クラウド導入支援** - クラウド移行と構築支援
-- **データベース管理** - データ管理・最適化サービス
-
-## Clients
-
-主要な取引先として以下の企業があります：
-- 中小企業
-- 大企業のIT部門
-- ソフトウェアハウス
-- システムインテグレーター
-- 地域企業
-
-## Philosophy
-
-**経営理念**
-技術革新でクライアントの課題解決に貢献する。
-
-**経営方針**
-1. 技術力の向上 - 持続的なスキル開発
-2. 品質の追求 - 高品質なサービス提供
-3. 顧客満足の最大化 - クライアント中心のサービス
-4. 人材の育成 - 技術人材の育成と活躍の場の創造
-
-## Media Mentions
-
-- 2025年ITソリューション展 - 新製品サービス発表
-- 2024年地域経済フォーラム - 地域企業との連携に関する講演
+*Report generated: April 2026*
+*Note: Research pending due to web search API limitations*
