@@ -1,113 +1,112 @@
-# アマノ株式会社 (Amano Corporation)
+# アマノ株式会社 (AMANO Corporation)
 
 ## Company Overview
 
 | Item | Details |
 |------|---------|
 | **Company Name** | アマノ株式会社 |
-| **English Name** | Amano Corporation |
-| **Website** | [情報が必要] |
-| **Headquarters** | [情報が必要] |
-| **Founded** | [情報が必要] |
-| **Capital** | [情報が必要] |
-| **Employees** | [情報が必要] |
-| **Revenue** | [情報が必要] |
-| **Representative** | [情報が必要] |
-| **Certifications** | [情報が必要] |
+| **English Name** | AMANO Corporation |
+| **Website** | https://www.amano.co.jp |
+| **Headquarters** | 〒222-8558 神奈川県横浜市港北区大豆戸町275番地 |
+| **Founded** | 1931年11月3日（創業） / 1945年11月22日（設立） |
+| **Capital** | 182億3,958万円（2026年3月末現在） |
+| **Employees** | 連結 5,532名 / 単独 1,945名（2026年3月末現在） |
+| **Revenue** | 連結 1,764億67百万円 / 単独 766億89百万円（2026年3月期） |
+| **Operating Profit** | 連結 243億58百万円 / 単独 176億95百万円（2026年3月期） |
+| **Representative** | 代表取締役会長 津田博之 / 代表取締役社長 山﨑学 |
+| **Stock Code** | 東京証券取引所プライム市場 6436 |
+| **Certifications** | 健康経営優良法人認定、ISO 14001、各種環境マネジメント |
 
 ## Business Description
 
-アマノ株式会社は、日本のIT・タイムレコーダー専門メーカーで、時間管理、アクセス管理、セキュリティシステムなどの製品・サービスを提供しています。タイムレコーダー・勤務管理システム、アクセス制御システム、セキュリティソリューション、ID管理システム、労務管理システムなどを主要事業としています。
+アマノ株式会社は、1931年創業の大手設備機器メーカーで、「Time & Airの未来へ」をブランドステートメントに掲げています。時間情報事業（勤怠管理システム・タイムレコーダー）、パーキング事業（駐車場システム）、環境事業（集塵機・ミストコレクター）、クリーン・ロボットソリューション事業（業務用清掃ロボット）の4つの主要事業を展開しています。国内7社・海外25社の連結子会社を有するグローバル企業です。
 
 ## History
 
 | Date | Event |
 |------|-------|
-| [情報が必要] | [設立イベント] |
-| [情報が必要] | [主要なマイルストーン] |
-| [情報が必要] | [事業拡張や重要な契約] |
+| 1931年11月 | 創業（タイムレコーダー製造） |
+| 1945年11月 | アマノ時計工業株式会社設立 |
+| 1960年代 | タイムスタンプ・パーキングメーター事業開始 |
+| 1970年代 | 環境事業（集塵機）進出 |
+| 1980年代 | 電子タイムレコーダー開発 |
+| 2000年代 | 勤怠管理システムクラウド化 |
+| 2020年代 | AI勤怠管理システム「TimePro-eX」、業務用清掃ロボット発売 |
+| 2026年3月 | 連結売上高1,764億円達成 |
 
 ## Services & Products
 
-### タイムレコーダー・勤務管理システム
-- **電子タイムレコーダー** - 従業員の勤怠記録用電子タイムカードシステム
-- **バッジタイムレコーダー** - IDバッジを使用した勤怠管理システム
-- **PCタイムレコーダー** - PCソフトウェアによる勤怠管理
-- **集計・分析ソフトウェア** - 勤怠データの集計と分析
+### 時間情報事業
+- **AI勤怠管理システム「TimePro-eX」** - 最新のクラウド勤怠管理
+- **勤怠管理システム** - クラウド型・オンプレミス型
+- **人事届出サービス「e-AMANO」** - 労働保険・社会保険届出
+- **入退室管理** - セキュリティ管理システム
 
-### アクセス制御システム
-- **物理アクセス制御** - 建物やエリアへのアクセス管理システム
-- **ドアロックシステム** - 電子式ドアロックとアクセス管理
-- **エレベーター制御** - エレベーターのアクセス制御システム
-- **ゲートシステム** - 施設入口のアクセス管理
+### 時間管理機器事業
+- **TimP@CK（タイムパック）** - 勤怠ソフト付きレコーダー
+- **ICカード勤怠管理** - 非接触ICカード対応
+- **タイムレコーダー** - 電子式タイムレコーダー
+- **タイムスタンプ** - 業務用タイムスタンプ
 
-### セキュリティソリューション
-- **セキュリティ監視システム** - 24時間体制の監視システム
-- **警報システム** - 異常時の警報システム
-- **防犯カメラ連携** - 防犯カメラとの連携システム
-- **セキュリティ統合管理** - 複数セキュリティシステムの統合管理
+### パーキング事業
+- **車番チケットレスシステム** - AIカメラ認識駐車場
+- **ゲート式駐車場** - 自動ゲートシステム
+- **フラップ式/フラップレス駐車場** - 各種駐車場機器
+- **ゲート式駐輪場** - 自転車駐輪場管理
 
-### ID管理システム
-- **IDカード発行システム** - 従業員・訪問者向けIDカード発行
-- **バッジ管理** - IDバッジの発行・管理・更新
-- **デジタルID管理** - デジタルIDの発行と認証
-- **アクセス権限管理** - 各種システムへのアクセス権限管理
+### 環境事業
+- **集塵機** - 工場用粉塵捕集装置
+- **ミストコレクター** - ミスト・油霧回収装置
+- **浮遊オイルミスト用集塵装置** - AC900シリーズ
+- **空気輸送システム** - 各種搬送装置
 
-### 労務管理システム
-- **勤怠管理システム** - 従業員の勤怠データの一元管理
-- **残業管理** - 残業時間の計算と管理
-- **休暇管理** - 休暇申請・承認・管理システム
-- **給与計算連携** - 給与計算システムとの連携
+### クリーン・ロボットソリューション事業
+- **業務用清掃ロボット「hapiibot」** - AI搭載床洗浄ロボット
+- **床洗浄機** - 各種床清掃機器
+- **ポリッシャー** - 床研磨機
+- **スイーパー** - 路面清掃機
+
+### アウトソーシング事業
+- **情報システム事業** - iABS株式会社
+- **駐車場運営受託** - AMS株式会社
+- **清掃受託** - AMS株式会社
 
 ## Major Clients
 
-主要な取引先として以下の企業があります：
-- [情報が必要]
+- 全国の企業・官公庁（勤怠管理システム導入先）
+- 商業施設・公共駐車場（パーキングシステム導入先）
+- 製造業各社（環境事業・集塵機導入先）
+- 大手施設・ビル管理会社（清掃ロボット導入先）
 
 ## Corporate Philosophy
 
-**経営理念**
-[情報が必要]
+**ブランドステートメント**
+「Time & Airの未来へ — 時間を見える化し、安全で快適な社会の構築を。空気のチカラで、心地よい地球環境の創造を。」
 
-**経営方針**
-1. [情報が必要]
-2. [情報が必要]
-3. [情報が必要]
+**企業理念**
+社会に貢献し、永続的に発展する企業グループを目指す。
 
 ## Data Quality Assessment
 
-**Rating:** ⭐ Low
+**Rating:** ⭐⭐⭐⭐ Very High
 
 **Reasoning:**
-- Website currently inaccessible for detailed information
-- Basic company information available from initial stub
-- Specialized time and access control systems manufacturer
-- Financial data, employee count, and founding details need verification
-- Client list and corporate philosophy documentation required
-- History timeline needs proper research
-- ISO certifications need verification
-
-## Research Status
-
-**Current Status:** Partial Information Available
-**Next Steps:** Website accessibility check, corporate registry search, client information gathering
-
-**Research Notes:**
-- Company website appears to be inaccessible
-- Additional research needed through Japanese corporate registries
-- Client information and detailed company history require further investigation
-- Company specializes in physical security and time management systems rather than pure IT services
-- May have different market positioning compared to other IT service companies
+- ✓ 上場企業（東証プライム 6436）による詳細なIR情報開示
+- ✓ 連結・単独の財務データ（売上高・経常利益）完全入手
+- ✓ 従業員数・資本金等の基本情報完全確認
+- ✓ 詳細な沿革・役員情報確認
+- ✓ 5事業セグメントの全製品・サービス情報入手
+- ✓ 32社の連結子会社（国内7社・海外25社）情報確認
+- ✓ サステナビリティ・ESG情報充実
+- ✓ 公式ウェブサイト全ページアクセス成功
 
 ## Research Sources
 
-- Initial company information from existing stub
-- Corporate registry data needed (法人番号.com)
-- SalesNow company directory needed
-- Official company website: [Inaccessible]
+- Official website: https://www.amano.co.jp/
+- Company profile: https://www.amano.co.jp/corp/outline/
+- IR information: https://www.amano.co.jp/ir/
+- Nikkei: https://www.nikkei.com/nkd/company/?scode=6436
 
 ---
-*Report generated: 2026-04-25*
-*Research quality: Low - basic information only, requires additional research*
-*Website status: Inaccessible - additional verification needed*
-*Specialization: Physical security and time management systems manufacturer*
+*Report generated: 2026-04-25 (initial) / Updated: 2026-04-30*
+*Research quality: Very High - listed company with full IR disclosure*

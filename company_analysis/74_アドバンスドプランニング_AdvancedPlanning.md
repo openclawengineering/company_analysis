@@ -1,105 +1,73 @@
-# アドバンスドプランニング株式会社 (AdvancedPlanning Co., Ltd.)
+# 有限会社アドバンプランニング (Ad-Van Planning Co., Ltd.)
 
 ## Company Overview
 
 | Item | Details |
 |------|---------|
-| **Company Name** | アドバンスドプランニング株式会社 |
-| **English Name** | AdvancedPlanning Co., Ltd. |
-| **Website** | [情報が必要] |
-| **Headquarters** | [情報が必要] |
-| **Founded** | [情報が必要] |
-| **Capital** | [情報が必要] |
-| **Employees** | [情報が必要] |
-| **Revenue** | [情報が必要] |
-| **Representative** | [情報が必要] |
-| **Certifications** | [情報が必要] |
+| **Company Name** | 有限会社アドバンプランニング |
+| **English Name** | Ad-Van Planning Co., Ltd. |
+| **Website** | https://www.ad-planning.co.jp |
+| **Headquarters** | 〒810-0022 福岡市中央区薬院4丁目8番28号 チサンマンション第5博多403号 |
+| **Founded** | 平成7年2月28日（1995年） |
+| **Capital** | 非公開 |
+| **Employees** | 非公開（小規模事業者） |
+| **Revenue** | 非公開 |
+| **Representative** | 栗山 浩 |
+| **Certifications** | 非公開 |
 
 ## Business Description
 
-アドバンスドプランニング株式会社は、日本のIT企業で、コンサルティング、システム開発、ビジネスソリューションなどのサービスを提供しています。ITコンサルティング、システム開発・設計、ビジネスプロセス改善、デジタル戦略立案、事業改革支援などを主要事業としています。
+有限会社アドバンプランニングは、福岡市中央区に本社を置く土木設計専門の企業です。下水道の基本計画、認可設計、実施設計を主な事業としており、上水道、農業土木、農業集落排水などの設計業務も手掛けています。九州各県から中国・関西・東海・関東まで広範なエリアで業務を展開しています。確かで信頼される技術力をモットーに、環境が改善された暮らしやすい街づくりに貢献しています。
 
 ## History
 
 | Date | Event |
 |------|-------|
-| [情報が必要] | [設立イベント] |
-| [情報が必要] | [主要なマイルストーン] |
-| [情報が必要] | [事業拡張や重要な契約] |
+| 1995年2月28日 | 有限会社アドバンプランニング設立 |
+| 現在 | 九州〜関東エリアで土木設計業務を展開 |
 
 ## Services & Products
 
-### ITコンサルティング
-- **IT戦略立案** - 企業のIT戦略の策定・提案
-- **システム導入コンサルティング** - 新システム導入の支援
-- **ITガバナンス構築** - ITガバナンス体制の構築支援
-
-### システム開発・設計
-- **カスタムシステム開発** - 顧客ニーズに合わせたシステム開発
-- **業務システム設計** - 業務プロセスに最適なシステム設計
-- **インターフェース設計** - ユーザー体験を重視したUI/UX設計
-
-### ビジネスプロセス改善
-- **業務分析** - 現行業務の分析と課題特定
-- **プロセス再設計** - 効率化のための業務プロセス再設計
-- **自動化提案** - 業務の自動化に関する提案
-
-### デジタル戦略立案
-- **DX戦略策定** - デジタル変革戦略の策定
-- **テクノロジー導入戦略** - 新技術導入のロードマップ作成
-- **イノベーション促進** - 企業のイノベーションを促進する戦略
-
-### 事業改革支援
-- **事業変革支援** - 事業モデルの変革を支援
-- **組織改革** - 組織体制の最適化支援
-- **チェンジマネジメント** - 変革管理の支援
+### 土木設計
+- **下水道設計** - 基本計画・認可設計・実施設計
+- **上水道設計** - 水道施設の設計業務
+- **農業土木設計** - 農業集落排水等の設計
+- **一般土木設計** - 各種土木構造物の設計
+- **CAD図面作成** - 設計図面の作成業務
+- **数量計算** - パソコンによる積算業務
+- **現地調査** - 実地調査・測量業務
 
 ## Major Clients
 
-主要な取引先として以下の企業があります：
-- [情報が必要]
+- 九州各県の自治体（下水道・上水道部門）
+- 中国・四国・関西・東海・関東の公共事業関係者
 
 ## Corporate Philosophy
 
 **経営理念**
-[情報が必要]
-
-**経営方針**
-1. [情報が必要]
-2. [情報が必要]
-3. [情報が必要]
+1. 常に最善を尽くして信頼される優れた設計
+2. 常にまごころを持った誠実な対応を心がける人づくり
+3. 常に切磋琢磨し技術力を向上させ責任を持って取り組む
 
 ## Data Quality Assessment
 
-**Rating:** ⭐ Low
+**Rating:** ⭐⭐ Medium
 
 **Reasoning:**
-- Website currently inaccessible for detailed information
-- Basic company information available from initial stub
-- Financial data, employee count, and founding details need verification
-- Client list and corporate philosophy documentation required
-- History timeline needs proper research
-- ISO certifications need verification
-
-## Research Status
-
-**Current Status:** Partial Information Available
-**Next Steps:** Website accessibility check, corporate registry search, client information gathering
-
-**Research Notes:**
-- Company website appears to be inaccessible
-- Additional research needed through Japanese corporate registries
-- Client information and detailed company history require further investigation
-- Company focuses on business process improvement and digital strategy consulting
+- ✓ Official company website accessible with detailed company information
+- ✓ Business description and service offerings clearly documented
+- ✓ Corporate philosophy clearly stated
+- ✓ Founding date and representative confirmed
+- ✓ Recruitment information provides salary and workplace details
+- ⚠️ Financial data, capital, and employee count not publicly disclosed
+- ⚠️ Client list limited to general description
+- ⚠️ Small company with limited public information
 
 ## Research Sources
 
-- Initial company information from existing stub
-- Corporate registry data needed (法人番号.com)
-- SalesNow company directory needed
-- Official company website: [Inaccessible]
+- Official website: https://www.ad-planning.co.jp/
+- Company profile: https://www.ad-planning.co.jp/company.html
 
 ---
-*Report generated: 2026-04-25*
-*Research quality: Low - basic information only, requires additional research*
-*Website status: Inaccessible - additional verification needed*
+*Report generated: 2026-04-25 (initial) / Updated: 2026-04-30*
+*Research quality: Medium - official sources confirmed*
