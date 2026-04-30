@@ -71,3 +71,11 @@ IST Software operates across seven major service domains:
 
 - **神奈川県情報サービス産業協会 (Kanagawa IT Industry Association)** — Active member company
 - **ニッセイアロマスクエア** — Headquartered in Nissei Aroma Square, a prominent office complex in Kamata, Tokyo
+- **2026/01/26**: 企業向け生成AIサービス『ゼロプロ』正式ローンチ
+- **2026/04/01**: 組織変更および人事異動に関するお知らせ
+- **2026/04/27**: 中国進出企業向け無料Webセミナー開催
+- **2025/08**: 「ハタラクエール2026 福利厚生推進法人」認証取得
+- **一般社団法人情報サービス産業協会（JISA）**加盟
+- **一般社団法人生成AI活用普及協会（GUGA）**加盟
+- **富士通系ソフトウェア業グループ（FSA）**加盟
+- **株式会社アイネット**が100%株主（親会社）

@@ -117,9 +117,17 @@
 - 各線 横浜駅西口 より徒歩10分 (10 min walk from Yokohama Station West Exit)
 - 東急東横線 反町駅 より徒歩10分 (10 min walk from Tokyu Toyoko Line Haramachi Station)
 
+## Company Mentions
+
+- **神奈川情報サービス産業協会（KIA）**加盟
+- **社団法人 神奈川法人会**加盟
+- **東京都情報サービス産業健康保険組合**加盟
+- **横浜商工会議所**加盟
+- **横浜健康経営認証2024 クラスAA**取得
+- **健康優良企業 銀の認定**取得（健銀第3280号）
+- 2025年7月 創立20周年を迎える
+
 ## Notes
-- 20 years in business (2025)
-- Strong focus on information security (ISO 27001 certified)
-- Health-conscious company (Class AA health management certification)
-- Originally spun off from 株式会社シーエーエル (C-A-L Corporation)
-- Member of KIA since establishment
+- 元々株式会社シーエーエル（C-A-L Corporation）のアウトソーシング事業部門として設立
+- 2010年に独立
+- 採用サイト: https://recruit.ical.jp/

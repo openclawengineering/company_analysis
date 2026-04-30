@@ -55,6 +55,13 @@ The company maintains an active employee information page (社員のページ), 
 **Staff Page:** http://www.igsquare.co.jp/staff.html
 **Recruitment Page:** http://www.igsquare.co.jp/recruitment.html
 
+## Company Mentions
+
+- **神奈川情報サービス産業協会（KIA）**加盟
+- **2026年2月**: 2027年卒会社説明会の受付開始
+- 創立30周年（2020年記念）
+- 社員のページ（staff.html）を定期的に更新
+
 ## Notes
 - Active in new graduate recruitment (accepting 2027 graduates)
 - Regular employee page updates indicate active internal communication

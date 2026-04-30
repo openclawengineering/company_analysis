@@ -1,11 +1,75 @@
-[
-  {
-    "name_jp": "代表取締役社長",
-    "name_en": "President & CEO",
-    "position_jp": "代表取締役社長",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "http://www.ist-software.co.jp/company/",
-    "notes": "President name not disclosed on main company website"
-  }
-]
+{
+  "company": {
+    "name_jp": "株式会社ＩＳＴソフトウェア",
+    "name_en": "IST Software Co., Ltd.",
+    "website": "https://www.ist-software.co.jp/company/outline/"
+  },
+  "people": [
+    {
+      "name": "瀬端 伸一",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "染谷 光四郎",
+      "title": "取締役相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小松 貴宏",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "安藤 泰三",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "立島 直記",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉澤 誠",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "五十嵐 由紀夫",
+      "title": "常勤監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "今井 克幸",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-04-30"
+}

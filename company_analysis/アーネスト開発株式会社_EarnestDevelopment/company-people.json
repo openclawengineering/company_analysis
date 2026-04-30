@@ -1,41 +1,11 @@
 {
-  "company_name": "アーネスト開発株式会社",
-  "company_name_english": "Earnest Development Co., Ltd.",
-  "representative_directors": [
-    {
-      "name": "[代表取締役名]",
-      "title": "代表取締役社長",
-      "background": "[経歴情報が必要]"
-    }
-  ],
-  "key_executives": [
-    {
-      "name": "[役員名]",
-      "title": "取締役",
-      "department": "事業部門",
-      "background": "[経歴情報が必要]"
-    },
-    {
-      "name": "[役員名]",
-      "title": "取締役",
-      "department": "技術部門",
-      "background": "[経歴情報が必要]"
-    }
-  ],
-  "key_personnel": [
-    {
-      "name": "[キーパーソン名]",
-      "title": "[役職]",
-      "department": "[部署]",
-      "responsibilities": "[担当業務]"
-    }
-  ],
-  "board_members": [
-    {
-      "name": "[取締役名]",
-      "title": "取締役",
-      "affiliation": "[関連会社]",
-      "role": "監査役"
-    }
-  ]
+  "company": {
+    "name_jp": "アーネスト開発株式会社",
+    "name_en": "Earnest Development Co., Ltd.",
+    "website": "https://www.earnestdevelopment.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-04-30",
+  "notes": "会社ウェブサイトの文字化により代表者名を特定できず。ウェブサイト (earnestdevelopment.co.jp) のエンコーディング問題により人物情報を取得できなかった。"
 }

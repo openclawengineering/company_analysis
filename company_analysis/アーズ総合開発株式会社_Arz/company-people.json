@@ -1,41 +1,19 @@
 {
-  "company_name": "アーズ総合開発株式会社",
-  "company_name_english": "Arz Co., Ltd.",
-  "representative_directors": [
+  "company": {
+    "name_jp": "アーズ総合開発株式会社",
+    "name_en": "Arz Co., Ltd.",
+    "website": "https://www.arz.co.jp/"
+  },
+  "people": [
     {
-      "name": "[代表取締役名]",
-      "title": "代表取締役社長",
-      "background": "[経歴情報が必要]"
+      "name": "岡田 篤",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "okada@arz.co.jp"
     }
   ],
-  "key_executives": [
-    {
-      "name": "[役員名]",
-      "title": "取締役",
-      "department": "事業部門",
-      "background": "[経歴情報が必要]"
-    },
-    {
-      "name": "[役員名]",
-      "title": "取締役",
-      "department": "技術部門",
-      "background": "[経歴情報が必要]"
-    }
-  ],
-  "key_personnel": [
-    {
-      "name": "[キーパーソン名]",
-      "title": "[役職]",
-      "department": "[部署]",
-      "responsibilities": "[担当業務]"
-    }
-  ],
-  "board_members": [
-    {
-      "name": "[取締役名]",
-      "title": "取締役",
-      "affiliation": "[関連会社]",
-      "role": "監査役"
-    }
-  ]
+  "social_profiles": [],
+  "last_updated": "2026-04-30"
 }
