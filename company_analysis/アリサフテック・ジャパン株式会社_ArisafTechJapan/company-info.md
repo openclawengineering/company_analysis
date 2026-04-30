@@ -38,3 +38,14 @@
 
 ---
 *この情報は更新が必要です。正確な情報を入手してください。*
+## Media Mentions
+
+※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
+
+- **KIA加盟**: 神奈川県情報サービス産業協会加盟
+- **公式SNS**: Twitter/X (@AriSafTechLtd)、Facebook (AriSafTech)、LinkedIn (AriSaf Tech Ltd)
+- **SDGs/教育**: 教育分野・SDGプログラム推進
+
+## Data Quality Assessment
+
+- **2026-04-30**: Media Mentions追加。このファイルの上部内容は要更新。
