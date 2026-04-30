@@ -65,6 +65,10 @@
 2. [情報が必要]
 3. [情報が必要]
 
+## Media Mentions
+
+※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
+
 ## Data Quality Assessment
 
 **Rating:** ⭐ Low

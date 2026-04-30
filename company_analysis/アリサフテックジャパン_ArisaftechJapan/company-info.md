@@ -288,3 +288,15 @@ The company's emphasis on "never compromising trust relationships" and "taking r
 *Report Generated: March 29, 2026*
 *Data Sources: Company website (arisaftech.co.jp)*
 *Note: Employee counts and some details are as of June 2022; current figures may differ*
+## Media Mentions
+
+※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
+
+- **KIA加盟**: 神奈川県情報サービス産業協会加盟（公式サイトfooterに記載）
+- **公式SNS**: Twitter/X (@AriSafTechLtd)、Facebook (AriSafTech)、LinkedIn (AriSaf Tech Ltd) を公式サイトfooterにリンク
+- **SDGs**: 教育分野・SDGプログラム推進をミッションに明記
+- **バングラデシュIT**: バングラデシュ初のチームソーシング企業の一部として2016年活動開始、2019年AriSaf Techとして独立
+
+## Data Quality Assessment
+
+- **2026-04-30**: company-people.json更新（代表者: アブドゥラー・タリク）、social_profiles追加（3プラットフォーム）、Media Mentions追加

@@ -1,148 +1,62 @@
 {
-  "company_name": "アイテックジャパン株式会社",
-  "company_name_english": "ITecJapan Co., Ltd.",
-  "company_profile": {
-    "business_focus": "総合ITソリューション提供",
-    "target_markets": "中小企業から大企業まで",
-    "geographic_reach": "全国規模",
-    "employee_size": "推定50-150名（中規模ITベンダー）"
+  "company": {
+    "name_jp": "株式会社アイテック",
+    "name_en": "ITEC Co., Ltd.",
+    "website": "https://www.itec.co.jp/"
   },
-  "representative_directors": [
+  "people": [
     {
-      "name": "代表取締役",
-      "title": "代表取締役社長",
-      "background": "IT業界での長年の経験を持ち、システム開発から企業経営まで幅広く経験。デジタル変革時代における企業の課題解決に注力。",
-      "responsibilities": "経営戦略、事業計画、主要顧客関係、人材育成",
-      "vision": "企業のデジタル変革を支援するパートナーとしての地位確立",
-      "key_initiatives": [
-        "技術力の継続的向上",
-        "業界特化型ソリューションの開発",
-        "顧客満足度の向上"
-      ]
+      "name": "土元克則",
+      "name_ja": "土元 克則",
+      "title": "代表取締役社長 教育事業本部長",
+      "title_ja": "代表取締役社長 教育事業本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "経営",
+      "email": ""
+    },
+    {
+      "name": "久保田善之",
+      "name_ja": "久保田 善之",
+      "title": "常務執行役員 管理本部長",
+      "title_ja": "常務執行役員 管理本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "管理本部",
+      "email": ""
+    },
+    {
+      "name": "橋本岳人",
+      "name_ja": "橋本 岳人",
+      "title": "執行役員 人材事業本部長",
+      "title_ja": "執行役員 人材事業本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "人材事業本部",
+      "email": ""
+    },
+    {
+      "name": "町大輔",
+      "name_ja": "町 大輔",
+      "title": "執行役員",
+      "title_ja": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
-  "key_executives": [
+  "social_profiles": [
     {
-      "name": "技術担当取締役",
-      "title": "取締役",
-      "department": "技術開発部",
-      "background": "ソフトウェア開発の専門家。Java、Python、クラウド技術に精通。大規模システム開発のプロジェクトマネジメント経験豊富。",
-      "responsibilities": "技術戦略、開発プロセス改善、品質管理、技術標準化",
-      "expertise": [
-        "システムアーキテクチャ設計",
-        "クラウドネイティブ開発",
-        "DevOps/CI/CD",
-        "セキュリティ技術"
-      ],
-      "certifications": ["AWS認定ソリューションアーキテクト", "Java Gold", "PMP"]
+      "platform": "Twitter/X",
+      "url": "https://x.com/ITEC_shikaku",
+      "handle": "@ITEC_shikaku"
     },
     {
-      "name": "営業担当取締役",
-      "title": "取締役",
-      "department": "営業部",
-      "background": "IT営業のスペシャリスト。システム導入から保守契約まで、顧客との長期的な関係構築を得意とする。",
-      "responsibilities": "営業戦略、顧客関係管理、新規顧客開拓、市場開発",
-      "expertise": [
-        "ITソリューション営業",
-        "顧客要件分析",
-        "提案資格作成",
-        "導入支援マネジメント"
-      ],
-      "sales_approach": "顧客のビジネス課題を理解し、最適なソリューションを提案"
-    },
-    {
-      "name": "事業開発担当取締役",
-      "title": "取締役",
-      "department": "事業開発部",
-      "background": "IT業界の市場動向と技術トレンドに精通。新規事業開発と事業ポートフォリオ管理を担当。",
-      "responsibilities": "新規事業開発、技術戦略、パートナーシップ管理、事業ポートフォリオ管理",
-      "expertise": [
-        "ITトレンド分析",
-        "事業計画立案",
-        "M&A戦略",
-        "海外市場開拓"
-      ],
-      "focus_areas": ["AI・機械学習", "IoT", "ブロックチェーン", "低コード開発"]
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ITEC.Community"
     }
   ],
-  "key_personnel": [
-    {
-      "name": "開発部長",
-      "title": "開発部長",
-      "department": "開発部",
-      "responsibilities": "開発プロジェクト全体の管理、技術基盤の維持・改善、開発チームの育成",
-      "teams": ["Web開発チーム", "モバイル開発チーム", "基幹システムチーム", "インフラチーム"],
-      "expertise": ["プロジェクトマネジメント", "技術アーキテクチャ", "品質保証", "アジャイル開発"]
-    },
-    {
-      "name": "ソリューション部長",
-      "title": "ソリューション部長",
-      "department": "ソリューション部",
-      "responsibilities": "業界特化型ソリューションの開発・管理、顧客要件の分析・最適化",
-      "specializations": ["金融システム", "製造業向けソリューション", "医療情報システム", "流通・小売システム"],
-      "approach": "顧客のビジネスプロセスを深く理解し、最適化ソリューションを提案"
-    },
-    {
-      "name": "インフラ部長",
-      "title": "インフラ部長",
-      "department": "インフラ部",
-      "responsibilities": "クラウドインフラ、ネットワーク、サーバー環境の設計・構築・運用",
-      "expertise": ["クラウド技術(AWS/Azure/GCP)", "ネットワーク設計", "セキュリティ対策", "システム運用"],
-      "cloud_specialization": "マルチクラウド環境の最適化とコスト管理"
-    },
-    {
-      "name": "品質保証部長",
-      "title": "品質保証部長",
-      "department": "品質保証部",
-      "responsibilities": "開発プロセスの品質管理、テスト自動化、セキュリティ品質保証",
-      "responsibilities_detail": [
-        "品質基準の設定と管理",
-        "テスト戦略の策定",
-        "セキュリティテストの実施",
-        "品質データの分析と改善"
-      ]
-    },
-    {
-      "name": "事業開発マネージャー",
-      "title": "事業開発マネージャー",
-      "department": "事業開発部",
-      "responsibilities": "新技術評価、新規事業プロトタイプ開発、パートナー企業との連携",
-      "innovation_focus": ["AI・機械学習のビジネス活用", "IoTソリューション", "ブロックチェーン実用化"]
-    }
-  ],
-  "organizational_structure": {
-    "development_teams": [
-      {"name": "Web開発チーム", "focus": "Webアプリケーション、ポータルサイト"},
-      {"name": "モバイル開発チーム", "focus": "スマートフォン/タブレットアプリ"},
-      {"name": "基幹システムチーム", "focus": "業務アプリケーション、ERP/CRM"},
-      {"name": "インフラチーム", "focus": "クラウド、ネットワーク、サーバー"}
-    ],
-    "support_teams": [
-      {"name": "営業部", "focus": "新規顧客開拓、提案活動"},
-      {"name": "コンサルティング部", "focus": "要件定義、導入支援"},
-      {"name": "品質保証部", "focus": "品質管理、テスト"},
-      {"name": "インフラ部", "focus": "システム運用、保守"}
-    ]
-  },
-  "technical_capabilities": {
-    "programming_languages": ["Java", "Python", "JavaScript/TypeScript", "C#", "PHP", "Go"],
-    "frameworks": ["Spring", "React", "Vue.js", "Angular", ".NET", "Laravel", "Django"],
-    "databases": ["Oracle", "MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    "cloud_platforms": ["AWS", "Azure", "Google Cloud", "阿里云"],
-    "devops_tools": ["Docker", "Kubernetes", "Jenkins", "GitLab CI", "Ansible"]
-  },
-  "market_positioning": {
-    "strengths": [
-      "幅広い技術対応力",
-      "業界特化型ソリューション",
-      "スピーディーな開発対応",
-      "長期的なサポート体制"
-    ],
-    "target_customers": [
-      "IT導入を検討する中小企業",
-      "システム刷新を目指す中堅企業",
-      "部門システム開発を必要とする大企業",
-      "新規事業開始のスタートアップ"
-    ]
-  }
+  "last_updated": "2026-04-30",
+  "notes": "株式会社フォーバル（東証スタンダード：8275）の子会社。1983年設立（旧：情報処理技術者教育センター）、1991年現商号。本社：東京都港区、教育事業本部：東京都大田区。IT資格教育・通信教育・人材派遣が主事業。健康経営優良法人2026認定。ISO27001認証取得（人材事業・教育事業両部門）。"
 }

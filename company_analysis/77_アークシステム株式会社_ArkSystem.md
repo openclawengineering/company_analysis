@@ -74,6 +74,16 @@
 2. [情報が必要]
 3. [情報が必要]
 
+## Media Mentions
+
+※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
+
+- **公式サイト**: https://arisaftech.co.jp で会社情報公開。横浜・ダッカ（バングラデシュ）にオフィス
+- **KIA加盟**: 神奈川県情報サービス産業協会加盟
+- **公式SNS**: Twitter/X (@AriSafTechLtd)、Facebook (AriSafTech)、LinkedIn (AriSaf Tech Ltd)
+- **SDGs注力**: 教育分野・SDGプログラム推進を公式サイトで明記
+- **バングラデシュIT**: バングラデシュ初のチームソーシング企業の一部として2016年から活動
+
 ## Data Quality Assessment
 
 **Rating:** ⭐ Low

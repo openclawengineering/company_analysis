@@ -82,6 +82,16 @@
 2. 企業研修の高度化とDX対応 - 生成AI研修など最新技術教育の提供
 3. グローバルなCSR活動による社会貢献 - カンボジア教育支援団体CIESFの支援
 
+## Media Mentions
+
+※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
+
+- **KIA加盟**: 神奈川県情報サービス産業協会の主要取引先リストに掲載（itec.co.jp公式サイト）
+- **フォーバルグループ**: 株式会社フォーバル（東証スタンダード：8275）の完全子会社
+- **健康経営優良法人2026**: 大規模法人部門で認定
+- **公式SNS**: Twitter/X (@ITEC_shikaku)、Facebook (ITEC.Community) でIT資格情報発信
+- **主要取引先**: KDDI、NTTデータ、NTTドコモ、SCSK、トランスコスモス、Amazon Japan 等
+
 ## Data Quality Assessment
 
 **Rating:** ⭐⭐⭐ High

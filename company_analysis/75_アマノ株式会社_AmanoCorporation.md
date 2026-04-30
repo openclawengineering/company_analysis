@@ -86,7 +86,27 @@
 **企業理念**
 社会に貢献し、永続的に発展する企業グループを目指す。
 
+## Media Mentions
+
+※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
+
+- **日本経済新聞**: 東証プライム上場企業（証券コード6436）。[日本経済新聞企業情報](https://www.nikkei.com/nkd/company/?scode=6436)に掲載
+- **公式SNS**: Instagram (@amano_corp_official)、Facebook (amano.co.jp)、YouTube (amano1931) で企業情報発信中
+- **LinkedIn**: AMANO CORPORATION（Yokohama, Kanagawa）ページあり（15 followers）
+- **健康経営優良法人**: 2026年度認定（アイテック、アマノ共通ではないが参考）
+
 ## Data Quality Assessment
+
+### アップデート履歴
+- **2026-04-30**: 役員一覧を公式サイトより全更新（14名）、SNS情報追加、LinkedIn企業ページ確認
+
+### データ品質評価
+- **会社概要**: 高（公式サイト＋有価証券報告書レベルの情報あり）
+- **役員情報**: 高（全役員の略歴付きで公式サイトに掲載）
+- **ソーシャルメディア**: 中（公式SNS 4プラットフォーム確認）
+- **メディア言及**: 低（web_search不可、上場企業として日経掲載のみ確認）
+
+### Data Quality Assessment（元の評価）
 
 **Rating:** ⭐⭐⭐⭐ Very High
 
