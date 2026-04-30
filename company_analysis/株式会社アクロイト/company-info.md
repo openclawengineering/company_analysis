@@ -58,3 +58,10 @@ The company emphasizes flexible, speed-oriented management decisions and aims to
 
 - **神奈川県情報サービス産業協会 (Kanagawa IT Industry Association)** — President Tamura serves as vice-chair of multiple committees, reflecting active industry leadership
 - **厚生労働省 (Ministry of Health, Labour and Welfare)** — Participated in working group on workplace adaptation supporter training and development
+
+## Company Mentions
+
+- **勤怠管理システムリリース** — 2021年10月13日 — 自社開発勤怠システム「SuySuy」をリリース ([記事](https://acroit.co.jp/news/))
+- **SalesForce受託開始** — 2019年11月5日 — Salesforce受託開発サービスを開始 ([記事](https://acroit.co.jp/news/))
+- **未経験採用開始** — 2021年1月16日 — 中途未経験者採用情報を公開 ([記事](https://acroit.co.jp/news/))
+- **労働者派遣法対応** — 2022-2025年 — 毎年労働者派遣法に基づく情報公開を実施 ([記事](https://acroit.co.jp/news/))

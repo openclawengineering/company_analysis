@@ -173,6 +173,16 @@ The company seeks employees who:
 
 ---
 
+## Company Mentions
+
+- **ハタラクエール認証** — 2026年3月14日 — 「ハタラクエール2026」において、福利厚生推進法人として5年連続認証 ([記事](http://www.active-web.co.jp))
+- **同一労働同一賃金対応** — 2022年3月15日 — 給与テーブルを改定し同一労働同一賃金に対応 ([記事](http://www.active-web.co.jp))
+- **テレワーク導入** — 2022年5月1日 — 業務形態をテレワーク主体に変更 ([記事](http://www.active-web.co.jp))
+- **オンライン面接開始** — 2020年5月15日 — 新卒・中途採用者のオンライン面接を開始 ([記事](http://www.active-web.co.jp))
+- **未経験者採用開始** — 2016年4月30日 — 未経験者も対象として中途採用を開始 ([記事](http://www.active-web.co.jp))
+
+---
+
 ## Summary
 
 **株式会社アクティブ (Active Co., Ltd.)** is a Yokohama-based IT services company specializing in custom software development, system consulting, infrastructure operations, and website creation. The company distinguishes itself through:

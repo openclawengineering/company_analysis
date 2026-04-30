@@ -51,6 +51,12 @@ Acquware provides software development services across multiple domains:
 
 - No significant media coverage identified in public sources
 
+## Company Mentions
+
+- **2001年創業** — 創業以来、公共・社会インフラ系から産業・流通系、金融系など多岐に渡る業務システムの開発を手掛ける
+- **労働者派遣事業** — 一般派遣許可番号 I-14301501 を取得し、IT技術者・運用技術者・ヘルプデスクサービスの派遣を提供
+- **年功序列型からの脱却** — 若手社員の意見を柔軟に取り入れる企業文化を掲げている
+
 ## Notes
 
 - Company website is a single-page site with limited information

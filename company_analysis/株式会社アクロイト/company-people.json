@@ -1,34 +1,53 @@
-[
-  {
-    "name_jp": "田村 孝章",
-    "name_en": "Takaaki Tamura",
-    "position_jp": "代表取締役社長",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://acroit.co.jp/about/"
+{
+  "company": {
+    "name_jp": "株式会社アクロイト",
+    "name_en": "アクロイト",
+    "website": "https://acroit.co.jp/"
   },
-  {
-    "name_jp": "宗片 敏昭",
-    "name_en": "Toshiaki Munekata",
-    "position_jp": "取締役",
-    "position_en": "Director",
-    "role": "Director",
-    "source_page": "https://acroit.co.jp/about/"
-  },
-  {
-    "name_jp": "池端 梨千子",
-    "name_en": "Richiko Ikehata",
-    "position_jp": "取締役",
-    "position_en": "Director",
-    "role": "Director",
-    "source_page": "https://acroit.co.jp/about/"
-  },
-  {
-    "name_jp": "田中 完",
-    "name_en": "Kan Tanaka",
-    "position_jp": "監査役",
-    "position_en": "Auditor",
-    "role": "Auditor",
-    "source_page": "https://acroit.co.jp/about/"
-  }
-]
+  "people": [
+    {
+      "name": "田村",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宗片",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "池端",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田中",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "株式会社アクロイト",
+      "title": "Corporate",
+      "twitter": "https://twitter.com/twi_acroit",
+      "facebook": "https://www.facebook.com/acroit2019/",
+      "instagram": "https://www.instagram.com/insta_acroit/",
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-04-30"
+}

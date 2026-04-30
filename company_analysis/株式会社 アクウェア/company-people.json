@@ -1,1 +1,19 @@
-[]
+{
+  "company": {
+    "name_jp": "株式会社 アクウェア",
+    "name_en": "アクウェア",
+    "website": "https://www.acquware.com/"
+  },
+  "people": [
+    {
+      "name": "代表取締役",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-04-30"
+}
