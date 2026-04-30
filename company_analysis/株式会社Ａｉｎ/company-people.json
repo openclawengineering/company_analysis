@@ -6,79 +6,38 @@
   },
   "people": [
     {
-      "name": "Page",
-      "title": "代表取締役社長",
-      "linkedin": "https://jp.linkedin.com/in/kiyoshisomeya",
-      "twitter": "https://x.com/",
-      "department": "",
-      "email": ""
-    },
-    {
       "name": "小川",
       "title": "代表取締役社長",
       "linkedin": null,
-      "twitter": "https://x.com/rakutenshokudoh",
+      "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "取締役",
-      "title": "専務",
+      "name": "細田",
+      "title": "専務取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "（非常勤）",
-      "title": "監査役",
+      "name": "成瀬",
+      "title": "常務取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "社長",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/norihiko-inomaki-5b0a6b3b",
-      "twitter": "https://x.com/superbear83915",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "代表取締役社長",
-      "title": "答えたいと考えています。",
+      "name": "細田",
+      "title": "監査役（非常勤）",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     }
   ],
-  "social_profiles": [
-    {
-      "name": "Page",
-      "title": "代表取締役社長",
-      "linkedin": "https://jp.linkedin.com/in/kiyoshisomeya",
-      "twitter": "https://x.com/",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小川",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": "https://x.com/rakutenshokudoh",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/norihiko-inomaki-5b0a6b3b",
-      "twitter": "https://x.com/superbear83915",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+  "social_profiles": [],
+  "last_updated": "2026-04-30"
 }

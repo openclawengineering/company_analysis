@@ -70,6 +70,14 @@ Ain Inc. is a printed circuit board (PCB) manufacturer founded in 1968 (Showa 43
 - Multiple companies share the name "アイン/Ain" in Japan across different industries (hair salons, human resources, sign maintenance, specific skilled worker services, electronics design)
 - The PCB manufacturer Ain Inc. is the KIA member company described here
 
+## Company Mentions
+
+- **ISO認証取得** — 2000年 — ISO 9001認証取得（プリント配線板の設計・開発及び製造）
+- **環境認証取得** — 2004年 — ISO 14001認証取得（プリント配線板の製造）
+- **工場拡張** — 2021年 — 第二工場を開設して生産能力を拡充
+- **大阪営業所開設** — 2022年 — 関西市場への展開を開始
+- **特許取得** — 2010年 — TMB配線板で特許取得
+
 ## Notes
 
 - 55+ years of PCB manufacturing since 1968

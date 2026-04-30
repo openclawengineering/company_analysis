@@ -64,9 +64,13 @@ i-Pocket provides five core service pillars:
 
 ## Media Mentions
 
-- **持続化補助金活用ガイド** — Published sustainability subsidy utilization guides (latest: March 2026)
-- **川崎市セミナー** — Conducted seminars for Kawasaki City disability group homes on recruitment and operational efficiency (February 2026)
-- **横浜ニューポートビル** — Located in Yokohama New Port Building, near Yamashita Park
+## Company Mentions
+
+- **持続化補助金活用ガイド** — 2026年3月12日 — 実質負担25万円で75万円分の販促を！持続化補助金の活用ガイド ([記事](https://www.i-pocket.co.jp/news/6312/))
+- **川崎市セミナー** — 2026年2月 — 川崎市障害者グループホーム向け採用業務効率化セミナー開催 ([記事](https://www.i-pocket.co.jp/news/))
+- **Prossimo様お客様事例** — 2026年4月21日 — 「私たちと同じ視座で『未来の景色』を見てくれている」Prossimo様との連携事例 ([記事](https://www.i-pocket.co.jp/okyakusama/6077/))
+- **ナースキュア様お客様事例** — 2026年3月24日 — 「頼んだ以上のものを返してくれるマーケティング伴走者」ナースキュア様との連携事例 ([記事](https://www.i-pocket.co.jp/okyakusama/6303/))
+- **補助金関連情報** — 2026年4月 — 補助金に関する連載ブログや情報提供継続 ([記事](https://www.i-pocket.co.jp/category/hojokin/))
 
 ## Notes
 

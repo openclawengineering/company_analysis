@@ -2,9 +2,18 @@
   "company": {
     "name_jp": "株式会社アイ・ピー・エル",
     "name_en": "アイ・ピー・エル",
-    "website": "http://www.ipl-kanazawa.com/"
+    "website": "https://www.ipl-soft.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "三山",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-30"
 }

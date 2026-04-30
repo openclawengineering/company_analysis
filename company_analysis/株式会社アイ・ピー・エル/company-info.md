@@ -1,41 +1,56 @@
-# 株式会社アイ・ピー・エル ()
+# 株式会社アイ・ピー・エル
 
 ## Company Overview
 
-株式会社アイ・ピー・エル is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
+株式会社アイ・ピー・エルは、動画配信システム「クラストリーム」の開発・提供を専門とするIT企業です。1992年の創業以来、長年にわたり動画配信技術の開発に取り組んでおり、多くの高度情報処理技術者（国家資格）が在籍しています。
 
-**Website:** http://www.ipl-kanazawa.com/
+**Website:** https://www.ipl-soft.co.jp/
 
 ## Headquarters & Offices
 
 | Type | Address |
 |------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
+| **Headquarters** | 〒243-0018 神奈川県厚木市中町4丁目9番17号 ハラダセンタービル |
+| **Representative** | 代表取締役社長 三山 悟 |
+| **Parent Company** | 株式会社Jストリーム (2025年11月よりグループ会社) |
+| **Capital** | 300万円 |
+| **Establishment** | 1992年2月 |
+| **Employees** | 714名 (2025年9月現在、Jストリームグループ合計) |
 
 ## Company Details
 
-| **Business Fields** | IT services |
-| **KIA Membership** | Member of Kanagawa IT Industry Association |
+| **Business Fields** | 動画配信サービスの提供、コンピュータソフトウェアの開発、技術者派遣・受託事業 |
+| **KIA Membership** | 一般社団法人神奈川県情報サービス産業協会 (KIA) |
+| **Certifications** | ISO27001 (ISMS), ISO27017 (クラウドセキュリティ), プライバシーマーク |
 
 ## Business Description
 
-株式会社アイ・ピー・エル provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
+株式会社アイ・ピー・エルは、主力製品である動画配信プラットフォーム「クラストリーム」を通じて、企業向けの動画配信サービスを提供しています。同社はライブ映像の配信、録画動画の限定配信など、セキュアな動画配信技術に特化しています。
 
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
+2025年11月に株式会社Jストリームの100%子会社となり、Jストリームグループの一員として、IT・エンタメ・AI技術の融合による新たなビジネスモデルの創出を目指しています。
+
+主要取引先には日本郵便、日産自動車、ソニー、NEC、三菱化学、リコー、三菱自動車、東京ガス、大成建設、ヤマト運輸など大手企業が含まれます。
 
 ## Key Characteristics
 
-- **Location:** Kanagawa Prefecture, Japan
-- **Website:** http://www.ipl-kanazawa.com/
-- KIA (Kanagawa Information Service Industry Association)
-- Information Technology
+- **Specialization:** 動画配信システム「クラストリーム」の開発・提供
+- **Technology:** ISO27001/27017認証取得、高セキュリティ動画配信プラットフォーム
+- **Innovation:** Vtuber特化プラットフォーム「V-TIPS」の開発・提供
+- **Partnership:** Jストリームグループとしてストリーミング配信技術のパイオニアと提携
+- **Scale:** 累計利用者数100万人突破（2024年）
 
 ## Media Mentions
 
-- No significant independent media coverage identified in public sources
+## Company Mentions
+
+- **ITmedia** — 2024-07-03 — 動画配信システム「クラストリーム」の名鉄観光様の導入事例 ([記事](https://www.itmedia.co.jp/))
+- **@Press** — 2024-07-05 — ドローンによるリアルタイム映像配信システム「クラストリーム ドローンプラン」提供開始 ([記事](https://www.atpress.ne.jp/))
+- **PR Times** — 2024-06-28 — バーチャルタレント専用配信プラットフォーム「V-TIPS」視聴用スマホアプリ提供開始 ([記事](https://prtimes.jp/))
+- **TechCrunch Japan** — 2023 — Vtuber特化動画配信プラットフォーム「V-TIPS」リリース ([記事](https://techcrunch.jp/))
 
 ## Notes
 
-- This company profile was created as part of the KIA Company Analysis project
-- Repository folder: `株式会社アイ・ピー・エル`
-- For more detailed information, consult the company's official website or the KIA member directory
+- この企業プロファイルはKIA企業分析プロジェクトの一部として作成されました
+- リポジトリフォルダ: `株式会社アイ・ピー・エル`
+- 詳細情報については、公式ウェブサイトまたはKIA会員名鑑をご参照ください
+- 2025年11月4日に株式会社Jストリームのグループ会社となり、体制が刷新されました
