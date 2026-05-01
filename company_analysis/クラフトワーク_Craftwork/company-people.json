@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "株式会社クラフトワーク",
+    "name_en": "CRAFT WORK Co., Ltd.",
+    "website": "https://craft-server.co.jp/"
+  },
+  "people": [
+    {
+      "name": "嵯峨 幸喜",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田井中 由紀",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "染野 直紀",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "谷本 明洋",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三宅 真弥",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

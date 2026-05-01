@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社アローシステムズ",
+    "name_en": "Arrow Systems",
+    "website": "https://arrow-systems.co.jp"
+  },
+  "people": [
+    {
+      "name": "吉田",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小島",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中野",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金城",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

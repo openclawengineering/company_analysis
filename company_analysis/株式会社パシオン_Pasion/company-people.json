@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "株式会社パシオン",
+    "name_en": "PASION",
+    "website": "https://www.pasion.co.jp/"
+  },
+  "people": [
+    {
+      "name": "廣木 英雄",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山元 桂子",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大川 秀明",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡辺 誠",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大河原 信一",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

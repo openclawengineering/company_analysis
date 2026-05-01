@@ -1,8 +1,8 @@
 {
   "company": {
     "name_jp": "コアフューテック株式会社",
-    "name_en": "コアフューテック",
-    "website": "https://www.corefutec.co.jp/company/company-profile/"
+    "name_en": "CoreFutec Co., Ltd.",
+    "website": "https://www.corefutec.co.jp/"
   },
   "people": [
     {
@@ -14,34 +14,10 @@
       "email": ""
     },
     {
-      "name": "長坂",
+      "name": "長坂厚",
       "title": "取締役",
       "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
       "twitter": "https://x.com/ryohei0817",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "に長坂厚が就任",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "代表取締役",
-      "title": "役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "取締役",
-      "title": "松本正己",
-      "linkedin": null,
-      "twitter": null,
       "department": "",
       "email": ""
     }
@@ -56,21 +32,13 @@
       "email": ""
     },
     {
-      "name": "長坂",
+      "name": "長坂厚",
       "title": "取締役",
       "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
       "twitter": "https://x.com/ryohei0817",
       "department": "",
       "email": ""
-    },
-    {
-      "name": "に長坂厚が就任",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-05-01"
 }

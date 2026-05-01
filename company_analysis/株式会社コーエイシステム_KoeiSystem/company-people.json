@@ -1,13 +1,19 @@
-[
-  {
-    "name": "小笠原 睦",
-    "position": "代表取締役",
-    "company": "株式会社コーエイシステム",
-    "email": null,
-    "linkedin": null,
-    "twitter": null,
-    "facebook": null,
-    "website": "https://koeisystem.co.jp",
-    "bio": "株式会社コーエイシステムの代表取締役。1986年設立のシステム開発・受託開発企業を経営。土木・電力・通信系システムにおいて高い専門性と技術力で評価をいただいており、在庫管理プログラム開発、リモート監視システム開発、防災システム設計・開発、医療システム開発などを主力事業として展開している。2023年6月よりID&Eホールディングス(株)のグループ傘下となり、従業員数112名、年商約12億円の中規模IT企業として成長を続けている。ISO/IEC 27001:2013認証を取得し、情報セキュリティマネジメントシステムの運用を行っている。日本電気、日立製作所、ニッスイなどの大手企業グループ各社を主要顧客とする。"
-  }
-]
+{
+  "company": {
+    "name_jp": "株式会社コーエイシステム",
+    "name_en": "Koei System Co., Ltd.",
+    "website": "http://www.koeisystem.co.jp"
+  },
+  "people": [
+    {
+      "name": "小笠原 睦",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

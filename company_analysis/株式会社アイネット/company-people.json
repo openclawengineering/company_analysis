@@ -1,0 +1,182 @@
+{
+  "company": {
+    "name_jp": "株式会社アイネット",
+    "name_en": "I-NET Corp.",
+    "website": "https://www.inet.co.jp/"
+  },
+  "people": [
+    {
+      "name": "佐伯 友道",
+      "title": "代表取締役社長兼執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "今井 克幸",
+      "title": "常務取締役兼執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "根岸 秀尚",
+      "title": "取締役兼執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小山 真一",
+      "title": "取締役兼執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三宅 誠一",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "谷村 栄治",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長谷川 智之",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "黒瀨 猶志郎",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高橋 宏太",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "福井 秀和",
+      "title": "監査役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "伊藤 美樹雄",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "坂本 博義",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平江 敬三",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "近藤 博之",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石橋 一央",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石綿 丈二",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "江馬 敏",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "御法川 直孝",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "廣瀬 俊之",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "馬郡 恵太",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "岡本 洋一",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {"platform": "facebook", "url": "https://www.facebook.com/株式会社アイネット-564256143630248/", "name": "株式会社アイネット"},
+    {"platform": "twitter", "url": "https://twitter.com/inet_9600", "name": "アイネット"}
+  ],
+  "last_updated": "2026-05-01"
+}

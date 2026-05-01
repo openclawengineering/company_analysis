@@ -1,0 +1,75 @@
+{
+  "company": {
+    "name_jp": "Fabbi Holdings株式会社",
+    "name_en": "Fabbi Holdings Co., Ltd.",
+    "website": "https://fabbiholdings.com/ja/"
+  },
+  "people": [
+    {
+      "name": "VU VAN TU（ブ・ヴァン・トゥー）",
+      "title": "株式会社 Fabbi Holdings 代表取締役会長 兼 CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "TRAN DINH TUAN（チャン・ディン・トゥアン）",
+      "title": "株式会社 Fabbi Holdings 取締役 兼 CPO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "LE DINH XUAN BACH（レ・ディン・スアン・バック）",
+      "title": "有限会社 Fabbi AUS 代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "HOANG HUY MINH（ホアン・フイ・ミン）",
+      "title": "株式会社 Fabbi Japan 執行役員 兼 中部支社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "NGUYEN TRI DUNG（グェン・チー・ズン）",
+      "title": "有限会社 Fabbi Software 取締役 兼 CTO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "LE VIET CANH（レ・ベット・カイン）",
+      "title": "有限会社 Fabbi Software 取締役 兼 CDO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "KHUC ANH MINH LUONG（クック・アイン・ミン・ルオン）",
+      "title": "有限会社 Fabbi Software ソリューション担当取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "LE HOANG TUAN ANH（レ・ホアン・トゥアン・アイン）",
+      "title": "有限会社 Fabbi Software ダナン支社 支社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

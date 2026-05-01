@@ -1,1 +1,59 @@
-[]
+{
+  "company": {
+    "name_jp": "株式会社クロスユーアイエス",
+    "name_en": "Cross UIS Co., Ltd.",
+    "website": "https://www.xuis.co.jp/"
+  },
+  "people": [
+    {
+      "name": "神山 昌久",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "成瀨 真伯",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平川 一",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小野田 友彦",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "瀧川 仁行",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中谷 泰之",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

@@ -1,11 +1,19 @@
-[
-  {
-    "name": "Watanabe Akemi",
-    "name_ja": "渡邉 明美",
-    "role": "Representative Director / CEO",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "http://www.asd-net.co.jp/company/index.html"
-  }
-]
+{
+  "company": {
+    "name_jp": "株式会社アズ・ソフトウェア・デザイン",
+    "name_en": "アズ・ソフトウェア・デザイン",
+    "website": "http://www.asd-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "渡邉",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-04-30"
+}

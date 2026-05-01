@@ -1,0 +1,56 @@
+{
+  "company": {
+    "name_jp": "株式会社図研プリサイト",
+    "name_en": "Zuken PreSight Inc.",
+    "website": "https://www.presight.co.jp/"
+  },
+  "people": [
+    {
+      "name": "小田泰久",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "廣田正晴",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大塚隆夫",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉田勧",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ZukenPreSight"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://x.com/ZukenPreSight"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/user/presightJP"
+    }
+  ],
+  "last_updated": "2026-05-01"
+}

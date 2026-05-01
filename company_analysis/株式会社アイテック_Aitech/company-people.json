@@ -1,29 +1,20 @@
 [
   {
-    "name": "Sato Ichiro",
-    "name_ja": "佐藤 一郎",
+    "name": "ITEC Representative",
+    "name_ja": "代表取締役",
     "role": "President / CEO",
-    "role_ja": "代表取締役社長",
+    "role_ja": "代表取締役",
     "linkedin": null,
     "twitter": null,
-    "source_page": "https://www.aitech.co.jp/"
+    "source_page": "https://www.itec.co.jp/company/"
   },
   {
-    "name": "Yamamoto Hanako",
-    "name_ja": "山田 花子",
-    "role": "Technical Director",
-    "role_ja": "技術取締役",
+    "name": "ITEC Deputy President",
+    "name_ja": "取締役副社長 教育事業本部長",
+    "role": "Deputy President / Education Division Head",
+    "role_ja": "取締役副社長 教育事業本部長",
     "linkedin": null,
     "twitter": null,
-    "source_page": "https://www.aitech.co.jp/"
-  },
-  {
-    "name": "Watanabe Takeshi",
-    "name_ja": "渡辺 武",
-    "role": "Development Manager",
-    "role_ja": "開発部長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.aitech.co.jp/"
+    "source_page": "https://www.itec.co.jp/company/"
   }
 ]

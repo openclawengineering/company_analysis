@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社計装エンジニアリング",
+    "name_en": "Keiso Engineering Co., Ltd.",
+    "website": "https://www.keiso.co.jp/"
+  },
+  "people": [
+    {
+      "name": "峯嶋治彦",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片柳幸子",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村久人",
+      "title": "相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村和子",
+      "title": "相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

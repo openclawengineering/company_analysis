@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社ソフテム",
+    "name_en": "SOFTEM Co., Ltd.",
+    "website": "https://www.softem.co.jp/"
+  },
+  "people": [
+    {
+      "name": "山崎 武志",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "斉藤 晴夫",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山田 昭子",
+      "title": "取締役執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "新部 嘉夫",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

@@ -1,19 +1,11 @@
-{
-  "company": {
-    "name_jp": "株式会社ＩＣＯＮ",
-    "name_en": "ICON Co., Ltd.",
-    "website": "https://www.e-icon.co.jp/"
-  },
-  "people": [
-    {
-      "name": "土屋 敏子",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-04-30"
-}
+[
+  {
+    "name": "Tsuchiya Satoshioko",
+    "name_ja": "土屋 敏子",
+    "role": "President / CEO",
+    "role_ja": "代表取締役",
+    "linkedin": null,
+    "twitter": null,
+    "source_page": "https://www.e-icon.co.jp/company/"
+  }
+]

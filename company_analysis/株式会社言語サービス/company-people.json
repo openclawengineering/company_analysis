@@ -1,69 +1,13 @@
 {
   "company": {
     "name_jp": "株式会社言語サービス",
-    "name_en": "言語サービス",
-    "website": "https://arwrk.net/recruit/ehodt8suffujk65/"
+    "name_en": "Language Services Co., Ltd.",
+    "website": "https://www.ls-jp.com/"
   },
   "people": [
     {
-      "name": "に、もっと優しい会社",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "まで在籍しており、",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "へのキャリアアップも可能",
-      "title": "リーダー",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "リングサービス",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "ライフ",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "へ！！",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "へ✨",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "月給",
-      "title": "エンジニア",
+      "name": "史　莉",
+      "title": "代表取締役社長",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -71,5 +15,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-05-01"
 }

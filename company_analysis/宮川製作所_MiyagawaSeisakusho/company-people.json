@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社宮川製作所",
+    "name_en": "MSK Technologies Co., Ltd.",
+    "website": "https://www.msk.co.jp/"
+  },
+  "people": [
+    {
+      "name": "宮川恒太郎",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=61553600442401"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://x.com/msk_1939"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/msk__1939/?hl=ja"
+    },
+    {
+      "platform": "note",
+      "url": "https://note.com/msk_1939/"
+    }
+  ],
+  "last_updated": "2026-05-01"
+}
