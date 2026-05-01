@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name_jp": "CLINKS株式会社",
+    "name_en": "CLINKS Co., Ltd.",
+    "website": "https://www.clinks.jp/"
+  },
+  "people": [
+    {
+      "name": "河原 浩介",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "元木 喜仁",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高野 拓郎",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村 俊之",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本 尚輝",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片岡 毅",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

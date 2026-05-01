@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社クロステック",
+    "name_en": "CrossTec Inc.",
+    "website": "https://www.xtec.co.jp/"
+  },
+  "people": [
+    {
+      "name": "渡邉 安好",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "萩原 哲也",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡邉 直樹",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡邉 秋男",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

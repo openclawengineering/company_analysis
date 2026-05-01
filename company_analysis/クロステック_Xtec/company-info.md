@@ -181,5 +181,10 @@ The company's most important value is "Trust." Once a relationship is formed, th
 
 ---
 
-*Report generated: April 2026*
+## Company Mentions
+
+_No external press coverage found at this time._
+
+---
+*Report generated: May 1, 2026*
 *Sources: Official website https://www.xtec.co.jp/*
