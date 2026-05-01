@@ -97,6 +97,11 @@ Founded with the strong aspiration of the founding president: "I want to develop
 - System auditor registered with METI
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

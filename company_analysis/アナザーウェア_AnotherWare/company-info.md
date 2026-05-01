@@ -175,6 +175,11 @@ From the CEO's message:
 
 **Another Ware Co., Ltd.** is a well-established Japanese IT services company with a clear focus on human-centered technology solutions. With over three decades of experience, the company has successfully evolved from traditional software development to offering cutting-edge AI, IoT, and data science solutions. Their proprietary products like EUROMAP Gateway demonstrate innovation in industrial IoT, while their philosophy of "turning impossible into possible" reflects a growth-oriented culture. The company maintains strong relationships with major Japanese corporations across automotive, electronics, and manufacturing sectors, positioning them as a trusted partner for digital transformation initiatives.
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: March 29, 2026*

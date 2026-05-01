@@ -1,23 +1,46 @@
-# 株式会社 アイテック
+# 株式会社アイテック (ITEC inc.)
 
 ## Company Overview
 
-株式会社 アイテック (Aitech Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社アイテック（ITEC inc.）は、1983年（昭和58年）創業のIT人材育成・教育専門企業。情報処理技術者試験をはじめとするIT資格取得対策のパイオニアであり、民間第1号の教育センターとしてスタート。通信教育、セミナー、書籍出版、法人向け研修（生成AI研修、DXリテラシー研修、新入社員研修等）を展開。延べ法人約11,000団体、130万人に人材育成サービスを提供。SE/ITエンジニアの派遣事業も行う。
 
-## Company Profile
+**Website:** https://www.itec.co.jp/
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 アイテック (Aitech Inc.) |
-| **Status** | Research pending - web search API unavailable |
+## 基本情報
 
-## Notes
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社アイテック |
+| **英語名** | ITEC inc. |
+| **創業** | 1983年（昭和58年） |
+| **本社** | 〒143-0006 東京都大田区平和島6-1-1 センタービル8F |
+| **連絡先** | takuma_toku@itec.co.jp |
+| **加盟団体** | KIA（神奈川県情報サービス産業協会） |
 
-- Web search tools are currently unavailable due to API subscription issues
-- Company details need to be researched once web search is restored
-- This is a placeholder file that should be updated with complete company information
+## 事業内容
+1. **人材創成ソリューション事業** — 通信教育、セミナー、書籍出版
+2. **法人向け研修** — ITパスポート研修、生成AI研修、DXリテラシー研修、内定者/新入社員研修、プロジェクトマネジメント研修、PMP®研修等
+3. **IT資格対策** — 情報処理技術者試験全12区分対応、PMP®、ビジネスアナリシス、PCI DSS等
+4. **SE・ITエンジニア派遣事業**
+
+## 対応IT資格
+ITパスポート、情報セキュリティマネジメント、基本情報技術者、応用情報技術者、ITストラテジスト、システムアーキテクト、プロジェクトマネージャ、ネットワークスペシャリスト、データベーススペシャリスト、エンベデッドシステムスペシャリスト、情報処理安全確保支援士、ITサービスマネージャ、システム監査技術者
+
+## 公式SNS
+- X (Twitter): https://x.com/ITEC_shikaku
+- Facebook: https://www.facebook.com/ITEC.Community
+- YouTube: https://www.youtube.com/channel/UCofiIa7m6fRw-mKtvyBW6_w
+
+## Media Mentions
+- KIA（神奈川県情報サービス産業協会）加盟企業
+- 民間第1号のIT技術者教育センター
+- 延べ法人約11,000団体、130万人に人材育成サービスを提供
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
 
 ---
-
-*Report generated: April 2026*
-*Note: Research pending due to web search API limitations*
+*最終更新: 2026-04-30*
+*情報ソース: 会社ウェブサイト (itec.co.jp), KIA会員名簿*

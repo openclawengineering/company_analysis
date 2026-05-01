@@ -77,6 +77,11 @@ IHI Aerospace, ISB, AXA Life Insurance, Sunnet Logistics, JFE Systems, SoftBank,
 - ISO 27001 certified
 - Note: Multiple companies share similar names in Japan (Yamanashi, Aichi, etc.)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

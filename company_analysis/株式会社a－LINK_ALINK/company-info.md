@@ -65,5 +65,10 @@ The company values high technical skill levels, challenge-oriented culture, and 
 - CareerCross company profile — [株式会社 a-LINK](https://www.careercross.com/company/pdf-413868)
 - LinkedIn — [株式会社a-LINK](https://jp.linkedin.com/company/株式会社a-link)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 *Sources: [A-Link Official Website](https://www.alink-group.com/), [DuckDuckGo search results], [Job Hakase company profile](https://jobhakase.com/archives/48837)*

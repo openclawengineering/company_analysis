@@ -172,6 +172,11 @@ Search by series, model, or type.
 - End-to-end support from design through after-sales
 - High reputation in Japanese IT market
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

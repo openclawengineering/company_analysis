@@ -66,6 +66,11 @@ Research and development of advanced digital technologies for future service off
 - Actively researching advanced digital technologies
 - Business philosophy centered on creating value for all stakeholders
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

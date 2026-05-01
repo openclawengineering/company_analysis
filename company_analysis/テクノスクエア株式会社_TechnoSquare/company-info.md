@@ -67,3 +67,7 @@ The company aims to solve social problems in rural and aging communities through
 - Focus on rural and island region revitalization
 - Strong emphasis on AI and drone technology applications
 - Projects are primarily in planning or early implementation stages as of April 2026
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

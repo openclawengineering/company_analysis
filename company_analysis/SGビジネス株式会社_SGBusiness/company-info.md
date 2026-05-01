@@ -98,6 +98,11 @@ SGビジネス seeks engineers with diverse values:
 - Emphasizes proactive risk capture for innovation
 - Safe System (安心), Companion (共感), Move Mind (挑戦), Brave (変化) as core values
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

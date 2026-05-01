@@ -65,3 +65,8 @@ Not specified on website
 - [Official Website](https://www.n-assist.co.jp/) - Company overview and services
 - [Yokohama Excellence Partnership](https://www.n-assist.co.jp/news/プロバスケットボールクラブ『横浜エクセレンス/) - Sports sponsorship announcement
 - [SD Business Division Interview](https://www.n-assist.co.jp/news/202512001/) - Employee interview article
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

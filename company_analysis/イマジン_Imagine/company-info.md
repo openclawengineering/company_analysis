@@ -180,6 +180,11 @@ Based on their recruitment philosophy and company messaging:
 
 株式会社イマジン (Imagine Inc.) is a well-established Japanese IT services company headquartered in Yokohama, Japan. Founded in 2004 with an initial focus on system development, the company has diversified into e-commerce with a skincare cosmetics division. With 21 employees and ¥10 million in capital, the company maintains strong relationships with major Japanese corporations including NTT Data, Omron, and Fuji Software. The company operates under a philosophy emphasizing trust, quality, and social contribution, while maintaining a flexible, employee-centric workplace culture that supports remote work and diverse employment arrangements.
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: March 29, 2026*  

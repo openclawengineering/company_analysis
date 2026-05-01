@@ -74,3 +74,8 @@
 - 中国上海に子会社あり
 - 自社パッケージ「Mister」の海外展開（中国・英語圏）
 - アジャイル開発手法採用
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

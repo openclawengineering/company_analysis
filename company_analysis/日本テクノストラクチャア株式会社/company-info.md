@@ -77,6 +77,11 @@ Nihon TechnoStructure Co., Ltd. (branded as "TESCO") is a system development com
 - Described as a "young and energetic group of engineers"
 - Offices across 7 major Japanese cities
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

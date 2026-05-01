@@ -71,3 +71,8 @@
 - 創業79年の老舗企業
 - 電話設備工事からICTインテグレーターへ転換
 - 東京中小企業投資育成株式会社の投資先企業
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

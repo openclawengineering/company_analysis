@@ -41,6 +41,11 @@ Future Networks provides comprehensive IT support through an integrated team app
 - One-stop service model with dedicated team roles (sales, director, designer, development, infrastructure)
 - Focus on solving IT challenges comprehensively rather than piecemeal solutions
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

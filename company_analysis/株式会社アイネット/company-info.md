@@ -46,3 +46,8 @@ INET provides information processing services and IT engineering support. The co
 ## Media Mentions
 
 - No significant media coverage identified in public sources
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

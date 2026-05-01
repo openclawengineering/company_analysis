@@ -306,6 +306,11 @@ As a member of KIA (Kanagawa Information Services Industry Association), the com
 ### Future Outlook:
 As a newly independent company with a strong technical foundation and established client relationships, Cosmos System Co., Ltd. is positioned to continue its specialized work in control systems development while maintaining its employee-centric culture. The company's focus on challenging technical domains (image processing, satellite systems, precision equipment) and its comprehensive training programs suggest a strategy of sustainable growth through technical excellence and human resource development.
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 **Report Compiled:** March 30, 2026

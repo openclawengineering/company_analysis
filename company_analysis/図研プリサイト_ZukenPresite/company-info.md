@@ -32,3 +32,8 @@ Focused on enabling virtual verification in pre-prototyping stages to reduce dev
 ## Media Mentions
 - [Zuken Group Recruitment Page](https://www.zuken.co.jp/recruit_info/group_recruit/zpresight/) - Corporate recruitment information
 - [Yahoo Job Catalog](https://jobcatalog.yahoo.co.jp/company/1110007723/information/) - Company profile and job listings
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -72,6 +72,11 @@ Not publicly available in detail.
 - KIA member company
 - Three complementary business lines: HR, data entry, and system development
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

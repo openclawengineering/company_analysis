@@ -87,6 +87,11 @@ CoreFutec Co., Ltd. (formerly Elint System Inc.) is a software testing and devel
 - Kawasaki Model initiative for elderly care technology
 - Company renamed from Elint System to CoreFutec
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

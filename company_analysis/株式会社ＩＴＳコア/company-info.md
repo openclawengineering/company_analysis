@@ -62,3 +62,8 @@
 
 - 新横浜駅徒歩1-5分のアクセス良好な立地
 - 授権資本金1億円、払込資本金1,500万円
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

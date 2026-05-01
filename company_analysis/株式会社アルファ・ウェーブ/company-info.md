@@ -65,6 +65,11 @@ The company cultivates engineers through in-house training regardless of science
 - Strong work-life balance reputation
 - In-house training for both science and humanities graduates
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

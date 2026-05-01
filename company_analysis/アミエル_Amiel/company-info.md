@@ -243,6 +243,11 @@ The company positions itself as a solution for Japanese SMEs facing:
 
 Led by Representative Director and Tax Accountant Todome Shin, the company emphasizes customer-centric service, innovation, staff empowerment, and social contribution to Japan's SME sector. Their value proposition centers on providing stable, cost-effective, and digitized accounting operations that eliminate the challenges of in-house accounting staff management.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report compiled from publicly available information on the company's official website (https://keirimarugoto.com/)*  

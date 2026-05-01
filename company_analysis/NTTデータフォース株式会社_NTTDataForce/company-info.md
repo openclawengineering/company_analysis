@@ -48,6 +48,11 @@ For comprehensive company information including:
 
 Access to the company's website directly through a web browser would be required, as the heavy JavaScript rendering prevents automated content extraction.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

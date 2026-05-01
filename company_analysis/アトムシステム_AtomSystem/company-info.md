@@ -250,6 +250,11 @@ The company maintains relationships with major Japanese financial institutions:
 
 The company positions itself not merely as a technical contractor but as a trusted IT partner that grows with its clients, adapting to technological evolution while maintaining the human-centered values that have sustained its business for over 40 years.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: March 29, 2026*  

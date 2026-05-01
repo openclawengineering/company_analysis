@@ -64,3 +64,8 @@
 ## Media Mentions
 
 - (No significant media mentions found in public sources)
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

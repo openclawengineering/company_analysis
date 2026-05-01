@@ -107,3 +107,8 @@
 ## Media Mentions
 - [Company Website](https://www.mtnet.co.jp/company/) - Official company profile
 - [En-gage.net Profile](https://en-gage.net/mtnet/) - Recruitment information
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

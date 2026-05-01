@@ -57,6 +57,11 @@
 - Growing company with expanding project portfolio requiring more personnel
 - Focus on training and developing inexperienced engineers
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

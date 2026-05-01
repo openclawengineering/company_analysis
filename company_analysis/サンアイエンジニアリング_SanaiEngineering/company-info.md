@@ -75,3 +75,8 @@
 - かわさきSDGsパートナー
 - 案件の9割が直請け — 安定したビジネスモデル
 - 設立30年以上の歴史
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

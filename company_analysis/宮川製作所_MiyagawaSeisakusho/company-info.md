@@ -66,3 +66,8 @@ Not specified on website
 ## Media Mentions
 - [AT Engineer Company Profile](https://www.atengineer.com/pr/miyakawa-ss/company) - Engineer recruitment information
 - [Company Note Page](https://note.com/msk_1939/) - Corporate blog and updates
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

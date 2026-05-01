@@ -56,3 +56,8 @@
 - KIA（神奈川IT協会）会員
 - ⚠️ 公式ウェブサイトにアクセスできない（2026年4月現在）
 - ⚠️ 公開情報が限定的
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

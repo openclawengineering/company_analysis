@@ -93,6 +93,11 @@ Diverse "exciting quality" solutions born from three core competencies
 - Nearshore development center in Numazu, Shizuoka
 - Active in both computational science and enterprise data management
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

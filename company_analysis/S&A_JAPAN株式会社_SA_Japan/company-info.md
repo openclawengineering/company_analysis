@@ -45,3 +45,8 @@ The company is capable of handling all phases: requirements definition, design, 
 
 - May also be involved in management consulting, ISO certification support, and skill-up training courses
 - Operates IT development and maintenance business as a partner of major SIers
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

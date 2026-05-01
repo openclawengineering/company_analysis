@@ -60,3 +60,8 @@
 - 穂高電子株式会社（東証スタンダード：6669）の100%子会社
 - ⚠️ 2024年新設法人 — 公開情報が限定的
 - 適格請求書発行事業者（2024年6月26日登録）
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

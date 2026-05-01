@@ -55,6 +55,11 @@ Details not publicly available.
 - Multiple companies share the CIS name — this entry refers to the KIA member
 - Company PDF brochure available on official website
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

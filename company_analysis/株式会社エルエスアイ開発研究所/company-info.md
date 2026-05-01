@@ -96,6 +96,11 @@ LSI Development Laboratory Co., Ltd. is a system development company founded in 
 - 25 employees — small but internationally structured
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

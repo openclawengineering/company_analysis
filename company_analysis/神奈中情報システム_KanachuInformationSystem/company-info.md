@@ -70,3 +70,8 @@
 - 神奈中グループはバス事業を中核に多角経営
 - FUJITSUファミリ会（神奈川富士通会）加盟
 - 平塚商工会議所加入
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

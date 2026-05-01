@@ -73,3 +73,8 @@
 - フジサンケイグループのIT企業
 - ⚠️ 資本金の公開情報なし（Limited information）
 - 多角的な事業展開（制御・通信・カメラ・EC等）
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -211,6 +211,11 @@ Vangle maintains close collaboration with its Vietnamese subsidiary:
 
 The company targets both enterprise clients seeking legacy modernization and SaaS companies requiring scalable multi-tenant architectures, with a particular focus on making IT "a true weapon" for Japanese businesses facing talent constraints.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report compiled from official company website and public business databases*

@@ -69,6 +69,8 @@
 
 ※ web_search が利用不可のため、メディア言及の検索は未実施。公開情報から確認された事項のみ記載。
 
+- **ウェブサイト不通**: urban-web.co.jp にアクセス不可（2026年4月30日現在）。現在の活動状況不明。
+
 ## Data Quality Assessment
 
 **Rating:** ⭐ Low

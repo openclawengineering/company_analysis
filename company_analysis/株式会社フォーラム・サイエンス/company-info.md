@@ -80,6 +80,11 @@ Detailed corporate philosophy is not publicly available. The company emphasizes 
 - KIA member company
 - Privacy Mark certified
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

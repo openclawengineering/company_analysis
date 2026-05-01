@@ -1,29 +1,22 @@
-# 株式社 ＥＳＵ (ESU Co., Ltd.)
+# 株式会社ＥＳＵ (ESU Inc.)
 
 ## Company Overview
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式社 ＥＳＵ |
-| **English Name** | ESU Co., Ltd. |
-| **Website** | [KIA Member] - Website verification pending |
-| **Headquarters** | [Research Required] |
-| **Founded** | [Research Required] |
-| **Capital** | [Research Required] |
-| **Employees** | [Research Required] |
-| **Tel** | [Research Required] |
+1991年設立、横浜市西区のネットワーク・インフラ専門企業。企業・公的機関・教育機関のネットワークシステム設計/導入/運用を提供。特定プロダクトに縛られないベンダーニュートラルな提案が強み。
 
-## Business Description
+**Website:** https://esu.co.jp/
 
-株式会社 ＥＳＵ (ESU Co., Ltd.) is a Japanese IT company associated with the Kanagawa IT Association (KIA).
+## 基本情報
 
-*Note: Company information currently limited to KIA membership status. Detailed research requires web access.*
+| 項目 | 内容 |
+|------|------|
+| **設立** | 1991年6月12日 |
+| **資本金** | 1,000万円 |
+| **代表取締役** | 道川 孟行 |
+| **所在地** | 〒220-0003 横浜市西区楠町27-9 横浜ウエストビル501 |
 
-## Research Status
-- **Status**: Basic structure created, KIA member confirmed
-- **Access Limitation**: Web search tools currently restricted
-- **Next Steps**: Resume research when web access is available
+## Media Mentions
+- KIA（神奈川県情報サービス産業協会）加盟企業
 
 ---
-*Report generated: 2026-04-27*
-*Note: Limited data due to current access restrictions. Full research requires web access.*
+*最終更新: 2026-04-30*

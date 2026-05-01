@@ -76,3 +76,8 @@ With an "entrepreneurial" mindset, the company aims to stand from the client's p
 
 - December 2016 - Listed with 10 employees on En-Tenshoku job site
 - From 2016 onwards - Featured on recruitment and company information sites such as doda and BaseConnect as an IT technology company
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -63,3 +63,7 @@
 
 - 企業情報が各種求人サイト（doda、キャリアクロスなど）で掲載
 - 廃棄物処理関連の専門サービスとして紹介されるケース多数
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -63,6 +63,11 @@ Developing many new graduate members into "standalone" and "first-class" enginee
 - Direct contracts with Tokyo Gas Group and other major enterprises
 - Remote work options available
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

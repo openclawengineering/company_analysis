@@ -88,6 +88,11 @@ Rocket Software is also known as a company that loves music — musical instrume
 - KIA member company
 - AMC Software Japan LLC handles COBOL/CORBA business in Japan
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

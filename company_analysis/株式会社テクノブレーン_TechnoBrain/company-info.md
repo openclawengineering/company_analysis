@@ -259,6 +259,11 @@ Founded in 1992 as a scout service focusing on high-end engineers, the company h
 - Increasing engineer quality requirements
 - International competition for technical talent
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Analysis Date: 2026-03-31*  

@@ -217,6 +217,11 @@ The company emphasizes:
 
 The company represents a growing trend in Japan of **social enterprises** that balance profitability with positive social impact, particularly in disability employment and regional revitalization.
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: March 29, 2026*

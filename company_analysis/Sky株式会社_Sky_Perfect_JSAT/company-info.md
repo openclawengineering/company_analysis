@@ -39,6 +39,11 @@ As a space communications business, SKY Perfect JSAT creates value from the unkn
 - Operating in Japan's advanced space communications sector
 - Website appears to use heavy JavaScript rendering — limited content accessible via web_fetch
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

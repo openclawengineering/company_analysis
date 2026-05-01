@@ -60,6 +60,11 @@ Details not publicly available.
 - Part of WithEarth group
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

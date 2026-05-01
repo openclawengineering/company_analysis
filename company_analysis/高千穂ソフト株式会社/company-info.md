@@ -76,6 +76,11 @@ Not publicly available in detail.
 - Privacy Mark certified
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

@@ -249,6 +249,11 @@ Arrow Systems Co., Ltd. is a well-established Japanese IT services company with 
 
 The company's strength lies not just in technical capabilities spanning mainframes to modern web systems, but in its unwavering belief that human relationships and employee well-being are the foundation of business success - a philosophy that has guided them through two decades of industry evolution.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report compiled: March 29, 2026*  

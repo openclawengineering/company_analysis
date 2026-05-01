@@ -72,3 +72,8 @@ The company focuses on providing support that understands liquor retail operatio
 
 - Over 40 years of track record specializing in the liquor retail industry
 - Flexible system offerings to meet store needs: delivery-focused, in-store sales, and wholesale distributors
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

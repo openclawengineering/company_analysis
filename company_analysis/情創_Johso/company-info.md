@@ -59,3 +59,8 @@ Not specified on website
 - [Company Website](https://johso.co.jp/) - Official company information
 - [Services](https://johso.co.jp/service/) - Detailed service offerings
 - [Gorikai](https://johso.co.jp/gorikai/) - Development training program information
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

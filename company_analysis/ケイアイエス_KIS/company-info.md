@@ -167,6 +167,11 @@ Primarily SES (System Engineering Service) business, focusing on system developm
 4. **Comprehensive training system** - 3-month new employee training, OJT support
 5. **Certifications** - Privacy Mark, Worker dispatch license
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Analysis Date: March 30, 2026*

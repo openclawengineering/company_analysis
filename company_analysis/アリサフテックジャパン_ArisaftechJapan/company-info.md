@@ -283,6 +283,11 @@ The company's emphasis on "never compromising trust relationships" and "taking r
 - **Phone (Japan):** 045-550-5727
 - **Industry Association:** 神奈川県情報サービス産業協会 (Kanagawa Prefecture Information Service Industry Association)
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report Generated: March 29, 2026*

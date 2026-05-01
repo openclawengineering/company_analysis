@@ -155,3 +155,8 @@ The company positions itself as promoting corporate Digital Transformation (DX) 
 - Multi-prefecture presence through various ISA associations
 - Fujitsu dealer relationship
 - Comprehensive service portfolio from embedded to cloud systems
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

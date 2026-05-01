@@ -100,3 +100,7 @@
 - 多様で才能豊かなチームによって優れたスマートなサービスや製品を生み出す
 - 新型コロナウイルスのパンデミックを機に人々の働き方の変化に対応
 - クライアント定着率が高く、長期的なパートナーシップを築いている
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

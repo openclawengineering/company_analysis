@@ -46,3 +46,8 @@ Giga System provides software development services across multiple domains:
 ## Notes
 
 - Company website provides limited public information about company history, leadership, or specific projects
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

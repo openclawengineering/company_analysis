@@ -67,3 +67,8 @@
 - バイオインフォマティクス分野に強み（DNA解析、塩基配列解析）
 - 非常にユニークな事業展開 — IT＋バイオの融合
 - インボイス登録済み
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

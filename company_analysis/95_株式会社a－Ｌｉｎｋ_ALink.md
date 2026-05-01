@@ -1,29 +1,32 @@
-# 株式会社 a－Ｌｉｎｋ (A-Link Co., Ltd.)
+# 株式会社 a－Ｌｉｎｋ (a-LINK corp.)
 
 ## Company Overview
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 a－Ｌｉｎｋ |
-| **English Name** | A-Link Co., Ltd. |
-| **Website** | [KIA Member] - Website verification pending |
-| **Headquarters** | [Research Required] |
-| **Founded** | [Research Required] |
-| **Capital** | [Research Required] |
-| **Employees** | [Research Required] |
-| **Tel** | [Research Required] |
+株式会社 a-LINK は、2003年5月に設立された横浜市港北区のIT企業。「for the future, with tech & family!」をスローガンに掲げ、ソフトウェア受託開発、SES事業、オフショア開発推進（フィリピン20年の実績）、自社製品開発・ライセンス販売を展開。2021年7月よりCIJグループ（東京証券取引所プライム市場上場）に所属。ISO/IEC 27001 (ISMS) 認証取得済み。
 
-## Business Description
+**Website:** https://www.alink-group.co.jp/
 
-株式会社 a－Ｌｉｎｋ (A-Link Co., Ltd.) is a Japanese IT company associated with the Kanagawa IT Association (KIA).
+## 基本情報
 
-*Note: Company information currently limited to KIA membership status. Detailed research requires web access.*
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社 a-LINK |
+| **設立** | 2003年5月19日 |
+| **資本金** | 5,000万円 |
+| **代表者** | 桜井 容子 |
+| **所在地** | 〒222-0033 横浜市港北区新横浜3-9-18 新横浜TECHビルA館2F |
+| **電話** | 045-530-4400 |
+| **株主** | 株式会社CIJ（東証プライム） |
 
-## Research Status
-- **Status**: Basic structure created, KIA member confirmed
-- **Access Limitation**: Web search tools currently restricted
-- **Next Steps**: Resume research when web access is available
+## 事業内容
+- ソフトウェア受託開発・SES
+- オフショア開発推進（フィリピン20年実績）
+- LiDARモジュール(ALCore) 自社製品開発・ライセンス販売
+- 研究開発支援、ソフトウェア品質向上支援
+
+## Media Mentions
+- 2026年4月1日: 役員体制変更
+- 特許取得（物体追跡の方法等、特許第7187655号）
 
 ---
-*Report generated: 2026-04-27*
-*Note: Limited data due to current access restrictions. Full research requires web access.*
+*最終更新: 2026-04-30*

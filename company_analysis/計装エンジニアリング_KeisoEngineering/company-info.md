@@ -74,3 +74,8 @@ Not specified on website
 ## Media Mentions
 - [Official Website](https://www.keiso.co.jp/) - Company profile and services
 - [Development Portfolio](https://www.keiso.co.jp/) - Mobile app development examples
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -245,6 +245,11 @@ The company maintains a news section on their website (https://karbit.co.jp/home
 ### Strategic Direction
 The company is evolving from a traditional system development firm into an IT consulting partner, with a 2030 vision focused on creating "slightly better futures" through the combination of people and technology. Their emphasis on employee growth and collaborative culture positions them as a stable, relationship-oriented partner in Japan's IT services market.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Analysis completed: March 30, 2026*

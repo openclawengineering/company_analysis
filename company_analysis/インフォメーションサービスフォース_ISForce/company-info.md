@@ -248,6 +248,11 @@ Information Service Force Co., Ltd. (ISForce) is a well-established Japanese IT 
 
 With offices in Tokyo and Osaka, serving 200+ clients across finance, manufacturing, healthcare, and government sectors, ISForce maintains a strong commitment to engineering excellence, ethical business practices, and social contribution through technology.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report compiled from: https://www.isforce.jp/*

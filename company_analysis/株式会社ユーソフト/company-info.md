@@ -88,6 +88,11 @@ U-Soft Inc. is an independent software development company founded in September 
 - Plant engineering division since 2004 shows diversification
 - Health management certified
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

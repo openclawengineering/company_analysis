@@ -67,5 +67,10 @@ The company has Japan's largest track record in operating overseas media, includ
 - [DigiTrade Official Website](https://dgt.co.jp)
 - [Services Overview](https://dgt.co.jp/services/)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 *Sources: [DigiTrade Corporation Official Website](https://dgt.co.jp)*

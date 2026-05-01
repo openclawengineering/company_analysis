@@ -79,3 +79,8 @@
 - 関東ITソフトウェア健康保険組合加盟
 - 4つの登録商標（墓所管理・参拝関連）
 - 契約先にNEC、日電、富士ソフトなど大手IT企業
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

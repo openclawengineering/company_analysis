@@ -80,3 +80,8 @@ To empower people, organizations, and society through technology
 - [Qiita Organization Account](https://qiita.com/organizations/neosystem) - Technical articles
 - [Official X (Twitter)](https://x.com/neo_promotion)
 - [Official Facebook](https://www.facebook.com/neosystempromotion)
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

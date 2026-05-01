@@ -83,6 +83,11 @@ Densou Inc. is an IT services company founded in May 1990, headquartered in Saiw
 - Multiple service lines: development, infrastructure, training, diagnostics
 - Note: Multiple unrelated companies share the name "電創" in Japan (electrical engineering, Toyama electrical work, system design panels)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

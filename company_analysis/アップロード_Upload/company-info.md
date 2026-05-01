@@ -166,6 +166,15 @@ The company maintains flexible employment options, reflecting the nature of SES 
 
 ---
 
+## Company Mentions
+
+- **2006年10月設立** — ネットワークのハード・ソフト面に強い技術者を擁するITサービス会社
+- **女性CEO** — 小檜山千恵子が代表取締役を務める（IT業界では希少な女性リーダーシップ）
+- **共創アプローチ** — 「Co-creation」理念を掲げ、長期的なクライアント関係を構築
+- **多様な雇用形態** — 新卒・中途・常駐・派遣の多様な採用プログラムを提供
+
+---
+
 ## 9. Analysis Summary
 
 ### Strengths

@@ -148,5 +148,10 @@
 - **Completeness**: Medium-High - Good information on services, achievements, and company background
 - **Last Updated**: 2023 (latest award information available)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 *Research completed: April 25, 2026*

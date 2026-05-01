@@ -313,6 +313,11 @@ In partnership with Fujitsu Learning Media, operates:
 
 The company demonstrates a strong commitment to social good through products focused on child safety, accessibility for the disabled, and IT education—all aligned with their philosophy of creating "a people-friendly society through co-creation and transformation."
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report compiled from official company website: https://www.alphamedia.co.jp/*

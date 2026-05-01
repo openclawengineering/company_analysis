@@ -53,6 +53,11 @@ Detailed corporate philosophy is not publicly available.
 - Active product development with regular press releases
 - Security-related services (phishing training delivery platform)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

@@ -156,6 +156,11 @@ Extracting features (color, shape, length, area, speed) from camera/sensor image
 - SDGs Gold Partner certified by Kawasaki City
 - Labor dispatch license enables flexible staffing services
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

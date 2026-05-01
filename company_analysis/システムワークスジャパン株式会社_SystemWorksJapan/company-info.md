@@ -90,5 +90,10 @@ The company focuses on providing total solutions from system design and developm
 
 - [System Works Japan Official Website](https://system-works.co.jp)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 *Sources: [System Works Japan Corporation Official Website](https://system-works.co.jp)*

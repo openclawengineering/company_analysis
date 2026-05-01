@@ -57,3 +57,8 @@
 - プライバシーマーク取得（第10824833号）
 - iDeCo＋（掛金の一部を事業主負担）導入
 - 桜木町駅徒歩5分
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

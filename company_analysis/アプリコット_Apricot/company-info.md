@@ -268,6 +268,11 @@ Apricot maintains strong quality standards with multiple ISO certifications and 
 
 With a balanced workforce (60.7% male, 39.3% female), relatively young average age of 35.5 years, and active recruitment of both experienced and inexperienced IT professionals, Apricot demonstrates a commitment to diversity and talent development while maintaining the traditional Japanese corporate values of trust, service, and long-term relationships.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 **Report Generated:** March 29, 2026  

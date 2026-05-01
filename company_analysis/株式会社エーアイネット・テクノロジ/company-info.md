@@ -55,3 +55,8 @@ The company positions itself as "Team AINet" with the philosophy of "creating a 
 
 - **神奈川県情報サービス産業協会 (Kanagawa IT Industry Association)** — Active member company
 - No significant media coverage identified in public sources
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

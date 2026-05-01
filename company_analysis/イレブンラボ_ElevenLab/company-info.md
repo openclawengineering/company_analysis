@@ -199,6 +199,11 @@ The company's motto emphasizes using technology to create new possibilities for 
 
 株式会社イレブンラボ (Eleven Lab Co., Ltd.) is a well-established Japanese IT services company based in Kawasaki, Kanagawa Prefecture. Founded in 2011, the company has grown to 26 employees with a capital of 20 million yen. It operates across multiple IT service domains including custom software development, infrastructure construction, web services and design, and engineering support. The company distinguishes itself through its ISO27001 certification, commitment to diversity, and a strong corporate philosophy focused on creating social value through technology while maintaining a people-centric workplace culture. Their additional ventures into educational services (CodeCampKIDS) and cloud tools (cheerTA) demonstrate diversification beyond traditional IT services.
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report Generated: March 29, 2026*  

@@ -1,23 +1,57 @@
-# 株式会社 a－Ｌｉｎｋ
+# 株式会社 a－Ｌｉｎｋ (a-LINK corp.)
 
 ## Company Overview
 
-株式会社 a－Ｌｉｎｋ (A-Link Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社 a-LINK は、2003年5月に設立された横浜市港北区のIT企業。「for the future, with tech & family!」をスローガンに掲げ、ソフトウェア受託開発、SES事業、オフショア開発推進（フィリピン20年の実績）、自社製品開発・ライセンス販売を展開。2021年7月よりCIJグループ（東京証券取引所プライム市場上場）に所属。「a」は Alliance, Aggressive, Agile を意味する。ISO/IEC 27001 (ISMS) 認証取得済み。
 
-## Company Profile
+**Website:** https://www.alink-group.co.jp/
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 a－Ｌｉｎｋ (A-Link Inc.) |
-| **Status** | Research pending - web search API unavailable |
+## 基本情報
 
-## Notes
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社 a-LINK |
+| **英語名** | a-LINK corp. |
+| **設立** | 2003年5月19日 |
+| **資本金** | 5,000万円（2024年12月20日） |
+| **所在地** | 〒222-0033 横浜市港北区新横浜3-9-18 新横浜TECHビルA館2F |
+| **電話** | 045-530-4400 |
+| **株主** | 株式会社CIJ（東京証券取引所プライム市場） |
+| **代表者** | 桜井 容子 |
+| **認証** | 労働者派遣事業許可（派14-303632）、ISO/IEC 27001 (ISMS) IA250033 |
 
-- Web search tools are currently unavailable due to API subscription issues
-- Company details need to be researched once web search is restored
-- This is a placeholder file that should be updated with complete company information
+## 事業内容
+1. **ソフトウェア開発事業** — 受託開発、SES
+2. **ソフトウェア開発支援サービス** — 研究開発支援、プロトタイプ・モックアップ作成、ソフトウェア品質向上支援
+3. **オフショア推進事業** — フィリピンのオフショア開発で20年の実績、日本人ベテランエンジニアがコントロールし日本品質を実現
+4. **自社製品開発・ライセンス販売** — LiDARモジュール(ALCore)を活用したセンシングモジュール
+
+## グループ会社
+- 株式会社 i-BRIDGE（日本法人、CIJ子会社）
+- i-BRIDGE System Philippine Inc.（フィリピン現地法人）
+
+## 沿革
+| 年 | イベント |
+|----|---------|
+| 2003年 | 有限会社 a-LINK 設立 |
+| 2005年 | 新横浜事業所開所 |
+| 2007年 | オフショア子会社 i-BRIDGE 設立 |
+| 2021年 | CIJ と資本提携、株式会社 a-LINK に商号変更 |
+| 2022年 | 「物体追跡の方法」等で特許取得（特許第7187655号） |
+| 2023年 | i-BRIDGE をCIJ子会社化 |
+| 2024年 | 労働者派遣事業許可証取得 |
+| 2025年 | ISO/IEC 27001 (ISMS) 認証取得 |
+
+## Media Mentions
+- 2026年4月1日: 役員体制変更に関するお知らせ
+- 2025年: 福岡オフィス1周年
+- 特許取得: 物体追跡の方法、プログラム、システムおよび記録方法（特許第7187655号）
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
 
 ---
-
-*Report generated: April 2026*
-*Note: Research pending due to web search API limitations*
+*最終更新: 2026-04-30*
+*情報ソース: 会社ウェブサイト (alink-group.co.jp), KIA会員名簿*

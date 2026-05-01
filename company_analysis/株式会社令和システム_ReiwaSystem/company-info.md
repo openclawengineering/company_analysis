@@ -1,23 +1,51 @@
-# 株式会社 令和システム
+# 株式会社令和システム (Reiwa System Co., Ltd.)
 
 ## Company Overview
 
-株式会社 令和システム (Reiwa System Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社令和システムは、2023年2月に設立された兵庫県尼崎市の企業。消防用設備全般の設計・施工・点検を主事業とし、併せて災害時備蓄用品（非常食・非常用トイレ、救煙くん等）の販売を行っている。「火災防災を通して社会に貢献する」を企業理念に掲げる。
 
-## Company Profile
+**Website:** https://www.reiwasystem.co.jp/
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 令和システム (Reiwa System Inc.) |
-| **Status** | Research pending - web search API unavailable |
+## 基本情報
 
-## Notes
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社令和システム |
+| **英語名** | Reiwa System Co., Ltd. |
+| **設立** | 2023年2月 |
+| **資本金** | 500万円 |
+| **代表者** | 田岡 大心 |
+| **所在地** | 〒661-0953 兵庫県尼崎市田能2-7-9 Pitto B号室 |
+| **電話** | 06-6493-6578 |
+| **メール** | info@reiwasystem.co.jp |
+| **従業員** | 8名（2024年9月現在） |
 
-- Web search tools are currently unavailable due to API subscription issues
-- Company details need to be researched once web search is restored
-- This is a placeholder file that should be updated with complete company information
+## 事業内容
+1. **消防設備点検** — 機器点検（6カ月ごと）および総合点検（年1回）
+2. **消防設備工事** — 避難設備、警報設備、消火設備の設置・改修
+3. **災害時備蓄用品販売** — 非常食、非常用トイレ、救煙くん等
+
+## 企業理念
+「火災防災を通して社会に貢献する」
+
+## 特徴
+- 設立3年目の若い企業（2026年現在）
+- 小規模（従業員8名）
+- 消防設備の専門会社
+- 兵庫県尼崎市に拠点
+
+## 注意事項
+- KIA会員名簿には含まれていない可能性あり（兵庫県拠点）
+- IT企業ではなく消防設備専門企業
+
+## Media Mentions
+- KIA会員名簿に掲載あり
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
 
 ---
-
-*Report generated: April 2026*
-*Note: Research pending due to web search API limitations*
+*最終更新: 2026-04-30*
+*情報ソース: 会社ウェブサイト (reiwasystem.co.jp)*

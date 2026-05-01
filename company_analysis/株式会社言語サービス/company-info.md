@@ -83,6 +83,11 @@ Various enterprises across IT, government, logistics, and manufacturing sectors.
 - Yokohama-headquartered with KIA membership
 - Active hiring: 58 open positions (as of research date)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

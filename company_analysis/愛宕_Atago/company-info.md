@@ -232,6 +232,16 @@ Work locations include:
 
 ---
 
+## Company Mentions
+
+- **2005年設立** — 20年の歴史を持つシステム開発会社
+- **自社開発サービス** — トークンエコノミー、決済プラットフォーム、VR/AR/MR関連技術、デジタルサイネージ技術を展開
+- **新卒採用ゼロ離職** — FY2022-2024の新卒採用で離職率0%を達成
+- **クラウド系開発** — AWS、GCP、Azure、Alibaba Cloudを活用したマルチクラウド対応
+- **インターンシップ実施** — internshipguide.jpにてインターンシップ情報を公開 ([記事](https://internshipguide.jp/interns/internDetail/13241))
+
+---
+
 ## 10. Conclusion
 
 **株式会社愛宕 (Atago Inc.)** is a well-established mid-sized Japanese software development company with a strong foundation in traditional enterprise systems (billing, logistics, telecommunications) while actively investing in cutting-edge technologies (AI, cloud, VR/AR, autonomous driving). The company's 20-year track record, zero attrition rate for new graduates, and emphasis on both human and technical capabilities position it as a reliable technology partner for businesses seeking system development services in the Tokyo-Kanazawa region.

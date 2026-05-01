@@ -191,6 +191,11 @@ The company's symbol mark features three cherries: the center represents PE-BANK
 - Recently expanding into AI coding education (Claude Code webinars)
 - Group structure includes holding company (MCEAホールディングス) and software development subsidiary (アスノシステム)
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: April 2026*

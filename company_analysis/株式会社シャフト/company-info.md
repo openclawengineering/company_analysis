@@ -89,6 +89,11 @@ Detailed corporate history is not publicly available.
 - Focus on modern web technologies, IoT, and AI
 - KIA member company based in Kanagawa Prefecture
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

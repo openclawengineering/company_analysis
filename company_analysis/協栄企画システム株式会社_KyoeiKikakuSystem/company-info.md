@@ -46,3 +46,8 @@ As a manufacturing-focused software development company, the company engages in 
 ## Media Mentions
 
 - From 2024 onwards - Listed on corporate information sites such as doda and SalesNow DB
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

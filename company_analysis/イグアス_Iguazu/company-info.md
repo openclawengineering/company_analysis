@@ -205,6 +205,11 @@ The company actively contributes to UN Sustainable Development Goals:
 - **Twitter:** [@iguazu_corp](https://twitter.com/iguazu_corp)
 - **Facebook:** [iguazu.corp](https://www.facebook.com/iguazu.corp)
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: March 29, 2026*

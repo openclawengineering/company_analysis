@@ -89,3 +89,8 @@ Mission: To thoroughly engage with drone technology, be sensitive to new discove
 
 - June 2024 - Registered as a Drone Disaster Reduction Officer Association Kanagawa Prefecture certified school
 - September 2025 - Launched JUIDA Drone Disaster Prevention Specialist training
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

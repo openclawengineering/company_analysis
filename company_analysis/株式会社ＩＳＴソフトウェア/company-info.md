@@ -79,3 +79,8 @@ IST Software operates across seven major service domains:
 - **一般社団法人生成AI活用普及協会（GUGA）**加盟
 - **富士通系ソフトウェア業グループ（FSA）**加盟
 - **株式会社アイネット**が100%株主（親会社）
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

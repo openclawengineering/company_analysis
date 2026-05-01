@@ -40,3 +40,8 @@ Delta Engineering provides custom software development and system engineering se
 
 - Website was unreachable during research; company may have migrated domains or ceased operations
 - Previously researched in an earlier session — research may exist in the git history
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

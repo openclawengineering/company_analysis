@@ -180,6 +180,11 @@
 
 The company maintains a strategic partnership with **Yamada Denki**, Japan's largest electronics retailer, and has built a nationwide network of offices, recycling centers, and retail stores. With strong environmental credentials (ISO27001 certified, licensed waste handler) and a focus on sustainable IT lifecycle management, Inversenet exemplifies the Japanese approach to responsible technology stewardship—connecting past values to future innovations through their philosophy of "Value Forms a Circle."
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: March 29, 2026*

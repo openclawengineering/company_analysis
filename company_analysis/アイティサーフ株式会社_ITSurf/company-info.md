@@ -80,3 +80,8 @@
 ## Licenses
 
 - 横浜市入札参加資格（コンピュータ業務）業者コード：0047208
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

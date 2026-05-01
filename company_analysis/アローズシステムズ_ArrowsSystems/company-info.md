@@ -224,6 +224,11 @@ The company serves major Japanese corporations across telecommunications (NTT DO
 
 Arrows Systems emphasizes employee growth, work-life balance, and CSR activities, positioning itself as a technology partner that combines "service" and "system" perspectives to fulfill client wishes. Their motto of "always moving one thing forward" reflects their commitment to continuous improvement and customer value maximization.
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 *Report generated: March 29, 2026*  

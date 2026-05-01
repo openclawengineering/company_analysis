@@ -78,6 +78,11 @@ Detailed corporate philosophy information available on the company website.
 - Strong focus on manufacturing and food industry digital transformation
 - RPG training services for addressing technical skill shortages
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

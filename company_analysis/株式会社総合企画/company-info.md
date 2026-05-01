@@ -84,6 +84,11 @@ Key healthcare products include "Smart Theatre" (MRI bore interior projection sy
 - Multiple unrelated companies in Japan share similar names
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

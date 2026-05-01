@@ -252,6 +252,11 @@ With 376 employees (as of April 2025), offices across Japan (Yokohama, Tokyo/Aki
 
 The company's philosophy centers on **"Flexibility, Customer Orientation, and Technical Excellence"** - delivering "order-made optimal solutions" tailored to each client's unique business needs.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Analysis Date: March 30, 2026*  

@@ -95,6 +95,11 @@ The company positions continuous growth and long-term stable corporate value enh
 - Actively investing in human resources despite revenue growth pressures
 - Diverse product portfolio including proprietary cloud services
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

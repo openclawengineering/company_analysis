@@ -1,23 +1,44 @@
-# 株式会社 星雲ソフト
+# 株式会社星雲ソフト (Seiyun Software Co., Ltd.)
 
 ## Company Overview
 
-株式会社 星雲ソフト (Seiyun Software Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社星雲ソフトは、ソフトウェア開発サービスを提供する企業。AI（人工知能）開発、組み込みソフト開発、ホームページ制作、企業管理ソフト導入支援、インフラ構築を事業展開。「質の高いソフト開発サービスを提供します」を掲げる。
 
-## Company Profile
+**Website:** https://www.seiunsoft.co.jp/
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 星雲ソフト (Seiyun Software Inc.) |
-| **Status** | Research pending - web search API unavailable |
+## 基本情報
 
-## Notes
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社星雲ソフト |
+| **英語名** | Seiyun Software Co., Ltd. |
+| **所在地** | （ウェブサイトに未記載） |
 
-- Web search tools are currently unavailable due to API subscription issues
-- Company details need to be researched once web search is restored
-- This is a placeholder file that should be updated with complete company information
+## 事業内容
+1. **AI（人工知能）開発**
+2. **組み込みソフト開発**
+3. **ホームページ制作**
+4. **企業管理ソフト導入支援**
+5. **インフラ構築**
+
+## 特徴
+- 小規模なソフトウェア開発会社
+- 幅広いITサービスを提供（AIからインフラまで）
+- ウェブサイトはシンプルな構成
+
+## 注意事項
+- ウェブサイトに会社概要（設立年、資本金、代表者等）の記載なし
+- 「基本情報」ページが存在するが内容はJSレンダリングされており取得不可
+- LinkedIn/Twitter等のSNSアカウント確認不可
+
+## Media Mentions
+- KIA会員名簿に掲載あり
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
 
 ---
-
-*Report generated: April 2026*
-*Note: Research pending due to web search API limitations*
+*最終更新: 2026-04-30*
+*情報ソース: 会社ウェブサイト (seiunsoft.co.jp)*

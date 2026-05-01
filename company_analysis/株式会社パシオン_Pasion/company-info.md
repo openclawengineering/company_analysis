@@ -58,3 +58,8 @@ The name "Pasion" (Spanish for "passion") was selected through an internal compe
 
 ## Media Mentions
 - [Pasion News Letter](https://www.pasion.co.jp/tuushin.htm) - Corporate newsletter
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

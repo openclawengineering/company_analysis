@@ -81,6 +81,11 @@ The company aims to provide a secure working environment for freelance IT engine
 - Member of numerous regional IT industry associations nationwide
 - Part of the MCEA group
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

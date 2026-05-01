@@ -95,6 +95,11 @@ Contributing to the development of social infrastructure through the power of te
 - Multiple offices across Japan (Yokohama, Osaka, Kyushu, Nagoya)
 - Active in IT Skill Standards (ITSS) adoption since 2006
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

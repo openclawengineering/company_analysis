@@ -76,6 +76,11 @@ Detailed corporate philosophy is available on the official website. The company 
 - SDGs-committed organization
 - Strong industry expertise across multiple sectors
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

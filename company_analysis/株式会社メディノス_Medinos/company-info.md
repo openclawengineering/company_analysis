@@ -66,3 +66,8 @@ Medinos Inc. is an engineering company established in 1998. With software and ha
 - [Osaka Chamber of Commerce and Industry](https://www.osaka.cci.or.jp/)
 - [Embedded Systems Technology Consortium](https://www.kansai-kumikomi.net/)
 - [Kanagawa Information Services Industry Association (KIA)](https://www.kia.or.jp/)
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

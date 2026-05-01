@@ -195,6 +195,11 @@ Craftwork, which develops medical equipment and AI on a contract basis, obtained
 ### Future Outlook
 With growing demand for JIS T2304-compliant development in the medical device industry, the company is actively promoting JIS T2304-compliant software development and documentation support. Also expanding to support ISO13485 renewal reviews and JIS T2304-compliant development for existing medical devices.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Analysis Date: March 30, 2026*

@@ -263,6 +263,11 @@ Based on web searches and publicly available information:
 - Stable operation for over 30 years
 - No publicly disclosed revenue or employee count figures
 
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
+
 ---
 
 **Last Updated:** March 30, 2026  

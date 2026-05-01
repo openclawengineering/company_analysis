@@ -41,6 +41,11 @@ Proof of Concept support for new technology adoption and validation.
 - Security-focused with diagnostic services
 - Helps companies modernize legacy systems
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

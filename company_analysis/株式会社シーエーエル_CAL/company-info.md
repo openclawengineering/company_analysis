@@ -54,3 +54,7 @@
 ## Media Mentions
 
 - なし (現在入手可能な情報では特定のメディア掲載は確認できません)
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

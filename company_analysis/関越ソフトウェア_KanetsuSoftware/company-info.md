@@ -246,6 +246,11 @@ The company serves major Japanese corporations across 10+ industries, including 
 
 The company's philosophy centers on the belief that employee growth drives corporate growth, with fair performance-based evaluation systems. Recent initiatives include embracing AI/RPA transformation and developing flexible, adaptive capabilities for the changing IT landscape.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Analysis compiled from official company website and public sources on 2026-03-30*

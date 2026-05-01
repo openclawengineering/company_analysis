@@ -166,6 +166,11 @@ Sendagaya 5-chome, Shibuya-ku, Tokyo
 - Consulting 2026: https://1corp.biz/primary2026/
 - Research: http://ichi.jupiter.bindcloud.jp/research/
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 **Document Prepared:** March 29, 2026  

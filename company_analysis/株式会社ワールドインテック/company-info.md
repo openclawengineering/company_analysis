@@ -115,6 +115,11 @@ The company believes in going beyond traditional outsourcing to create partnersh
 - Strong manufacturing sector focus with expansion into IT and R&D
 - Part of the broader World Holdings group ecosystem
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

@@ -261,6 +261,11 @@ The company positions itself as a partner that works "二人三脚" (three-legge
 7. Paiza Recruiters: https://paiza.jp/recruiters/4582
 8. LinkedIn: https://jp.linkedin.com/in/yusuke-kanayama-42a11018b
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report Generated: 2026年3月30日*

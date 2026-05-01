@@ -65,3 +65,8 @@ ELTEX's primary business is the development and distribution of "eltexDC," a com
 
 - Company website provides detailed product information but limited corporate background
 - eltexDC appears to be the primary revenue driver
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -17,6 +17,11 @@
 - Company details need to be researched once web search is restored
 - This is a placeholder file that should be updated with complete company information
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

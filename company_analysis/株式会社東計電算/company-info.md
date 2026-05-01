@@ -102,6 +102,11 @@ Key products include FOOD-LINK (food distribution industry SaaS with ~520 client
 - 875 employees — one of the larger KIA members
 - 50+ years of continuous operation since 1970
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

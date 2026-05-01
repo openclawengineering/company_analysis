@@ -67,6 +67,11 @@ Their brand "A-Thily" represents the company's recruitment and corporate identit
 - December 2024 leadership change (new president)
 - Note: The Instagram account mentions telecommunications/mobile phone sales in Kansai/Tokai — may be a different business unit or related company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

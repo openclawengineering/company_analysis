@@ -66,6 +66,11 @@ Not publicly available in detail.
 - Part of the larger INET Group ecosystem (cloud services, data center)
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

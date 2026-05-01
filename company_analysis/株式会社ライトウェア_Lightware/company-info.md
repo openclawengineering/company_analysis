@@ -59,3 +59,8 @@ Revenue: 430 million JPY (FY2024)
 ## Media Mentions
 - [Light Staff](https://startlightstaff.com/) - Agent service for freelance IT engineers
 - [Saku Career Bureau](https://sakucareer.com/) - Information site for IT engineers
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

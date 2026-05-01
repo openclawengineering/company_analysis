@@ -55,3 +55,8 @@ According to the KIA directory, the company's business is described as: "病院�
 
 - Website encoding (Shift-JIS) indicates legacy technology, which may be consistent with the medical systems domain (where older systems are common)
 - The "Niigata" name may reflect company origins rather than current location
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

@@ -78,3 +78,8 @@
 - ISO/IEC 27001認証取得
 - KIA（神奈川IT協会）会員
 - 全世界4,000社以上がMendix導入
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

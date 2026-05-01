@@ -84,6 +84,11 @@ Booster Technology Inc. is a system development company founded on May 11, 2006,
 - 20 years of operation since 2006
 - KIA member company
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

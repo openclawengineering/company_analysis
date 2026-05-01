@@ -64,5 +64,10 @@ This means:
 
 - [JISC Software Corporation Official Website](https://www.jisc.co.jp)
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 *Sources: [JISC Software Corporation Official Website](https://www.jisc.co.jp)*

@@ -1,29 +1,24 @@
-# 株式社 サザン・エージェンシー (Southern Agency Co., Ltd.)
+# 株式会社サザン・エージェンシー (SOUTHERN AGENCY Co., Ltd.)
 
 ## Company Overview
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式社 サザン・エージェンシー |
-| **English Name** | Southern Agency Co., Ltd. |
-| **Website** | [KIA Member] - Website verification pending |
-| **Headquarters** | [Research Required] |
-| **Founded** | [Research Required] |
-| **Capital** | [Research Required] |
-| **Employees** | [Research Required] |
-| **Tel** | [Research Required] |
+1990年設立、川崎市のIT企業。組込系ソフトウェア・ハードウェア設計開発を中心に、業務系・Web系、ネットワーク構築、労働者派遣を展開。かわさきSDGsゴールドパートナー認証。
 
-## Business Description
+**Website:** https://www.sacgrp.co.jp/
 
-株式会社 サザン・エージェンシー (Southern Agency Co., Ltd.) is a Japanese IT company associated with the Kanagawa IT Association (KIA).
+## 基本情報
 
-*Note: Company information currently limited to KIA membership status. Detailed research requires web access.*
+| 項目 | 内容 |
+|------|------|
+| **設立** | 1990年6月1日 |
+| **資本金** | 4,800万円 |
+| **代表者** | 小島 一幸 |
+| **川崎事業所** | 川崎市川崎区貝塚1-4-16 |
+| **金沢事業所** | 石川県金沢市割出町646-1 |
 
-## Research Status
-- **Status**: Basic structure created, KIA member confirmed
-- **Access Limitation**: Web search tools currently restricted
-- **Next Steps**: Resume research when web access is available
+## Media Mentions
+- 2022年: かわさきSDGsゴールドパートナー認証
+- 2020年: SECURITY ACTION二つ星、創立30周年
 
 ---
-*Report generated: 2026-04-27*
-*Note: Limited data due to current access restrictions. Full research requires web access.*
+*最終更新: 2026-04-30*

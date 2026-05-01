@@ -96,5 +96,10 @@ Research and development in AI, including deep learning, AR/VR, and computer vis
 - 2021 - Sao Khue Award
 - 2022 - Sao Khue Award
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 *Sources: [Fabbi Holdings Official Website](https://fabbiholdings.com/ja/), [PR Times Press Release](https://prtimes.jp/main/html/rd/p/000000002.000114613.html)*

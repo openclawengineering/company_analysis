@@ -64,6 +64,11 @@ AlphaWave provides solutions across diverse industries:
 - Strong reputation built on nearly 40 years of experience
 - Focus on building long-term customer relationships and joint growth
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

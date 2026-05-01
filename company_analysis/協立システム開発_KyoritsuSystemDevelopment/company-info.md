@@ -205,6 +205,11 @@ Since its founding in 1979, Kyoritsu System Development has consistently upheld 
 
 The company's strength lies in its deep domain expertise—particularly in production management and public sector systems—combined with a culture that values human capital as its greatest asset. As part of the Kyoritsu Holdings group, the company is positioned for continued growth while maintaining its independent, client-focused approach to system development.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Last Updated: March 30, 2026*

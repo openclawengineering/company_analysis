@@ -93,6 +93,11 @@
 - Active certification allowance program introduced through employee feedback
 - Yokohama Kannai location — 1 minute walk from JR Kannai Station
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

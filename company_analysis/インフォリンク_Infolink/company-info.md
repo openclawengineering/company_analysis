@@ -275,6 +275,11 @@ FAX: 044-589-8194
 
 The company serves the Greater Tokyo metropolitan area (Tokyo, Yokohama, Kawasaki) and maintains a strong focus on delivering optimal IT solutions while fostering meaningful connections between people and technology.
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report Generated: March 29, 2026*  

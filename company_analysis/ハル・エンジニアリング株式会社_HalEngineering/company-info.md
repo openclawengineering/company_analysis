@@ -56,3 +56,8 @@ The company's strength lies in its broad coverage without being limited to speci
 
 - August 2024 - Listed with 72 employees on SalesNow DB
 - June 2025 - Featured as a "software company that continues to challenge" on a system development company client site
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

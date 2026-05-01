@@ -1,23 +1,67 @@
-# 株式会社 サザン・エージェンシー
+# 株式会社サザン・エージェンシー (SOUTHERN AGENCY Co., Ltd.)
 
 ## Company Overview
 
-株式会社 サザン・エージェンシー (Southern Agency Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社サザン・エージェンシーは、1990年（平成2年）6月に設立された川崎市のIT企業。「楽しいをカタチにする」をモットーに、組込系ソフトウェア・ハードウェア設計開発を中心に、業務系・Web系ソフトウェア、ネットワーク構築/運用、一般労働者派遣事業を展開。かわさきSDGsゴールドパートナー認証、SECURITY ACTION二つ星宣言済み。川崎事業所と金沢事業所の2拠点体制。
 
-## Company Profile
+**Website:** https://www.sacgrp.co.jp/
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 サザン・エージェンシー (Southern Agency Inc.) |
-| **Status** | Research pending - web search API unavailable |
+## 基本情報
 
-## Notes
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社サザン・エージェンシー |
+| **英語名** | SOUTHERN AGENCY Co., Ltd. |
+| **設立** | 1990年6月1日 |
+| **資本金** | 4,800万円 |
+| **代表者** | 小島 一幸 |
+| **本社** | 〒210-0837 神奈川県川崎市川崎区渡田1-17-3 |
+| **川崎事業所** | 〒210-0014 川崎市川崎区貝塚1-4-16 LM川崎貝塚2F TEL: 044-221-0767 |
+| **金沢事業所** | 〒920-0062 石川県金沢市割出町646-1 百山ビル1F TEL: 076-239-1647 |
+| **労働者派遣** | 一般労働者派遣事業 派14-302492 |
 
-- Web search tools are currently unavailable due to API subscription issues
-- Company details need to be researched once web search is restored
-- This is a placeholder file that should be updated with complete company information
+## 事業内容
+1. **ソフトウェア開発事業** — 組込系、業務系、Web系アプリケーション
+2. **ハードウェア設計開発事業**
+3. **ネットワーク構築/運用事業**
+4. **一般労働者派遣事業**
+
+## 経営理念
+- 科学性: ソフトウェアを開発し世の中にスゴイものを作る
+- 社会性: 次世代の育成等、世の中に喜んでもらう会社にする
+- 人間性: 全社員と共に世の中でそれぞれの幸せを作る
+
+## 加盟団体・認証
+- 社団法人 神奈川県情報サービス産業協会（KIA）
+- かわさきSDGsゴールドパートナー（2022年認証）
+- SECURITY ACTION二つ星宣言（2020年）
+- かながわ子育て応援団（2013年認証）
+
+## 沿革
+| 年 | イベント |
+|----|---------|
+| 1990年 | 川崎市中原区にファームウェア・ハードウェア開発を目的に設立 |
+| 2001年 | 川崎事業所を川崎市川崎区に移転 |
+| 2010年 | KIAに入会 |
+| 2011年 | 特定労働者派遣事業開始 |
+| 2013年 | かながわ子育て応援団認証 |
+| 2017年 | 資本金を4,800万円に増資 |
+| 2018年 | 一般労働者派遣事業へ許可変更 |
+| 2020年 | 創立30周年、HPリニューアル、SECURITY ACTION二つ星 |
+| 2022年 | かわさきSDGsゴールドパートナー認証 |
+
+## Media Mentions
+- 2022年: かわさきSDGsゴールドパートナーに認証
+- 2020年: SECURITY ACTION二つ星宣言
+- 2020年: 創立30周年
+- 川崎フロンターレ（frontale.co.jp）とリンク
+- 川崎市SDGs推進パートナー
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
 
 ---
-
-*Report generated: April 2026*
-*Note: Research pending due to web search API limitations*
+*最終更新: 2026-04-30*
+*情報ソース: 会社ウェブサイト (sacgrp.co.jp), KIA会員名簿*

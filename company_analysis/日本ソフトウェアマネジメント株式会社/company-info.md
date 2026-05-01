@@ -73,6 +73,11 @@ Products for Boards of Education and schools, including:
 - High market share in school lunch fee management systems for major cities
 - Expanding into AI and digital transformation solutions for municipalities
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

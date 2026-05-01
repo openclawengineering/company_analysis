@@ -42,3 +42,8 @@ Hope Create provides custom software development and system engineering services
 
 - Website was unreachable during research; company may have migrated domains or ceased operations
 - Floor number in KIA listing (68F) is likely a data entry error
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

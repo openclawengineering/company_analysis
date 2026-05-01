@@ -85,6 +85,11 @@ Based on the teachings of Takeo Shimojo (NCD founder, 1931-2020):
 - Multiple companies share similar names (Humanics, HUMANIX) — may be different entities
 - 30+ years of continuous operation
 
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
 ---
 
 *Report generated: April 2026*

@@ -66,3 +66,8 @@ NDS.TS株式会社は、1986年8月に設立されたモバイル通信・組み
 - NDSグループ所属
 - 長期黒字経営
 - 新横浜に本社を構える
+
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._

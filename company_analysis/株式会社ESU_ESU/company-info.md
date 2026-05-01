@@ -1,23 +1,53 @@
-# 株式会社 ＥＳＵ
+# 株式会社ＥＳＵ (ESU Inc.)
 
 ## Company Overview
 
-株式会社 ＥＳＵ (ESU Inc.) is a Japanese company. Due to current limitations with web search APIs, complete company information is not available at this time. This is a placeholder that needs to be updated with proper research once web search functionality is restored.
+株式会社ESUは、1991年6月に設立された横浜市西区のネットワーク・インフラ専門企業。「つながる」と見えてくる新たな視点を理念に、企業・公的機関・教育機関のネットワークシステムに関する豊富な経験を活かし、システム全体や導入前後を俯瞰した最適なソリューションを提供。特定のプロダクトやテクノロジーに縛られない柔軟な対応を心掛けている。
 
-## Company Profile
+**Website:** https://esu.co.jp/
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 株式会社 ＥＳＵ (ESU Inc.) |
-| **Status** | Research pending - web search API unavailable |
+## 基本情報
 
-## Notes
+| 項目 | 内容 |
+|------|------|
+| **会社名** | 株式会社ESU |
+| **英語名** | ESU Inc. |
+| **設立** | 1991年6月12日 |
+| **資本金** | 1,000万円 |
+| **代表取締役** | 道川 孟行 |
+| **所在地** | 〒220-0003 神奈川県横浜市西区楠町27-9 横浜ウエストビル 501 |
+| **労働者派遣** | 派14-303441 |
+| **取引銀行** | 三井住友銀行、湘南信用金庫 |
 
-- Web search tools are currently unavailable due to API subscription issues
-- Company details need to be researched once web search is restored
-- This is a placeholder file that should be updated with complete company information
+## 企業理念
+- **価値観:** 調和を図りながら、誠実に取り組む
+- **将来像:** わたしたちの幸せを追求する
+- **使命:** エンジニアの発想力を活かし、サステナビリティに配慮しつつ、ユニークな価値を提供する
+
+## 事業内容
+1. **ネットワークサービス事業** — ネットワーク・サーバインフラのシステム設計/導入/運用
+   - データセンター間接続中継基盤の移行設計
+   - データセンター内クラウド基盤の設計・構築
+   - 社内LANの運用維持管理支援
+2. **人材派遣業**
+3. **不動産事業**
+
+## 加盟団体
+- 神奈川県情報サービス産業協会（KIA）
+
+## 特徴
+- ネットワーク・インフラ構築に特化
+- 特定プロダクトに縛られないベンダーニュートラルな提案
+- インテグレータ様からの依頼を主体に活動
+
+## Media Mentions
+- KIA（神奈川県情報サービス産業協会）加盟企業
+
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
 
 ---
-
-*Report generated: April 2026*
-*Note: Research pending due to web search API limitations*
+*最終更新: 2026-04-30*
+*情報ソース: 会社ウェブサイト (esu.co.jp), KIA会員名簿*
