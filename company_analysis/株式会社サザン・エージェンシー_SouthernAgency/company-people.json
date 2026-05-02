@@ -1,11 +1,19 @@
-[
-  {
-    "name": "Kojima Kazuyuki",
-    "name_ja": "小島 一幸",
-    "role": "President / CEO",
-    "role_ja": "代表者",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.sacgrp.co.jp/company.html"
-  }
-]
+{
+  "company": {
+    "name_jp": "株式会社サザン・エージェンシー",
+    "name_en": "Southern Agency Co., Ltd.",
+    "website": "https://www.sacgrp.co.jp/"
+  },
+  "people": [
+    {
+      "name": "小島 一幸",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

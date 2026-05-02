@@ -1,54 +1,6 @@
-[
-  {
-    "name": "池野 元就",
-    "title": "代表取締役社長"
-  },
-  {
-    "name": "二杁 克久",
-    "title": "取締役 執行役員"
-  },
-  {
-    "name": "新村 哲也",
-    "title": "取締役 執行役員"
-  },
-  {
-    "name": "西村 健",
-    "title": "取締役 執行役員"
-  },
-  {
-    "name": "村松 真也",
-    "title": "取締役（非常勤）"
-  },
-  {
-    "name": "田中 順子",
-    "title": "取締役（非常勤）"
-  },
-  {
-    "name": "小野寺 伸夫",
-    "title": "取締役（非常勤）"
-  },
-  {
-    "name": "大海 善行",
-    "title": "取締役（非常勤）"
-  },
-  {
-    "name": "小林 寛",
-    "title": "取締役（非常勤）"
-  },
-  {
-    "name": "由井 哲也",
-    "title": "執行役員"
-  },
-  {
-    "name": "山田 英樹",
-    "title": "執行役員"
-  },
-  {
-    "name": "薄木 正行",
-    "title": "執行役員"
-  },
-  {
-    "name": "橋口 俊彦",
-    "title": "監査役（非常勤）"
-  }
-]
+{
+  "people": [],
+  "social_profiles": [],
+  "media_mentions": [],
+  "research_notes": "Company website has access limitations due to heavy JavaScript frameworks. Recent news mentions '役員の新体制について、お知らせします' (New officer system announcement) on 2025年6月4日, but specific personnel names not available through current research methods. Company specializes in financial institution systems and solutions as part of NTT DATA Group. No specific executive names identified from available information."
+}

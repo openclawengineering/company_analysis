@@ -1,1 +1,15 @@
-[]
+{
+  "people": [
+    {
+      "name": "Kawara Kosuke",
+      "japanese_name": "河原 浩介",
+      "title": "代表取締役",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "代表取締役として会社情報から特定"
+    }
+  ],
+  "social_profiles": [],
+  "media_mentions": [],
+  "research_notes": "会社情報から代表取締役を特定。2002年12月設立のIT企業で「AI DRIVEN COMPANY」を掲げている。1,277名の従業員を擁する中堅IT企業で、東京本社、大阪支社、横浜オフィスの3拠点体制。自社開発の対話型生成AIチャットツール「ナレフルチャット」などを展開。ウェブサイトから追加の人的情報は入手できませんでした。"
+}

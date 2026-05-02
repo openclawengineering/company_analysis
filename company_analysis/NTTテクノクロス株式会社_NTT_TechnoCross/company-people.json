@@ -1,1 +1,31 @@
-[]
+{
+  "people": [
+    {
+      "name": "Okajunco",
+      "japanese_name": "岡 敦子",
+      "title": "社長/代表取締役",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "社長および代表取締役として会社情報から特定"
+    },
+    {
+      "name": "Hase Makoto",
+      "japanese_name": "羽生 誠",
+      "title": "取締役",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "取締役として会社情報から特定"
+    },
+    {
+      "name": "Tatemoto Shin'ya",
+      "japanese_name": "立元 慎也",
+      "title": "取締役",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "取締役として会社情報から特定"
+    }
+  ],
+  "social_profiles": [],
+  "media_mentions": [],
+  "research_notes": "取締役会情報から社長/代表取締役および2人の取締役を特定。NTTグループのソフトウェアリーディングカンパニーで、従業員数1,920名。ウェブサイトから追加の人的情報は入手できませんでした。"
+}

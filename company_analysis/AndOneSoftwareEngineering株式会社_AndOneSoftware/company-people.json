@@ -1,16 +1,31 @@
-[
-  {
-    "name": "芦澤 仁",
-    "title": "代表取締役社長",
-    "note": "創業者"
-  },
-  {
-    "name": "高橋 信春",
-    "title": "取締役",
-    "note": "2020年2月就任"
-  },
-  {
-    "name": "清水 康",
-    "title": "取締役"
-  }
-]
+{
+  "people": [
+    {
+      "name": "Azusa Jin",
+      "japanese_name": "芦澤 仁",
+      "title": "President",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "President identified from company profile"
+    },
+    {
+      "name": "Kiyoshi Shimizu",
+      "japanese_name": "清水 康",
+      "title": "Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Director identified from company profile"
+    },
+    {
+      "name": "Nobuhara Takahashi",
+      "japanese_name": "高橋 信春",
+      "title": "Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Director identified from company profile"
+    }
+  ],
+  "social_profiles": [],
+  "media_mentions": [],
+  "research_notes": "Company profile lists three executives: President and two Directors. No additional personnel information available on company website."
+}

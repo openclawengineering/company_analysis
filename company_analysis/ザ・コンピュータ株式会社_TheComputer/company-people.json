@@ -1,1 +1,27 @@
-[]
+{
+  "company": {
+    "name_jp": "ザ・コンピュータ株式会社",
+    "name_en": "The Computer Co., Ltd.",
+    "website": "http://www.thecomputer.co.jp/"
+  },
+  "people": [
+    {
+      "name": "與良 博和",
+      "title": "取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "與良 剛",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-01"
+}

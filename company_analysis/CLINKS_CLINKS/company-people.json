@@ -1,43 +1,15 @@
-[
-  {
-    "name": "河原 浩介",
-    "title": "代表取締役"
-  },
-  {
-    "name": "元木 喜仁",
-    "title": "常務取締役"
-  },
-  {
-    "name": "高野 拓郎",
-    "title": "常務取締役"
-  },
-  {
-    "name": "木村 俊之",
-    "title": "常務取締役"
-  },
-  {
-    "name": "山本 尚輝",
-    "title": "取締役"
-  },
-  {
-    "name": "金森 大",
-    "title": "取締役"
-  },
-  {
-    "name": "片岡 毅",
-    "title": "取締役"
-  },
-  {
-    "name": "長 重孝",
-    "title": "社外取締役"
-  },
-  {
-    "name": "菊池 文彬",
-    "title": "非常勤社外取締役",
-    "note": "株式会社ヒューマンテクノシステムホールディングス 代表取締役"
-  },
-  {
-    "name": "佐藤 香代",
-    "title": "監査役"
-  }
-]
+{
+  "people": [
+    {
+      "name": "Kawara Kosuke",
+      "japanese_name": "河原 浩介",
+      "title": "Representative Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Representative Director identified from company profile"
+    }
+  ],
+  "social_profiles": [],
+  "media_mentions": [],
+  "research_notes": "Company profile lists Kawara Kosuke as Representative Director. No additional personnel information available on company website. No media mentions currently found."
+}

@@ -1,139 +1,31 @@
 {
-  "company": {
-    "name_jp": "NTTテクノクロス株式会社",
-    "name_en": "NTT TechnoCross Corporation",
-    "website": "https://www.ntt-tx.co.jp"
-  },
   "people": [
     {
-      "name": "岡 敦子",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Okajunco",
+      "japanese_name": "岡 敦子",
+      "title": "President/Representative Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "President and Representative Director identified from company profile"
     },
     {
-      "name": "羽生 誠",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Hase Makoto",
+      "japanese_name": "羽生 誠",
+      "title": "Managing Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Managing Director identified from company profile"
     },
     {
-      "name": "立元 慎也",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "関 秀敏",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "吉場 武",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "有田 孝宏",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "梶原 憲一",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "飯塚 哲也",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "木原 誠司",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "高橋 郁也",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "南 憲一",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "冨安 寛",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "池田 篤志",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小出 利一",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "館 隆志",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "和田 真一",
-      "title": "監査役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Tatemoto Shin'ya",
+      "japanese_name": "立元 慎也",
+      "title": "Managing Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Managing Director identified from company profile"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-01"
+  "media_mentions": [],
+  "research_notes": "Company profile lists Board of Directors including President/Representative Director and two Managing Directors. Large ICT company with 1,920 employees and parent company NTT Corporation. No additional personnel information available on company website."
 }

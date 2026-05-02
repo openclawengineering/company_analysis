@@ -1,59 +1,55 @@
 {
-  "company": {
-    "name_jp": "CLINKS株式会社",
-    "name_en": "CLINKS Co., Ltd.",
-    "website": "https://www.clinks.jp/"
-  },
   "people": [
     {
-      "name": "河原 浩介",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Kawa Hiroki",
+      "japanese_name": "河原 浩介",
+      "title": "President/Representative Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "President and Representative Director identified from company profile"
     },
     {
-      "name": "元木 喜仁",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Motoki Kiyoji",
+      "japanese_name": "元木 喜仁",
+      "title": "Managing Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Managing Director identified from company profile"
     },
     {
-      "name": "高野 拓郎",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Takuro Takano",
+      "japanese_name": "高野 拓郎",
+      "title": "Managing Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Managing Director identified from company profile"
     },
     {
-      "name": "木村 俊之",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Toshiyuki Kimura",
+      "japanese_name": "木村 俊之",
+      "title": "Managing Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Managing Director identified from company profile"
     },
     {
-      "name": "山本 尚輝",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Naoki Yamamoto",
+      "japanese_name": "山本 尚輝",
+      "title": "Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Director identified from company profile"
     },
     {
-      "name": "片岡 毅",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "name": "Dai Kanamori",
+      "japanese_name": "金森 大",
+      "title": "Director",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "notes": "Director identified from company profile"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-01"
+  "media_mentions": [],
+  "research_notes": "Company profile lists comprehensive executive team including President/Representative Director and multiple Managing Directors and Directors. No additional personnel information available on company website."
 }
