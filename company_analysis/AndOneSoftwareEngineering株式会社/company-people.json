@@ -1,15 +1,35 @@
 {
+  "company": {
+    "name_jp": "AndOneSoftwareEngineering株式会社",
+    "name_en": "AndOneSoftwareEngineering",
+    "website": "https://andone-eng.co.jp"
+  },
   "people": [
     {
-      "name": "Azusa Jin",
-      "japanese_name": "芦澤 仁",
-      "title": "Representative President",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Found in company overview, no additional personnel information available on company website"
+      "name": "芦澤 仁",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高橋 信春",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "清水 康",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
-  "media_mentions": [],
-  "research_notes": "Company website has limited personnel information. Only representative president identified from company overview page."
+  "last_updated": "2026-05-02"
 }

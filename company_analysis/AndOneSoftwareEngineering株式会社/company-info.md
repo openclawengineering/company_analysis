@@ -92,7 +92,10 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[ITmedia]** — 2026-05-02 — Digital communication solutions provider specializing in sports scoring systems and AI applications ([https://andone-eng.co.jp](https://andone-eng.co.jp))
+- **[Company Website]** — 2026-02-21 — Announced 7th anniversary celebration and continued growth in digital communication platform development ([https://andone-eng.co.jp](https://andone-eng.co.jp))
+- **[Company Website]** — 2025-08-28 — Added transcription functionality to Primus Gateway communication platform ([https://andone-eng.co.jp](https://andone-eng.co.jp))
+- **[Company Website]** — 2025-01-10 — Announced website renewal to improve user experience and service presentation ([https://andone-eng.co.jp](https://andone-eng.co.jp))
 
 ---
 *Research completed: April 25, 2026*
