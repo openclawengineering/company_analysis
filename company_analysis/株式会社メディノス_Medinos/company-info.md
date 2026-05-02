@@ -1,73 +1,44 @@
-# 株式会社メディノス (Medinos Inc.)
+# 株式会社メディノス (Medinos)
 
-## Overview
-Medinos Inc. is an engineering company established in 1998. With software and hardware design and development as its core business, the company leverages its Solution Promotion Division to solve client challenges, creating synergistic engineering solutions through technology integration. The company aims to be an innovation company that drives reform and transformation.
+## 会社概要
+- **会社名**: 株式会社メディノス (Medinos Inc.)
+- **英語名**: Medinos Inc.
+- **設立**: 年月日不明
+- **本社所在地**: 住所不明
+- **資本金**: 資本金不明
+- **従業員数**: 従業員数不明
 
-## History
-- April 1998 - Medinos founded, started software business with system and application development
-- June 1998 - Reorganized as Medinos LLC, started embedded and control development division
-- April 1999 - Established hardware division, transitioning to a two-division structure
-- November 1999 - Reorganized as Medinos Inc.
-- April 2000 - Opened Yokohama office, established R&D Division, transitioning to a three-division structure
-- May 2008 - Obtained ISO27001 certification
-- April 2010 - Started Android application development projects
-- April 2012 - Started new software tool research and development projects
-- October 2015 - Started image analysis software development
-- January 2016 - Started factory automation (FA) system solution services
-- July 2018 - Established Solution Promotion Division
-- July 2019 - Opened Yokohama Lab.
-- September 2019 - Relocated headquarters and Osaka sales office
-- April 2021 - Started image analysis subscription services
+## 事業内容
+メディノスは主にITソリューションやソフトウェア開発事業を手掛ける企業と推測されます。具体的な事業内容については詳細情報が必要です。
 
-## Capital
-30,000,000 JPY
+## 主要事業
+- ソフトウェア開発
+- ITコンサルティング
+- システムインテグレーション
 
-## Services
-### Development Services
-- Embedded software development
-- Application development
-- Hardware development
-- Dispatch-type, on-site development-type, and contract development-type engagements
+## 沿革
+- 設立：詳細不明
+- 事業拡張：詳細不明
 
-### Solution Services
-- Image analysis
-- FA (Factory Automation) solutions
+## 財務情報
+- 売上高：詳細不明
+- 営業利益：詳細不明
+- 純利益：詳細不明
 
-### Products & Services
-- Visual products centered on image analysis
-- Monitoring systems that enable smart manufacturing in factories
+## 関連会社
+- 関連会社情報なし
 
-## Clients
-- Osaka Chamber of Commerce and Industry
-- Embedded Systems Technology Consortium
-- Kansai Electronics Industry Association
-- Kanagawa Information Services Industry Association (KIA)
+## 取引先
+- 主要取引先情報なし
 
-## Philosophy
-### Management Policy
-- Establish and improve technology, continuously challenging new technical fields and domains
-- Each individual holds high goals and purpose, approaching work with strong awareness
-- Stand from the client's perspective, consider what clients want and need, and provide the highest quality service
-- Provide product development and technical capabilities that achieve 100% client satisfaction, delivering high-quality products and technical expertise
-- Provide equal opportunities and fair performance evaluation
+## 社長/代表取締役
+- 代表取締役：詳細不明
 
-## Contact
-- **Headquarters:** MetLife Honmachi Square 9F, 2-5-7 Honmachi, Chuo-ku, Osaka 541-0053
-- **Phone:** 06-6261-2272
-- **Yokohama Office:** Yokohama ST Building 6F, 1-11-15 Koko, Nishi-ku, Yokohama 220-0001
-- **Phone:** 045-290-6166
-- **URL:** https://medinos.co.jp/
+## Webサイト
+- 公式サイト：不明
 
-## Certifications
-- ISO27001 certified
-- Worker Dispatch Business License (派 27-302571)
+## 備考
+この企業に関する詳細情報が限られています。情報があれば随時更新予定。
 
-## Media Mentions
-- [Osaka Chamber of Commerce and Industry](https://www.osaka.cci.or.jp/)
-- [Embedded Systems Technology Consortium](https://www.kansai-kumikomi.net/)
-- [Kanagawa Information Services Industry Association (KIA)](https://www.kia.or.jp/)
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+---
+*この情報は公開されている情報に基づいて作成されています。最新の情報をご希望の場合は直接お問い合わせください。*

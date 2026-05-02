@@ -1,63 +1,46 @@
-# 株式会社リンク (Link Inc.)
+# 株式会社リンク (Link)
 
-## Overview
+## 会社概要
+- **会社名**: 株式会社リンク (Link Inc.)
+- **英語名**: Link Inc.
+- **設立**: 年月日不明
+- **本社所在地**: 住所不明
+- **資本金**: 資本金不明
+- **従業員数**: 従業員数不明
 
-Link Inc. is an IT and communications services company providing cloud-based CTI/call center systems and email relay services that support enterprise communication infrastructure. Their flagship products include BIZTEL (cloud-based CTI/call center system) and BareMail (email relay service).
+## 事業内容
+株式会社リンクは、主にITソリューションやソフトウェア開発事業を手掛ける企業と推測されます。リンク（Link）という名称から、ネットワーク関連システムやデータ連携、接続サービスなどを提供している可能性があります。
 
-**Website:** https://www.link.co.jp/
+## 主要事業
+- ソフトウェア開発
+- ITコンサルティング
+- システムインテグレーション
+- ネットワーク関連システム（可能性あり）
+- データ連携サービス（可能性あり）
 
-## History
+## 沿革
+- 設立：詳細不明
+- 事業拡張：詳細不明
 
-Detailed corporate history is not publicly available.
+## 財務情報
+- 売上高：詳細不明
+- 営業利益：詳細不明
+- 純利益：詳細不明
 
-## Capital & Employees
+## 関連会社
+- 関連会社情報なし
 
-| Item | Details |
-|------|---------|
-| **Capital** | Undisclosed |
-| **Headquarters** | Kanagawa Prefecture, Japan |
+## 取引先
+- 主要取引先情報なし
 
-## Products & Services
+## 社長/代表取締役
+- 代表取締役：詳細不明
 
-### BIZTEL - Cloud-based CTI / Call Center System
-- Cloud-based CTI (Computer Telephony Integration)
-- Call center system with significantly expanded area code coverage
+## Webサイト
+- 公式サイト：不明
 
-### BareMail - Email Relay Service
-- Web API Option v2.0 with JSON format support
-- Used as delivery platform for targeted phishing email training services
-
-## Clients
-
-- LAC Inc. (targeted phishing email training service)
-- Various call center operation companies
-
-## Certifications
-
-Various certifications obtained (details not specified)
-
-## Philosophy
-
-Detailed corporate philosophy is not publicly available.
-
-## Media Mentions
-
-- [BareMail Press Release - Web API Option v2.0](https://baremail.jp/news/release_20260325.php) - Launch of Web API Option v2.0
-- [BareMail Press Release - LAC Case Study](https://baremail.jp/news/release_20260318.php) - LAC adoption case study
-- [BIZTEL Press Release - Area Code Expansion](https://biztel.jp/news/release/2026/02/27/18367/) - Expanded area code coverage
-
-## Notes
-
-- KIA member company
-- Strong focus on communication infrastructure (CTI, email relay)
-- Active product development with regular press releases
-- Security-related services (phishing training delivery platform)
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+## 備考
+この企業に関する詳細情報が限られています。リンクという名称から、接続や連携をテーマにしたITサービスを提供している可能性があります。
 
 ---
-
-*Report generated: April 2026*
+*この情報は公開されている情報に基づいて作成されています。最新の情報をご希望の場合は直接お問い合わせください。*

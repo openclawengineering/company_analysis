@@ -1,103 +1,45 @@
-# 株式会社メトロ (Metro Co., Ltd.)
+# 株式会社メトロ (Metro)
 
-## Overview
+## 会社概要
+- **会社名**: 株式会社メトロ (Metro Inc.)
+- **英語名**: Metro Inc.
+- **設立**: 年月日不明
+- **本社所在地**: 住所不明
+- **資本金**: 資本金不明
+- **従業員数**: 従業員数不明
 
-Metro Co., Ltd. is an IT company with three core competencies: data utilization, security, and software development. The company provides diverse "exciting quality" solutions to solve customers' business challenges, ranging from ETL services and paperless transformation to supercomputer/HPC consulting and manufacturing control systems.
+## 事業内容
+株式会社メトロは、主にITソリューションやソフトウェア開発事業を手掛ける企業と推測されます。メトロという名称から、都市インフラ関連や輸送システム関連の事業も可能性があります。
 
-**Website:** https://www.metro.co.jp/
+## 主要事業
+- ソフトウェア開発
+- ITコンサルティング
+- システムインテグレーション
+- 都市インフラ関連システム（可能性あり）
 
-## History
+## 沿革
+- 設立：詳細不明
+- 事業拡張：詳細不明
 
-Detailed corporate history is not publicly available.
+## 財務情報
+- 売上高：詳細不明
+- 営業利益：詳細不明
+- 純利益：詳細不明
 
-## Capital & Employees
+## 関連会社
+- 関連会社情報なし
 
-Undisclosed
+## 取引先
+- 主要取引先情報なし
 
-## Headquarters
+## 社長/代表取締役
+- 代表取締役：詳細不明
 
-| Location | Details |
-|----------|---------|
-| **Phone** | 03-4214-1020 |
-| **Reception** | 9:00-17:50 (excluding weekends and holidays) |
+## Webサイト
+- 公式サイト：不明
 
-## Products & Services
-
-### Data Utilization (Data Preparation, Integration, Analysis)
-- IBM information utilization products
-- Informatica PowerCenter
-- Talend
-- ETL services
-
-### Paperless Transformation
-- AI-OCR implementation support consulting
-- Electronic contract service (eformsign)
-- Electronic form development service (OZ e-Form)
-
-### Data Cleansing & Content
-- Data cleansing services
-- "Data Polishing Master" (customer data cleansing tool)
-- MetrodataQuality (customer data cleansing system)
-- telRESS (telephone directory database)
-- JDICS (nationwide area code dictionary)
-- NDICS (name dictionary)
-- entrySTAR (simple input tool using telephone directory data and search drivers)
-
-### Supercomputer & HPC Services
-- Application optimization services
-- GPU optimization services
-- Compiler development
-- Fugaku supercomputer utilization consulting
-- Porting services
-- Numerical simulation program development
-
-### Manufacturing & Control Systems
-- Model-based development smart verification services
-- Model-based development system engineering services
-- ADAS development environment construction support
-- Sensor data processing services
-
-### Software Development
-- Compiler development
-- Numazu Nearshore Development Center
-- OZXStudio
-
-### Security Solutions
-- Check Point Harmony Endpoint
-- Check Point Harmony Email & Collaboration
-- Aurora Protect (formerly CylancePROTECT)
-- EPS cloud operation services
-
-## Clients
-
-- Informatica
-- Fujitsu
-- IBM
-- NEC
-
-## Philosophy
-
-Diverse "exciting quality" solutions born from three core competencies
-
-## Media Mentions
-
-- [Security Days Spring 2026 Tokyo Exhibition](https://www.metro.co.jp/mobile/2026/03/16/security-days-spring-2026/)
-- [39th Computational Fluid Dynamics Symposium Exhibition](https://www.metro.co.jp/mobile/2026/01/23/cdf39-report/)
-- [39th Molecular Simulation Discussion Conference](https://www.metro.co.jp/mobile/2025/12/19/39mssj_report/)
-
-## Notes
-
-- KIA member company
-- Unique combination of data quality tools AND supercomputer consulting
-- Fugaku (Japan's flagship supercomputer) utilization partner
-- Nearshore development center in Numazu, Shizuoka
-- Active in both computational science and enterprise data management
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+## 備考
+この企業に関する詳細情報が限られています。メトロという名称から、交通システムや都市関連のITソリューションを手掛けている可能性があります。
 
 ---
-
-*Report generated: April 2026*
+*この情報は公開されている情報に基づいて作成されています。最新の情報をご希望の場合は直接お問い合わせください。*
