@@ -1,101 +1,67 @@
-# AndOneSoftwareEngineering株式会社 (And One Software Engineering Co., Ltd.)
+# And One Software Engineering 株式会社
 
 ## Company Overview
-- **Japanese Name**: AndOneSoftwareEngineering株式会社 / アンドワンソフトウェアエンジニアリング株式会社
-- **English Name**: And One Software Engineering Co., Ltd.
-- **Website**: https://andone-eng.co.jp
-- **Location**: Kanagawa Prefecture, Kawasaki City
-- **Founded**: February 21, 2019
-- **Capital**: 3,000,000 JPY (increased from initial 7,000,000 JPY)
-- **Representative President**: Azusa Jin (芦澤 仁)
 
-## Company Details
-- **Address**: 〒210-0012 神奈川県川崎市川崎区宮前町２番２号川崎エヌズビル２Ｆ
-- **Tel/Fax**: 044-280-6731
-- **Industry**: Software Development, IT Services
-- **Employees**: Information not specified on website
-- **Business Type**: Software development, system integration
+| Item | Details |
+|------|---------|
+| **Company Name** | And One Software Engineering 株式会社 |
+| **English Name** | And One Software Engineering Inc. |
+| **Website** | https://andone-eng.co.jp/ |
+| **Headquarters** | 〒210-0012 神奈川県川崎市川崎区宮前町２番２号川崎エヌズビル２Ｆ |
+| **Founded** | 2019年（平成31年）2月21日 |
+| **Capital** | 3,000万円 |
+| **Employees** | Not specified |
+| **Tel** | 044-280-6731 |
+| **Email** | info@andone-eng.co.jp |
 
-## Services and Products
+## Business Description
 
-### Core Services
-1. **Complete Software Development Lifecycle**
-   - System proposal, requirements definition, design, development, testing
-   - On-site implementation, operation guidance, maintenance
-   - High-quality software development incorporating field feedback
+And One Software Engineering 株式会社は、2019年に設立されたIT企業で、システム技術者の育成及び指導、システム企画・開発、Webサイト制作、ソフトウェア開発などを事業内容としています。ISO/IEC 27001認証を取得しており、情報セキュリティに対応しています。
 
-### Specialized Systems
+### 事業内容
+- システム技術者の育成及び指導並びにそれらに関するコンサルティング
+- システムの企画、デザイン開発、設計及び制作
+- Webサイトの企画、デザイン開発、設計及び制作
+- システムの保守、更新及びリバースエンジニアリング
+- ソフトウェア及びハードウェアの開発、設計及び制作
+- ソフトウェアパッケージの販売
+- 情報提供サービス業並びに各種情報の収集及び販売
+- 労働者派遣事業
 
-#### ArenaScoreDisplaySystem (ASDS)
-- **Description**: Indoor sports score display system
-- **Sports Covered**: Basketball, Handball, Volleyball, Table Tennis, Martial Arts, Futsal
-- **Adoption**: Used in professional basketball and handball official games
-- **Features**: Team player introductions with elaborate displays, synchronized timing across different equipment
-- **Twitter**: https://twitter.com/asds_official
+## Company History
 
-#### Public Racing Services
-- **Sports**: Horse racing, cycling races, boat racing, auto racing
-- **Services**: 
-  - Voice guidance, odds/race result information displays
-  - Special seating sales, entry gates, point management
-  - Membership management, event coordination
-  - Player prize calculation and staff salary calculation
+### 2023年
+- 2023/02/03 - 令和4年度 川崎市 働き方改革・生産性向上推進事業者の表彰受賞
 
-#### Various Facility Guidance Systems
-- **Facilities**: Public/private facilities, airports, baseball stadiums, soccer fields
-- **Services**: Event guidance, signage control, flight schedules, large scoreboards
-- **Other**: Hospitals, pharmacies, libraries, art museums, wedding halls, funeral halls
+### 2022年
+- 2022/07/15 - ISO/IEC 27001 情報セキュリティマネジメントシステム認証取得（登録証番号 JQA-IM1905）
+- 2022/04/01 - 労働者派遣事業の許可取得（許可番号 派14-30355）
 
-#### Remote Monitoring and Control
-- **Infrastructure**: Dams, water gates, rivers, water levels, tides
-- **Data Monitoring**: Weather, temperature, rainfall, wind, earthquake intensity
-- **Traffic Analysis**: Communication line traffic volume
-- **Functions**: Centralized monitoring, analysis, display, report generation
+### 2021年
+- 2021/12/22 - 本社事務所移転
+- 2021/07/30 - 川崎市SDGs登録・認証制度「かわさきSDGsパートナー」にて「かわさきSDGsゴールドパートナー」に認証
+- 2021/02/21 - 資本金を3,000万円に増資
 
-#### AI Systems
-- **AI Image Analysis**: Extracts features from camera/sensor images, analyzes color, shape, length, area, speed
-- **AI Prediction**: Deep learning based predictions using accumulated data
-- **AI Model Development**: Continuous refinement with latest data for improved accuracy
-- **Example**: AIDream (https://aidream.online) - boat race predictions based on 5 years of historical data
+### 2020年
+- 2020/03/01 - 神奈川県情報サービス産業協会加入
+- 2020/02/21 - 取締役 高橋信春 就任
 
-## Company Achievements and Certifications
+### 2019年
+- 2019/02/27 - 第２回スポーツビジネス産業展に"ArenaScoreDisplaySystem"を展示
+- 2019/02/21 - ホームページ開設・会社設立（資本金700万円）
 
-### 2023
-- **February 21**: Celebrated 7th anniversary
-- **Award**: Kawasaki City Working Style Reform and Productivity Improvement Promoter (令和4年度 川崎市 働き方改革・生産性向上推進事業者)
+## Certifications and Qualifications
 
-### 2022
-- **July 15**: ISO/IEC 27001 Information Security Management System Certification (Registration No. JQA-IM1905)
-- **April 1**: Worker Dispatch Business Permit (No. 派14-303355)
-
-### 2021
-- **December 22**: Headquarters office relocation to current address
-- **July 30**: Certified as "Kawasaki SDGs Gold Partner" in Kawasaki City SDGs Registration and Certification System
-- **February 21**: Capital increased to 3,000,000 JPY
-
-### 2020
-- **March 1**: Joined Kanagawa Information Services Industry Association
-- **February 21**: Joined National Health Insurance Association
-
-## Company Profile Summary
-- **Business Focus**: Specialized in sports scoring systems, public racing services, facility guidance, remote monitoring, and AI solutions
-- **Technical Expertise**: Synchronized timing systems, real-time data processing, AI/ML implementation
-- **Market Presence**: Systems adopted in professional sports venues, public infrastructure, and commercial facilities
-- **Innovation**: Strong focus on AI applications and data-driven solutions
-- **Certifications**: ISO 27001 certified, recognized for working environment improvements and SDGs initiatives
-
-## Data Quality
-- **Source**: Official company website (andone-eng.co.jp)
-- **Completeness**: High - Comprehensive information about services, history, and achievements
-- **Last Updated**: February 2026 (7th anniversary news)
-
+- **ISO/IEC 27001** - 情報セキュリティマネジメントシステム認証（登録証番号 JQA-IM1905）
+- **労働者派遣事業許可** - 許可番号 派14-303355
+- **かわさきSDGsゴールドパートナー** - 川崎市SDGs登録・認証制度
 
 ## Company Mentions
 
-- **[ITmedia]** — 2026-05-02 — Digital communication solutions provider specializing in sports scoring systems and AI applications ([https://andone-eng.co.jp](https://andone-eng.co.jp))
-- **[Company Website]** — 2026-02-21 — Announced 7th anniversary celebration and continued growth in digital communication platform development ([https://andone-eng.co.jp](https://andone-eng.co.jp))
-- **[Company Website]** — 2025-08-28 — Added transcription functionality to Primus Gateway communication platform ([https://andone-eng.co.jp](https://andone-eng.co.jp))
-- **[Company Website]** — 2025-01-10 — Announced website renewal to improve user experience and service presentation ([https://andone-eng.co.jp](https://andone-eng.co.jp))
+*注: 企業言及の検索にはWeb検索が必要です。現在Web検索機能が利用できないため、このセクションは空です。*
+
+*Note: Web search functionality is currently unavailable, so company mentions section is empty.*
 
 ---
-*Research completed: April 25, 2026*
+*Report generated: 2026-05-03*
+*Research status: Basic company information extracted, web search needed for mentions and social profiles*

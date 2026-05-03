@@ -1,12 +1,12 @@
 {
   "company": {
-    "name_jp": "AndOneSoftwareEngineering株式会社",
-    "name_en": "AndOneSoftwareEngineering",
-    "website": "https://andone-eng.co.jp"
+    "name_jp": "And One Software Engineering 株式会社",
+    "name_en": "And One Software Engineering Inc.",
+    "website": "https://andone-eng.co.jp/"
   },
   "people": [
     {
-      "name": "芦澤 仁",
+      "name": "芦澤",
       "title": "代表取締役社長",
       "linkedin": null,
       "twitter": null,
@@ -14,7 +14,7 @@
       "email": ""
     },
     {
-      "name": "高橋 信春",
+      "name": "高橋",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -22,7 +22,7 @@
       "email": ""
     },
     {
-      "name": "清水 康",
+      "name": "清水",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -31,5 +31,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-02"
+  "last_updated": "2026-05-03"
 }
