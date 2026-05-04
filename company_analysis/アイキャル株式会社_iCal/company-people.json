@@ -1,11 +1,19 @@
-[
-  {
-    "name": "Odani Kenichi",
-    "name_ja": "小谷 謙一",
-    "role": "Representative Director / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.ical.jp/company/"
-  }
-]
+{
+  "company": {
+    "name_jp": "株式会社アイキャル",
+    "name_en": "iCal Inc.",
+    "website": "https://www.ical.jp"
+  },
+  "people": [
+    {
+      "name": "小谷 謙一",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

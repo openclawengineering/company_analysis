@@ -1,1 +1,19 @@
-[]
+{
+  "company": {
+    "name_jp": "SGビジネス株式会社",
+    "name_en": "SGB",
+    "website": "https://www.sgb.co.jp/"
+  },
+  "people": [
+    {
+      "name": "渡邉 一平",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

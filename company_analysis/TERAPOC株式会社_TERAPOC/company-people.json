@@ -1,1 +1,11 @@
-[]
+{
+  "company": {
+    "name_jp": "TERAPOC株式会社",
+    "name_en": "TERAPOC Inc.",
+    "website": "https://terapoc.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-05-04",
+  "research_notes": "Executive team information not publicly available. Company specializes in industrial machine control software development with focus on IoT, factory automation, and broadcast equipment control systems."
+}
