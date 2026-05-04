@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "インフォメーションサービスフォース株式会社",
+    "name_en": "Information Service Force Co., Ltd.",
+    "website": "https://www.isforce.jp/"
+  },
+  "people": [
+    {
+      "name": "",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

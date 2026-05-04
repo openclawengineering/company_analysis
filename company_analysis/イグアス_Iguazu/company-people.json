@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "Iguazu Co., Ltd.",
+    "name_en": "Iguazu Co., Ltd.",
+    "website": "https://www.i-guazu.co.jp/"
+  },
+  "people": [
+    {
+      "name": "矢花 達也",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

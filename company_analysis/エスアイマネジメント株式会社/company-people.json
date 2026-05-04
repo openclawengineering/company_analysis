@@ -1,10 +1,19 @@
-[
-  {
-    "name_jp": "藤村 基寛",
-    "name_en": "Motohiro Fujimura",
-    "position_jp": "代表取締役",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://www.si-m.com/company/"
-  }
-]
+{
+  "company": {
+    "name_jp": "エスアイマネジメント株式会社",
+    "name_en": "SI Management Co., Ltd.",
+    "website": "https://www.si-m.com/"
+  },
+  "people": [
+    {
+      "name": "藤村 基寛",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

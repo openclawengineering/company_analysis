@@ -1,1 +1,19 @@
-[]
+{
+  "company": {
+    "name_jp": "アルファウェーブ株式会社",
+    "name_en": "AlphaWave Corporation",
+    "website": "https://www.alphawave.co.jp/"
+  },
+  "people": [
+    {
+      "name": "",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

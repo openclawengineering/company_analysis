@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "ウィザースシステム",
+    "name_en": "WithearthSystem",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

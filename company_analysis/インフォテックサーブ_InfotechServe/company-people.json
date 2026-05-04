@@ -1,1 +1,19 @@
-[]
+{
+  "company": {
+    "name_jp": "インフォテックサーブ株式会社",
+    "name_en": "Infotech Serve Co., Ltd.",
+    "website": "https://www.infotech-s.co.jp/"
+  },
+  "people": [
+    {
+      "name": "",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "Alpha Media Co., Ltd.",
+    "name_en": "Alpha Media Co., Ltd.",
+    "website": "https://www.alphamedia.co.jp/"
+  },
+  "people": [
+    {
+      "name": "小湊 宏之",
+      "title": "President & CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

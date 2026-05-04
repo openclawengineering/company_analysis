@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "株式会社インフォリンク",
+    "name_en": "Infolink Ltd.",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "竹田好宏",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

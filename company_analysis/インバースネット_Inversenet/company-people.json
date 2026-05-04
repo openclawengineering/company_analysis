@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "インバースネット株式会社",
+    "name_en": "Inversenet Inc.",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "山本 慶次郎",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

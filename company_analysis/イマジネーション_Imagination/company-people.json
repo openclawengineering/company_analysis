@@ -1,1 +1,19 @@
-{}
+{
+  "company": {
+    "name_jp": "イマジネーション株式会社",
+    "name_en": "Imagination Co., Ltd.",
+    "website": "https://www.imagination.co.jp/"
+  },
+  "people": [
+    {
+      "name": "小笠原 有則",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}
