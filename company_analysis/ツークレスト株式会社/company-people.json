@@ -1,17 +1,28 @@
 {
     "company": {
-        "name": "ツークレスト株式会社",
-        "name_en": "",
+        "name_jp": "ツークレスト株式会社",
+        "name_en": "Two Crest Co., Ltd.",
         "website": "https://www.twocrest.com"
     },
     "people": [
         {
             "name": "川田真司",
-            "title": "代表取締役社長",
+            "title": "代表取締役",
             "linkedin": "https://jp.linkedin.com/in/%E7%9C%9F%E5%8F%B8-%E8%A1%A8-1b56",
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [
+        {
+            "name": "川田真司",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E7%9C%9F%E5%8F%B8-%E8%A1%A8-1b56",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

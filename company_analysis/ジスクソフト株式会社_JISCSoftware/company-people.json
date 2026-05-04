@@ -92,8 +92,57 @@
             "twitter": null,
             "department": "",
             "email": ""
+        },
+        {
+            "name": "上坂昌和",
+            "title": "相談役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "白川正也",
+            "title": "顧問",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "清里至",
+            "title": "顧問",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "粟津潔貴",
+            "title": "顧問",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "伊藤祐助",
+            "title": "顧問",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "social_profiles": [],
-    "last_updated": "2026-05-01"
+    "social_profiles": [
+        {
+            "name": "冨澤清",
+            "title": "取締役会長",
+            "linkedin": "https://jp.linkedin.com/in/裕二-冨澤-8ba896117",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

@@ -1,17 +1,59 @@
 {
     "company": {
-        "name": "ディエスソリューション株式会社",
-        "name_en": "",
+        "name_jp": "ディエスソリューション株式会社",
+        "name_en": "D-Solution Inc.",
         "website": "https://www.d-solution.co.jp"
     },
     "people": [
         {
-            "name": "橋本武",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E6%AD%A6-%E6%A9%8B%E6%9C%AC-1a22",
-            "twitter": null
+            "name": "大澤真理",
+            "title": "代表取締役 CEO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "大澤隆之",
+            "title": "CCO/CSO/COO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "安元政",
+            "title": "顧問公認会計士・税理士",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "吉成安友",
+            "title": "顧問弁護士",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "吉原朋重",
+            "title": "顧問弁理士",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "上塚寛",
+            "title": "顧問",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

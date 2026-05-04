@@ -1,52 +1,67 @@
 {
   "company": {
     "name_jp": "ソリューション・ラボ・ジャパン株式会社",
-    "name_en": "ソリューション・ラボ・ジャパン",
+    "name_en": "Solution Lab Japan Co., Ltd.",
     "website": "https://www.slj-net.co.jp/"
   },
   "people": [
     {
-      "name": "あいさつ",
-      "title": "社長",
+      "name": "森原 達夫",
+      "title": "代表取締役社長",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "リング",
-      "title": "エンジニア",
+      "name": "高橋 渉",
+      "title": "取締役副社長",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "に向けたILE",
-      "title": "プログラマー",
+      "name": "宮本 範生",
+      "title": "専務取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "社長",
-      "title": "会社概要TOP",
+      "name": "平片 才知",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高橋 昌宏",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "陶山 哲",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "天城 和美",
+      "title": "監査役",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     }
   ],
-  "social_profiles": [
-    {
-      "name": "あいさつ",
-      "title": "社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
 }
