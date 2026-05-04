@@ -1,44 +1,44 @@
 {
-  "company": {
-    "name_jp": "コアフューテック株式会社",
-    "name_en": "CoreFutec Co., Ltd.",
-    "website": "https://www.corefutec.co.jp/"
-  },
-  "people": [
-    {
-      "name": "松本正己",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E6%AD%A3%E5%B7%B1-%E6%9D%BE%E6%9C%AC-a406812a3",
-      "twitter": "https://x.com/matsutax133381/with_replies",
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "コアフューテック株式会社",
+        "name_en": "CoreFutec Co., Ltd.",
+        "website": "https://www.corefutec.co.jp/"
     },
-    {
-      "name": "長坂厚",
-      "title": "取締役",
-      "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
-      "twitter": "https://x.com/ryohei0817",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "松本正己",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E6%AD%A3%E5%B7%B1-%E6%9D%BE%E6%9C%AC-a406812a3",
-      "twitter": "https://x.com/matsutax133381/with_replies",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "長坂厚",
-      "title": "取締役",
-      "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
-      "twitter": "https://x.com/ryohei0817",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "松本正己",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": "https://x.com/matsutax133381/with_replies",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "長坂厚",
+            "title": "取締役",
+            "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
+            "twitter": "https://x.com/ryohei0817",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "松本正己",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E6%AD%A3%E5%B7%B1-%E6%9D%BE%E6%9C%AC-a406812a3",
+            "twitter": "https://x.com/matsutax133381/with_replies",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "長坂厚",
+            "title": "取締役",
+            "linkedin": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
+            "twitter": "https://x.com/ryohei0817",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

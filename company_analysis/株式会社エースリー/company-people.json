@@ -1,76 +1,76 @@
 {
-  "company": {
-    "name_jp": "株式会社エースリー",
-    "name_en": "エースリー",
-    "website": "https://www.acely.co.jp/"
-  },
-  "people": [
-    {
-      "name": "交代のお知らせ",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社エースリー",
+        "name_en": "エースリー",
+        "website": "https://www.acely.co.jp/"
     },
-    {
-      "name": "あいさつ",
-      "title": "社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "加藤",
-      "title": "代表取締役社長",
-      "linkedin": "https://jp.linkedin.com/in/%E5%8A%A0%E8%97%A4-%E6%A0%AA-%EF%BD%85%EF%BD%85%EF%BD%8C%EF%BC%92%EF%BC%91%E5%8A%A0%E8%97%A4-57374696",
-      "twitter": "https://x.com/katochan0301",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "代表取締役社長",
-      "title": "ニュース",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "ービス）を率先して行う。",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "交代のお知らせ",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "あいさつ",
-      "title": "社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "加藤",
-      "title": "代表取締役社長",
-      "linkedin": "https://jp.linkedin.com/in/%E5%8A%A0%E8%97%A4-%E6%A0%AA-%EF%BD%85%EF%BD%85%EF%BD%8C%EF%BC%92%EF%BC%91%E5%8A%A0%E8%97%A4-57374696",
-      "twitter": "https://x.com/katochan0301",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "交代のお知らせ",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "あいさつ",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "加藤",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "代表取締役社長",
+            "title": "ニュース",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長",
+            "title": "ービス）を率先して行う。",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "交代のお知らせ",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "あいさつ",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "加藤",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E5%8A%A0%E8%97%A4-%E6%A0%AA-%EF%BD%85%EF%BD%85%EF%BD%8C%EF%BC%92%EF%BC%91%E5%8A%A0%E8%97%A4-57374696",
+            "twitter": "https://x.com/katochan0301",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

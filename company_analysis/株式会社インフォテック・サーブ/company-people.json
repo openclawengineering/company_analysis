@@ -1,28 +1,28 @@
 {
-  "company": {
-    "name_jp": "株式会社インフォテック・サーブ",
-    "name_en": "インフォテック・サーブ",
-    "website": "https://www.infotech-s.co.jp/company.html"
-  },
-  "people": [
-    {
-      "name": "代表取締役",
-      "title": "代表者",
-      "linkedin": "https://jp.linkedin.com/in/fan-bingrui-1133ba1b6",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "代表取締役",
-      "title": "代表者",
-      "linkedin": "https://jp.linkedin.com/in/fan-bingrui-1133ba1b6",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "株式会社インフォテック・サーブ",
+        "name_en": "インフォテック・サーブ",
+        "website": "https://www.infotech-s.co.jp/company.html"
+    },
+    "people": [
+        {
+            "name": "代表取締役",
+            "title": "代表者",
+            "linkedin": "https://jp.linkedin.com/in/fan-bingrui-1133ba1b6",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "代表取締役",
+            "title": "代表者",
+            "linkedin": "https://jp.linkedin.com/in/fan-bingrui-1133ba1b6",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

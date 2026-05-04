@@ -1,132 +1,132 @@
 {
-  "company": {
-    "name_jp": "株式会社ワールドインテック",
-    "name_en": "ワールドインテック",
-    "website": "https://witc-rd.jp/corporate/"
-  },
-  "people": [
-    {
-      "name": "会長",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/toshihide-yui-4b4804132",
-      "twitter": "https://x.com/mgmn_cps?lang=ja",
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社ワールドインテック",
+        "name_en": "ワールドインテック",
+        "website": "https://witc-rd.jp/corporate/"
     },
-    {
-      "name": "副会長",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A3%95-%E5%8F%8B%E5%88%A9-27a582265",
-      "twitter": "https://x.com/SakaShima_0822",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長執行役員",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/shohei-shigematsu-038922136",
-      "twitter": "https://x.com/tohru_SnowPeak",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "副社長執行役員",
-      "title": "取締役",
-      "linkedin": "https://jp.linkedin.com/in/masahiroikenaga",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "常務執行役員",
-      "title": "取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E6%84%9B%E5%BD%A6-%E6%9D%BE%E7%94%B0-6a9b9b34",
-      "twitter": "https://x.com/Nishimyuran",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "執行役員",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "山村",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "古賀",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "加藤",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "会長兼社長",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "会長",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/toshihide-yui-4b4804132",
-      "twitter": "https://x.com/mgmn_cps?lang=ja",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "副会長",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A3%95-%E5%8F%8B%E5%88%A9-27a582265",
-      "twitter": "https://x.com/SakaShima_0822",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長執行役員",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/shohei-shigematsu-038922136",
-      "twitter": "https://x.com/tohru_SnowPeak",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "副社長執行役員",
-      "title": "取締役",
-      "linkedin": "https://jp.linkedin.com/in/masahiroikenaga",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "常務執行役員",
-      "title": "取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E6%84%9B%E5%BD%A6-%E6%9D%BE%E7%94%B0-6a9b9b34",
-      "twitter": "https://x.com/Nishimyuran",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "会長",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/toshihide-yui-4b4804132",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "副会長",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": "https://x.com/SakaShima_0822",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長執行役員",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/shohei-shigematsu-038922136",
+            "twitter": "https://x.com/tohru_SnowPeak",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "副社長執行役員",
+            "title": "取締役",
+            "linkedin": "https://jp.linkedin.com/in/masahiroikenaga",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "常務執行役員",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": "https://x.com/Nishimyuran",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "執行役員",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "山村",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "古賀",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "加藤",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "会長兼社長",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "会長",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/toshihide-yui-4b4804132",
+            "twitter": "https://x.com/mgmn_cps?lang=ja",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "副会長",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A3%95-%E5%8F%8B%E5%88%A9-27a582265",
+            "twitter": "https://x.com/SakaShima_0822",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長執行役員",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/shohei-shigematsu-038922136",
+            "twitter": "https://x.com/tohru_SnowPeak",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "副社長執行役員",
+            "title": "取締役",
+            "linkedin": "https://jp.linkedin.com/in/masahiroikenaga",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "常務執行役員",
+            "title": "取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E6%84%9B%E5%BD%A6-%E6%9D%BE%E7%94%B0-6a9b9b34",
+            "twitter": "https://x.com/Nishimyuran",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }
