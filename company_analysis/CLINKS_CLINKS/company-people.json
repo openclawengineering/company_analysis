@@ -1,15 +1,91 @@
 {
+  "company": {
+    "name_jp": "CLINKS株式会社",
+    "name_en": "CLINKS",
+    "website": "https://www.clinks.jp"
+  },
   "people": [
     {
-      "name": "Kawara Kosuke",
-      "japanese_name": "河原 浩介",
-      "title": "Representative Director",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Representative Director identified from company profile"
+      "name": "河原 浩介",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "元木 喜仁",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高野 拓郎",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村 俊之",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本 尚輝",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金森 大",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片岡 毅",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長 重孝",
+      "title": "社外取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "菊池 文彬",
+      "title": "非常勤",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤 香代",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
-  "media_mentions": [],
-  "research_notes": "Company profile lists Kawara Kosuke as Representative Director. No additional personnel information available on company website. No media mentions currently found."
+  "last_updated": "2026-05-03"
 }

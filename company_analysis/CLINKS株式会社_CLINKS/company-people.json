@@ -1,15 +1,91 @@
 {
+  "company": {
+    "name_jp": "CLINKS株式会社",
+    "name_en": "CLINKS",
+    "website": "https://www.clinks.jp"
+  },
   "people": [
     {
-      "name": "Kawara Kosuke",
-      "japanese_name": "河原 浩介",
+      "name": "河原 浩介",
       "title": "代表取締役",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "代表取締役として会社情報から特定"
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "元木 喜仁",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高野 拓郎",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村 俊之",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本 尚輝",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金森 大",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片岡 毅",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長 重孝",
+      "title": "社外取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "菊池 文彬",
+      "title": "非常勤",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤 香代",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
-  "media_mentions": [],
-  "research_notes": "会社情報から代表取締役を特定。2002年12月設立のIT企業で「AI DRIVEN COMPANY」を掲げている。1,277名の従業員を擁する中堅IT企業で、東京本社、大阪支社、横浜オフィスの3拠点体制。自社開発の対話型生成AIチャットツール「ナレフルチャット」などを展開。ウェブサイトから追加の人的情報は入手できませんでした。"
+  "last_updated": "2026-05-03"
 }

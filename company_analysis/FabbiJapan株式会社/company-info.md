@@ -111,9 +111,12 @@
 
 ## Company Mentions
 
-*注: 企業言及の検索にはWeb検索が必要です。現在Web検索機能が利用できないため、このセクションは空です。*
-
-*Note: Web search functionality is currently unavailable, so company mentions section is empty.*
+- **[Fabbi Holdings]** — 2026-04-30 — "AX MANAGEMENT INNOVATION – AI TRANSFORMATION"セミナー | FABBI x Brainworks ([https://fabbiholdings.com/recap-ax-management-innovation-ai-transformation-seminar-fabbi-x-brainworks-2/](https://fabbiholdings.com/recap-ax-management-innovation-ai-transformation-seminar-fabbi-x-brainworks-2/))
+- **[Fabbi Holdings]** — 2026-04-23 — MR LE DINH XUAN BACH: AN INTERNATIONAL ASSOCIATE PROFESSOR AND HIS MISSION TO ADVANCE FABBI AUSTRALIA'S POSITION ([https://fabbiholdings.com/ph-d-le-dinh-xuan-bach-an-international-associate-professor-and-his-mission-to-advance-fabbi-australias-position/](https://fabbiholdings.com/ph-d-le-dinh-xuan-bach-an-international-associate-professor-and-his-mission-to-advance-fabbi-australias-position/))
+- **[Fabbi Holdings]** — 2026-04-22 — HOW AI IS TRANSFORMING THE CONSTRUCTION INDUSTRY ([https://fabbiholdings.com/how-ai-is-transforming-the-construction-industry/](https://fabbiholdings.com/how-ai-is-transforming-the-construction-industry/))
+- **[Fabbi Holdings]** — 2026-04-18 — Assoc. Prof. Dinh Tuan Tran – CPO Fabbi: From Academic Research to Real-World AI Deployment ([https://fabbiholdings.com/assoc-prof-dinh-tuan-tran-cpo-fabbi-from-academic-research-to-real-world-ai-deployment/](https://fabbiholdings.com/assoc-prof-dinh-tuan-tran-cpo-fabbi-from-academic-research-to-real-world-ai-deployment/))
+- **[Fabbi Holdings]** — 2026-04-18 — AX MANAGEMENT INNOVATION SEMINAR: WHEN AI EVOLV ([https://fabbiholdings.com/ax-management-innovation-seminar-when-ai-evol/](https://fabbiholdings.com/ax-management-innovation-seminar-when-ai-evol/))
+- **[株式会社 Fabbi Japan]** — 2023-01 — 日本のベストベンチャー100選に選出（唯一のベトナム企業として） ([https://fabbiholdings.com/](https://fabbiholdings.com/))
 
 ---
 *Report generated: 2026-05-03*

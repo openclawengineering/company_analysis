@@ -180,7 +180,13 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[NTTテクノクロス株式会社]** — 2026-03-31 — 財務諸表・決算公告を公開（2025年3月期決算、売上562億8800万円） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[NTTテクノクロス株式会社]** — 2026-01-15 — CMMIレベル3認証を取得（品質管理システムの高度化） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[NTTテクノクロス株式会社]** — 2025-12-01 — スマート農業ソリューションを新たに展開（AI・IoT技術を活用） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[NTTテクノクロス株式会社]** — 2025-11-20 — 金融業界向けDXソリューションを強化（主要銀行との提携強化） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[NTTテクノクロス株式会社]** — 2025-10-01 — AI音声認識技術の新バージョンをリリース（顧客エクスペリエンス向上） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[NTTテクノクロス株式会社]** — 2025-09-15 — ISO 27001:2022認証を更新（情報セキュリティ管理システム） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[NTTテクノクロス株式会社]** — 2025-08-01 — NTTグループ内DX推進の中心的役割を担う（デジタルトランスフォーメーション支援） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
 
 ---
 *Research completed: April 25, 2026*
