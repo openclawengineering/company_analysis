@@ -1,10 +1,17 @@
-[
-  {
-    "name_jp": "小黒 雅己",
-    "name_en": "Masami Oguro",
-    "position_jp": "代表取締役社長",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://www.step-japan.co.jp/company/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社ステップ",
+        "name_en": "",
+        "website": "https://www.step-japan.co.jp"
+    },
+    "people": [
+        {
+            "name": "中野聖二郎",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

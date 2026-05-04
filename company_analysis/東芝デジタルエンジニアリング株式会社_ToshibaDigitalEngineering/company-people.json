@@ -1,11 +1,17 @@
-[
-  {
-    "name": "三橋 和夫",
-    "name_ja": "三橋 和夫",
-    "role": "Representative Director / President",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.toshiba-tden.co.jp/company/info/index_j.htm"
-  }
-]
+{
+    "company": {
+        "name": "東芝デジタルエンジニアリング株式会社",
+        "name_en": "",
+        "website": "https://www.toshiba-tden.co.jp/"
+    },
+    "people": [
+        {
+            "name": "山田邦夫",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "モトミ株式会社",
+        "name_en": "",
+        "website": "http://www.motomi.co.jp ⚠️（ドメイン期限切れ — GMOパーキングページ表示中）"
+    },
+    "people": [
+        {
+            "name": "星川 愛華",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

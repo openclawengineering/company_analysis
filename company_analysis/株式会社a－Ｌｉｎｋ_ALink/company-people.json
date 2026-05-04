@@ -1,47 +1,17 @@
-[
-  {
-    "name": "Sakurai Yoko",
-    "name_ja": "桜井 容子",
-    "role": "President / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.alink-group.co.jp/company/profile/"
-  },
-  {
-    "name": "Hohara Toshihiro",
-    "name_ja": "法原 敏博",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.alink-group.co.jp/company/profile/"
-  },
-  {
-    "name": "Kubo Shigemasa",
-    "name_ja": "久保 重成",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.alink-group.co.jp/company/profile/"
-  },
-  {
-    "name": "Shirasu Hidehiro",
-    "name_ja": "白須 英大",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.alink-group.co.jp/company/profile/"
-  },
-  {
-    "name": "Hashiguchi Wataru",
-    "name_ja": "橋口 渉",
-    "role": "Corporate Auditor",
-    "role_ja": "監査役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.alink-group.co.jp/company/profile/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社 a－Ｌｉｎｋ",
+        "name_en": "",
+        "website": "https://www.alink-group.co.jp/"
+    },
+    "people": [
+        {
+            "name": "池田洋人",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

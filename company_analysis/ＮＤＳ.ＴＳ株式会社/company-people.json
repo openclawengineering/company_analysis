@@ -1,10 +1,17 @@
-[
-  {
-    "name_jp": "多賀 孝夫",
-    "name_en": "Takao Taga",
-    "position_jp": "代表取締役",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://www.nds-g.co.jp/ndsts/about/outline.php"
-  }
-]
+{
+    "company": {
+        "name": "ＮＤＳ.ＴＳ株式会社",
+        "name_en": "",
+        "website": "https://www.nds-g.co.jp/ndsts/"
+    },
+    "people": [
+        {
+            "name": "小野隆",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

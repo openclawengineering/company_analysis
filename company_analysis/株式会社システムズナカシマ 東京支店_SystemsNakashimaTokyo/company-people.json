@@ -1,1 +1,23 @@
-[]
+{
+    "company": {
+        "name": "株式会社システムズナカシマ 東京支店（Systems Nakashima）",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "中島義雄",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "児島正典",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

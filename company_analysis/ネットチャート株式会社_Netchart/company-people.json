@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "ネットチャート株式会社（Netchart）",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "楠本和弘",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

@@ -1,11 +1,29 @@
-[
-  {
-    "name": "Kuno Takahisa",
-    "name_ja": "久野 貴久",
-    "role": "President / CEO",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.nisshin-oillio.com/company/"
-  }
-]
+{
+    "company": {
+        "name": "日清オイリオグループ株式会社",
+        "name_en": "",
+        "website": "https://www.nisshin-oillio.com/"
+    },
+    "people": [
+        {
+            "name": "久野 貴久",
+            "title": "代表取締役社長 / 社長執行役員",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "三枝 理人",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "佐藤 将祐",
+            "title": "取締役 / 常務執行役員",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

@@ -1,11 +1,17 @@
-[
-  {
-    "name": "Tsuchiya Satoshioko",
-    "name_ja": "土屋 敏子",
-    "role": "President / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.e-icon.co.jp/company/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社ＩＣＯＮ",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "土屋 敏子",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

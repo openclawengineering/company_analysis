@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "株式会社システムハウス・アイエヌジー 横浜支店（System House I.N.G.）",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "村越伸夫",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

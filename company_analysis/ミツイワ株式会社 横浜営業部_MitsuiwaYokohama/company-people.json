@@ -1,13 +1,17 @@
-[
-  {
-    "name": "高橋 洋喜",
-    "position": "代表取締役",
-    "company": "ミツイワ株式会社",
-    "email": null,
-    "linkedin": null,
-    "twitter": null,
-    "facebook": null,
-    "website": "https://www.mitsuiwa.co.jp",
-    "bio": "ミツイワ株式会社の代表取締役。87歳（昭和62年生まれ）、愛知大学法科卒。1996年にミツイワ入社し、2012年に執行役員、2022年に専門委員に就任。ミツイワ株式会社の経営を統括しており、1964年設立の中堅総合商社（資本金40億9000万円、従業員数970名）を率いている。2020年には「Foresight Innovating Company」をブランドコンセプトとして打ち出し、デジタルトランスフォーメーション（DX）推進企業として事業展開を後押ししている。神奈川県横浜市西区北幸に横浜営業部を有するほか、全国に複数の営業所・フィールドサービス拠点を展開している。"
-  }
-]
+{
+    "company": {
+        "name": "ミツイワ株式会社 横浜営業部",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "小松 拓也",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

@@ -1,65 +1,17 @@
-[
-  {
-    "name": "Itabashi Tetsuya",
-    "name_ja": "板橋 哲也",
-    "role": "Representative Director / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  },
-  {
-    "name": "Ishihara Kenichi",
-    "name_ja": "石原 健一",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  },
-  {
-    "name": "Nakagawa Yuukio",
-    "name_ja": "中川 勇起夫",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  },
-  {
-    "name": "Endo Takeshi",
-    "name_ja": "遠藤 毅",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  },
-  {
-    "name": "Masada Noriyuki",
-    "name_ja": "増田 紀之",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  },
-  {
-    "name": "Sato Tatsuji",
-    "name_ja": "佐藤 武次",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  },
-  {
-    "name": "Nakagawa Asami",
-    "name_ja": "中川 麻弓",
-    "role": "Auditor",
-    "role_ja": "監査役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://a-c-t.co.jp/about.html"
-  }
-]
+{
+    "company": {
+        "name": "株式会社エイ・シー・ティ",
+        "name_en": "",
+        "website": "https://a-c-t.co.jp"
+    },
+    "people": [
+        {
+            "name": "板橋哲也",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

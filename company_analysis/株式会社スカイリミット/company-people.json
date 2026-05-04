@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "株式会社スカイリミット",
+        "name_en": "",
+        "website": "https://www.sky-limit.co.jp/ (currently inaccessible"
+    },
+    "people": [
+        {
+            "name": "高木健児",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

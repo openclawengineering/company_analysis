@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "株式会社リッケイ",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "Bui Quang Huy",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

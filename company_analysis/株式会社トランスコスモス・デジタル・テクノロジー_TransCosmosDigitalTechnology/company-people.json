@@ -1,1 +1,23 @@
-[]
+{
+    "company": {
+        "name": "株式会社トランスコスモス・デジタル・テクノロジー",
+        "name_en": "",
+        "website": "https://www.trans-cosmos-digtec.co.jp/"
+    },
+    "people": [
+        {
+            "name": "所年雄",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "奥田昌孝",
+            "title": "取締役会長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

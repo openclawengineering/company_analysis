@@ -1,10 +1,17 @@
-[
-  {
-    "name_jp": "福地真由香",
-    "name_en": "Mayuka Fukuchi",
-    "position_jp": "代表取締役",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://dele.gr/corporate/"
-  }
-]
+{
+    "company": {
+        "name": "ＤＥＬＥ株式会社",
+        "name_en": "",
+        "website": "https://dele.gr"
+    },
+    "people": [
+        {
+            "name": "福地真由香",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

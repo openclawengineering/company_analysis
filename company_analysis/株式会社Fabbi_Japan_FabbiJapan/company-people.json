@@ -1,29 +1,17 @@
-[
-  {
-    "name": "Vu Van Tu",
-    "name_ja": "ブ・ヴァン・トゥー",
-    "role": "Chairman / Representative Director",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://prtimes.jp/main/html/rd/p/000000002.000114613.html"
-  },
-  {
-    "name": "Le Viet Canh",
-    "name_ja": "レ・ヴィエット・カイン",
-    "role": "Representative Director (Fabbi Group)",
-    "role_ja": "代表取締役（株式会社Fabbi）",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://prtimes.jp/main/html/rd/p/000000002.000114613.html"
-  },
-  {
-    "name": "Nguyen Tri Dzung",
-    "name_ja": "グエン・トリ・ズン",
-    "role": "CTO",
-    "role_ja": "取締役CTO",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://prtimes.jp/main/html/rd/p/000000002.000114613.html"
-  }
-]
+{
+    "company": {
+        "name": "株式会社Fabbi Japan",
+        "name_en": "",
+        "website": "https://fabbiholdings.com/ja/"
+    },
+    "people": [
+        {
+            "name": "ブ・ブァン・トゥー",
+            "title": "代表取締役会長兼CEO",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

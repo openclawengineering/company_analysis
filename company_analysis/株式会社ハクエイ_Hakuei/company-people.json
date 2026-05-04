@@ -1,1 +1,23 @@
-[]
+{
+    "company": {
+        "name": "株式会社ハクエイ",
+        "name_en": "",
+        "website": "https://www.hakuei-net.co.jp/"
+    },
+    "people": [
+        {
+            "name": "森田真規",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "井上博栄",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

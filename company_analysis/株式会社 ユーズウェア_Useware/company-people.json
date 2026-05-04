@@ -1,11 +1,17 @@
-[
-  {
-    "name": "Ogawana Takahiko",
-    "name_ja": "小川名 剛彦",
-    "role": "President / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.useware.jp/Company"
-  }
-]
+{
+    "company": {
+        "name": "株式会社 ユーズウェア",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "小川名剛彦",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

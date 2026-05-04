@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "ハル・エンジニアリング株式会社",
+        "name_en": "",
+        "website": "https://www.haleng.co.jp"
+    },
+    "people": [
+        {
+            "name": "Ono Takehiko",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

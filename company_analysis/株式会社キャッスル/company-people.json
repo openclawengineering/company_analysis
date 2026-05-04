@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "株式会社キャッスル",
+        "name_en": "",
+        "website": "http://www.castle-in.co.jp/ (currently inaccessible"
+    },
+    "people": [
+        {
+            "name": "成田良伸",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

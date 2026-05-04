@@ -1,35 +1,18 @@
 {
-  "company": {
-    "name_jp": "And One Software Engineering 株式会社",
-    "name_en": "And One Software Engineering Inc.",
-    "website": "https://andone-eng.co.jp/"
-  },
-  "people": [
-    {
-      "name": "芦澤",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "And One Software Engineering 株式会社",
+        "name_en": "And One Software Engineering Inc.",
+        "website": "https://andone-eng.co.jp/"
     },
-    {
-      "name": "高橋",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "清水",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-03"
+    "people": [
+        {
+            "name": "芦澤 仁",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

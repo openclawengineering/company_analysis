@@ -1,1 +1,23 @@
-[]
+{
+    "company": {
+        "name": "ジェニシス",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "萩原哲也",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "井藤謙治",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

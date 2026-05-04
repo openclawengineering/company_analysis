@@ -1,1 +1,23 @@
-[]
+{
+    "company": {
+        "name": "日本ノアーズ株式会社",
+        "name_en": "",
+        "website": "https://www.nno.co.jp"
+    },
+    "people": [
+        {
+            "name": "持地秀恒",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "持地慶人",
+            "title": "取締役会長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

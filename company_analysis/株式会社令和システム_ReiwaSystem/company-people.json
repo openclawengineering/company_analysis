@@ -1,11 +1,23 @@
-[
-  {
-    "name": "Taoka Taishin",
-    "name_ja": "田岡 大心",
-    "role": "President / CEO",
-    "role_ja": "代表者",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.reiwasystem.co.jp/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社令和システム",
+        "name_en": "",
+        "website": "https://www.reiwasystem.co.jp/"
+    },
+    "people": [
+        {
+            "name": "木原次郎",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "後藤太郎",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

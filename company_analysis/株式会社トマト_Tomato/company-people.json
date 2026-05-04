@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "株式会社トマト（Tomato）",
+        "name_en": "",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "江島 和敏",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

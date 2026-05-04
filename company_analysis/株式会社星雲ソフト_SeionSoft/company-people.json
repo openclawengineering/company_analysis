@@ -1,13 +1,13 @@
 {
     "company": {
-        "name": "ディエスソリューション株式会社",
+        "name": "星雲ソフト株式会社",
         "name_en": "",
-        "website": "https://www.d-solution.co.jp"
+        "website": ""
     },
     "people": [
         {
-            "name": "橋本武",
-            "title": "代表取締役社長",
+            "name": "佐藤 恒一",
+            "title": "代表取締役",
             "linkedin": null,
             "twitter": null
         }

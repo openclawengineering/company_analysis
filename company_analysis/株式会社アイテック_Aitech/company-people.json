@@ -1,20 +1,17 @@
-[
-  {
-    "name": "ITEC Representative",
-    "name_ja": "代表取締役",
-    "role": "President / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.itec.co.jp/company/"
-  },
-  {
-    "name": "ITEC Deputy President",
-    "name_ja": "取締役副社長 教育事業本部長",
-    "role": "Deputy President / Education Division Head",
-    "role_ja": "取締役副社長 教育事業本部長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://www.itec.co.jp/company/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社アイテック",
+        "name_en": "",
+        "website": "https://www.itec.co.jp/"
+    },
+    "people": [
+        {
+            "name": "近藤英俊",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

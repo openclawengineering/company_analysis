@@ -1,10 +1,17 @@
-[
-  {
-    "name_jp": "秋田 圭",
-    "name_en": "Kei Akita",
-    "position_jp": "代表取締役",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://www.its-core.co.jp/gaiyou.php"
-  }
-]
+{
+    "company": {
+        "name": "株式会社ＩＴＳコア",
+        "name_en": "",
+        "website": "https://www.its-core.co.jp"
+    },
+    "people": [
+        {
+            "name": "秋田圭",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

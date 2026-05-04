@@ -1,10 +1,17 @@
-[
-  {
-    "name_jp": "板崎 裕",
-    "name_en": "Yuru Itazaki",
-    "position_jp": "代表取締役",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://www.realsoft.co.jp/company/profile/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社リアルソフト",
+        "name_en": "",
+        "website": "https://www.realsoft.co.jp"
+    },
+    "people": [
+        {
+            "name": "板崎裕",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

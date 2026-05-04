@@ -1,10 +1,17 @@
-[
-  {
-    "name_jp": "米山 仁",
-    "name_en": "Jin Yoneyama",
-    "position_jp": "代表取締役社長",
-    "position_en": "President & CEO",
-    "role": "CEO",
-    "source_page": "https://www.kanachu-it.co.jp/company/about.html"
-  }
-]
+{
+    "company": {
+        "name": "株式会社神奈中情報システム",
+        "name_en": "",
+        "website": "https://www.kanachu-it.co.jp"
+    },
+    "people": [
+        {
+            "name": "米山仁",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

@@ -1,11 +1,23 @@
-[
-  {
-    "name": "Sakaguchi Fumiki",
-    "name_ja": "坂口史樹",
-    "role": "Representative Director / CEO",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://all-link.jp/?page_id=5"
-  }
-]
+{
+    "company": {
+        "name": "株式会社A-Link",
+        "name_en": "",
+        "website": "https://all-link.jp/"
+    },
+    "people": [
+        {
+            "name": "池田洋人",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "野谷洋介",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

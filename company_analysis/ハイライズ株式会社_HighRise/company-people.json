@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "ハイライズ株式会社",
+        "name_en": "",
+        "website": "https://www.hirise.co.jp"
+    },
+    "people": [
+        {
+            "name": "平岡卓也",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

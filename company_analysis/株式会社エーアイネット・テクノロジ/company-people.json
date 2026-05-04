@@ -1,11 +1,17 @@
-[
-  {
-    "name_jp": "代表取締役",
-    "name_en": "Representative Director",
-    "position_jp": "代表取締役",
-    "position_en": "Representative Director",
-    "role": "CEO",
-    "source_page": "https://www.a-inet.jp/company/",
-    "notes": "Name not publicly disclosed on company website"
-  }
-]
+{
+    "company": {
+        "name": "株式会社エーアイネット・テクノロジ",
+        "name_en": "",
+        "website": "https://www.a-inet.jp/"
+    },
+    "people": [
+        {
+            "name": "中山泰秀氏",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

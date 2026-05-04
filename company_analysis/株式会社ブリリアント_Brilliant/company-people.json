@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "株式会社ブリリアント",
+        "name_en": "",
+        "website": "https://bril.co.jp/"
+    },
+    "people": [
+        {
+            "name": "田原大士",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

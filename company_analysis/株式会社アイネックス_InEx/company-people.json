@@ -1,74 +1,17 @@
-[
-  {
-    "name": "Hayasaka Norinori",
-    "name_ja": "早坂宣則",
-    "role": "Representative Director / President",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Hori Atsuhiro",
-    "name_ja": "堀敦博",
-    "role": "Executive Officer",
-    "role_ja": "執行役員",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Kai Goji",
-    "name_ja": "甲斐剛誌",
-    "role": "Executive Officer",
-    "role_ja": "執行役員",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Morita Keisuke",
-    "name_ja": "森田啓介",
-    "role": "Executive Officer / Media & Marketing",
-    "role_ja": "執行役員 / メディア・マーケティング担当",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Hayakawa Hiroshi",
-    "name_ja": "早川寛",
-    "role": "Managing Director",
-    "role_ja": "専務取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Hayasaka Miyuki",
-    "name_ja": "早坂美雪",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Tagawa Daisuke",
-    "name_ja": "田川大祐",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  },
-  {
-    "name": "Amano Kazuya",
-    "name_ja": "天野和哉",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://in-ex.co.jp/"
-  }
-]
+{
+    "company": {
+        "name": "株式会社アイネックス",
+        "name_en": "",
+        "website": "https://in-ex.co.jp/"
+    },
+    "people": [
+        {
+            "name": "鎌田良勝",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}

@@ -1,1 +1,17 @@
-[]
+{
+    "company": {
+        "name": "ドローン・アイティー株式会社",
+        "name_en": "",
+        "website": "https://www.drone-it.jp"
+    },
+    "people": [
+        {
+            "name": "金子信洋",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
+}
