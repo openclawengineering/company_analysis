@@ -1,20 +1,27 @@
-[
-  {
-    "name": "Uchibori Tetsuo",
-    "name_ja": "内堀 徹男",
-    "role": "Representative Director / CEO",
-    "role_ja": "代表取締役社長",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://it-surf.co.jp/company/companyoutline/"
+{
+  "company": {
+    "name_jp": "アイティサーフ株式会社",
+    "name_en": "IT Surf Inc.",
+    "website": "https://it-surf.co.jp/"
   },
-  {
-    "name": "Ansai Kenji",
-    "name_ja": "安齋 健志",
-    "role": "Director",
-    "role_ja": "取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://it-surf.co.jp/company/companyoutline/"
-  }
-]
+  "people": [
+    {
+      "name": "内堀 徹男",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "安齋 健志",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

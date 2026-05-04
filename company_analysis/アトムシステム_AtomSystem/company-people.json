@@ -1,1 +1,43 @@
-{}
+{
+  "company": {
+    "name_jp": "株式会社アトムシステム",
+    "name_en": "Atom System Co., Ltd.",
+    "website": "https://www.atomsystem.co.jp/"
+  },
+  "people": [
+    {
+      "name": "細野 哲也",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大野 完治",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大槻 幸人",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "須藤 明弘",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}

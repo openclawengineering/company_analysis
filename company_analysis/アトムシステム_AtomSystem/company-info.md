@@ -253,7 +253,14 @@ The company positions itself not merely as a technical contractor but as a trust
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Corporate website renewal** — July 2025 — Website updated with new design and content
+- **Business alliance** — August 2021 — Comprehensive business alliance with Mikasa Shoji Co., Ltd.
+- **WMS adoption** — April 2021 — Laurel Machine Co., Ltd. adopted Atom System's Warehouse Management System
+- **SI Enterprise Certification** — Certified by Ministry of Economy, Trade and Industry
+- **Privacy Mark** — Registration No. 17003379
+- **Overseas expansion** — Subsidiaries in Bangladesh (Atom AP Limited) and Malaysia (Atom AP Sdn Bhd)
+
+*Note: External media mentions not extensively covered in available sources. Company maintains strong direct relationships with major Japanese corporations.*
 
 ---
 
