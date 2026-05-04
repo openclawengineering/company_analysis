@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "株式会社富士ミライ",
-    "name_en": "富士ミライ",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-19"
+    "company": {
+        "name_jp": "株式会社富士ミライ",
+        "name_en": "富士ミライ",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "山口 雅数",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

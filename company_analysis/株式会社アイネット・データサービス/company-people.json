@@ -1,10 +1,24 @@
 {
-  "company": {
-    "name_jp": "株式会社アイネット・データサービス",
-    "name_en": "アイネット・データサービス",
-    "website": "https://www.inet-d.co.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "株式会社アイネット・データサービス",
+        "name_en": "アイネット・データサービス",
+        "website": "https://www.inet-d.co.jp/"
+    },
+    "people": [
+        {
+            "name": "馬郡 恵太",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "佐伯 友道",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

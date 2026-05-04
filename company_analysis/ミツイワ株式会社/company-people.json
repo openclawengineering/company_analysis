@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "ミツイワ株式会社",
-    "name_en": "ミツイワ",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-19"
+    "company": {
+        "name_jp": "ミツイワ株式会社",
+        "name_en": "ミツイワ",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "高橋洋喜",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "株式会社システム・ロジックス",
-    "name_en": "システム・ロジックス",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "株式会社システム・ロジックス",
+        "name_en": "システム・ロジックス",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "吉田忠功",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

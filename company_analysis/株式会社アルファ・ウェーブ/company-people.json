@@ -1,10 +1,24 @@
 {
-  "company": {
-    "name_jp": "株式会社アルファ・ウェーブ",
-    "name_en": "アルファ・ウェーブ",
-    "website": "https://www.alpha-w.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "株式会社アルファ・ウェーブ",
+        "name_en": "アルファ・ウェーブ",
+        "website": "https://www.alpha-w.jp/"
+    },
+    "people": [
+        {
+            "name": "大指一郎",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "奥田史一",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

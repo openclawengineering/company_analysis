@@ -1,107 +1,116 @@
 {
-  "company": {
-    "name_jp": "株式会社協同システムエンジニアリング",
-    "name_en": "Kyodo System Engineering Co., Ltd.",
-    "website": "https://www.kseltd.co.jp/"
-  },
-  "executives": [
-    {
-      "name_jp": "鈴木 澄人",
-      "name_en": "Sumito Suzuki",
-      "position_jp": "代表取締役",
-      "position_en": "Representative Director / CEO",
-      "role": "Chief Executive Officer"
+    "company": {
+        "name_jp": "株式会社協同システムエンジニアリング",
+        "name_en": "Kyodo System Engineering Co., Ltd.",
+        "website": "https://www.kseltd.co.jp/"
     },
-    {
-      "name_jp": "森川 一文",
-      "name_en": "Kazufumi Morikawa",
-      "position_jp": "専務執行役員",
-      "position_en": "Senior Managing Executive Officer",
-      "role": "Senior Executive"
+    "executives": [
+        {
+            "name_jp": "鈴木 澄人",
+            "name_en": "Sumito Suzuki",
+            "position_jp": "代表取締役",
+            "position_en": "Representative Director / CEO",
+            "role": "Chief Executive Officer"
+        },
+        {
+            "name_jp": "森川 一文",
+            "name_en": "Kazufumi Morikawa",
+            "position_jp": "専務執行役員",
+            "position_en": "Senior Managing Executive Officer",
+            "role": "Senior Executive"
+        },
+        {
+            "name_jp": "及川 正典",
+            "name_en": "Masanori Oikawa",
+            "position_jp": "執行役員",
+            "position_en": "Executive Officer",
+            "role": "Executive"
+        },
+        {
+            "name_jp": "鈴木 育絵",
+            "name_en": "Ikue Suzuki",
+            "position_jp": "監査役",
+            "position_en": "Auditor",
+            "role": "Corporate Auditor"
+        }
+    ],
+    "departments": [
+        {
+            "name_jp": "システム開発部門",
+            "name_en": "System Development Department",
+            "description": "Financial system development including core banking systems for trust banks"
+        },
+        {
+            "name_jp": "システム運用保守部門",
+            "name_en": "System Operations & Maintenance Department",
+            "description": "24/7/365 system monitoring, maintenance, and support services"
+        },
+        {
+            "name_jp": "インフラ構築部門",
+            "name_en": "Infrastructure Construction Department",
+            "description": "Network, server infrastructure, and security services"
+        },
+        {
+            "name_jp": "コンサルティング部門",
+            "name_en": "Consulting Department",
+            "description": "IT consulting and project management services"
+        }
+    ],
+    "key_contacts": {
+        "headquarters": {
+            "address_jp": "〒221-0056 神奈川県横浜市神奈川区金港町2-6 横浜プラザビル7F",
+            "address_en": "Yokohama Plaza Building 7F, 2-6 Kanagawa-ku, Kaneko-cho, Yokohama-shi, Kanagawa 221-0056, Japan",
+            "phone": "+81-45-290-5600"
+        },
+        "recruitment": {
+            "website": "https://www.kseltd.co.jp/recruit/",
+            "description": "Mid-career and experienced hiring (中途採用)"
+        }
     },
-    {
-      "name_jp": "及川 正典",
-      "name_en": "Masanori Oikawa",
-      "position_jp": "執行役員",
-      "position_en": "Executive Officer",
-      "role": "Executive"
+    "employee_statistics": {
+        "total_employees": 70,
+        "average_age": 40.0,
+        "retention_rate": "95%",
+        "as_of": "April 2025 (令和7年4月)"
     },
-    {
-      "name_jp": "鈴木 育絵",
-      "name_en": "Ikue Suzuki",
-      "position_jp": "監査役",
-      "position_en": "Auditor",
-      "role": "Corporate Auditor"
-    }
-  ],
-  "departments": [
-    {
-      "name_jp": "システム開発部門",
-      "name_en": "System Development Department",
-      "description": "Financial system development including core banking systems for trust banks"
-    },
-    {
-      "name_jp": "システム運用保守部門",
-      "name_en": "System Operations & Maintenance Department",
-      "description": "24/7/365 system monitoring, maintenance, and support services"
-    },
-    {
-      "name_jp": "インフラ構築部門",
-      "name_en": "Infrastructure Construction Department",
-      "description": "Network, server infrastructure, and security services"
-    },
-    {
-      "name_jp": "コンサルティング部門",
-      "name_en": "Consulting Department",
-      "description": "IT consulting and project management services"
-    }
-  ],
-  "key_contacts": {
-    "headquarters": {
-      "address_jp": "〒221-0056 神奈川県横浜市神奈川区金港町2-6 横浜プラザビル7F",
-      "address_en": "Yokohama Plaza Building 7F, 2-6 Kanagawa-ku, Kaneko-cho, Yokohama-shi, Kanagawa 221-0056, Japan",
-      "phone": "+81-45-290-5600"
-    },
-    "recruitment": {
-      "website": "https://www.kseltd.co.jp/recruit/",
-      "description": "Mid-career and experienced hiring (中途採用)"
-    }
-  },
-  "employee_statistics": {
-    "total_employees": 70,
-    "average_age": 40.0,
-    "retention_rate": "95%",
-    "as_of": "April 2025 (令和7年4月)"
-  },
-  "affiliations": [
-    {
-      "name_jp": "一般社団法人 神奈川県情報サービス産業協会",
-      "name_en": "Kanagawa Information Service Industry Association"
-    },
-    {
-      "name_jp": "関東ＩＴソフトウェア健康保険組合",
-      "name_en": "Kanto IT Software Health Insurance Association"
-    }
-  ],
-  "licenses": [
-    {
-      "type": "労働者派遣事業",
-      "license_number": "派 14-303",
-      "description": "Labor Dispatch Services License"
-    }
-  ],
-  "notes": [
-    "Company established in 1980 (昭和55年)",
-    "Specializes in financial systems, particularly trust bank systems",
-    "Maintains 30+ year relationships with major trust banks",
-    "100% prime contractor projects (元請け案件)",
-    "Debt-free, consistently profitable management"
-  ],
-  "data_sources": [
-    "https://www.kseltd.co.jp/company/",
-    "https://www.kseltd.co.jp/recruit/",
-    "doda.jp corporate profile",
-    "Levtech Career recruitment pages"
-  ],
-  "last_updated": "2026-03-30"
+    "affiliations": [
+        {
+            "name_jp": "一般社団法人 神奈川県情報サービス産業協会",
+            "name_en": "Kanagawa Information Service Industry Association"
+        },
+        {
+            "name_jp": "関東ＩＴソフトウェア健康保険組合",
+            "name_en": "Kanto IT Software Health Insurance Association"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "労働者派遣事業",
+            "license_number": "派 14-303",
+            "description": "Labor Dispatch Services License"
+        }
+    ],
+    "notes": [
+        "Company established in 1980 (昭和55年)",
+        "Specializes in financial systems, particularly trust bank systems",
+        "Maintains 30+ year relationships with major trust banks",
+        "100% prime contractor projects (元請け案件)",
+        "Debt-free, consistently profitable management"
+    ],
+    "data_sources": [
+        "https://www.kseltd.co.jp/company/",
+        "https://www.kseltd.co.jp/recruit/",
+        "doda.jp corporate profile",
+        "Levtech Career recruitment pages"
+    ],
+    "last_updated": "2026-05-04",
+    "people": [
+        {
+            "name": "Sumito Suzuki",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "data_source": "tavily_ai_summary"
 }

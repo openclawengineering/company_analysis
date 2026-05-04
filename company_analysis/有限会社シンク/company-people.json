@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "有限会社シンク",
-    "name_en": "シンク",
-    "website": "https://think-gd.jp/web/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "有限会社シンク",
+        "name_en": "シンク",
+        "website": "https://think-gd.jp/web/"
+    },
+    "people": [
+        {
+            "name": "白石 直樹",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

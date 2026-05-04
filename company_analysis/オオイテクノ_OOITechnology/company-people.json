@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "オオイテクノ株式会社",
-    "name_en": "OOI Technology Co., Ltd.",
-    "website": "https://www.ooitec.co.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "company": {
+        "name_jp": "オオイテクノ株式会社",
+        "name_en": "OOI Technology Co., Ltd.",
+        "website": "https://www.ooitec.co.jp/"
+    },
+    "people": [
+        {
+            "name": "Yasuhiro Murakami",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

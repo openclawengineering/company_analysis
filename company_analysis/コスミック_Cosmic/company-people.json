@@ -1,359 +1,375 @@
 {
-  "company_info": {
-    "name_jp": "株式会社コスミック",
-    "name_en": "Cosmic Inc.",
-    "website": "https://www.kk-cosmic.co.jp",
-    "founded": "1988-09-13",
-    "capital_jpy": 10000000,
-    "capital_formatted": "10,000,000円",
-    "employee_count": 28,
-    "business_type": "Private (Non-listed)",
-    "fiscal_year_end": "December 31st"
-  },
-  "headquarters": {
-    "postal_code": "252-0303",
-    "address_jp": "神奈川県相模原市南区相模大野3丁目13番1号 第一タカビル3階",
-    "address_en": "3F, Daiichi Taka Building, 3-13-1 Sagamiono, Minami-ku, Sagamihara-shi, Kanagawa 252-0303, Japan",
-    "region": "Kanagawa Prefecture",
-    "city": "Sagamihara City (Minami-ku)",
-    "nearest_station": "Sagamiono Station (Odakyu Line)",
-    "access": "2-minute walk from Sagamiono Station North Exit"
-  },
-  "contact": {
-    "tel": "042-744-7293",
-    "fax": "042-744-7393",
-    "email": "system@kk-cosmic.co.jp"
-  },
-  "executives": [
-    {
-      "name_jp": "奈良 幸樹",
-      "name_en": "Yoshiki Nara",
-      "position_jp": "代表取締役",
-      "position_en": "Representative Director",
-      "role": "CEO/President"
-    }
-  ],
-  "business_fields": [
-    {
-      "primary": "受託開発ソフトウェア",
-      "primary_en": "Contracted Software Development"
+    "company_info": {
+        "name_jp": "株式会社コスミック",
+        "name_en": "Cosmic Inc.",
+        "website": "https://www.kk-cosmic.co.jp",
+        "founded": "1988-09-13",
+        "capital_jpy": 10000000,
+        "capital_formatted": "10,000,000円",
+        "employee_count": 28,
+        "business_type": "Private (Non-listed)",
+        "fiscal_year_end": "December 31st"
     },
-    {
-      "primary": "SES (System Engineering Service)",
-      "primary_en": "System Engineering Service"
+    "headquarters": {
+        "postal_code": "252-0303",
+        "address_jp": "神奈川県相模原市南区相模大野3丁目13番1号 第一タカビル3階",
+        "address_en": "3F, Daiichi Taka Building, 3-13-1 Sagamiono, Minami-ku, Sagamihara-shi, Kanagawa 252-0303, Japan",
+        "region": "Kanagawa Prefecture",
+        "city": "Sagamihara City (Minami-ku)",
+        "nearest_station": "Sagamiono Station (Odakyu Line)",
+        "access": "2-minute walk from Sagamiono Station North Exit"
     },
-    {
-      "primary": "労働者派遣事業",
-      "primary_en": "Labor Dispatch Business"
-    }
-  ],
-  "industry_specializations": [
-    {
-      "industry": "Insurance",
-      "industry_jp": "保険業",
-      "description": "Financial systems, customer management systems for insurance companies"
+    "contact": {
+        "tel": "042-744-7293",
+        "fax": "042-744-7393",
+        "email": "system@kk-cosmic.co.jp"
     },
-    {
-      "industry": "Railway/Transportation",
-      "industry_jp": "鉄道",
-      "description": "Railway system development, safety and convenience systems"
-    },
-    {
-      "industry": "Medical/Healthcare",
-      "industry_jp": "医療・ヘルスケア",
-      "description": "Medical automation, healthcare support systems"
-    },
-    {
-      "industry": "Automotive",
-      "industry_jp": "自動車",
-      "description": "Embedded systems, vehicle IT technologies"
-    },
-    {
-      "industry": "Banking/Finance",
-      "industry_jp": "銀行・金融",
-      "description": "Banking systems, financial applications"
-    },
-    {
-      "industry": "Credit/Consumer Finance",
-      "industry_jp": "信販",
-      "description": "Credit card and consumer finance systems"
-    },
-    {
-      "industry": "Logistics",
-      "industry_jp": "物流",
-      "description": "Logistics and distribution systems"
-    },
-    {
-      "industry": "Government",
-      "industry_jp": "官公庁",
-      "description": "Public sector and municipal systems"
-    },
-    {
-      "industry": "Telecommunications",
-      "industry_jp": "通信",
-      "description": "Telecommunication systems"
-    },
-    {
-      "industry": "Electronics",
-      "industry_jp": "電機メーカー",
-      "description": "Electronics manufacturer systems"
-    }
-  ],
-  "technical_capabilities": {
-    "programming_languages": [
-      "Java",
-      "C#",
-      "VB.NET",
-      "C/C++",
-      "JavaScript",
-      "TypeScript",
-      "HTML",
-      "VBA",
-      "SQL",
-      "Perl",
-      "PHP",
-      "COBOL",
-      "PL/Ⅰ"
+    "executives": [
+        {
+            "name_jp": "奈良 幸樹",
+            "name_en": "Yoshiki Nara",
+            "position_jp": "代表取締役",
+            "position_en": "Representative Director",
+            "role": "CEO/President"
+        }
     ],
-    "databases": [
-      "Oracle",
-      "SQL Server",
-      "MySQL",
-      "PostgreSQL",
-      "Db2",
-      "IMS/DB",
-      "HiRDB"
+    "business_fields": [
+        {
+            "primary": "受託開発ソフトウェア",
+            "primary_en": "Contracted Software Development"
+        },
+        {
+            "primary": "SES (System Engineering Service)",
+            "primary_en": "System Engineering Service"
+        },
+        {
+            "primary": "労働者派遣事業",
+            "primary_en": "Labor Dispatch Business"
+        }
     ],
-    "platforms": [
-      "Windows",
-      "UNIX",
-      "Linux",
-      "zOS",
-      "OS390",
-      "FACOM",
-      "ACOS"
-    ]
-  },
-  "major_clients": [
-    {
-      "name": "株式会社アトラスシー",
-      "name_en": "Atlas C Co., Ltd."
-    },
-    {
-      "name": "イーソル株式会社",
-      "name_en": "eSOL Inc."
-    },
-    {
-      "name": "コンピューターマネージメント株式会社",
-      "name_en": "Computer Management Co., Ltd."
-    },
-    {
-      "name": "株式会社シーイーシー",
-      "name_en": "CEC Co., Ltd."
-    },
-    {
-      "name": "株式会社システナ",
-      "name_en": "Systena Corporation"
-    },
-    {
-      "name": "株式会社情報システム工学",
-      "name_en": "Information Systems Engineering Co., Ltd."
-    },
-    {
-      "name": "Sky株式会社",
-      "name_en": "Sky Co., Ltd."
-    },
-    {
-      "name": "日野コンピューターシステム株式会社",
-      "name_en": "Hino Computer Systems Co., Ltd."
-    },
-    {
-      "name": "富士ソフト株式会社",
-      "name_en": "Fujisoft Incorporated"
-    },
-    {
-      "name": "富士通Japan株式会社",
-      "name_en": "Fujitsu Japan Limited"
-    },
-    {
-      "name": "株式会社ブライセン",
-      "name_en": "Brisen Corporation"
-    },
-    {
-      "name": "株式会社ラック",
-      "name_en": "LAC Co., Ltd."
-    },
-    {
-      "name": "株式会社ＹＳＬソリューション",
-      "name_en": "YSL Solutions Co., Ltd."
-    }
-  ],
-  "banking_partners": [
-    {
-      "name": "りそな銀行",
-      "name_en": "Resona Bank"
-    },
-    {
-      "name": "きらぼし銀行",
-      "name_en": "Kiraboshi Bank"
-    }
-  ],
-  "certifications_licenses": [
-    {
-      "type": "労働者派遣事業",
-      "type_en": "Labor Dispatch Business",
-      "license_number": "派14-303385",
-      "date_obtained": "2022-06"
-    },
-    {
-      "type": "特定労働派遣事業",
-      "type_en": "Specific Labor Dispatch Business",
-      "date_obtained": "2005-09"
-    },
-    {
-      "type": "適格請求書発行事業者",
-      "type_en": "Qualified Invoice Issuer",
-      "date_obtained": "2023-10"
-    }
-  ],
-  "affiliations": [
-    {
-      "name": "(社)神奈川県情報サービス産業協会",
-      "name_en": "Kanagawa Prefecture Information Service Industry Association"
-    },
-    {
-      "name": "首都圏デジタル産業健康保険組合",
-      "name_en": "Metropolitan Area Digital Industry Health Insurance Association"
-    },
-    {
-      "name": "中小企業退職金共済事業本部(中退共)",
-      "name_en": "Small and Medium Enterprise Retirement Allowance Mutual Aid Business Headquarters"
-    },
-    {
-      "name": "情報サービス企業年金基金",
-      "name_en": "Information Service Company Pension Fund"
-    },
-    {
-      "name": "(社)相模原法人会",
-      "name_en": "Sagamihara Corporate Association"
-    }
-  ],
-  "company_history": [
-    {
-      "date": "1988-09",
-      "event_jp": "資本金250万円にて設立",
-      "event_en": "Established with capital of 2.5 million yen"
-    },
-    {
-      "date": "1992-12",
-      "event_jp": "資本金500万円に増資",
-      "event_en": "Capital increased to 5 million yen"
-    },
-    {
-      "date": "1994-01",
-      "event_jp": "資本金700万円に増資",
-      "event_en": "Capital increased to 7 million yen"
-    },
-    {
-      "date": "1996-02",
-      "event_jp": "資本金1000万円に増資",
-      "event_en": "Capital increased to 10 million yen"
-    },
-    {
-      "date": "1997-12",
-      "event_jp": "小田急相模原駅前ビルに本社移転",
-      "event_en": "Headquarters moved to Odakyu Sagamihara Station building"
-    },
-    {
-      "date": "2004-04",
-      "event_jp": "相模大野駅前ビルに本社移転",
-      "event_en": "Headquarters moved to Sagamiono Station building"
-    },
-    {
-      "date": "2005-09",
-      "event_jp": "特定労働派遣事業開始",
-      "event_en": "Started specific labor dispatch business"
-    },
-    {
-      "date": "2022-06",
-      "event_jp": "労働者派遣事業開始",
-      "event_en": "Started general labor dispatch business"
-    },
-    {
-      "date": "2023-10",
-      "event_jp": "適格請求書発行事業者登録完了",
-      "event_en": "Completed registration as qualified invoice issuer"
-    }
-  ],
-  "philosophy": {
-    "core_concept": "おかげさまの精神",
-    "core_concept_en": "The Spirit of Gratitude (Okagesama)",
-    "principles": [
-      {
-        "principle_jp": "高生産性、高品質なサービスを提供し、お客様の満足と信頼を得られるよう努めます",
-        "principle_en": "Provide high-productivity and high-quality services to earn customer satisfaction and trust"
-      },
-      {
-        "principle_jp": "社員一人ひとりを尊重して、健康への配慮を重んじ、挑戦と活躍の機会を提供することで公私共に安定した生活を目指します",
-        "principle_en": "Respect each employee, prioritize health, provide opportunities for challenge and success, aim for stable work and personal life"
-      },
-      {
-        "principle_jp": "社員一人ひとりの能力を高め、結束、協調により更なる企業力向上を目指します",
-        "principle_en": "Enhance individual employee abilities and strengthen corporate power through unity and coordination"
-      },
-      {
-        "principle_jp": "セキュリティ意識を高く持ち、個人情報、顧客情報の保護などの法令を遵守します",
-        "principle_en": "Maintain high security awareness and comply with laws protecting personal and customer information"
-      },
-      {
-        "principle_jp": "地元密着型のサービスに注力し、地域社会に貢献できる企業を目指します",
-        "principle_en": "Focus on community-based services and contribute to local society"
-      },
-      {
-        "principle_jp": "お客様の業務を的確に把握し、課題解決の企画提案からシステムの構築、運用に至るまでをトータルで請け負うシステムインテグレーションの提供を目指します",
-        "principle_en": "Provide total system integration from planning and problem solving to system construction and operation"
-      }
-    ]
-  },
-  "recruitment": {
-    "status": "Active recruitment",
-    "focus_areas": [
-      {
-        "area": "組込技術者",
-        "area_en": "Embedded System Engineers",
-        "domains": [
-          "医療機器 (Medical devices)",
-          "複合機 (Multi-function printers)",
-          "車載器 (Automotive equipment)"
+    "industry_specializations": [
+        {
+            "industry": "Insurance",
+            "industry_jp": "保険業",
+            "description": "Financial systems, customer management systems for insurance companies"
+        },
+        {
+            "industry": "Railway/Transportation",
+            "industry_jp": "鉄道",
+            "description": "Railway system development, safety and convenience systems"
+        },
+        {
+            "industry": "Medical/Healthcare",
+            "industry_jp": "医療・ヘルスケア",
+            "description": "Medical automation, healthcare support systems"
+        },
+        {
+            "industry": "Automotive",
+            "industry_jp": "自動車",
+            "description": "Embedded systems, vehicle IT technologies"
+        },
+        {
+            "industry": "Banking/Finance",
+            "industry_jp": "銀行・金融",
+            "description": "Banking systems, financial applications"
+        },
+        {
+            "industry": "Credit/Consumer Finance",
+            "industry_jp": "信販",
+            "description": "Credit card and consumer finance systems"
+        },
+        {
+            "industry": "Logistics",
+            "industry_jp": "物流",
+            "description": "Logistics and distribution systems"
+        },
+        {
+            "industry": "Government",
+            "industry_jp": "官公庁",
+            "description": "Public sector and municipal systems"
+        },
+        {
+            "industry": "Telecommunications",
+            "industry_jp": "通信",
+            "description": "Telecommunication systems"
+        },
+        {
+            "industry": "Electronics",
+            "industry_jp": "電機メーカー",
+            "description": "Electronics manufacturer systems"
+        }
+    ],
+    "technical_capabilities": {
+        "programming_languages": [
+            "Java",
+            "C#",
+            "VB.NET",
+            "C/C++",
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "VBA",
+            "SQL",
+            "Perl",
+            "PHP",
+            "COBOL",
+            "PL/Ⅰ"
+        ],
+        "databases": [
+            "Oracle",
+            "SQL Server",
+            "MySQL",
+            "PostgreSQL",
+            "Db2",
+            "IMS/DB",
+            "HiRDB"
+        ],
+        "platforms": [
+            "Windows",
+            "UNIX",
+            "Linux",
+            "zOS",
+            "OS390",
+            "FACOM",
+            "ACOS"
         ]
-      },
-      {
-        "area": "システムエンジニア",
-        "area_en": "System Engineers",
-        "notes": "未経験歓迎 (Inexperienced candidates welcome)"
-      }
+    },
+    "major_clients": [
+        {
+            "name": "株式会社アトラスシー",
+            "name_en": "Atlas C Co., Ltd."
+        },
+        {
+            "name": "イーソル株式会社",
+            "name_en": "eSOL Inc."
+        },
+        {
+            "name": "コンピューターマネージメント株式会社",
+            "name_en": "Computer Management Co., Ltd."
+        },
+        {
+            "name": "株式会社シーイーシー",
+            "name_en": "CEC Co., Ltd."
+        },
+        {
+            "name": "株式会社システナ",
+            "name_en": "Systena Corporation"
+        },
+        {
+            "name": "株式会社情報システム工学",
+            "name_en": "Information Systems Engineering Co., Ltd."
+        },
+        {
+            "name": "Sky株式会社",
+            "name_en": "Sky Co., Ltd."
+        },
+        {
+            "name": "日野コンピューターシステム株式会社",
+            "name_en": "Hino Computer Systems Co., Ltd."
+        },
+        {
+            "name": "富士ソフト株式会社",
+            "name_en": "Fujisoft Incorporated"
+        },
+        {
+            "name": "富士通Japan株式会社",
+            "name_en": "Fujitsu Japan Limited"
+        },
+        {
+            "name": "株式会社ブライセン",
+            "name_en": "Brisen Corporation"
+        },
+        {
+            "name": "株式会社ラック",
+            "name_en": "LAC Co., Ltd."
+        },
+        {
+            "name": "株式会社ＹＳＬソリューション",
+            "name_en": "YSL Solutions Co., Ltd."
+        }
     ],
-    "benefits": [
-      "社会保険完備 (Complete social insurance)",
-      "退職金制度 (Retirement allowance system)",
-      "健康診断 (Health checkup)",
-      "年頭式典・新年会・忘年会 (Annual ceremonies and parties)",
-      "創立記念式典 (Foundation anniversary ceremony)",
-      "企業年金加入 (Corporate pension enrollment)"
+    "banking_partners": [
+        {
+            "name": "りそな銀行",
+            "name_en": "Resona Bank"
+        },
+        {
+            "name": "きらぼし銀行",
+            "name_en": "Kiraboshi Bank"
+        }
     ],
-    "work_conditions": {
-      "annual_holidays": 122,
-      "complete_weekends": 2
-    }
-  },
-  "analysis_metadata": {
-    "analysis_date": "2026-03-30",
-    "data_sources": [
-      "Company official website (kk-cosmic.co.jp)",
-      "Business directories",
-      "Public records"
+    "certifications_licenses": [
+        {
+            "type": "労働者派遣事業",
+            "type_en": "Labor Dispatch Business",
+            "license_number": "派14-303385",
+            "date_obtained": "2022-06"
+        },
+        {
+            "type": "特定労働派遣事業",
+            "type_en": "Specific Labor Dispatch Business",
+            "date_obtained": "2005-09"
+        },
+        {
+            "type": "適格請求書発行事業者",
+            "type_en": "Qualified Invoice Issuer",
+            "date_obtained": "2023-10"
+        }
     ],
-    "company_age_years": 37,
-    "notes": "Limited media coverage found. Company maintains low public media profile typical of mid-sized B2B IT services companies in Japan."
-  }
+    "affiliations": [
+        {
+            "name": "(社)神奈川県情報サービス産業協会",
+            "name_en": "Kanagawa Prefecture Information Service Industry Association"
+        },
+        {
+            "name": "首都圏デジタル産業健康保険組合",
+            "name_en": "Metropolitan Area Digital Industry Health Insurance Association"
+        },
+        {
+            "name": "中小企業退職金共済事業本部(中退共)",
+            "name_en": "Small and Medium Enterprise Retirement Allowance Mutual Aid Business Headquarters"
+        },
+        {
+            "name": "情報サービス企業年金基金",
+            "name_en": "Information Service Company Pension Fund"
+        },
+        {
+            "name": "(社)相模原法人会",
+            "name_en": "Sagamihara Corporate Association"
+        }
+    ],
+    "company_history": [
+        {
+            "date": "1988-09",
+            "event_jp": "資本金250万円にて設立",
+            "event_en": "Established with capital of 2.5 million yen"
+        },
+        {
+            "date": "1992-12",
+            "event_jp": "資本金500万円に増資",
+            "event_en": "Capital increased to 5 million yen"
+        },
+        {
+            "date": "1994-01",
+            "event_jp": "資本金700万円に増資",
+            "event_en": "Capital increased to 7 million yen"
+        },
+        {
+            "date": "1996-02",
+            "event_jp": "資本金1000万円に増資",
+            "event_en": "Capital increased to 10 million yen"
+        },
+        {
+            "date": "1997-12",
+            "event_jp": "小田急相模原駅前ビルに本社移転",
+            "event_en": "Headquarters moved to Odakyu Sagamihara Station building"
+        },
+        {
+            "date": "2004-04",
+            "event_jp": "相模大野駅前ビルに本社移転",
+            "event_en": "Headquarters moved to Sagamiono Station building"
+        },
+        {
+            "date": "2005-09",
+            "event_jp": "特定労働派遣事業開始",
+            "event_en": "Started specific labor dispatch business"
+        },
+        {
+            "date": "2022-06",
+            "event_jp": "労働者派遣事業開始",
+            "event_en": "Started general labor dispatch business"
+        },
+        {
+            "date": "2023-10",
+            "event_jp": "適格請求書発行事業者登録完了",
+            "event_en": "Completed registration as qualified invoice issuer"
+        }
+    ],
+    "philosophy": {
+        "core_concept": "おかげさまの精神",
+        "core_concept_en": "The Spirit of Gratitude (Okagesama)",
+        "principles": [
+            {
+                "principle_jp": "高生産性、高品質なサービスを提供し、お客様の満足と信頼を得られるよう努めます",
+                "principle_en": "Provide high-productivity and high-quality services to earn customer satisfaction and trust"
+            },
+            {
+                "principle_jp": "社員一人ひとりを尊重して、健康への配慮を重んじ、挑戦と活躍の機会を提供することで公私共に安定した生活を目指します",
+                "principle_en": "Respect each employee, prioritize health, provide opportunities for challenge and success, aim for stable work and personal life"
+            },
+            {
+                "principle_jp": "社員一人ひとりの能力を高め、結束、協調により更なる企業力向上を目指します",
+                "principle_en": "Enhance individual employee abilities and strengthen corporate power through unity and coordination"
+            },
+            {
+                "principle_jp": "セキュリティ意識を高く持ち、個人情報、顧客情報の保護などの法令を遵守します",
+                "principle_en": "Maintain high security awareness and comply with laws protecting personal and customer information"
+            },
+            {
+                "principle_jp": "地元密着型のサービスに注力し、地域社会に貢献できる企業を目指します",
+                "principle_en": "Focus on community-based services and contribute to local society"
+            },
+            {
+                "principle_jp": "お客様の業務を的確に把握し、課題解決の企画提案からシステムの構築、運用に至るまでをトータルで請け負うシステムインテグレーションの提供を目指します",
+                "principle_en": "Provide total system integration from planning and problem solving to system construction and operation"
+            }
+        ]
+    },
+    "recruitment": {
+        "status": "Active recruitment",
+        "focus_areas": [
+            {
+                "area": "組込技術者",
+                "area_en": "Embedded System Engineers",
+                "domains": [
+                    "医療機器 (Medical devices)",
+                    "複合機 (Multi-function printers)",
+                    "車載器 (Automotive equipment)"
+                ]
+            },
+            {
+                "area": "システムエンジニア",
+                "area_en": "System Engineers",
+                "notes": "未経験歓迎 (Inexperienced candidates welcome)"
+            }
+        ],
+        "benefits": [
+            "社会保険完備 (Complete social insurance)",
+            "退職金制度 (Retirement allowance system)",
+            "健康診断 (Health checkup)",
+            "年頭式典・新年会・忘年会 (Annual ceremonies and parties)",
+            "創立記念式典 (Foundation anniversary ceremony)",
+            "企業年金加入 (Corporate pension enrollment)"
+        ],
+        "work_conditions": {
+            "annual_holidays": 122,
+            "complete_weekends": 2
+        }
+    },
+    "analysis_metadata": {
+        "analysis_date": "2026-03-30",
+        "data_sources": [
+            "Company official website (kk-cosmic.co.jp)",
+            "Business directories",
+            "Public records"
+        ],
+        "company_age_years": 37,
+        "notes": "Limited media coverage found. Company maintains low public media profile typical of mid-sized B2B IT services companies in Japan."
+    },
+    "people": [
+        {
+            "name": "中野芳彦",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "菊地強",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

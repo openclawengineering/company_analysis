@@ -1,11 +1,19 @@
 {
-  "company": {
-    "name_jp": "アーバン・コーポレーション株式会社",
-    "name_en": "Urban Corporation",
-    "website": "http://urban-web.co.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-30",
-  "notes": "ウェブサイト (urban-web.co.jp) にアクセスできないため人物情報を取得できなかった。"
+    "company": {
+        "name_jp": "アーバン・コーポレーション株式会社",
+        "name_en": "Urban Corporation",
+        "website": "http://urban-web.co.jp/"
+    },
+    "people": [
+        {
+            "name": "Kaito Tanoue",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "notes": "ウェブサイト (urban-web.co.jp) にアクセスできないため人物情報を取得できなかった。",
+    "data_source": "tavily_ai_summary"
 }

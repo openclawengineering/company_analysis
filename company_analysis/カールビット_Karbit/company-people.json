@@ -1,142 +1,152 @@
 {
-  "company": {
-    "name_ja": "株式会社カールビット",
-    "name_en": "Karbit Co., Ltd.",
-    "name_brand": "KARBit",
-    "corporate_number": "3020001047944",
-    "website": "https://karbit.co.jp/"
-  },
-  "executives": [
-    {
-      "title_ja": "代表取締役社長",
-      "title_en": "President & CEO",
-      "name_ja": "岡田 潔",
-      "name_en": "Kiyoshi Okada",
-      "role": "Chief Executive Officer"
+    "company": {
+        "name_ja": "株式会社カールビット",
+        "name_en": "Karbit Co., Ltd.",
+        "name_brand": "KARBit",
+        "corporate_number": "3020001047944",
+        "website": "https://karbit.co.jp/"
     },
-    {
-      "title_ja": "常務取締役",
-      "title_en": "Managing Director",
-      "name_ja": "杉浦 俊雄",
-      "name_en": "Toshio Sugiura",
-      "role": "Managing Director"
-    },
-    {
-      "title_ja": "取締役",
-      "title_en": "Director",
-      "name_ja": "大友 茂夫",
-      "name_en": "Shigeo Ohtomo",
-      "role": "Director"
-    },
-    {
-      "title_ja": "監査役（非常勤）",
-      "title_en": "Corporate Auditor (Part-time)",
-      "name_ja": "蓮原 亮",
-      "name_en": "Ryo Hasuhara",
-      "role": "Corporate Auditor"
-    }
-  ],
-  "executive_officers": [
-    {
-      "title_ja": "執行役員",
-      "title_en": "Executive Officer",
-      "name_ja": "老月 信幸",
-      "name_en": "Nobuyuki Ogetsu",
-      "role": "Executive Officer"
-    },
-    {
-      "title_ja": "執行役員",
-      "title_en": "Executive Officer",
-      "name_ja": "加藤 範之",
-      "name_en": "Noriyuki Kato",
-      "role": "Executive Officer"
-    },
-    {
-      "title_ja": "執行役員",
-      "title_en": "Executive Officer",
-      "name_ja": "島 大和",
-      "name_en": "Yamato Shima",
-      "role": "Executive Officer"
-    }
-  ],
-  "advisors": [
-    {
-      "title_ja": "顧問",
-      "title_en": "Advisor",
-      "name_ja": "大久保 茂樹",
-      "name_en": "Shigeki Okubo",
-      "role": "Advisor"
-    },
-    {
-      "title_ja": "顧問",
-      "title_en": "Advisor",
-      "name_ja": "貝山",
-      "name_en": "Kiiyama",
-      "role": "Advisor",
-      "notes": "Received 'Radio Technology Association Award' (電波技術協会賞) in November 2016"
-    }
-  ],
-  "privacy_protection": {
-    "title_ja": "個人情報保護管理者",
-    "title_en": "Personal Information Protection Manager",
-    "department_ja": "経営本部長",
-    "department_en": "General Manager, Management Headquarters",
-    "notes": "Contact via company phone for privacy-related inquiries"
-  },
-  "employee_statistics": {
-    "total": 118,
-    "male": 88,
-    "female": 30,
-    "source": "gBizINFO (March 2026)",
-    "source_url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047944"
-  },
-  "hiring_history": {
-    "total_graduate_batches": 14,
-    "first_graduates": "April 2012",
-    "recent_graduates": "April 2025",
-    "average_per_batch": "~5 employees",
-    "growth_milestone_100": "April 2018",
-    "growth_milestone_110": "April 2019"
-  },
-  "leadership_changes": [
-    {
-      "date": "April 2017",
-      "event": "Executive changes"
-    },
-    {
-      "date": "May 2019",
-      "event": "Executive changes"
-    },
-    {
-      "date": "May 2022",
-      "event": "Executive changes"
-    },
-    {
-      "date": "December 2025",
-      "event": "Executive changes"
-    }
-  ],
-  "key_contacts": {
-    "headquarters": {
-      "postal_code": "220-0004",
-      "address_ja": "神奈川県横浜市西区北幸一丁目11番15号 横浜STビル8階",
-      "address_en": "Yokohama ST Building 8F, 1-11-15 Kita-Saiwai, Nishi-ku, Yokohama, Kanagawa 220-0004, Japan"
-    },
-    "tokyo_office": {
-      "postal_code": "101-0032",
-      "address_ja": "東京都千代田区岩本町二丁目8番9号 林慶ビル2階",
-      "address_en": "Hayashi-Kei Building 2F, 2-8-9 Iwamoto-cho, Chiyoda-ku, Tokyo 101-0032, Japan"
-    },
-    "phone": "045-412-0211",
-    "business_hours": "Monday-Friday, 10:00-16:00 (excluding holidays)"
-  },
-  "metadata": {
-    "analysis_date": "2026-03-30",
-    "data_sources": [
-      "https://karbit.co.jp/company/info_summary/",
-      "https://karbit.co.jp/company/info-history/",
-      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047944"
+    "executives": [
+        {
+            "title_ja": "代表取締役社長",
+            "title_en": "President & CEO",
+            "name_ja": "岡田 潔",
+            "name_en": "Kiyoshi Okada",
+            "role": "Chief Executive Officer"
+        },
+        {
+            "title_ja": "常務取締役",
+            "title_en": "Managing Director",
+            "name_ja": "杉浦 俊雄",
+            "name_en": "Toshio Sugiura",
+            "role": "Managing Director"
+        },
+        {
+            "title_ja": "取締役",
+            "title_en": "Director",
+            "name_ja": "大友 茂夫",
+            "name_en": "Shigeo Ohtomo",
+            "role": "Director"
+        },
+        {
+            "title_ja": "監査役（非常勤）",
+            "title_en": "Corporate Auditor (Part-time)",
+            "name_ja": "蓮原 亮",
+            "name_en": "Ryo Hasuhara",
+            "role": "Corporate Auditor"
+        }
     ],
-    "notes": "Names are transcribed from Japanese characters; English spellings may vary. Some given names use standard romanization conventions."
-  }
+    "executive_officers": [
+        {
+            "title_ja": "執行役員",
+            "title_en": "Executive Officer",
+            "name_ja": "老月 信幸",
+            "name_en": "Nobuyuki Ogetsu",
+            "role": "Executive Officer"
+        },
+        {
+            "title_ja": "執行役員",
+            "title_en": "Executive Officer",
+            "name_ja": "加藤 範之",
+            "name_en": "Noriyuki Kato",
+            "role": "Executive Officer"
+        },
+        {
+            "title_ja": "執行役員",
+            "title_en": "Executive Officer",
+            "name_ja": "島 大和",
+            "name_en": "Yamato Shima",
+            "role": "Executive Officer"
+        }
+    ],
+    "advisors": [
+        {
+            "title_ja": "顧問",
+            "title_en": "Advisor",
+            "name_ja": "大久保 茂樹",
+            "name_en": "Shigeki Okubo",
+            "role": "Advisor"
+        },
+        {
+            "title_ja": "顧問",
+            "title_en": "Advisor",
+            "name_ja": "貝山",
+            "name_en": "Kiiyama",
+            "role": "Advisor",
+            "notes": "Received 'Radio Technology Association Award' (電波技術協会賞) in November 2016"
+        }
+    ],
+    "privacy_protection": {
+        "title_ja": "個人情報保護管理者",
+        "title_en": "Personal Information Protection Manager",
+        "department_ja": "経営本部長",
+        "department_en": "General Manager, Management Headquarters",
+        "notes": "Contact via company phone for privacy-related inquiries"
+    },
+    "employee_statistics": {
+        "total": 118,
+        "male": 88,
+        "female": 30,
+        "source": "gBizINFO (March 2026)",
+        "source_url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047944"
+    },
+    "hiring_history": {
+        "total_graduate_batches": 14,
+        "first_graduates": "April 2012",
+        "recent_graduates": "April 2025",
+        "average_per_batch": "~5 employees",
+        "growth_milestone_100": "April 2018",
+        "growth_milestone_110": "April 2019"
+    },
+    "leadership_changes": [
+        {
+            "date": "April 2017",
+            "event": "Executive changes"
+        },
+        {
+            "date": "May 2019",
+            "event": "Executive changes"
+        },
+        {
+            "date": "May 2022",
+            "event": "Executive changes"
+        },
+        {
+            "date": "December 2025",
+            "event": "Executive changes"
+        }
+    ],
+    "key_contacts": {
+        "headquarters": {
+            "postal_code": "220-0004",
+            "address_ja": "神奈川県横浜市西区北幸一丁目11番15号 横浜STビル8階",
+            "address_en": "Yokohama ST Building 8F, 1-11-15 Kita-Saiwai, Nishi-ku, Yokohama, Kanagawa 220-0004, Japan"
+        },
+        "tokyo_office": {
+            "postal_code": "101-0032",
+            "address_ja": "東京都千代田区岩本町二丁目8番9号 林慶ビル2階",
+            "address_en": "Hayashi-Kei Building 2F, 2-8-9 Iwamoto-cho, Chiyoda-ku, Tokyo 101-0032, Japan"
+        },
+        "phone": "045-412-0211",
+        "business_hours": "Monday-Friday, 10:00-16:00 (excluding holidays)"
+    },
+    "metadata": {
+        "analysis_date": "2026-03-30",
+        "data_sources": [
+            "https://karbit.co.jp/company/info_summary/",
+            "https://karbit.co.jp/company/info-history/",
+            "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001047944"
+        ],
+        "notes": "Names are transcribed from Japanese characters; English spellings may vary. Some given names use standard romanization conventions."
+    },
+    "people": [
+        {
+            "name": "岡田 潔",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

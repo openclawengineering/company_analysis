@@ -1,11 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社コードダイナミクス",
-    "name_en": "CodeDynamix Inc.",
-    "website": "https://www.codedynamix.com/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-01",
-  "note": "Officer information not available on website. Requires further research when web tools are available."
+    "company": {
+        "name_jp": "株式会社コードダイナミクス",
+        "name_en": "CodeDynamix Inc.",
+        "website": "https://www.codedynamix.com/"
+    },
+    "people": [
+        {
+            "name": "中村好伸",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "note": "Officer information not available on website. Requires further research when web tools are available.",
+    "data_source": "tavily_ai_summary"
 }

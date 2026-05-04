@@ -1,11 +1,25 @@
 {
-  "company": {
-    "name_jp": "ナレッジビーンズ株式会社",
-    "name_en": "Knowledgebeans Co., Ltd.",
-    "website": "https://www.knowledgebeans.co.jp"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-01",
-  "notes": "Website company page does not list officer/executive names. Only company overview info available."
+    "company": {
+        "name_jp": "ナレッジビーンズ株式会社",
+        "name_en": "Knowledgebeans Co., Ltd.",
+        "website": "https://www.knowledgebeans.co.jp"
+    },
+    "people": [
+        {
+            "name": "Kenji Kawanishi",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "Kenji Kawanishi",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "notes": "Website company page does not list officer/executive names. Only company overview info available.",
+    "data_source": "tavily_ai_summary"
 }

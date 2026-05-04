@@ -1,11 +1,31 @@
 {
-  "company": {
-    "name_jp": "スカパーフェクトJSAT株式会社",
-    "name_en": "SKY Perfect JSAT Corporation",
-    "website": "https://www.skyperfectjsat.co.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-04",
-  "research_notes": "Executive team information not accessible through current methods. Company provides satellite communications, multi-channel programming, and 4K/8K broadcasting services. Website uses heavy JavaScript rendering limiting content access."
+    "company": {
+        "name_jp": "スカパーフェクトJSAT株式会社",
+        "name_en": "SKY Perfect JSAT Corporation",
+        "website": "https://www.skyperfectjsat.co.jp/"
+    },
+    "people": [
+        {
+            "name": "米倉 英一",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "福岡 徹",
+            "title": "取締役会長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "中川 大介",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "research_notes": "Executive team information not accessible through current methods. Company provides satellite communications, multi-channel programming, and 4K/8K broadcasting services. Website uses heavy JavaScript rendering limiting content access.",
+    "data_source": "tavily_ai_summary"
 }

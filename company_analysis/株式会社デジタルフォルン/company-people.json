@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "株式会社デジタルフォルン",
-    "name_en": "デジタルフォルン",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "株式会社デジタルフォルン",
+        "name_en": "デジタルフォルン",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "蕭 敬如",
+            "title": "代表取締役会長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

@@ -1,11 +1,19 @@
 {
-  "company": {
-    "name_jp": "システムニコル株式会社",
-    "name_en": "System Nicol Co., Ltd.",
-    "website": "http://www.systemicol.co.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-04",
-  "research_notes": "Representative name not publicly disclosed."
+    "company": {
+        "name_jp": "システムニコル株式会社",
+        "name_en": "System Nicol Co., Ltd.",
+        "website": "http://www.systemicol.co.jp/"
+    },
+    "people": [
+        {
+            "name": "花園泰",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "research_notes": "Representative name not publicly disclosed.",
+    "data_source": "tavily_ai_summary"
 }

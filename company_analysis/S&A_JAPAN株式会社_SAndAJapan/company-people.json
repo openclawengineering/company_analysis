@@ -1,11 +1,19 @@
 {
-  "company": {
-    "name_jp": "S&A JAPAN株式会社",
-    "name_en": "S&A JAPAN Inc.",
-    "website": "http://www.sanda-japan.jp"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-04",
-  "research_notes": "Company website blocked by Cloudflare security protection. Executive team information not accessible through current research methods."
+    "company": {
+        "name_jp": "S&A JAPAN株式会社",
+        "name_en": "S&A JAPAN Inc.",
+        "website": "http://www.sanda-japan.jp"
+    },
+    "people": [
+        {
+            "name": "大村章",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "research_notes": "Company website blocked by Cloudflare security protection. Executive team information not accessible through current research methods.",
+    "data_source": "tavily_ai_summary"
 }

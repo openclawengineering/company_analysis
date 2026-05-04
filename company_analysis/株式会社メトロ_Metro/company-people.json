@@ -1,20 +1,36 @@
 {
-  "company_name": "株式会社メトロ",
-  "english_name": "Metro Inc.",
-  "executives": [
-    {
-      "name": "代表取締役",
-      "position": "代表取締役社長",
-      "background": "詳細不明"
-    }
-  ],
-  "key_personnel": [
-    {
-      "name": "不明",
-      "position": "役員名不明",
-      "background": "詳細不明"
-    }
-  ],
-  "board_members": [],
-  "advisors": []
+    "company_name": "株式会社メトロ",
+    "english_name": "Metro Inc.",
+    "executives": [
+        {
+            "name": "代表取締役",
+            "position": "代表取締役社長",
+            "background": "詳細不明"
+        }
+    ],
+    "key_personnel": [
+        {
+            "name": "不明",
+            "position": "役員名不明",
+            "background": "詳細不明"
+        }
+    ],
+    "board_members": [],
+    "advisors": [],
+    "people": [
+        {
+            "name": "小川孝行",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "角元敬治",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

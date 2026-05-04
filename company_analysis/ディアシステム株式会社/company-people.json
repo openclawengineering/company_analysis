@@ -1,10 +1,18 @@
 {
-  "company": {
-    "name_jp": "ディアシステム株式会社",
-    "name_en": "ディアシステム",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "ディアシステム株式会社",
+        "name_en": "ディアシステム",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "友中香代子",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }

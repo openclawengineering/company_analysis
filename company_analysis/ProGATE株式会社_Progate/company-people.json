@@ -1,11 +1,19 @@
 {
-  "company": {
-    "name_jp": "プロゲート",
-    "name_en": "Progate",
-    "website": "https://progate.com/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-04",
-  "research_notes": "Executive team information could not be accessed due to website limitations. Company is a global online programming learning platform with 3.6M+ users across 100+ countries."
+    "company": {
+        "name_jp": "プロゲート",
+        "name_en": "Progate",
+        "website": "https://progate.com/"
+    },
+    "people": [
+        {
+            "name": "加藤將倫",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "research_notes": "Executive team information could not be accessed due to website limitations. Company is a global online programming learning platform with 3.6M+ users across 100+ countries.",
+    "data_source": "tavily_ai_summary"
 }

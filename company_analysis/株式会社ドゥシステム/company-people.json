@@ -1,10 +1,24 @@
 {
-  "company": {
-    "name_jp": "株式会社ドゥシステム",
-    "name_en": "ドゥシステム",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-04-10"
+    "company": {
+        "name_jp": "株式会社ドゥシステム",
+        "name_en": "ドゥシステム",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "木村三四朗",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null
+        },
+        {
+            "name": "成島優",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "data_source": "tavily_ai_summary"
 }
