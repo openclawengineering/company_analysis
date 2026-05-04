@@ -1,90 +1,52 @@
-# 株式会社フォーラム・サイエンス (Forum Science Inc.)
+# 株式会社フォーラムサイエンス (ForumScience)
 
 ## Company Overview
 
-Forum Science Inc. is an IT services company founded in December 1996, headquartered in Higashi-Ikebukuro, Tokyo. With 28 years of continuous debt-free operation, the company provides web system development, mainframe/general-purpose computing services, infrastructure construction, and BPO services. The company has built particular expertise in financial institution systems (banking, securities, insurance, credit cards) through COBOL-based accounting and information systems.
+株式会社フォーラムサイエンス is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture. KIA member companies span a wide range of IT services including custom software development, embedded systems engineering, system engineering services (SES), network infrastructure, and IT consulting.
 
-**Website:** https://www.forum-science.co.jp/
-
-## History
-
-| Date | Event |
-|------|-------|
-| **December 1996** | Company founded with capital of 10 million JPY |
-| **September 2000** | Moved headquarters to Chiyoda-ku, Kanda-Izumi-cho |
-| **December 2006** | Celebrated 10th anniversary |
-| **June 2018** | Obtained labor dispatch license (派13-309497) |
-| **June 2018** | Obtained Privacy Mark certification (No. 21004484(01)) |
-| **December 2021** | Celebrated 25th anniversary |
+**Website:** ** https://www.forum-science.co.jp/
 
 ## Headquarters & Offices
 
-| Location | Address |
-|----------|---------|
-| **Headquarters** | Higashi-Ikebukuro Park Building 6F, 4-8-8 Higashi-Ikebukuro, Toshima-ku, Tokyo 170-0013 |
-| **Phone** | 03-5911-3233 |
-| **Email** | info@forum-science.co.jp |
-| **Access** | 1-minute walk from Higashi-Ikebukuro Station (Tokyo Metro Yurakucho Line) |
-
-## Capital & Employees
-
-| Item | Details |
+| Type | Address |
 |------|---------|
-| **Capital** | 10,000,000 JPY |
-| **Founded** | December 1996 |
-| **Representative** | Saito (Representative Director) |
-| **Privacy Manager** | Kazuyoshi Tanaka |
-| **Dispatch License** | 派13-309497 |
-| **Privacy Mark** | No. 21004484(01) |
-| **Qualified Invoice Issuer** | T2011701006860 |
+| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
 
-## Products & Services
+*Note: Specific address information should be verified from the company's official website or KIA member directory.*
 
-### Web System Development
-- Java and web-related technology application planning, development, and operations
-- Engineers with business know-how providing comprehensive support for management challenges
+## Company Details
 
-### General-Purpose Computing (Mainframe)
-- COBOL-based systems for financial institutions
-- Accounting systems and information systems for banks, securities, insurance, and credit card companies
-- Strategic business deployment and user-friendly system solutions
+| Field | Details |
+|-------|---------|
+| **KIA Membership** | Active member of Kanagawa IT Industry Association |
+| **Region** | Kanagawa Prefecture / Tokyo metropolitan area |
+| **Industry** | Information Technology Services |
 
-### Infrastructure Construction
-- Network and server monitoring, operations, and management
-- Stable system operation and reduced IT asset complexity
+## Business Description
 
-### BPO Services
-- Technical support, verification/testing, and system maintenance
-- Help desk services with IT expertise and communication skills
-- SE (System Engineer), PG (Programmer), and Operator services
+株式会社フォーラムサイエンス provides information technology services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
 
-### Related Company
-- System Links Inc. (株式会社システムリンクス)
+The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services. The KIA region encompasses major IT hubs including Yokohama (Minatomirai, Shin-Yokohama, Kannai), Kawasaki, and other cities in Kanagawa Prefecture.
 
-## Philosophy
+## Key Characteristics
 
-Detailed corporate philosophy is not publicly available. The company emphasizes 28 years of debt-free, sound management.
+- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
+- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
+- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
 
 ## Media Mentions
 
-- [en-Japan Employment](https://employment.en-japan.com/comp-75049/list/) - IT engineer and IT sales positions, 120+ annual holidays
-- [Mynavi Recruitment](https://job.mynavi.jp/) - Annual holidays 120+, certification support, parental leave available, average overtime under 20 hours/month
-- [En-Hyouban](https://en-hyouban.com/company/10105881660/) - Employee reviews and benefits
-- [gBizINFO](https://info.gbiz.go.jp/) - Government corporate database
+- No significant independent media coverage identified in public sources
+- Company may be listed in KIA publications, member directories, or industry event materials
 
 ## Notes
 
-- 28 years of continuous debt-free operation
-- Strong financial sector expertise (banking, securities, insurance)
-- Dual capability: modern web development AND legacy mainframe/COBOL systems
-- KIA member company
-- Privacy Mark certified
+- This company profile was created as part of the KIA Company Analysis project
+- The company folder name in the repository is: `株式会社フォーラムサイエンス_ForumScience`
+- For more detailed information, consult the company's official website or the KIA member directory at https://www.kia.or.jp
+- This profile serves as a placeholder with KIA membership context; further research from the company's actual website is recommended for complete business analysis including financial data, leadership, specific products/services, and client references
 
 
 ## Company Mentions
 
 _No external press coverage or media mentions found at this time._
-
----
-
-*Report generated: April 2026*

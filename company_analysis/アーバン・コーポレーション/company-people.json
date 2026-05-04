@@ -1,17 +1,17 @@
 {
     "company": {
-        "name": "モトミ株式会社（Motomi）",
+        "name": "アーバン・コーポレーション",
         "name_en": "",
         "website": ""
     },
     "people": [
         {
-            "name": "星川 愛華",
+            "name": "Kaito Tanoue",
             "title": "代表取締役",
             "linkedin": null,
             "twitter": null
         }
     ],
     "last_updated": "2026-05-04",
-    "data_source": null
+    "data_source": "manual"
 }

@@ -1,10 +1,17 @@
 {
-  "company": {
-    "name_jp": "システムワークスジャパン",
-    "name_en": "SystemsWorksJapan",
-    "website": ""
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "システムワークスジャパン",
+        "name_en": "SystemsWorksJapan",
+        "website": ""
+    },
+    "people": [
+        {
+            "name": "中村 徳雄",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }
