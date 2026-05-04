@@ -1,239 +1,251 @@
 {
-  "company": {
-    "name_jp": "日清オイリオグループ株式会社",
-    "name_en": "The Nisshin OilliO Group, Ltd.",
-    "website": "https://www.nisshin-oillio.com/"
-  },
-  "people": [
-    {
-      "name": "久野 貴久",
-      "title": "代表取締役社長 / 社長執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "日清オイリオグループ株式会社",
+        "name_en": "The Nisshin OilliO Group, Ltd.",
+        "website": "https://www.nisshin-oillio.com/"
     },
-    {
-      "name": "三枝 理人",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "佐藤 将祐",
-      "title": "取締役 / 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "寺口 太二",
-      "title": "取締役 / 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小池 賢二",
-      "title": "取締役 / 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "竹島 智春",
-      "title": "取締役 / 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "山本 功",
-      "title": "社外取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "江藤 尚美",
-      "title": "社外取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "志濟 聡子",
-      "title": "社外取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "大場 克仁",
-      "title": "常勤監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "渡辺 信行",
-      "title": "常勤監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "草道 倫武",
-      "title": "社外監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "水口 啓子",
-      "title": "社外監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小林 新",
-      "title": "専務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "岡 雅彦",
-      "title": "専務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "野中 公陽",
-      "title": "常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "井上 勝司",
-      "title": "常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "久馬 仁",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "川邊 修",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "関口 和洋",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "森 貴幸",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "上原 秀隆",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "三木 浩嗣",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "横山 英治",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "長谷川 寛",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "白石 鉄",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "古門 正尚",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "藤森 敏央",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {"platform": "twitter", "url": "https://twitter.com/nisshin_oillio", "name": "日清オイリオグループ"},
-    {"platform": "instagram", "url": "https://www.instagram.com/nisshin_oillio/", "name": "日清オイリオグループ"},
-    {"platform": "youtube", "url": "https://www.youtube.com/channel/UCts7SZFtX0B7WIpY3cS1CxA", "name": "日清オイリオグループ"}
-  ],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "久野 貴久",
+            "title": "代表取締役社長 / 社長執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "三枝 理人",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "佐藤 将祐",
+            "title": "取締役 / 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "寺口 太二",
+            "title": "取締役 / 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "小池 賢二",
+            "title": "取締役 / 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "竹島 智春",
+            "title": "取締役 / 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "山本 功",
+            "title": "社外取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "江藤 尚美",
+            "title": "社外取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "志濟 聡子",
+            "title": "社外取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "大場 克仁",
+            "title": "常勤監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "渡辺 信行",
+            "title": "常勤監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "草道 倫武",
+            "title": "社外監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "水口 啓子",
+            "title": "社外監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "小林 新",
+            "title": "専務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "岡 雅彦",
+            "title": "専務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "野中 公陽",
+            "title": "常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "井上 勝司",
+            "title": "常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "久馬 仁",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "川邊 修",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "関口 和洋",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "森 貴幸",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "上原 秀隆",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "三木 浩嗣",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "横山 英治",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "長谷川 寛",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "白石 鉄",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "古門 正尚",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "藤森 敏央",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/nisshin_oillio",
+            "name": "日清オイリオグループ"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/nisshin_oillio/",
+            "name": "日清オイリオグループ"
+        },
+        {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/channel/UCts7SZFtX0B7WIpY3cS1CxA",
+            "name": "日清オイリオグループ"
+        }
+    ],
+    "last_updated": "2026-05-04"
 }
