@@ -1,11 +1,19 @@
-[
-  {
-    "name": "Abdullah Tarik",
-    "name_ja": "アブドゥラー・タリク",
-    "role": "Representative Director",
-    "role_ja": "代表取締役",
-    "linkedin": null,
-    "twitter": null,
-    "source_page": "https://arisaftech.co.jp/company-profile"
-  }
-]
+{
+  "company": {
+    "name_jp": "アリサフテック・ジャパン株式会社",
+    "name_en": "AriSaf Tech Japan Co., Ltd.",
+    "website": "https://arisaftech.co.jp/"
+  },
+  "people": [
+    {
+      "name": "アブドゥラー・タリク",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-04"
+}
