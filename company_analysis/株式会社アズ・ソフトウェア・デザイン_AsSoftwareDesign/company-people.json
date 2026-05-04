@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社アズ・ソフトウェア・デザイン",
-    "name_en": "アズ・ソフトウェア・デザイン",
-    "website": "http://www.asd-net.co.jp/"
-  },
-  "people": [
-    {
-      "name": "渡邉",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-04-30"
+    "company": {
+        "name_jp": "株式会社アズ・ソフトウェア・デザイン",
+        "name_en": "アズ・ソフトウェア・デザイン",
+        "website": "http://www.asd-net.co.jp/"
+    },
+    "people": [
+        {
+            "name": "渡邉",
+            "title": "代表取締役社長",
+            "linkedin": "https://www.linkedin.com/in/hiroshiwatanabe-designer/ja",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-04-30"
 }

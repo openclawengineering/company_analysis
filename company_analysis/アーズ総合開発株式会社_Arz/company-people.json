@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "アーズ総合開発株式会社",
-    "name_en": "Arz Co., Ltd.",
-    "website": "https://www.arz.co.jp/"
-  },
-  "people": [
-    {
-      "name": "岡田 篤",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "okada@arz.co.jp"
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-04-30"
+    "company": {
+        "name_jp": "アーズ総合開発株式会社",
+        "name_en": "Arz Co., Ltd.",
+        "website": "https://www.arz.co.jp/"
+    },
+    "people": [
+        {
+            "name": "岡田 篤",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E7%AF%A4-%E5%B2%A1%E7%94%B0-118b",
+            "twitter": null,
+            "department": "",
+            "email": "okada@arz.co.jp"
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-04-30"
 }

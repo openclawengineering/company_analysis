@@ -1,53 +1,53 @@
 {
-  "company": {
-    "name_jp": "株式会社アクロイト",
-    "name_en": "アクロイト",
-    "website": "https://acroit.co.jp/"
-  },
-  "people": [
-    {
-      "name": "田村",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社アクロイト",
+        "name_en": "アクロイト",
+        "website": "https://acroit.co.jp/"
     },
-    {
-      "name": "宗片",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "池端",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "田中",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "株式会社アクロイト",
-      "title": "Corporate",
-      "twitter": "https://twitter.com/twi_acroit",
-      "facebook": "https://www.facebook.com/acroit2019/",
-      "instagram": "https://www.instagram.com/insta_acroit/",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-30"
+    "people": [
+        {
+            "name": "田村",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/md-phd-tamura-949961178",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "宗片",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "池端",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "田中",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "株式会社アクロイト",
+            "title": "Corporate",
+            "twitter": "https://twitter.com/twi_acroit",
+            "facebook": "https://www.facebook.com/acroit2019/",
+            "instagram": "https://www.instagram.com/insta_acroit/",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-04-30"
 }

@@ -1,43 +1,43 @@
 {
-  "company": {
-    "name_jp": "株式会社システムワークス",
-    "name_en": "System Works Co., Ltd.",
-    "website": "https://system-works.co.jp"
-  },
-  "people": [
-    {
-      "name": "中村徳雄",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社システムワークス",
+        "name_en": "System Works Co., Ltd.",
+        "website": "https://system-works.co.jp"
     },
-    {
-      "name": "北林政和",
-      "title": "副社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "上野始",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "中村充良",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "中村徳雄",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E4%BA%9C%E7%94%B1%E5%AD%90-%E4%B",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "北林政和",
+            "title": "副社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "上野始",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "中村充良",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

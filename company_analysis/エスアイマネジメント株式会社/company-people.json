@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "エスアイマネジメント株式会社",
-    "name_en": "SI Management Co., Ltd.",
-    "website": "https://www.si-m.com/"
-  },
-  "people": [
-    {
-      "name": "藤村 基寛",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "エスアイマネジメント株式会社",
+        "name_en": "SI Management Co., Ltd.",
+        "website": "https://www.si-m.com/"
+    },
+    "people": [
+        {
+            "name": "藤村 基寛",
+            "title": "代表取締役",
+            "linkedin": "https://www.linkedin.com/in/keisuke-uchimura-89b1a668/",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

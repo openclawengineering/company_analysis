@@ -1,62 +1,62 @@
 {
-  "company": {
-    "name_jp": "株式会社アイテック",
-    "name_en": "ITEC Co., Ltd.",
-    "website": "https://www.itec.co.jp/"
-  },
-  "people": [
-    {
-      "name": "土元克則",
-      "name_ja": "土元 克則",
-      "title": "代表取締役社長 教育事業本部長",
-      "title_ja": "代表取締役社長 教育事業本部長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "経営",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社アイテック",
+        "name_en": "ITEC Co., Ltd.",
+        "website": "https://www.itec.co.jp/"
     },
-    {
-      "name": "久保田善之",
-      "name_ja": "久保田 善之",
-      "title": "常務執行役員 管理本部長",
-      "title_ja": "常務執行役員 管理本部長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "管理本部",
-      "email": ""
-    },
-    {
-      "name": "橋本岳人",
-      "name_ja": "橋本 岳人",
-      "title": "執行役員 人材事業本部長",
-      "title_ja": "執行役員 人材事業本部長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "人材事業本部",
-      "email": ""
-    },
-    {
-      "name": "町大輔",
-      "name_ja": "町 大輔",
-      "title": "執行役員",
-      "title_ja": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "platform": "Twitter/X",
-      "url": "https://x.com/ITEC_shikaku",
-      "handle": "@ITEC_shikaku"
-    },
-    {
-      "platform": "Facebook",
-      "url": "https://www.facebook.com/ITEC.Community"
-    }
-  ],
-  "last_updated": "2026-04-30",
-  "notes": "株式会社フォーバル（東証スタンダード：8275）の子会社。1983年設立（旧：情報処理技術者教育センター）、1991年現商号。本社：東京都港区、教育事業本部：東京都大田区。IT資格教育・通信教育・人材派遣が主事業。健康経営優良法人2026認定。ISO27001認証取得（人材事業・教育事業両部門）。"
+    "people": [
+        {
+            "name": "土元克則",
+            "name_ja": "土元 克則",
+            "title": "代表取締役社長 教育事業本部長",
+            "title_ja": "代表取締役社長 教育事業本部長",
+            "linkedin": "https://jp.linkedin.com/in/yoshida-entertainment",
+            "twitter": null,
+            "department": "経営",
+            "email": ""
+        },
+        {
+            "name": "久保田善之",
+            "name_ja": "久保田 善之",
+            "title": "常務執行役員 管理本部長",
+            "title_ja": "常務執行役員 管理本部長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "管理本部",
+            "email": ""
+        },
+        {
+            "name": "橋本岳人",
+            "name_ja": "橋本 岳人",
+            "title": "執行役員 人材事業本部長",
+            "title_ja": "執行役員 人材事業本部長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "人材事業本部",
+            "email": ""
+        },
+        {
+            "name": "町大輔",
+            "name_ja": "町 大輔",
+            "title": "執行役員",
+            "title_ja": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "Twitter/X",
+            "url": "https://x.com/ITEC_shikaku",
+            "handle": "@ITEC_shikaku"
+        },
+        {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/ITEC.Community"
+        }
+    ],
+    "last_updated": "2026-04-30",
+    "notes": "株式会社フォーバル（東証スタンダード：8275）の子会社。1983年設立（旧：情報処理技術者教育センター）、1991年現商号。本社：東京都港区、教育事業本部：東京都大田区。IT資格教育・通信教育・人材派遣が主事業。健康経営優良法人2026認定。ISO27001認証取得（人材事業・教育事業両部門）。"
 }

@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "アドテック株式会社",
-    "name_en": "Adtec Inc.",
-    "website": "https://www.adtec.co.jp/"
-  },
-  "people": [
-    {
-      "name": "下津 享",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "アドテック株式会社",
+        "name_en": "Adtec Inc.",
+        "website": "https://www.adtec.co.jp/"
+    },
+    "people": [
+        {
+            "name": "下津 享",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/厚介-下津-3b0751354",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "Alpha Media Co., Ltd.",
-    "name_en": "Alpha Media Co., Ltd.",
-    "website": "https://www.alphamedia.co.jp/"
-  },
-  "people": [
-    {
-      "name": "小湊 宏之",
-      "title": "President & CEO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "Alpha Media Co., Ltd.",
+        "name_en": "Alpha Media Co., Ltd.",
+        "website": "https://www.alphamedia.co.jp/"
+    },
+    "people": [
+        {
+            "name": "小湊 宏之",
+            "title": "President & CEO",
+            "linkedin": "https://jp.linkedin.com/in/%E5%AE%8F%E4%B9%8B-%E5%B0%8F%E6%B",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

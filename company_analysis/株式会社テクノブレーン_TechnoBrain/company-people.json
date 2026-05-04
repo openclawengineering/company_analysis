@@ -1,24 +1,40 @@
 {
-  "company": {
-    "name_jp": "テクノブレーン株式会社",
-    "name_en": "TechnoBrain Co., ltd.",
-    "website": "https://www.techno-brain.co.jp/"
-  },
-  "people": [
-    {
-      "name": "加茂 孝修",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {"platform": "twitter", "url": "https://twitter.com/technobrain_ex", "name": "テクノブレーン"},
-    {"platform": "facebook", "url": "https://www.facebook.com/technobrain", "name": "テクノブレーン"},
-    {"platform": "youtube", "url": "https://www.youtube.com/channel/UCreVlEi5FUD_ybPLdK8WK4A/featured", "name": "テクノブレーン"},
-    {"platform": "note", "url": "https://note.techno-brain.co.jp/", "name": "テクノブレーン"}
-  ],
-  "last_updated": "2026-05-01"
+    "company": {
+        "name_jp": "テクノブレーン株式会社",
+        "name_en": "TechnoBrain Co., ltd.",
+        "website": "https://www.techno-brain.co.jp/"
+    },
+    "people": [
+        {
+            "name": "加茂 孝修",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/kamotakanobu",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/technobrain_ex",
+            "name": "テクノブレーン"
+        },
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/technobrain",
+            "name": "テクノブレーン"
+        },
+        {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/channel/UCreVlEi5FUD_ybPLdK8WK4A/featured",
+            "name": "テクノブレーン"
+        },
+        {
+            "platform": "note",
+            "url": "https://note.techno-brain.co.jp/",
+            "name": "テクノブレーン"
+        }
+    ],
+    "last_updated": "2026-05-01"
 }

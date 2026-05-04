@@ -1,55 +1,67 @@
 {
-  "company": {
-    "name_jp": "株式会社ネオシステム",
-    "name_en": "NEOSYSTEM Co., Ltd.",
-    "website": "https://www.neosystem.co.jp/"
-  },
-  "people": [
-    {
-      "name": "深味 洋介",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社ネオシステム",
+        "name_en": "NEOSYSTEM Co., Ltd.",
+        "website": "https://www.neosystem.co.jp/"
     },
-    {
-      "name": "山中 幹",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "土井 伴治",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "金井 幸太",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "宿沢 一六",
-      "title": "ファウンダー",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {"platform": "facebook", "url": "https://www.facebook.com/neosystempromotion", "name": "NEOSYSTEM"},
-    {"platform": "twitter", "url": "https://x.com/neo_promotion", "name": "NEOSYSTEM"},
-    {"platform": "note", "url": "https://note.com/neosystem/", "name": "NEOSYSTEM"}
-  ],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "深味 洋介",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%9",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "山中 幹",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "土井 伴治",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "金井 幸太",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "宿沢 一六",
+            "title": "ファウンダー",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/neosystempromotion",
+            "name": "NEOSYSTEM"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://x.com/neo_promotion",
+            "name": "NEOSYSTEM"
+        },
+        {
+            "platform": "note",
+            "url": "https://note.com/neosystem/",
+            "name": "NEOSYSTEM"
+        }
+    ],
+    "last_updated": "2026-05-01"
 }
