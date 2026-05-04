@@ -1,11 +1,19 @@
 {
-  "company": {
-    "name_jp": "宮崎通信株式会社",
-    "name_en": "Miyazaki Tsushin Co., Ltd.",
-    "website": "https://www.mtnet.co.jp/"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-01",
-  "notes": "Website (mtnet.co.jp) was unreachable during scraping. No officer data could be obtained."
+    "company": {
+        "name_jp": "宮崎通信株式会社",
+        "name_en": "Miyazaki Tsushin Co., Ltd.",
+        "website": "https://www.mtnet.co.jp/"
+    },
+    "people": [
+        {
+            "name": "濱田 順二",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04",
+    "notes": "Website (mtnet.co.jp) was unreachable during scraping. No officer data could be obtained.",
+    "data_source": "tavily_ai_summary"
 }
