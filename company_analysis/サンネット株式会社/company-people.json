@@ -1,100 +1,100 @@
 {
-  "company": {
-    "name_jp": "サンネット株式会社",
-    "name_en": "サンネット",
-    "website": "https://www.sunnet.co.jp/company/outline/"
-  },
-  "people": [
-    {
-      "name": "メッセージ",
-      "title": "社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "サンネット株式会社",
+        "name_en": "サンネット",
+        "website": "https://www.sunnet.co.jp/company/outline/"
     },
-    {
-      "name": "市川",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": "https://x.com/ichikawa_news?lang=ja",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "取締役",
-      "title": "常務",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "大田和",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": "https://x.com/ayalunch831",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "石渡",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "上村",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "会社情報",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "代表取締役社長",
-      "title": "役員構成",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "メッセージ",
-      "title": "社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "市川",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": "https://x.com/ichikawa_news?lang=ja",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "大田和",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": "https://x.com/ayalunch831",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "メッセージ",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "市川",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": "https://x.com/ichikawa_news?lang=ja",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "取締役",
+            "title": "常務",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "大田和",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": "https://x.com/ayalunch831",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "石渡",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "上村",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長",
+            "title": "会社情報",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "代表取締役社長",
+            "title": "役員構成",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "メッセージ",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "市川",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": "https://x.com/ichikawa_news?lang=ja",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "大田和",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": "https://x.com/ayalunch831",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

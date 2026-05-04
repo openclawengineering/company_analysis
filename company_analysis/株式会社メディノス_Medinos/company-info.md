@@ -42,3 +42,10 @@
 
 ---
 *この情報は公開されている情報に基づいて作成されています。最新の情報をご希望の場合は直接お問い合わせください。*
+
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
+---
+*Updated: May 4, 2026*

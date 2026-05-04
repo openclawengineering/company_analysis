@@ -180,13 +180,10 @@
 
 ## Company Mentions
 
-- **[NTTテクノクロス株式会社]** — 2026-03-31 — 財務諸表・決算公告を公開（2025年3月期決算、売上562億8800万円） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
-- **[NTTテクノクロス株式会社]** — 2026-01-15 — CMMIレベル3認証を取得（品質管理システムの高度化） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
-- **[NTTテクノクロス株式会社]** — 2025-12-01 — スマート農業ソリューションを新たに展開（AI・IoT技術を活用） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
-- **[NTTテクノクロス株式会社]** — 2025-11-20 — 金融業界向けDXソリューションを強化（主要銀行との提携強化） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
-- **[NTTテクノクロス株式会社]** — 2025-10-01 — AI音声認識技術の新バージョンをリリース（顧客エクスペリエンス向上） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
-- **[NTTテクノクロス株式会社]** — 2025-09-15 — ISO 27001:2022認証を更新（情報セキュリティ管理システム） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
-- **[NTTテクノクロス株式会社]** — 2025-08-01 — NTTグループ内DX推進の中心的役割を担う（デジタルトランスフォーメーション支援） ([https://www.ntt-tx.co.jp](https://www.ntt-tx.co.jp))
+- **[Frost & Sullivan]** — 2025-07-09 — Named "2025 Japan Company of the Year" in Privileged Access Management Industry for iDoperation ([https://www.frost.com/wp-content/uploads/2025/06/NTT-TechnoCross_Award-Writeup.pdf](https://www.frost.com/wp-content/uploads/2025/06/NTT-TechnoCross_Award-Writeup.pdf))
+- **[NTT Group Press Release]** — 2024-06-06 — Changes in Organizational Responsibilities; Kenichi Minami appointed to join NTT TechnoCross Corporation ([https://group.ntt/en/newsrelease/2024/06/06/240606a.html](https://group.ntt/en/newsrelease/2024/06/06/240606a.html))
+- **[NTT TechnoCross News]** — 2025-09-26 — Sponsored Honda Racing eMS 2025 e-motorsports event ([https://www.ntt-tx.com/2025/pdf/20250926_ENG%201.pdf](https://www.ntt-tx.com/2025/pdf/20250926_ENG%201.pdf))
+- **[NTT TechnoCross News]** — 2025-04-24 — iDoperation Series 2025 event announced for Bangkok, May 28, 2025 ([https://www.ntt-tx.com/products/idoperation/news/iDoperation_May_28_2025_ENG-2.pdf](https://www.ntt-tx.com/products/idoperation/news/iDoperation_May_28_2025_ENG-2.pdf))
 
 ---
-*Research completed: April 25, 2026*
+*Research completed: May 4, 2026*

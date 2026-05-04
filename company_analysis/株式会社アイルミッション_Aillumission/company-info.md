@@ -123,8 +123,7 @@
 
 ## Company Mentions
 
-- **横浜市公式** — 2025-11-21 — 横浜市『脱炭素取組宣言』に参加 ([記事](https://www.aillumission.co.jp/news/))
-- **横浜エクセレンス** — 2025-10-02 — 横浜エクセレンスと2025-2026シーズン シルバーパートナー契約締結 ([記事](https://www.aillumission.co.jp/news/))
-- **かながわ経済新聞** — 2024-11-26 — CYBERGYM横浜が経済新聞に掲載 ([記事](https://www.aillumission.co.jp/news/))
-- **金融機関向けサービス** — 2024-11-11 — 金融機関向けサイバーセキュリティトレーニング提供開始 ([記事](https://www.aillumission.co.jp/news/))
-- **台湾企業提携** — 2024-08-14 — 台湾uniXecure Technology Corporationとの業務提携発表 ([記事](https://www.aillumission.co.jp/news/))
+_No external press coverage or media mentions found at this time._
+
+---
+*Updated: May 4, 2026*

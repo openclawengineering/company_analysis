@@ -94,21 +94,7 @@ NTTドコモ、NTTデータ、富士通、SCSK、KDDI、ソフトバンク、パ
 
 ## Company Mentions
 
-_外部のプレスリリースやメディア掲載は現在確認できていません。_
+_No external press coverage or media mentions found at this time._
 
 ---
-
-*レポート作成: 2026年4月*
-
-## Company Mentions
-
-- **[CLINKS株式会社]** — 2026-04-24 — ナレフルチャット、大型アップデートを実施～AIエージェント活用状況を一覧確認&最新画像生成モデル対応～ ([https://www.clinks.jp/news/2026/04/24/](https://www.clinks.jp/news/2026/04/24/))
-- **[CLINKS株式会社]** — 2026-04-23 — 生成AIのハルシネーション対策と業務リスク統制の実践ガイド ([https://www.clinks.jp/news/2026/04/23/](https://www.clinks.jp/news/2026/04/23/))
-- **[CLINKS株式会社]** — 2026-04-17 — 生成AIの導入を成功へ導く業務選定と実行設計の進め方 ([https://www.clinks.jp/news/2026/04/17/](https://www.clinks.jp/news/2026/04/17/))
-- **[CLINKS株式会社]** — 2026-04-14 — 経済産業省による情報処理支援機関「スマートSMEサポーター」に認定 ([https://www.clinks.jp/news/2026/04/14/](https://www.clinks.jp/news/2026/04/14/))
-- **[CLINKS株式会社]** — 2026-04-08 — 【6年連続】健康経営優良法人2026の大規模法人部門に認定 ([https://www.clinks.jp/news/2026/04/08/](https://www.clinks.jp/news/2026/04/08/))
-- **[CLINKS株式会社]** — 2026-04-07 — 一般社団法人 Generative AI Japan に参画～AI DRIVEN COMPANYとして生成AI活用の健全な発展に貢献～ ([https://www.clinks.jp/news/2026/04/07/](https://www.clinks.jp/news/2026/04/07/))
-- **[CLINKS株式会社]** — 2026-04-03 — Japan DX Week 春2026「第9回 AI・業務自動化展」に出展 ([https://www.clinks.jp/news/2026/04/03/](https://www.clinks.jp/news/2026/04/03/))
-- **[CLINKS株式会社]** — 2026-04-02 — 「AI博覧会 Spring 2026」出展のお知らせ ([https://www.clinks.jp/news/2026/04/02/](https://www.clinks.jp/news/2026/04/02/))
-- **[CLINKS株式会社]** — 2026-03-31 — 「ナッ！」と驚く"全員活躍AI"の裏側を描く！企業定額制・生成AIサービス「ナレフルチャット」初のCM公開 ([https://www.clinks.jp/news/2026/03/31/](https://www.clinks.jp/news/2026/03/31/))
-- **[CLINKS株式会社]** — 2026-03-27 — ナレフルチャット、チャット履歴をExcelファイルで出力できる新機能をリリース ([https://www.clinks.jp/news/2026/03/27/](https://www.clinks.jp/news/2026/03/27/))
+*Updated: May 4, 2026*

@@ -84,12 +84,7 @@
 
 ## Company Mentions
 
-- **公益財団法人 日本障害者スキー連盟**: [2026年2月12日] — アイネスグループは、障害者スノースポーツを統括する日本の中核団体である「公益財団法人 日本障害者スキー連盟」との間で、オフィシャルスポンサー契約を締結しました。([詳細](https://www.iti.ines.co.jp/media/event/olympics-sport-jps-ski))
-- **情報セキュリティマネジメントシステム**: [2025年10月1日] — 当社は「情報セキュリティマネジメントシステム(ISMS):ISO27001」および「 ISMSクラウドセキュリティ認証(CLS):ISO27017」を取得しました。([詳細](https://www.iti.ines.co.jp/company/organization.html#kouteki))
-- **日本マイクロソフト**: [2025年9月24日] — 当社は日本マイクロソフト株式会社より「ゼロタッチデバイス管理パートナー」に認定されました。本認定は、Microsoft IntuneおよびWindows Autopilotを活用したクラウド型デバイス管理において、設計から導入・運用支援まで一貫したサービス提供が可能な技術力と実績が評価されたものです。([詳細](https://www.iti.ines.co.jp/lp.html))
-- **役員の異動**: [2026年4月1日] — 役員の異動について ([詳細](https://www.iti.ines.co.jp/dcms_media/other/%E5%BD%B9%E5%93%A1%E7%95%B0%E5%8B%95%E3%81%AE%E4%BB%B6_20260401.pdf))
-- **役員の異動**: [2025年4月25日] — 役員の異動について ([詳細](https://www.iti.ines.co.jp//dcms_media/other/%E5%BD%B9%E5%93%A1%E7%95%B0%E5%8B%95%E3%81%AE%E4%BB%B6_20250425.pdf))
+_No external press coverage or media mentions found at this time._
 
 ---
-
-*この会社情報は2026年5月1日に調査・作成されました。*
+*Updated: May 4, 2026*

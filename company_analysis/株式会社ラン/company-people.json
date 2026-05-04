@@ -1,44 +1,44 @@
 {
-  "company": {
-    "name_jp": "株式会社ラン",
-    "name_en": "ラン",
-    "website": "http://lan-world.jp/rn/default.html"
-  },
-  "people": [
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/ran-li-951110147",
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社ラン",
+        "name_en": "ラン",
+        "website": "http://lan-world.jp/rn/default.html"
     },
-    {
-      "name": "を育てる「卵」",
-      "title": "リーダー",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "は長年の実績があります。",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/ran-li-951110147",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "を育てる「卵」",
+            "title": "リーダー",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長",
+            "title": "は長年の実績があります。",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": "https://jp.linkedin.com/in/ran-li-951110147",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

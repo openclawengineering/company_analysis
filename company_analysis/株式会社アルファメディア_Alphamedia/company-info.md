@@ -71,10 +71,7 @@ TEL：078-360-1341（代）
 
 ## Company Mentions
 
-- **名城大学**: [2022年度〜] — 「かいけつ出席シリーズ」の出席管理ICカードリーダーを全学的に導入 ([詳細](https://www.alphamedia.co.jp/case/detail/item-meijyo.html))
-- **タウンニュース中原区版**: [2026年3月13日] — タウンニュース中原区版(3月13日号)に掲載されました ([詳細](https://www.alphamedia.co.jp/information/detail/item-2191ab7ffb3e4d56b6ebd8c87bf0abcf.html))
-- **かわさきFM**: [2026年1月14日] — かわさきFMの新春特別番組「声の年賀状」出演 ([詳細](https://www.alphamedia.co.jp/information/detail/item-ca3cc273e7f14707969253eea422769e.html))
+_No external press coverage or media mentions found at this time._
 
 ---
-
-*この会社情報は2026年5月1日に調査・作成されました。*
+*Updated: May 4, 2026*

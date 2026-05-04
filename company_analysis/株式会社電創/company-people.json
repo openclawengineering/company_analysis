@@ -1,92 +1,92 @@
 {
-  "company": {
-    "name_jp": "株式会社電創",
-    "name_en": "電創",
-    "website": "https://www.denso-japan.co.jp/company/"
-  },
-  "people": [
-    {
-      "name": "栗栖",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E7%A7%80%E8%A1%8C-%E6%A0%97%E6%A0%96-295608357",
-      "twitter": "https://x.com/kurimoni367",
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社電創",
+        "name_en": "電創",
+        "website": "https://www.denso-japan.co.jp/company/"
     },
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/bjoern-henkel-13156b19",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "就任のお知らせ",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "取締役",
-      "title": "代表",
-      "linkedin": "https://sg.linkedin.com/in/gilbert-soh-4662441b9",
-      "twitter": "https://x.com/torishimaru",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "コンセプト・テクノロジー",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "代表取締役社長",
-      "title": "2025/9/1",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "栗栖",
-      "title": "代表取締役",
-      "linkedin": "https://jp.linkedin.com/in/%E7%A7%80%E8%A1%8C-%E6%A0%97%E6%A0%96-295608357",
-      "twitter": "https://x.com/kurimoni367",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/bjoern-henkel-13156b19",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "就任のお知らせ",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "取締役",
-      "title": "代表",
-      "linkedin": "https://sg.linkedin.com/in/gilbert-soh-4662441b9",
-      "twitter": "https://x.com/torishimaru",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "栗栖",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E7%A7%80%E8%A1%8C-%E6%A0%97%E6%A0%96-295608357",
+            "twitter": "https://x.com/kurimoni367",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "就任のお知らせ",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "取締役",
+            "title": "代表",
+            "linkedin": "https://sg.linkedin.com/in/gilbert-soh-4662441b9",
+            "twitter": "https://x.com/torishimaru",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長",
+            "title": "コンセプト・テクノロジー",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "代表取締役社長",
+            "title": "2025/9/1",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "栗栖",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E7%A7%80%E8%A1%8C-%E6%A0%97%E6%A0%96-295608357",
+            "twitter": "https://x.com/kurimoni367",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": "https://jp.linkedin.com/in/bjoern-henkel-13156b19",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "就任のお知らせ",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "取締役",
+            "title": "代表",
+            "linkedin": "https://sg.linkedin.com/in/gilbert-soh-4662441b9",
+            "twitter": "https://x.com/torishimaru",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

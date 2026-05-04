@@ -53,10 +53,7 @@ Web系・DB・メインフレームのシステム開発・運用のスペシャ
 
 ## Company Mentions
 
-- **かながわ健康企業宣言事業**: [2024年2月8日] — 健康優良企業に認定 ([詳細](https://arrow-systems.co.jp/index.html))
-- **株式会社クレスコ**: [2022年4月20日] — CRESCO Business Partner Awards『ビジネス貢献賞』を受賞 ([詳細](https://arrow-systems.co.jp/index.html))
-- **一般財団法人日本情報経済社会推進協会**: [2021年8月6日] — Pマーク7回目更新に伴い感謝状を受領 ([詳細](https://arrow-systems.co.jp/index.html))
+_No external press coverage or media mentions found at this time._
 
 ---
-
-*この会社情報は2026年5月1日に調査・作成されました。*
+*Updated: May 4, 2026*

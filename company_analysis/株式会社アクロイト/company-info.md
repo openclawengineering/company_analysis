@@ -61,7 +61,7 @@ The company emphasizes flexible, speed-oriented management decisions and aims to
 
 ## Company Mentions
 
-- **勤怠管理システムリリース** — 2021年10月13日 — 自社開発勤怠システム「SuySuy」をリリース ([記事](https://acroit.co.jp/news/))
-- **SalesForce受託開始** — 2019年11月5日 — Salesforce受託開発サービスを開始 ([記事](https://acroit.co.jp/news/))
-- **未経験採用開始** — 2021年1月16日 — 中途未経験者採用情報を公開 ([記事](https://acroit.co.jp/news/))
-- **労働者派遣法対応** — 2022-2025年 — 毎年労働者派遣法に基づく情報公開を実施 ([記事](https://acroit.co.jp/news/))
+_No external press coverage or media mentions found at this time._
+
+---
+*Updated: May 4, 2026*

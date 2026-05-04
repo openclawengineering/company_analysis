@@ -1,116 +1,116 @@
 {
-  "company": {
-    "name_jp": "株式会社ＮＢＥ",
-    "name_en": "ＮＢＥ",
-    "website": "https://nbe.co.jp/new-graduate/"
-  },
-  "people": [
-    {
-      "name": "の仕事、",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社ＮＢＥ",
+        "name_en": "ＮＢＥ",
+        "website": "https://nbe.co.jp/new-graduate/"
     },
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/satomi-kunoki",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "&emsp;野上",
-      "title": "代表取締役社長",
-      "linkedin": "https://jp.linkedin.com/in/nogami/ja",
-      "twitter": "https://x.com/takeshi_nogami",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "&emsp;曽根",
-      "title": "取締役",
-      "linkedin": "https://jp.linkedin.com/in/晃-曽根-56808a9b",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "&emsp;菅野",
-      "title": "取締役",
-      "linkedin": "https://www.linkedin.com/in/和-菅野-299b102a5/",
-      "twitter": "https://x.com/P1B9f44VEGyAe8n",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "リング",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "企業情報",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "代表取締役社長",
-      "title": "代表者",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "取締役",
-      "title": "役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/satomi-kunoki",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "&emsp;野上",
-      "title": "代表取締役社長",
-      "linkedin": "https://jp.linkedin.com/in/nogami/ja",
-      "twitter": "https://x.com/takeshi_nogami",
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "&emsp;曽根",
-      "title": "取締役",
-      "linkedin": "https://jp.linkedin.com/in/晃-曽根-56808a9b",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "&emsp;菅野",
-      "title": "取締役",
-      "linkedin": "https://www.linkedin.com/in/和-菅野-299b102a5/",
-      "twitter": "https://x.com/P1B9f44VEGyAe8n",
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "の仕事、",
+            "title": "エンジニア",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "&emsp;野上",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/nogami/ja",
+            "twitter": "https://x.com/takeshi_nogami",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "&emsp;曽根",
+            "title": "取締役",
+            "linkedin": "https://jp.linkedin.com/in/晃-曽根-56808a9b",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "&emsp;菅野",
+            "title": "取締役",
+            "linkedin": "https://www.linkedin.com/in/和-菅野-299b102a5/",
+            "twitter": "https://x.com/P1B9f44VEGyAe8n",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "リング",
+            "title": "エンジニア",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長",
+            "title": "企業情報",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "代表取締役社長",
+            "title": "代表者",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "取締役",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": "https://jp.linkedin.com/in/satomi-kunoki",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "&emsp;野上",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/nogami/ja",
+            "twitter": "https://x.com/takeshi_nogami",
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "&emsp;曽根",
+            "title": "取締役",
+            "linkedin": "https://jp.linkedin.com/in/晃-曽根-56808a9b",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "&emsp;菅野",
+            "title": "取締役",
+            "linkedin": "https://www.linkedin.com/in/和-菅野-299b102a5/",
+            "twitter": "https://x.com/P1B9f44VEGyAe8n",
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

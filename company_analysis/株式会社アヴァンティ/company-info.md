@@ -54,11 +54,7 @@ The company differentiates itself as a dedicated infrastructure specialist rathe
 
 ## Company Mentions
 
-- **役員変更** — 2025年4月25日 — 取締役の変更登記完了 ([記事](https://www.piu-avanti.com/))
-- **リモートワーク実施** — 2026年1月1日 — リモートワーク体制を開始 ([記事](https://www.piu-avanti.com/))
-- **通信設備故障** — 2023年12月 — NTT設備故障による一時的なサービス停止と復旧 ([記事](https://www.piu-avanti.com/))
+_No external press coverage or media mentions found at this time._
 
-## Notes
-
-- Company website is relatively minimal with limited public information
-- Active new graduate recruitment indicates stable hiring pipeline
+---
+*Updated: May 4, 2026*

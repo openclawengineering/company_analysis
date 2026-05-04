@@ -94,13 +94,7 @@
 
 ## Company Mentions
 
-- **東京証券取引所上場** — TOKYO PRO Market（証券コード：5249）で上場
-- **特許出願** — 2026年3月27日 — 新規特許出願をお知らせ ([記事](https://www.a-sk.co.jp/news/))
-- **EXPO出展** — 2026年2月12日 — 「会計・財務EXPO【名古屋】」にガリバーXを出展 ([記事](https://www.a-sk.co.jp/news/))
-- **IR情報** — 2026年3月23日 — 連結子会社における一部事業の譲渡に関するお知らせ ([記事](https://www.a-sk.co.jp/ir/))
-- **親会社異動** — 2026年3月10日 — 親会社の異動（当社株式の間接所有）に関するお知らせ ([記事](https://www.a-sk.co.jp/ir/))
-- **決算短信** — 2025年11月14日 — 2026年3月期 中間決算短信を発表 ([記事](https://www.a-sk.co.jp/ir/))
+_No external press coverage or media mentions found at this time._
 
 ---
-
-*Report generated: April 2026*
+*Updated: May 4, 2026*

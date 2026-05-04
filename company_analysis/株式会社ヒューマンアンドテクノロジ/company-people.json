@@ -1,44 +1,44 @@
 {
-  "company": {
-    "name_jp": "株式会社ヒューマンアンドテクノロジ",
-    "name_en": "ヒューマンアンドテクノロジ",
-    "website": "https://hat-world.co.jp/"
-  },
-  "people": [
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/ankit-purohit-163221127",
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社ヒューマンアンドテクノロジ",
+        "name_en": "ヒューマンアンドテクノロジ",
+        "website": "https://hat-world.co.jp/"
     },
-    {
-      "name": "を募集しています‼",
-      "title": "エンジニア",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "社長",
-      "title": "会社情報",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "name": "挨拶",
-      "title": "社長",
-      "linkedin": "https://jp.linkedin.com/in/ankit-purohit-163221127",
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "last_updated": "2026-04-10"
+    "people": [
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "を募集しています‼",
+            "title": "エンジニア",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "社長",
+            "title": "会社情報",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "name": "挨拶",
+            "title": "社長",
+            "linkedin": "https://jp.linkedin.com/in/ankit-purohit-163221127",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-04"
 }

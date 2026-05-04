@@ -51,10 +51,7 @@ https://www.instagram.com/alnetz_official/
 
 ## Company Mentions
 
-- **シーメンス株式会社**: [2026年3月24日] — アルネッツ、シーメンスと共催で「Mendixハンズオンセミナー」を開催 ([詳細](https://alnetz.co.jp/2026/03/24/mendix-seminar-report/))
-- **デジタルサイネージ**: [2026年4月7日] — デジタルサイネージ配信システム「CastSign」を全面リニューアル ～多拠点運用の操作時間を最大20%短縮、ヘルプサイト新設で自己解決率向上へ～ ([詳細](https://alnetz.co.jp/2026/04/07/castsign-ui-renewal-20percent-faster-multisite/))
-- **FRONTEOグループ**: [2026年4月9日] — FRONTEOグループのアルネッツ、「研修が売上を作る」をテーマに無料オンラインセミナーを4月22日に開催 ([詳細](https://alnetz.co.jp/2026/04/09/seminar-20250422/))
+_No external press coverage or media mentions found at this time._
 
 ---
-
-*この会社情報は2026年5月1日に調査・作成されました。*
+*Updated: May 4, 2026*
