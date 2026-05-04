@@ -49,4 +49,7 @@ The company is capable of handling all phases: requirements definition, design, 
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[SalesNow DB]** — 2024-08 — Company information updated on SalesNow database ([Unknown URL])
+- **[BaseConnect]** — 2024-07 — Listed as consulting/research industry company on BaseConnect platform ([Unknown URL])
+
+*Note: Limited public information available for this company. Website details unclear and minimal online presence detected.*

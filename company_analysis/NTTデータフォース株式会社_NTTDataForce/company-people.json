@@ -1,6 +1,10 @@
 {
+  "company": {
+    "name_jp": "NTTデータフォース株式会社",
+    "name_en": "NTT DATA FORCE Corporation",
+    "website": "https://www.nttdata-force.co.jp/"
+  },
   "people": [],
   "social_profiles": [],
-  "media_mentions": [],
-  "research_notes": "Company website has access limitations due to heavy JavaScript frameworks. Recent news mentions '役員の新体制について、お知らせします' (New officer system announcement) on 2025年6月4日, but specific personnel names not available through current research methods. Company specializes in financial institution systems and solutions as part of NTT DATA Group. No specific executive names identified from available information."
+  "last_updated": "2026-05-04"
 }

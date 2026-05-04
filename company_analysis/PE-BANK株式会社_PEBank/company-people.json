@@ -1,55 +1,59 @@
 {
+  "company": {
+    "name_jp": "株式会社PE-BANK",
+    "name_en": "PE-BANK, inc.",
+    "website": "https://pe-bank.co.jp/"
+  },
   "people": [
     {
-      "name": "Takada Miyano",
-      "japanese_name": "髙田 幹也",
-      "title": "Representative Director and President",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Representative Director and President identified from company profile"
+      "name": "髙田 幹也",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name": "Takayama Norihisa",
-      "japanese_name": "高山 典久",
-      "title": "Managing Director",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Managing Director identified from company profile"
+      "name": "高山 典久",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name": "Saito Takeiku",
-      "japanese_name": "齋藤 武育",
-      "title": "Director",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Director identified from company profile"
+      "name": "齋藤 武育",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name": "Saito Takesuna",
-      "japanese_name": "齋藤 武将",
-      "title": "Director",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Director identified from company profile"
+      "name": "齋藤 武将",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name": "Tsuji Eiichi",
-      "japanese_name": "柘植 英一",
-      "title": "Director",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Director identified from company profile"
+      "name": "柘植 英一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name": "Mizutani Kazushige",
-      "japanese_name": "水谷 是繁",
-      "title": "Auditor",
-      "linkedin_url": null,
-      "twitter_url": null,
-      "notes": "Auditor identified from company profile"
+      "name": "水谷 是繁",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
-  "media_mentions": [],
-  "research_notes": "Company profile lists comprehensive executive team including Representative Director/President, Managing Director, multiple Directors, and Auditor. IT freelance/engineer services company with 89 employees and approximately 100,000 registered engineers operating 12 offices across Japan."
+  "last_updated": "2026-05-04"
 }

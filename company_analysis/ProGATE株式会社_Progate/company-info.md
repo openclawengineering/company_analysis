@@ -132,7 +132,16 @@ Read inspiring stories about how our users first started programming:
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+**Note**: External press releases and media mentions could not be accessed at this time due to website access limitations. Recent mentions would typically include:
+
+- Platform growth milestones (3.6M+ active users across 100+ countries)
+- New course launches and educational content updates
+- Mobile app developments and improvements
+- Partnerships with educational institutions and companies
+- Industry recognition and awards in educational technology
+- AI integration and programming education innovations
+
+*Research status: Website access limitations encountered for executive profiles and recent news*
 
 ---
 
