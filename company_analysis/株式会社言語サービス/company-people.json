@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社言語サービス",
-    "name_en": "Language Services Co., Ltd.",
-    "website": "https://www.ls-jp.com/"
-  },
-  "people": [
-    {
-      "name": "史　莉",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "company": {
+        "name_jp": "株式会社言語サービス",
+        "name_en": "Language Services Co., Ltd.",
+        "website": "https://www.ls-jp.com/"
+    },
+    "people": [
+        {
+            "name": "史　莉",
+            "title": "代表取締役社長",
+            "linkedin": "https://www.linkedin.com/in/%E8%8E%89-%E5%8F%B2-197492142",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

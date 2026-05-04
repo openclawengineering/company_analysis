@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社アルネッツ",
-    "name_en": "ALNETZ Inc.",
-    "website": "https://alnetz.co.jp/"
-  },
-  "people": [
-    {
-      "name": "渡邉 輝明",
-      "title": "代表取締役社長CEO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "株式会社アルネッツ",
+        "name_en": "ALNETZ Inc.",
+        "website": "https://alnetz.co.jp/"
+    },
+    "people": [
+        {
+            "name": "渡邉 輝明",
+            "title": "代表取締役社長CEO",
+            "linkedin": "https://jp.linkedin.com/in/%E8%BC%9D%E6%98%8E-%E6%B8%A1%E9%82%89-73a264172",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

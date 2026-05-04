@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社アプトシステム",
-    "name_en": "Aptsys Inc.",
-    "website": "https://www.aptsys.co.jp/"
-  },
-  "people": [
-    {
-      "name": "田村 学",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "株式会社アプトシステム",
+        "name_en": "Aptsys Inc.",
+        "website": "https://www.aptsys.co.jp/"
+    },
+    "people": [
+        {
+            "name": "田村 学",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E5%AD%A6-%E7%94%B0%E6%9D%91-0bb61759",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

@@ -1,83 +1,83 @@
 {
-  "company": {
-    "name_jp": "株式会社ニューテック",
-    "name_en": "Newtech Co., Ltd.",
-    "website": "https://www.newtech.co.jp"
-  },
-  "people": [
-    {
-      "name": "早川広幸",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社ニューテック",
+        "name_en": "Newtech Co., Ltd.",
+        "website": "https://www.newtech.co.jp"
     },
-    {
-      "name": "宮崎有美子",
-      "title": "取締役副社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "菊池さき子",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小野泰史",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "西川康範",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "橋口和典",
-      "title": "社外取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "水谷まり",
-      "title": "取締役監査等委員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "星川明子",
-      "title": "社外取締役監査等委員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "松井智",
-      "title": "社外取締役監査等委員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "早川広幸",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/hiroyha",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "宮崎有美子",
+            "title": "取締役副社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "菊池さき子",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "小野泰史",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "西川康範",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "橋口和典",
+            "title": "社外取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "水谷まり",
+            "title": "取締役監査等委員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "星川明子",
+            "title": "社外取締役監査等委員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "松井智",
+            "title": "社外取締役監査等委員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

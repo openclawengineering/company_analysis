@@ -1,99 +1,99 @@
 {
-  "company": {
-    "name_jp": "ジスクソフト株式会社",
-    "name_en": "JISC SOFT Co., Ltd.",
-    "website": "https://www.jisc.co.jp"
-  },
-  "people": [
-    {
-      "name": "冨澤清",
-      "title": "取締役会長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "ジスクソフト株式会社",
+        "name_en": "JISC SOFT Co., Ltd.",
+        "website": "https://www.jisc.co.jp"
     },
-    {
-      "name": "冨澤慶二郎",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小海玄幸",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "菊池伸行",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "中村良一",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "栗田マユミ",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "三浦みき子",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "飯野明夫",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "奥山一藤",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "佐原喜明",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "猿谷克美",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "冨澤清",
+            "title": "取締役会長",
+            "linkedin": "https://jp.linkedin.com/in/裕二-冨澤-8ba896117",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "冨澤慶二郎",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "小海玄幸",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "菊池伸行",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "中村良一",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "栗田マユミ",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "三浦みき子",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "飯野明夫",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "奥山一藤",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "佐原喜明",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "猿谷克美",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

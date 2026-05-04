@@ -1,35 +1,35 @@
 {
-  "company": {
-    "name_jp": "株式会社オルトス",
-    "name_en": "Orthos Inc.",
-    "website": "http://www.orthos.co.jp/"
-  },
-  "people": [
-    {
-      "name": "金山 雄介",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社オルトス",
+        "name_en": "Orthos Inc.",
+        "website": "http://www.orthos.co.jp/"
     },
-    {
-      "name": "鈴木 俊明",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "敷地 敦",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "people": [
+        {
+            "name": "金山 雄介",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E9%9B%84%E4%BB%8B-%E5%B1%B1%E7%94%B0-651586181",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "鈴木 俊明",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "敷地 敦",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

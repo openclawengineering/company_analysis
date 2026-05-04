@@ -1,99 +1,99 @@
 {
-  "company": {
-    "name_jp": "あさかわシステムズ株式会社",
-    "name_en": "ASAKAWA SYSTEMS CO.,LTD.",
-    "website": "https://www.a-sk.co.jp/"
-  },
-  "people": [
-    {
-      "name": "三宅",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "あさかわシステムズ株式会社",
+        "name_en": "ASAKAWA SYSTEMS CO.,LTD.",
+        "website": "https://www.a-sk.co.jp/"
     },
-    {
-      "name": "平野",
-      "title": "取締役(非常勤)",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "山本",
-      "title": "取締役/常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "三宅",
-      "title": "取締役/執行役員(公認会計士、税理士、社会保険労務士)",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "昼馬",
-      "title": "社外取締役(税理士)",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "芝﨑",
-      "title": "社外監査役(公認会計士、税理士)",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "森",
-      "title": "上席執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "鳥前",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "村林",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "高岡",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "橘",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-04-30"
+    "people": [
+        {
+            "name": "三宅",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/takenori-miyake-491a4b107",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "平野",
+            "title": "取締役(非常勤)",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "山本",
+            "title": "取締役/常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "三宅",
+            "title": "取締役/執行役員(公認会計士、税理士、社会保険労務士)",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "昼馬",
+            "title": "社外取締役(税理士)",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "芝﨑",
+            "title": "社外監査役(公認会計士、税理士)",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "森",
+            "title": "上席執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "鳥前",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "村林",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "高岡",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "橘",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-04-30"
 }

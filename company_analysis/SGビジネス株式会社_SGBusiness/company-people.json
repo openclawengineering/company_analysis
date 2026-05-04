@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "SGビジネス株式会社",
-    "name_en": "SGB",
-    "website": "https://www.sgb.co.jp/"
-  },
-  "people": [
-    {
-      "name": "渡邉 一平",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "SGビジネス株式会社",
+        "name_en": "SGB",
+        "website": "https://www.sgb.co.jp/"
+    },
+    "people": [
+        {
+            "name": "渡邉 一平",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E4%B8%80%E5%B9%B3-%E6%B8%A1%E9%82%89-a41872b1",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

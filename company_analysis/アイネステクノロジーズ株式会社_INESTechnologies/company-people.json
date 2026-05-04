@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "アイネステクノロジーズ株式会社",
-    "name_en": "INEST Technologies Inc.",
-    "website": "https://www.in-est.co.jp/"
-  },
-  "people": [
-    {
-      "name": "鈴木 栄二郎",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "アイネステクノロジーズ株式会社",
+        "name_en": "INEST Technologies Inc.",
+        "website": "https://www.in-est.co.jp/"
+    },
+    "people": [
+        {
+            "name": "鈴木 栄二郎",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E8%8B%B1%E4%BF%8A-%E8%BF%91%E8%B",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社アプリコット",
-    "name_en": "Apricot Inc.",
-    "website": "https://apricotinc.co.jp/"
-  },
-  "people": [
-    {
-      "name": "畠山 英俊",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "company": {
+        "name_jp": "株式会社アプリコット",
+        "name_en": "Apricot Inc.",
+        "website": "https://apricotinc.co.jp/"
+    },
+    "people": [
+        {
+            "name": "畠山 英俊",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/nnn-kkk-94b110198",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }

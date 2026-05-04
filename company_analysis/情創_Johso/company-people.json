@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社情創",
-    "name_en": "johso co.,ltd.",
-    "website": "https://johso.co.jp/"
-  },
-  "people": [
-    {
-      "name": "富樫 和弘",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "company": {
+        "name_jp": "株式会社情創",
+        "name_en": "johso co.,ltd.",
+        "website": "https://johso.co.jp/"
+    },
+    "people": [
+        {
+            "name": "富樫 和弘",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E5%92%8C%E5%BC%98-%E5%AF%8C%E6%8",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

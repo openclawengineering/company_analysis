@@ -1,67 +1,67 @@
 {
-  "company": {
-    "name_jp": "株式会社 Fabbi Japan",
-    "name_en": "Fabbi Japan Inc.",
-    "website": "https://fabbi-japan.jp/"
-  },
-  "people": [
-    {
-      "name": "ブ・ブァン・トゥー",
-      "title": "代表取締役会長兼CEO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社 Fabbi Japan",
+        "name_en": "Fabbi Japan Inc.",
+        "website": "https://fabbi-japan.jp/"
     },
-    {
-      "name": "チャン・ディン・トゥアン",
-      "title": "取締役兼CPO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "ホアン・フイ・ミン",
-      "title": "執行役員兼中部支社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "グェン・チー・ズン",
-      "title": "取締役兼CTO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "レ・ベット・カイン",
-      "title": "取締役兼CDO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "クック・アイン・ミン・ルオン",
-      "title": "ソリューション担当取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "レ・ホアン・トゥアン・アイン",
-      "title": "ダナン支社支社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-03"
+    "people": [
+        {
+            "name": "ブ・ブァン・トゥー",
+            "title": "代表取締役会長兼CEO",
+            "linkedin": "https://jp.linkedin.com/in/tu-fabbi",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "チャン・ディン・トゥアン",
+            "title": "取締役兼CPO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "ホアン・フイ・ミン",
+            "title": "執行役員兼中部支社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "グェン・チー・ズン",
+            "title": "取締役兼CTO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "レ・ベット・カイン",
+            "title": "取締役兼CDO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "クック・アイン・ミン・ルオン",
+            "title": "ソリューション担当取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "レ・ホアン・トゥアン・アイン",
+            "title": "ダナン支社支社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-03"
 }

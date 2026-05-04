@@ -1,51 +1,51 @@
 {
-  "company": {
-    "name_jp": "株式会社愛宕",
-    "name_en": "愛宕",
-    "website": "https://www.ata5.co.jp/"
-  },
-  "people": [
-    {
-      "name": "三谷",
-      "title": "代表取締役兼CEO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社愛宕",
+        "name_en": "愛宕",
+        "website": "https://www.ata5.co.jp/"
     },
-    {
-      "name": "草木",
-      "title": "取締役兼CFO兼社長室長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "上野",
-      "title": "取締役執行役員兼CTO",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "信藤",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "熊澤",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-04-30"
+    "people": [
+        {
+            "name": "三谷",
+            "title": "代表取締役兼CEO",
+            "linkedin": "https://www.linkedin.com/in/jumpei-mitani-091b212a1/ja",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "草木",
+            "title": "取締役兼CFO兼社長室長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "上野",
+            "title": "取締役執行役員兼CTO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "信藤",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "熊澤",
+            "title": "執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-04-30"
 }

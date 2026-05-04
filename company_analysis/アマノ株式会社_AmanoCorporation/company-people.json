@@ -1,189 +1,189 @@
 {
-  "company": {
-    "name_jp": "アマノ株式会社",
-    "name_en": "Amano Corporation",
-    "website": "https://www.amano.co.jp/",
-    "stock_code": "6436",
-    "founded": "1931年",
-    "headquarters": "横浜市港北区豆口町275"
-  },
-  "people": [
-    {
-      "name": "津田博之",
-      "name_ja": "津田 博之（つだ ひろゆき）",
-      "title": "代表取締役会長",
-      "title_ja": "代表取締役会長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "経営",
-      "email": "",
-      "notes": "1982年入社。2017年代表取締役社長就任、2023年代表取締役会長就任。"
+    "company": {
+        "name_jp": "アマノ株式会社",
+        "name_en": "Amano Corporation",
+        "website": "https://www.amano.co.jp/",
+        "stock_code": "6436",
+        "founded": "1931年",
+        "headquarters": "横浜市港北区豆口町275"
     },
-    {
-      "name": "山﨑学",
-      "name_ja": "山﨑 学（やまざき まなぶ）",
-      "title": "代表取締役社長",
-      "title_ja": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "経営",
-      "email": "",
-      "notes": "1986年入社。2023年代表取締役社長就任。"
-    },
-    {
-      "name": "秦芳彦",
-      "name_ja": "秦 芳彦（はた よしひこ）",
-      "title": "取締役 兼 常務執行役員",
-      "title_ja": "取締役 兼 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "事業総括・国内グループ会社管掌",
-      "email": "",
-      "notes": "1987年入社。2022年取締役就任。"
-    },
-    {
-      "name": "生駒進",
-      "name_ja": "生駒 進（いこま すすむ）",
-      "title": "取締役 兼 常務執行役員",
-      "title_ja": "取締役 兼 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "海外総括・海外グループ会社管掌",
-      "email": "",
-      "notes": "1986年入社。2025年取締役就任。"
-    },
-    {
-      "name": "多造藤徳",
-      "name_ja": "多造 藤徳（たぞう ふじのり）",
-      "title": "取締役 兼 常務執行役員",
-      "title_ja": "取締役 兼 常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "製造総括・開発総括",
-      "email": "",
-      "notes": "1987年入社。2020年取締役就任、2026年常務執行役員。"
-    },
-    {
-      "name": "大森通伸",
-      "name_ja": "大森 通伸（おおもり みちのぶ）",
-      "title": "取締役（社外）",
-      "title_ja": "取締役（社外）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "元財務省官僚。2019年取締役就任。三菱重工サーマルシステムズ顧問、日本信用情報機構取締役。"
-    },
-    {
-      "name": "渡邉寿美恵",
-      "name_ja": "渡邉 寿美恵（わたなべ すみえ）",
-      "title": "取締役（社外）",
-      "title_ja": "取締役（社外）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "元第一生命保険執行役員。2021年取締役就任。第一生命チャレンジド取締役会長。"
-    },
-    {
-      "name": "田村恵子",
-      "name_ja": "田村 恵子（たむら けいこ）",
-      "title": "取締役（社外）",
-      "title_ja": "取締役（社外）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "弁護士（あさひ法律事務所パートナー）。2025年取締役就任。"
-    },
-    {
-      "name": "井原邦弘",
-      "name_ja": "井原 邦弘（いはら くにひろ）",
-      "title": "常勤監査役",
-      "title_ja": "常勤監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "元第一生命保険。2007年入社、2025年常勤監査役就任。"
-    },
-    {
-      "name": "北見智徳",
-      "name_ja": "北見 智徳（きたみ とものり）",
-      "title": "常勤監査役",
-      "title_ja": "常勤監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "1986年入社。2024年常勤監査役就任。"
-    },
-    {
-      "name": "中家華江",
-      "name_ja": "中家 華江（なかや はなえ）",
-      "title": "監査役（社外）",
-      "title_ja": "監査役（社外）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "公認会計士・税理士。2019年監査役就任。日本公認会計士協会理事、神奈川県監査委員。"
-    },
-    {
-      "name": "永川尚文",
-      "name_ja": "永川 尚文（ながかわ なおふみ）",
-      "title": "監査役（社外）",
-      "title_ja": "監査役（社外）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "",
-      "notes": "元東急不動産。学校法人富士見丘学園理事長。2021年監査役就任。"
-    },
-    {
-      "name": "田明眞",
-      "name_ja": "田 明眞（じょん みょんじん）",
-      "title": "常務執行役員 アマノコーリア社社長",
-      "title_ja": "常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "アマノコーリア社",
-      "email": ""
-    },
-    {
-      "name": "前川龍男",
-      "name_ja": "前川 龍男（まえかわ たつお）",
-      "title": "常務執行役員 営業総括",
-      "title_ja": "常務執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "営業総括",
-      "email": ""
-    }
-  ],
-  "social_profiles": [
-    {
-      "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/company/amano-corporation/",
-      "handle": "AMANO CORPORATION",
-      "followers": "15"
-    },
-    {
-      "platform": "Instagram",
-      "url": "https://www.instagram.com/amano_corp_official/",
-      "handle": "@amano_corp_official"
-    },
-    {
-      "platform": "Facebook",
-      "url": "https://www.facebook.com/amano.co.jp/",
-      "handle": "amano.co.jp"
-    },
-    {
-      "platform": "YouTube",
-      "url": "https://www.youtube.com/user/amano1931",
-      "handle": "amano1931"
-    }
-  ],
-  "last_updated": "2026-04-30",
-  "notes": "東証プライム上場（証券コード6436）。1931年創業。時間情報事業・時間管理機器事業・パーキング事業・環境事業・クリーンロボットソリューション事業の5事業展開。横浜市港北区に本社。グループ会社多数。"
+    "people": [
+        {
+            "name": "津田博之",
+            "name_ja": "津田 博之（つだ ひろゆき）",
+            "title": "代表取締役会長",
+            "title_ja": "代表取締役会長",
+            "linkedin": "https://jp.linkedin.com/in/%E5%8D%9A%E4%B9%8B-%E6%B4%A5%E7%94%B0-5762a2370",
+            "twitter": null,
+            "department": "経営",
+            "email": "",
+            "notes": "1982年入社。2017年代表取締役社長就任、2023年代表取締役会長就任。"
+        },
+        {
+            "name": "山﨑学",
+            "name_ja": "山﨑 学（やまざき まなぶ）",
+            "title": "代表取締役社長",
+            "title_ja": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "経営",
+            "email": "",
+            "notes": "1986年入社。2023年代表取締役社長就任。"
+        },
+        {
+            "name": "秦芳彦",
+            "name_ja": "秦 芳彦（はた よしひこ）",
+            "title": "取締役 兼 常務執行役員",
+            "title_ja": "取締役 兼 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "事業総括・国内グループ会社管掌",
+            "email": "",
+            "notes": "1987年入社。2022年取締役就任。"
+        },
+        {
+            "name": "生駒進",
+            "name_ja": "生駒 進（いこま すすむ）",
+            "title": "取締役 兼 常務執行役員",
+            "title_ja": "取締役 兼 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "海外総括・海外グループ会社管掌",
+            "email": "",
+            "notes": "1986年入社。2025年取締役就任。"
+        },
+        {
+            "name": "多造藤徳",
+            "name_ja": "多造 藤徳（たぞう ふじのり）",
+            "title": "取締役 兼 常務執行役員",
+            "title_ja": "取締役 兼 常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "製造総括・開発総括",
+            "email": "",
+            "notes": "1987年入社。2020年取締役就任、2026年常務執行役員。"
+        },
+        {
+            "name": "大森通伸",
+            "name_ja": "大森 通伸（おおもり みちのぶ）",
+            "title": "取締役（社外）",
+            "title_ja": "取締役（社外）",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "元財務省官僚。2019年取締役就任。三菱重工サーマルシステムズ顧問、日本信用情報機構取締役。"
+        },
+        {
+            "name": "渡邉寿美恵",
+            "name_ja": "渡邉 寿美恵（わたなべ すみえ）",
+            "title": "取締役（社外）",
+            "title_ja": "取締役（社外）",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "元第一生命保険執行役員。2021年取締役就任。第一生命チャレンジド取締役会長。"
+        },
+        {
+            "name": "田村恵子",
+            "name_ja": "田村 恵子（たむら けいこ）",
+            "title": "取締役（社外）",
+            "title_ja": "取締役（社外）",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "弁護士（あさひ法律事務所パートナー）。2025年取締役就任。"
+        },
+        {
+            "name": "井原邦弘",
+            "name_ja": "井原 邦弘（いはら くにひろ）",
+            "title": "常勤監査役",
+            "title_ja": "常勤監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "元第一生命保険。2007年入社、2025年常勤監査役就任。"
+        },
+        {
+            "name": "北見智徳",
+            "name_ja": "北見 智徳（きたみ とものり）",
+            "title": "常勤監査役",
+            "title_ja": "常勤監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "1986年入社。2024年常勤監査役就任。"
+        },
+        {
+            "name": "中家華江",
+            "name_ja": "中家 華江（なかや はなえ）",
+            "title": "監査役（社外）",
+            "title_ja": "監査役（社外）",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "公認会計士・税理士。2019年監査役就任。日本公認会計士協会理事、神奈川県監査委員。"
+        },
+        {
+            "name": "永川尚文",
+            "name_ja": "永川 尚文（ながかわ なおふみ）",
+            "title": "監査役（社外）",
+            "title_ja": "監査役（社外）",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "notes": "元東急不動産。学校法人富士見丘学園理事長。2021年監査役就任。"
+        },
+        {
+            "name": "田明眞",
+            "name_ja": "田 明眞（じょん みょんじん）",
+            "title": "常務執行役員 アマノコーリア社社長",
+            "title_ja": "常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "アマノコーリア社",
+            "email": ""
+        },
+        {
+            "name": "前川龍男",
+            "name_ja": "前川 龍男（まえかわ たつお）",
+            "title": "常務執行役員 営業総括",
+            "title_ja": "常務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "営業総括",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/company/amano-corporation/",
+            "handle": "AMANO CORPORATION",
+            "followers": "15"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/amano_corp_official/",
+            "handle": "@amano_corp_official"
+        },
+        {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/amano.co.jp/",
+            "handle": "amano.co.jp"
+        },
+        {
+            "platform": "YouTube",
+            "url": "https://www.youtube.com/user/amano1931",
+            "handle": "amano1931"
+        }
+    ],
+    "last_updated": "2026-04-30",
+    "notes": "東証プライム上場（証券コード6436）。1931年創業。時間情報事業・時間管理機器事業・パーキング事業・環境事業・クリーンロボットソリューション事業の5事業展開。横浜市港北区に本社。グループ会社多数。"
 }

@@ -1,42 +1,42 @@
 {
-  "company": {
-    "name_jp": "アリサフテック・ジャパン株式会社",
-    "name_en": "AriSaf Tech Japan Co., Ltd.",
-    "website": "https://arisaftech.co.jp/",
-    "founded": "2019年6月",
-    "capital": "6,000,000円",
-    "headquarters_jp": "〒231-0062 神奈川県横浜市中区桜木町2-2 港陽ビル4F",
-    "headquarters_bd": "House No.1048, Road No.09 (New), Avenue No.09, Mirpur DOHS, Dhaka-1216, Bangladesh"
-  },
-  "people": [
-    {
-      "name": "Abdullah Tariq",
-      "name_ja": "アブドゥラー・タリク",
-      "title": "代表取締役",
-      "title_ja": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "経営",
-      "email": "info@arisaftech.com"
-    }
-  ],
-  "social_profiles": [
-    {
-      "platform": "Twitter/X",
-      "url": "https://x.com/AriSafTechLtd",
-      "handle": "@AriSafTechLtd"
+    "company": {
+        "name_jp": "アリサフテック・ジャパン株式会社",
+        "name_en": "AriSaf Tech Japan Co., Ltd.",
+        "website": "https://arisaftech.co.jp/",
+        "founded": "2019年6月",
+        "capital": "6,000,000円",
+        "headquarters_jp": "〒231-0062 神奈川県横浜市中区桜木町2-2 港陽ビル4F",
+        "headquarters_bd": "House No.1048, Road No.09 (New), Avenue No.09, Mirpur DOHS, Dhaka-1216, Bangladesh"
     },
-    {
-      "platform": "Facebook",
-      "url": "https://www.facebook.com/AriSafTech",
-      "handle": "AriSafTech"
-    },
-    {
-      "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/company/arisaf-tech-ltd",
-      "handle": "AriSaf Tech Ltd"
-    }
-  ],
-  "last_updated": "2026-04-30",
-  "notes": "バングラデシュ・横浜にオフィスを持つオフショア開発会社。2016年よりチーム活動開始、2019年にAriSaf Techとして独立。日本4名・バングラデシュ18名（2022年6月時点）。Web/スマホアプリ開発、AWS、画像認識/AIソリューション。KIA（神奈川県情報サービス産業協会）加盟。SDGs・教育分野に注力。"
+    "people": [
+        {
+            "name": "Abdullah Tariq",
+            "name_ja": "アブドゥラー・タリク",
+            "title": "代表取締役",
+            "title_ja": "代表取締役",
+            "linkedin": "https://ae.linkedin.com/in/abdutrq",
+            "twitter": null,
+            "department": "経営",
+            "email": "info@arisaftech.com"
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "Twitter/X",
+            "url": "https://x.com/AriSafTechLtd",
+            "handle": "@AriSafTechLtd"
+        },
+        {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/AriSafTech",
+            "handle": "AriSafTech"
+        },
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/company/arisaf-tech-ltd",
+            "handle": "AriSaf Tech Ltd"
+        }
+    ],
+    "last_updated": "2026-04-30",
+    "notes": "バングラデシュ・横浜にオフィスを持つオフショア開発会社。2016年よりチーム活動開始、2019年にAriSaf Techとして独立。日本4名・バングラデシュ18名（2022年6月時点）。Web/スマホアプリ開発、AWS、画像認識/AIソリューション。KIA（神奈川県情報サービス産業協会）加盟。SDGs・教育分野に注力。"
 }

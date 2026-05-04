@@ -1,19 +1,19 @@
 {
-  "company": {
-    "name_jp": "株式会社ICON",
-    "name_en": "ICON Corp.",
-    "website": "https://www.e-icon.co.jp/"
-  },
-  "people": [
-    {
-      "name": "土屋 敏子",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-01"
+    "company": {
+        "name_jp": "株式会社ICON",
+        "name_en": "ICON Corp.",
+        "website": "https://www.e-icon.co.jp/"
+    },
+    "people": [
+        {
+            "name": "土屋 敏子",
+            "title": "代表取締役",
+            "linkedin": "https://jp.linkedin.com/in/%E6%95%8F%E5%AD%90-%E5%9C%9F%E5%B",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-01"
 }

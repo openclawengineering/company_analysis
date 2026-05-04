@@ -1,51 +1,51 @@
 {
-  "company": {
-    "name_jp": "株式会社オオイテクノ",
-    "name_en": "OI Techno Inc.",
-    "website": "https://www.oitechno.co.jp/"
-  },
-  "people": [
-    {
-      "name": "村上 安弘",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "株式会社オオイテクノ",
+        "name_en": "OI Techno Inc.",
+        "website": "https://www.oitechno.co.jp/"
     },
-    {
-      "name": "山口 恭司",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "千葉 尚幸",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "野田 学",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "工藤 宏和",
-      "title": "非常勤取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-04"
+    "people": [
+        {
+            "name": "村上 安弘",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/%E5%AE%89%E5%BC%98-%E6%9D%91%E4%B8%8A-16303a182",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "山口 恭司",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "千葉 尚幸",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "野田 学",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "工藤 宏和",
+            "title": "非常勤取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-04"
 }
