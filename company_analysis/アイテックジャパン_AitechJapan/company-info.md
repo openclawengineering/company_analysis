@@ -26,3 +26,21 @@ _No external press coverage or media mentions found at this time._
 
 *Report generated: April 2026*
 *Note: Research pending due to web search API limitations*
+## Company Mentions
+
+📰 お知らせ - アイテックジャパン株式会社
+   https://itec-j.com/news/
+
+📰 新着情報 | アイテック株式会社
+   https://www.eyetech.jp/news/
+
+📰 アイテックジャパン株式会社 - DX導入から運用までのすべてを支援
+   https://itec-j.com/
+
+📰 新着情報 - アイテックジャパン株式会社 | AI
+   https://itec-japan-ai.com/news/
+
+📰 ニュース「アイ・テック、不正金銭授受の再発防止策の進捗を公表」
+   https://www.corporate-legal.jp/news/4822
+
+---

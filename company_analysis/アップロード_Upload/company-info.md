@@ -196,3 +196,22 @@ Upload Co., Ltd. operates as a mid-sized, specialized IT service provider in Tok
 
 *Report compiled from public company information and web sources.*
 *Date: March 29, 2026*
+
+## Company Mentions
+
+📰 SharePoint サイトでニュースを作成して共有する - Microsoft サポート
+   https://support.microsoft.com/ja-jp/office/sharepoint-%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B-495f8f1a-3bef-4045-b33a-55e5abe7aed7
+
+📰 新着情報更新システム「E-MS NEWS（イームス ニュース）」  株式 ...
+   https://www.e-state.ne.jp/eso_emsnews/
+
+📰 お知らせ更新ツール - すぐ使えるCMS
+   https://cms.sugutsukaeru.jp/ja/products/cms-for-latest-news.html
+
+📰 【News04】PHP新着情報・ニュースプログラム（画像複数アップ ...
+   https://www.php-factory.net/news/04.php
+
+📰 「新着情報」に何を書けばいい？常に動きのあるホームページとして見せるための工夫 – ホームぺージ制作会社 チャコウェブBlog
+   https://www.chaco-web.com/blog/news-content/
+
+---

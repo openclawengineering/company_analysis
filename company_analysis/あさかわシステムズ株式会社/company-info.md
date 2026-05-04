@@ -98,3 +98,22 @@ _No external press coverage or media mentions found at this time._
 
 ---
 *Updated: May 4, 2026*
+
+## Company Mentions
+
+📰 お知らせ ｜ あさかわシステムズ株式会社
+   https://www.a-sk.co.jp/news/info/
+
+📰 IR情報 ｜ 建設業・工事業向けソフトならあさかわシステムズ株式会社
+   https://www.a-sk.co.jp/ir-info/
+
+📰 【あさかわシステムズ】[5249]ニュース・最新情報 | 日経電子版
+   https://www.nikkei.com/nkd/company/news/?scode=5249
+
+📰 適時開示 ｜ あさかわシステムズ株式会社
+   https://www.a-sk.co.jp/ir-info/category/ir-timely-disclosure/
+
+📰 【あさかわシステムズ】[5249]IR情報 中期経営計画や決算短信 | 日経 ...
+   https://www.nikkei.com/nkd/company/kigyo/?scode=5249
+
+---

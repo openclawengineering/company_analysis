@@ -53,3 +53,19 @@ The company is capable of handling all phases: requirements definition, design, 
 - **[BaseConnect]** — 2024-07 — Listed as consulting/research industry company on BaseConnect platform ([Unknown URL])
 
 *Note: Limited public information available for this company. Website details unclear and minimal online presence detected.*
+
+## Company Mentions
+
+📰 ニュース｜NCS&A株式会社
+   https://ncsa.jp/news/topic/9/ir?ccm_paging_p_b20785=2
+
+📰 有）S&A|東京海上日動代理店,保険,あんしんのコーディネーター
+   https://www.team-s-a.com/news/page/5?pc-switcher=1
+
+📰 S&A PLANTS GARDEN
+   https://sap-garden.shop/
+
+📰 SalesNow DB - 株式会社S&Aの会社概要【2026年最新】
+   https://salesnow.jp/db/companies/jcb32dw4xxefh4p1
+
+---

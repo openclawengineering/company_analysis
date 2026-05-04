@@ -115,3 +115,22 @@ SGビジネス seeks engineers with diverse values:
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 お知らせ | SGビジネス株式会社
+   https://www.sgb.co.jp/news/
+
+📰 SGビジネス エンジニア募集中｜SGビジネス株式会社
+   https://www.sgb.co.jp/
+
+📰 IR情報 | ニュースリリース - SGホールディングス
+   https://www.sg-hldgs.co.jp/newsrelease/ir/
+
+📰 お知らせ | SGシステム株式会社＜SGホールディングスグループ＞
+   https://www.sg-systems.co.jp/news/
+
+📰 【SGホールディングス】[9143]IR情報 中期経営計画や決算短信
+   https://www.nikkei.com/nkd/company/kigyo/?scode=9143
+
+---

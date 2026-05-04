@@ -48,3 +48,22 @@
 ---
 *最終更新: 2026-04-30*
 *情報ソース: 会社ウェブサイト (isc-net.co.jp)*
+
+## Company Mentions
+
+📰 株式会社アイ・エス・シー
+   https://www.iscn.co.jp/
+
+📰 Information Services Corporation 株式ニュース (ISC) - Investing.com
+   https://jp.investing.com/equities/information-services-corporation-news
+
+📰 NEWS - 株式会社ISC
+   https://isc2020.co.jp/category/news/
+
+📰 アイ・エス・シー株式会社 - アイル・ホールディングス
+   https://www.i-ll-group.co.jp/isc/
+
+📰 information services corp (isc.ne) - Yahoo Finance
+   https://finance.yahoo.com/quote/ISC.NE/news/
+
+---

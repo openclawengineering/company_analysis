@@ -180,3 +180,22 @@ _No external press coverage or media mentions found at this time._
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 アドテック東京 公式サイト
+   https://adtech-tokyo.com/
+
+📰 新着情報一覧 - 株式会社アドテック
+   https://www.adtec.co.jp/information/
+
+📰 【アドテックプラズマテクノロジー】[6668]ニュース・最新情報
+   https://www.nikkei.com/nkd/company/news/?scode=6668
+
+📰 IR情報 - 株式会社アドテックプラズマテクノロジー
+   https://www.adtec-rf.co.jp/ir/
+
+📰 (株)アドテック【6840】：ニュース・最新情報 - Yahoo!ファイナンス
+   https://finance.yahoo.co.jp/quote/6840.Q/news
+
+---

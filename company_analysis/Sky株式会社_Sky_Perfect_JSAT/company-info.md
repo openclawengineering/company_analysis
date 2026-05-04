@@ -56,3 +56,22 @@ As a space communications business, SKY Perfect JSAT creates value from the unkn
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 Sky 株式会社のニュース - BtoBプラットフォーム 業界チャネル
+   https://b2b-ch.infomart.co.jp/news/company/list.page?IMCOMPANY=288670
+
+📰 sky株式会社の役員経歴 - IRBANK
+   https://irbank.net/sky%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE
+
+📰 Sky株式会社:プレスリリース一覧 - (page 10) - ZDNET Japan
+   https://japan.zdnet.com/company/20171915/release/10/
+
+📰 ニュース｜Ｓｋｙ株式会社
+   https://www.skygroup.jp/news/
+
+📰 Sky株式会社のプレスリリース - PR TIMES
+   https://prtimes.jp/main/html/searchrlp/company_id/1552
+
+---

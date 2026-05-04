@@ -186,3 +186,22 @@ _No external press coverage or media mentions found at this time._
 
 ---
 *Updated: May 4, 2026*
+
+## Company Mentions
+
+📰 CLINKS株式会社、組織改編のお知らせ｜Infoseekニュース
+   https://news.infoseek.co.jp/article/prtimes_000000069_000056645/
+
+📰 CLINKS株式会社のプレスリリース - PR TIMES
+   https://prtimes.jp/main/html/searchrlp/company_id/56645
+
+📰 CLINKS株式会社 - ドリームニュース
+   https://www.dreamnews.jp/company/0000001378
+
+📰 CLINKS株式会社、組織改編のお知らせ - CNET Japan
+   https://japan.cnet.com/release/31158418/
+
+📰 PRESS RELEASE アーカイブ - アプリ開発とクラウドサービス活用 ...
+   https://www.clinks.jp/category/pressrelease/
+
+---

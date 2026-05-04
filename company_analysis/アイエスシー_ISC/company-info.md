@@ -55,3 +55,21 @@
 - New product launches and inspection technology advancements
 
 *Research status: Company information obtained from official website. Limited external media presence detected.*
+## Company Mentions
+
+📰 News Releases | ISC
+   https://www.isc.ca/news-releases
+
+📰 株式会社ISC（公式ホームページ）
+   https://isc110.co.jp/
+
+📰 Information Services Corporation (ISC) - News Releases
+   https://investors.isc.ca/news-media/news-releases/
+
+📰 お知らせ | 株式会社ISC
+   https://isc2020.co.jp/oshirase-hasshin/
+
+📰 Information Services Corporation 株式ニュース (ISC) - Investing.com
+   https://jp.investing.com/equities/information-services-corporation-news
+
+---

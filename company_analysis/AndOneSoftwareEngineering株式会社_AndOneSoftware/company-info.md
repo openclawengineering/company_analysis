@@ -164,3 +164,19 @@ _No external press coverage or media mentions found at this time._
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 And One Software Engineering株式会社
+   https://andone-eng.co.jp/
+
+📰 IR情報 - 株式会社日本一ソフトウェア Official Web Site For Company.
+   https://nippon1.co.jp/ir/ir.html
+
+📰 顧客へ 開発者へ 未来へ 人と技術の継承と創造
+   http://andone-eng.co.jp/index_2.html
+
+📰 And One Software Engineeringの製品・サービス一覧 - イプロス
+   https://www.ipros.com/company/detail/2105051/category/
+
+---

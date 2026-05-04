@@ -179,3 +179,22 @@ _No external press coverage or media mentions found at this time._
 
 ---
 *Updated: May 4, 2026*
+
+## Company Mentions
+
+📰 お知らせ | 株式会社アクティブ
+   https://info.activebz.com/news/
+
+📰 ACTIVEからのお知らせ | ACTIVE(マルウェア対策支援)
+   https://www.ict-isac.jp/active/active/news/
+
+📰 新着情報 - 株式会社アクティブ
+   https://atv-yoiie.co.jp/news/
+
+📰 株式会社アクティブの最新ニュース・プレスリリース | NEWSCAST
+   https://newscast.jp/b/VpVTmX1HtW
+
+📰 GW休業のお知らせ | 株式会社アクティブ
+   https://www.acti-ve.co.jp/news/gw%E4%BC%91%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-6/
+
+---

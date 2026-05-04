@@ -65,3 +65,15 @@ And One Software Engineering 株式会社は、2019年に設立されたIT企業
 ---
 *Report generated: 2026-05-03*
 *Research status: Basic company information extracted, web search needed for mentions and social profiles*
+## Company Mentions
+
+📰 And One Software Engineering株式会社
+   http://andone-eng.co.jp/index_2.html
+
+📰 And One Software Engineering株式会社
+   https://andone-eng.co.jp/
+
+📰 And One Software Engineeringの製品・サービス一覧 - イプロス
+   https://www.ipros.com/company/detail/2105051/category/
+
+---

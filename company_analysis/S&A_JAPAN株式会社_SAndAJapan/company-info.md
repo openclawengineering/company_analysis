@@ -39,3 +39,19 @@ _No external press coverage or media mentions found at this time._
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 ニュース｜NCS&A株式会社
+   https://ncsa.jp/news/topic/9/ir?ccm_paging_p_b20785=2
+
+📰 有）S&A|東京海上日動代理店,保険,あんしんのコーディネーター
+   https://www.team-s-a.com/news/page/5?pc-switcher=1
+
+📰 S&A PLANTS GARDEN
+   https://sap-garden.shop/
+
+📰 SalesNow DB - 株式会社S&Aの会社概要【2026年最新】
+   https://salesnow.jp/db/companies/jcb32dw4xxefh4p1
+
+---

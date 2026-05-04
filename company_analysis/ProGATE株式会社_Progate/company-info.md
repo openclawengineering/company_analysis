@@ -146,3 +146,22 @@ Read inspiring stories about how our users first started programming:
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 「株式会社Progate」のプレスリリース
+   https://www.atpress.ne.jp/news/company/27413
+
+📰 株式会社Progateの最新ニュース・プレスリリース - NEWSCAST
+   https://newscast.jp/b/3qZ2w6FEmR
+
+📰 ニュース一覧 | プログラミングの入門なら基礎から学べるProgate ...
+   https://prog-8.com/about/news
+
+📰 役員人事異動のお知らせ - Progate
+   https://prog-8.com/about/news/79
+
+📰 株式会社Progate - スピーダ スタートアップ情報リサーチ
+   https://initial.inc/companies/A-15792
+
+---

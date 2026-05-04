@@ -69,3 +69,22 @@
 ## Company Mentions
 
 _外部のプレスリリースやメディア掲載は現在確認できていません。_
+
+## Company Mentions
+
+📰 News | 株式会社アイセル
+   https://www.aisel.ne.jp/news/
+
+📰 お知らせ – 株式会社アイセル
+   https://aisel-software.jp/osirase
+
+📰 ニュース | アイセル株式会社
+   https://isel.jp/information/
+
+📰 トピックス | アイセル株式会社
+   https://isel.jp/topics/
+
+📰 ニュース - アイセルグループ株式会社
+   https://isel-group.jp/news/
+
+---

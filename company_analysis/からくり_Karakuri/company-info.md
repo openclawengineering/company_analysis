@@ -74,3 +74,22 @@ Karakuri responds flexibly to various software development needs to immediately 
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 からくり人形の最新ニュース - 朝日新聞
+   https://www.asahi.com/topics/word/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E4%BA%BA%E5%BD%A2.html
+
+📰 KARAKURI（カラクリ）からのお知らせ｜AI×コンタクトセンターの ...
+   https://karakuri.ai/news
+
+📰 コーポレートサイトをリニューアルしました。 | NEWS（最新情報）
+   https://caraquri.com/news/4761/
+
+📰 リリース情報 - IR（投資家情報） | パチンコ・パチスロ ... - SANKYO
+   https://www.sankyo-fever.co.jp/corporate/ir/timely.html
+
+📰 からくりサーカス - ツインエンジン ニュース
+   https://news.twinengine.jp/karakuri/page/9
+
+---

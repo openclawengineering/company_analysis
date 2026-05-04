@@ -266,3 +266,21 @@ The company positions itself not merely as a technical contractor but as a trust
 
 *Report generated: March 29, 2026*  
 *Data sources: Official company website (https://www.atomsystem.co.jp/)*
+## Company Mentions
+
+📰 新着情報 | 在庫管理システム、WMS（倉庫管理システム）ならアトムエンジニアリング
+   https://www.atm-net.co.jp/topics/
+
+📰 お知らせ Archives - 株式会社アトムシステム
+   https://www.atomsystem.co.jp/info/
+
+📰 最新Cosmosニュース -（ATOM）の今後の見通し、トレンド、市場洞察
+   https://coinmarketcap.com/ja/cmc-ai/cosmos/latest-updates/
+
+📰 株式会社アトムシステムの最新ニュース・プレスリリース
+   https://newscast.jp/b/54VCg8UE8o
+
+📰 ニュース Archives - 株式会社アトムシステム
+   https://www.atomsystem.co.jp/info/news/
+
+---

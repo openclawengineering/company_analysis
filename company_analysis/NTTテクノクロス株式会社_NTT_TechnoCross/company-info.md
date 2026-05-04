@@ -72,3 +72,22 @@ Recent mentions would typically include:
 - Industry partnerships and client solutions
 
 *Research status: Website access limitations encountered*
+
+## Company Mentions
+
+📰 2026年 | ニュース | NTTテクノクロス株式会社
+   https://www.ntt-tx.co.jp/whatsnew/
+
+📰 NTTテクノクロスのプレスリリース - PR TIMES
+   https://prtimes.jp/main/html/searchrlp/company_id/123990
+
+📰 「NTTテクノクロス」のニュース・最新情報 - 日本経済新聞
+   https://www.nikkei.com/companies/0019611?page=3
+
+📰 NTTテクノクロス株式会社
+   https://www.ntt-tx.co.jp/index.html
+
+📰 企業情報 | NTTテクノクロス株式会社
+   https://www.ntt-tx.co.jp/corporate/
+
+---

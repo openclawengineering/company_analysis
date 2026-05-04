@@ -85,3 +85,22 @@
 ## Company Mentions
 
 _No external press coverage or media mentions found at this time._
+
+## Company Mentions
+
+📰 お知らせ - 株式会社アイティサーフ
+   https://it-surf.co.jp/category/info/
+
+📰 株式会社アイティサーフ | System Development And Proporsul
+   https://it-surf.co.jp/
+
+📰 株式会社アイティサーフ - 公益財団法人横浜企業経営支援財団
+   https://www.idec.or.jp/business/csr/company_info.html?id=476
+
+📰 ブログ - 株式会社アイティサーフ
+   https://it-surf.co.jp/blog/
+
+📰 株式会社アイティサーフ - SalesNow
+   https://salesnow.jp/db/companies/jcb8u9p5721c8spg
+
+---

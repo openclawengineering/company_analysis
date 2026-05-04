@@ -56,3 +56,22 @@ _No external press coverage or media mentions found at this time._
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 お知らせ ニュース - NTTデータフォース
+   https://www.nttdata-force.co.jp/information/info/
+
+📰 ニュース - NTTデータフォース
+   https://www.nttdata-force.co.jp/information/
+
+📰 IR資料室 | 株主・投資家情報 | NTT
+   https://group.ntt/jp/ir/library/
+
+📰 IR情報 | NTTデータグループ - NTT DATA GROUP
+   https://www.nttdata.com/global/ja/investors/
+
+📰 IRニュース | 株主・投資家情報 | NTT
+   https://group.ntt/jp/ir/news/
+
+---

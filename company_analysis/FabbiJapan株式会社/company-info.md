@@ -115,3 +115,22 @@ _No external press coverage or media mentions found at this time._
 
 ---
 *Updated: May 4, 2026*
+
+## Company Mentions
+
+📰 Fabbi Japan、ベストベンチャー100に選出 - エキサイトニュース
+   https://www.excite.co.jp/news/article/Prtimes_2023-01-19-114613-2/
+
+📰 株式会社ＦａｂｂｉＪａｐａｎの採用・求人情報-engage
+   https://en-gage.net/fabbi-japan_career/
+
+📰 ホームページ - Fabbi Holdings
+   https://fabbiholdings.com/ja/
+
+📰 株式会社Fabbi Japanの会社概要｜【BeaTRIBES Fit】見積依頼・発注先探しのビジネスマッチングサイト
+   https://rekaizen.com/company/fabbijapan
+
+📰 IRニュース｜株主・投資家情報
+   https://www.irjapan.jp/ir_info/release/notice.html
+
+---

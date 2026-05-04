@@ -133,3 +133,22 @@ Iotを使って自社製品の開発、AI、ビックデータの活用などを
 ---
 
 *Report generated: April 2026*
+
+## Company Mentions
+
+📰 ソフトウェア開発、既存ソフトウェアの改修ならお任せください！
+   https://mono.ipros.com/product/detail/2000627009/
+
+📰 TERAPOC株式会社の求人情報／経験を活かし活躍できる環境！【エンジニア】 基本定時退社◎ (353623)／神奈川県 | 転職・求人情報サイトのマイナビ転職【掲載終了】
+   https://tenshoku.mynavi.jp/jobinfo-353623-5-6-1/
+
+📰 テラポックについて｜TERAPOC株式会社
+   https://www.terapoc.co.jp/about.html
+
+📰 TERAPOC株式会社
+   https://www.terapoc.co.jp/
+
+📰 TERAPOCの「組織体制・企業文化」 OpenWork
+   https://www.openwork.jp/company_answer.php?m_id=a0C10000016sgVC&q_no=1
+
+---
