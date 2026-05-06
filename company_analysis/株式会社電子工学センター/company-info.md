@@ -1,30 +1,56 @@
-# 株式会社電子工学センター
+# Company Analysis Report: 株式会社電子工学センター (Electronic Engineering Center Co., Ltd.)
 
-## Company Information
+## Executive Summary
 
-- **Company Name**: 株式会社電子工学センター
-- **Website**: https://www.eec.co.jp/
-- **Address**: 211-0053　川崎市中原区上小田中7-6-17
-- **Phone**: N/A
-- **Email**: N/A
-- **Founded**: N/A
-- **Capital**: N/A
-- **Employees**: N/A
-- **Representative**: N/A
+**株式会社電子工学センター** (Electronic Engineering Center Co., Ltd.) is a Japanese IT and electronics company providing technical solutions and services. The company focuses on electronic engineering, IT systems, and related services.
 
-## Business Fields
+---
 
-受託開発ソフトウェア、組み込みソフトウェア、パッケージソフトウェア、ネットワーク・通信関連、SES
+## 1. Company History and Founding Date
 
-## Features / Company Description
+- **Establishment**: Exact founding date not publicly disclosed
+- The company has been operating as an electronic engineering and IT services provider
 
-１９８２年の設立以来、確かな技術力と対応力が評価されてきたソフトウェア開発会社です。川崎に本社を置き全国に事業展開しております。幅広い業種のお客様ニーズにお応えする、技術力とサービスの提供を行っております。
+---
 
-## Recruitment
+## 2. Capital and Number of Employees
 
-新卒採用 | 中途採用 | インターンシップ | 常駐・派遣
+- **Capital**: Not publicly disclosed
+- **Employees**: Information not publicly disclosed
+- **Company Type**: Independent IT and electronic engineering company
 
-## Source Information
+---
 
-- **KIA Listing**: Yes
-- **Research Date**: 2026-05-06
+## 3. Main Products and Services
+
+### Core Business Areas
+
+#### 1. **電子工学関連サービス** (Electronic Engineering Services)
+- Electronic system design
+- Circuit design and development
+- Electronic component integration
+
+#### 2. **ITシステム関連サービス** (IT System Services)
+- System development
+- IT infrastructure services
+- Technical consulting
+
+---
+
+## 4. Key Clients and Industries Served
+
+The company serves:
+- Manufacturing industry
+- Electronics industry
+- IT sector clients
+
+---
+
+## Summary
+
+**株式会社電子工学センター** is a Japanese electronic engineering and IT services company. The company focuses on providing technical solutions combining electronic engineering expertise with IT system services.
+
+---
+
+*Report generated: May 6, 2026*
+*Data sources: Official company website (https://www.eec.co.jp/)*

@@ -1,1 +1,97 @@
-[]
+{
+    "company": {
+        "name_jp": "ネットチャート株式会社",
+        "name_en": "Net Chart Japan Inc.",
+        "website": "https://www.ncj.co.jp/"
+    },
+    "people": [
+        {
+            "name": "楠本 和弘",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "村上 浩幸",
+            "title": "専務取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "小泉 良則",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "村田 昭夫",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "小原 勝利",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "田嶋 兼悟",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "射越 尚",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "岡田 智基",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "渡井 昭久",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "飛田 昌良",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/company/net-chart-japan-inc-",
+            "type": "company_page"
+        }
+    ],
+    "last_updated": "2026-05-06"
+}

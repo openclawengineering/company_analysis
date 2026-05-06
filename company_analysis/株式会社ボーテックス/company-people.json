@@ -1,1 +1,19 @@
-[]
+{
+    "company": {
+        "name_jp": "株式会社ボーテックス",
+        "name_en": "VORTEX CO., LTD.",
+        "website": "https://www.vtx.co.jp/"
+    },
+    "people": [
+        {
+            "name": "西舘 秀明",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-06"
+}

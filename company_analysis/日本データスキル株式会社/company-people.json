@@ -1,1 +1,75 @@
-[]
+{
+    "company": {
+        "name_jp": "日本データスキル株式会社",
+        "name_en": "Nippon Data Skill Co., Ltd.",
+        "website": "https://www.nds.co.jp/"
+    },
+    "people": [
+        {
+            "name": "北川 一雄",
+            "title": "会長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "豊田 昭",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "鈴木 伸幸",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "杉村 耕一",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "久保 朋一",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "青山 由香里",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "南 智",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "加藤 純哉",
+            "title": "役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-06"
+}

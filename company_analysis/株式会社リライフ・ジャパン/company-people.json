@@ -1,1 +1,35 @@
-[]
+{
+    "company": {
+        "name_jp": "株式会社リライフ・ジャパン",
+        "name_en": "RLJ co.,ltd",
+        "website": "https://www.rlj.co.jp/"
+    },
+    "people": [
+        {
+            "name": "佐川 学",
+            "title": "代表取締役CEO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "黒田 健二",
+            "title": "取締役COO",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "西山 聯矢",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-06"
+}

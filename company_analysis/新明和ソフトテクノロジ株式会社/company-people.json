@@ -1,1 +1,73 @@
-[]
+{
+    "company": {
+        "name_jp": "新明和ソフトテクノロジ株式会社",
+        "name_en": "ShinMaywa Soft Technologies, Ltd.",
+        "website": "https://www.stec.co.jp/"
+    },
+    "people": [
+        {
+            "name": "深井 浩司",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/koichi-fukai-shinmaywa-soft-technologies",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "吉村眞由美",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "熊谷弘之",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "重谷陽一",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "姜隆志",
+            "title": "Sales Representative",
+            "linkedin": "https://jp.linkedin.com/in/隆志-姜-40611b67",
+            "twitter": null,
+            "department": "Sales",
+            "email": ""
+        },
+        {
+            "name": "koichi nakagawa",
+            "title": "会社員",
+            "linkedin": "https://jp.linkedin.com/in/koichi-nakagawa-7160b3165",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "takashi isaka",
+            "title": "営業職",
+            "linkedin": "https://jp.linkedin.com/in/takashi-isaka-a30200382",
+            "twitter": null,
+            "department": "Sales",
+            "email": ""
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://jp.linkedin.com/company/新明和ソフトテクノロジ（株）",
+            "type": "company_page"
+        }
+    ],
+    "last_updated": "2026-05-06"
+}

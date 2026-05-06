@@ -1,1 +1,19 @@
-[]
+{
+    "company": {
+        "name_jp": "株式会社エヌ・エス・ピイ",
+        "name_en": "NSP Co., Ltd.",
+        "website": "https://www.nspweb.jp/"
+    },
+    "people": [
+        {
+            "name": "丸山 裕",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-06"
+}

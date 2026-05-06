@@ -1,1 +1,19 @@
-[]
+{
+    "company": {
+        "name_jp": "株式会社エフケイ・ジャパン",
+        "name_en": "FK Japan Co., Ltd.",
+        "website": "http://www.fk-j.co.jp/"
+    },
+    "people": [
+        {
+            "name": "伊藤 孝雄",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-06"
+}
