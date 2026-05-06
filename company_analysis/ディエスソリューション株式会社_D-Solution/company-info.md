@@ -145,4 +145,5 @@ The company operates on the principle of solving fundamental questions, problems
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **D-Solution Official Website** — 2026 — Healthcare consulting company profile and services ([https://www.d-solution.co.jp](https://www.d-solution.co.jp))
+- **Google Forms Contact** — 2026 — Company contact and inquiry form ([https://docs.google.com/forms/d/e/1FAIpQLSfan-SXN-E686yjuD8BlF6hPPKYoJkZnxKcp2mTfsD_Y7gsFA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfan-SXN-E686yjuD8BlF6hPPKYoJkZnxKcp2mTfsD_Y7gsFA/viewform))

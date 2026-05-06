@@ -67,7 +67,11 @@ This means:
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **JISC SOFT Official Website** — 2026 — Company profile and business information ([https://www.jisc.co.jp](https://www.jisc.co.jp))
+- **Challengers Voice** — Unknown date — Interview with company president Tomizawa Keijirou ([https://challengersvoice.com/tomizawa_keijirou/](https://challengersvoice.com/tomizawa_keijirou/))
+- **Health Management Excellence Award 2026** — March 9, 2026 — Certified as "Health Management Excellence Enterprise" for large corporations by Ministry of Economy, Trade and Industry ([https://www.jisc.co.jp/archives/5532](https://www.jisc.co.jp/archives/5532))
+- **SECURITY SHOW 2026** — February 13, 2026 — Company exhibition at security technology exhibition ([https://www.jisc.co.jp/archives/5502](https://www.jisc.co.jp/archives/5502))
+- **Handwriting OTP Authentication Technology Patent** — January 26, 2026 — Authentication technology patent registered ([https://www.jisc.co.jp/archives/5492](https://www.jisc.co.jp/archives/5492))
 
 ---
 *Sources: [JISC Software Corporation Official Website](https://www.jisc.co.jp)*

@@ -81,7 +81,11 @@ Detailed corporate philosophy information available on the company website.
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **SLJ Official Website** — 2026 — Company profile and business information ([https://www.slj-net.co.jp](https://www.slj-net.co.jp))
+- **IBM i World 2026** — April 23, 2026 — Company exhibition at IBM i technical conference ([https://www.slj-net.co.jp/news/ibm_i_world_2026.html](https://www.slj-net.co.jp/news/ibm_i_world_2026.html))
+- **Webinar Archive** — March 30, 2026 — Limited-time webinar archive distribution ([https://www.slj-net.co.jp/news/0330_archive_web.html](https://www.slj-net.co.jp/news/0330_archive_web.html))
+- **Aisho Corp Web Seminar** — February 2, 2026 — Co-hosted web seminar with Aisho Corporation ([https://www.slj-net.co.jp/news/318_web_1.html](https://www.slj-net.co.jp/news/318_web_1.html))
+- **NTT Data Intra-mart Web Seminar** — January 8, 2026 — Co-hosted web seminar with NTT Data Intra-mart ([https://www.slj-net.co.jp/news/226_ntt_web.html](https://www.slj-net.co.jp/news/226_ntt_web.html))
 
 ---
 

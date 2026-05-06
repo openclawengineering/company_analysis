@@ -61,4 +61,8 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Two Crest Official Website** — 2026 — Company profile and business information ([https://www.twocrest.com](https://www.twocrest.com))
+- **BaseConnect** — Unknown date — Company data and profile ([https://baseconnect.in/companies/e83b87af-3f8b-4c9b-9d7d-28b6e2c7a77f](https://baseconnect.in/companies/e83b87af-3f8b-4c9b-9d7d-28b6e2c7a77f))
+- **Wantedly** — Unknown date — Company information and recruitment ([https://www.wantedly.com/companies/company_8444788](https://www.wantedly.com/companies/company_8444788))
+- **Privacy Mark Certification** — April 8, 2020 — Obtained Privacy Mark certification for information security management ([https://www.twocrest.com/news/privacymark2020/](https://www.twocrest.com/news/privacymark2020/))
+- **Website Redesign** — August 21, 2019 — Company website design refreshed ([https://www.twocrest.com/news/update20190821/](https://www.twocrest.com/news/update20190821/))
