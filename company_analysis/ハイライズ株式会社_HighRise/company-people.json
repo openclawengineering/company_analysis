@@ -1,17 +1,20 @@
 {
     "company": {
-        "name": "ハイライズ株式会社",
-        "name_en": "",
+        "name_jp": "ハイライズ株式会社",
+        "name_en": "HighRise Co., Ltd.",
         "website": "https://www.hirise.co.jp"
     },
     "people": [
         {
             "name": "平岡卓也",
-            "title": "代表取締役社長",
+            "title": "代表取締役",
             "linkedin": null,
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-05-07",
+    "data_source": "company_website_research"
 }

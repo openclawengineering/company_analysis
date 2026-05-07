@@ -60,4 +60,13 @@ The company's strength lies in its broad coverage without being limited to speci
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[マイナビ2027]** — 2026-03-01 — 新卒採用情報掲載 (https://job.mynavi.jp/27/pc/search/corp78026/outline.html)
+- **[横浜市東部商工会議所]** — 2026-01-09 — 横浜市東部産業連携会議に紹介企業として出品 (https://www.suishin-east.jp/)
+- **[パシフィコ横浜 テックヨコハマ2026]** — 2026-02-04〜06 — DX・AI・IoT通信展に出展、展示番号I19 (https://www.tech-yokohama.jp/)
+- **[神奈川県情報サービス産業協会 (KIA)]** — 2026-01-16 — 新年会イベントに出展 (https://www.kia.or.jp/event/detail/?id=8065)
+- **[神奈川県情報サービス産業協会 (KIA)]** — 2026-01-15 — 組込みシステム技術専門部会 新年会に出展
+- **[横浜商工会議所]** — 2026-01-06 — 新年会に出展 (https://www.yokohama-cci.or.jp/event_input/14666/)
+- **[神奈川県情報サービス産業協会 (KIA)]** — KIA正会員として登録
+- **[神奈川県製造業振興協会 (JASA)]** — 正会員として登録
+- **[横浜市SDGsパートナーシップ]** — パートナー企業として参加
+- **[SalesNow DB]** — 2024-08 — 従業員72名として掲載

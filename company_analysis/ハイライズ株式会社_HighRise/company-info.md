@@ -49,4 +49,7 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[マンション管理新聞]** — 2013-04-15 — ハイライズ株式会社の「Smart One Call」システムが掲載（(株)マンション管理新聞社 904号）
+- **[月刊 ビルクリーニング]** — 2013-06 — 「Smart One Call」システム紹介記事掲載（(株)クリーンシステム科学研究所）
+- **[月刊 ビルメンテナンス]** — 2013-06 — 「Smart One Call」システム紹介記事掲載（(社)全国ビルメンテナンス協会）
+- **[神奈川県情報サービス産業協会]** — KIA正会員として登録（業界団体への加盟情報）

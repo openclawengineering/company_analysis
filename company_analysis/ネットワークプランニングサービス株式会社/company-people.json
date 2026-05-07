@@ -2,7 +2,7 @@
     "company": {
         "name_jp": "ネットワークプランニングサービス株式会社",
         "name_en": "ネットワークプランニングサービス",
-        "website": "https://x.com/nps_inc"
+        "website": "https://www.nps-inc.jp/"
     },
     "people": [
         {
@@ -13,6 +13,5 @@
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-05-07"
 }

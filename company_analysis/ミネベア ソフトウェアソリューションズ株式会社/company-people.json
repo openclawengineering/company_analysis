@@ -1,18 +1,60 @@
 {
     "company": {
         "name_jp": "ミネベア ソフトウェアソリューションズ株式会社",
-        "name_en": "ミネベア ソフトウェアソリューションズ",
-        "website": ""
+        "name_en": "Minebea Software Solutions Co., Ltd.",
+        "website": "https://www.minebea-ss.com/"
     },
     "people": [
         {
             "name": "大坂 佳道",
             "title": "代表取締役社長",
             "linkedin": null,
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "友田 優",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "吉田 秀樹",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "河合 景一",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "稲本 繁典",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "片岡 祐介",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-05-07",
+    "data_source": "company_website_research"
 }

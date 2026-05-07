@@ -2,9 +2,9 @@
 
 ## Company Overview
 
-ミネベア ソフトウェアソリューションズ株式会社 is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture. KIA member companies span a wide range of IT services including custom software development, embedded systems engineering, system engineering services (SES), network infrastructure, and IT consulting.
+ミネベア ソフトウェアソリューションズ株式会社 (Minebea Software Solutions Co., Ltd.) is a Japanese IT company specializing in system design, software development, cloud infrastructure, and system integration. Founded in 1983 and headquartered in Kanagawa Prefecture, the company has grown to become a major system integrator with 280 employees and ¥3.2 billion in annual revenue (as of March 2025). The company provides comprehensive IT solutions including system consulting, development, construction, operation, maintenance, and technical support services.
 
-**Website:** ** Unknown
+**Website:** https://www.minebea-ss.com/
 
 ## Headquarters & Offices
 
@@ -18,9 +18,14 @@
 
 | Field | Details |
 |-------|---------|
-| **KIA Membership** | Active member of Kanagawa IT Industry Association |
-| **Region** | Kanagawa Prefecture / Tokyo metropolitan area |
-| **Industry** | Information Technology Services |
+| **Capital** | 2,000万円 (paid-in capital, 100% owned by Honda Engineering Co., Ltd.) |
+| **Revenue** | 32億円 (March 2025 fiscal year) |
+| **Employees** | 280名 (as of April 2025) |
+| **Founded** | 1983年2月 |
+| **Representative** | 代表取締役社長 大坂 佳道 |
+| **Headquarters** | 〒210-0005 神奈川県川崎市川崎区東田町8番地 パレール三井ビルディング14階 |
+| **Branch Offices** | 大阪営業所, 北陸営業所, 沖縄営業所 |
+| **Industry** | System Integration, Software Development, IT Infrastructure Services |
 
 ## Business Description
 

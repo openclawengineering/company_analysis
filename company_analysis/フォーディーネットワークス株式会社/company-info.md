@@ -148,5 +148,11 @@ The company positions itself as an innovator in office automation, combining tra
 
 ---
 
+## Company Mentions
+
+_No external press coverage or media mentions found at this time._
+
+---
+
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.4dn.co.jp/)*
