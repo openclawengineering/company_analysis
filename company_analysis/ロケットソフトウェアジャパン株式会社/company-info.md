@@ -91,7 +91,11 @@ Rocket Software is also known as a company that loves music — musical instrume
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[Wikipedia]** — 2026-05-08 — ロケットソフトウェアジャパン株式会社概要 ([https://ja.wikipedia.org/wiki/ロケット・ソフトウェア](https://ja.wikipedia.org/wiki/ロケット・ソフトウェア))
+- **[Hatarakigai]** — 2026-05-08 — IT企業情報 ([https://hatarakigai.info/rocket-software](https://hatarakigai.info/rocket-software))
+- **[AMC Software Japan]** — 2026-05-08 — 日本法人情報 ([https://www.amc.rocketsoftware.co.jp](https://www.amc.rocketsoftware.co.jp))
+- **[doda]** — 2026-05-08 — 採用情報 ([https://doda.jp](https://doda.jp))
+- **[Nikkei Compass]** — 2026-05-08 — 企業信用情報 ([https://www.nikkei.com/compass](https://www.nikkei.com/compass))
 
 ---
 
