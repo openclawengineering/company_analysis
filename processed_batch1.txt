@@ -8,3 +8,13 @@ company_analysis/NTTデータフォース株式会社_NTTDataForce
 company_analysis/PE-BANK株式会社_PEBank
 company_analysis/ProGATE株式会社_Progate
 company_analysis/S&A_JAPAN株式会社_SA_Japan
+company_analysis/メトロホールディングス株式会社_MetroHoldings
+company_analysis/モトミ_Motomi
+company_analysis/モトミ株式会社_Motomi
+company_analysis/ユニインフォーメーション株式会社
+company_analysis/ロケットソフトウェアジャパン株式会社
+company_analysis/ヴァングル_Vangle
+company_analysis/ヴァングル株式会社_Vungle
+company_analysis/ヴェストソフトウェア_VestSoftware
+company_analysis/ヴェストソフトウェア株式会社_VestSoftware
+company_analysis/一_Ichii
