@@ -1,0 +1,68 @@
+{
+  "company": {
+    "name_jp": "株式会社アトムシステム",
+    "name_en": "Atom System Co., Ltd.",
+    "website": "https://www.atomsystem.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "細野 哲也",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/tetsuya-hosono-2213752b4",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Tetsuya Hosono",
+          "headline": "Kamakura, Kanagawa, Japan",
+          "location": "（株）アトムシステム",
+          "connections": "（株）アトムシステム3 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "会社経営者",
+            "company": "（株）アトムシステム",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/tetsuya-hosono-2213752b4"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "大野 完治",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "大槻 幸人",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "須藤 明弘",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "company": "Unknown",
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "小川孝行",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A1%8C-%E5%B0%8F%E5%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A1%8C-%E5%B0%8F%E5%B"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "角元敬治",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社ハクエイ",
+    "name_en": "",
+    "website": "https://www.hakuei-net.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "森田真規",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%85%89-%E6%A3%AE%E7%94%B0-721a",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%85%89-%E6%A3%AE%E7%94%B0-721a"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "井上博栄",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

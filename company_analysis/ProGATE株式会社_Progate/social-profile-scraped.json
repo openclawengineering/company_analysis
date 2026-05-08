@@ -1,0 +1,109 @@
+{
+  "company": {
+    "name_jp": "プロゲート",
+    "name_en": "Progate",
+    "website": "https://progate.com/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "加藤將倫",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/masakato",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Masa Kato",
+          "headline": "CEO at Progate Inc. Forbes Asia 30 Under 30.",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "Logritha Technologies4,507 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "Founder & CEO at Progate. Learning to code changed my life — it gave me the power to create, confidence, and opened new doors. I started Progate to make that experience accessible to everyone. Learn more at progate.com.",
+        "experience": [
+          {
+            "title": "CEO",
+            "company": "Progate",
+            "duration": "Jul 2014 - Present · 11 yrs 11 mos",
+            "location": "+3",
+            "description": "+2"
+          }
+        ],
+        "education": [
+          {
+            "school": "The University of Tokyo",
+            "degree": "Bachelor of Electronics and Information Technology",
+            "dates": "2011 – 2015",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "C++",
+          "English"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [
+          {
+            "language": "EnglishNative or bilingual proficiencyJapaneseNati"
+          }
+        ],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "Hi everyone! Here's an article on why we make our own lessons at Progate. Please read and share! https://lnkd.in/fH97fdC",
+            "date": "",
+            "reactions": "19",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "article",
+            "post_url": ""
+          },
+          {
+            "content": "Was interviewed by YourStory Media! We spoke about the story behind our expansion in India and the success stories of our users! https://lnkd.in/fVtV5Z9 …more",
+            "date": "",
+            "reactions": "26",
+            "comments": "",
+            "reposts": "1 repost",
+            "is_repost": false,
+            "media_type": "article",
+            "post_url": ""
+          },
+          {
+            "content": "Was great to meet Shardul M. from Simplilearn. Got a better understanding of the Indian edtech market and was very much inspired by their US strategy. Thanks Sangeeta Devni for the intro! …more",
+            "date": "",
+            "reactions": "91",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "It was such a pleasure to meet Hari T.N from BigBasket! He gave us tons of information on building a high performing team across different regions. Thanks Sangeeta Devni for the introduction! …more",
+            "date": "",
+            "reactions": "42",
+            "comments": "2 comments",
+            "reposts": "3 reposts",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "【Success Story from Lusaka, Zambia!】 \"When I was able to move the Scratch Cat on the screen, I immediately got hooked. I wanted to know what I can do more with it.\" 14-year-old Emmanuel from Zambia has been immersed in coding since the age of 10. Emmanuel actively contributes to the Facebook Developer Circle Lusaka, a developer community in Zambia, while continuing to learn through hashtag #Progate. https://lnkd.in/fawxwZE Interviews with Progate users who have inspiring stories with their experience in learning to code. Read more on our blog! hashtag #programming hashtag #mobiledevelopment hashtag #JavaScript hashtag #Zambia hashtag #FacebookDeveloperCircle hashtag #Scratch …more",
+            "date": "",
+            "reactions": "5",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:6542389190221496320/"
+          }
+        ],
+        "url": "https://jp.linkedin.com/in/masakato"
+      },
+      "twitter_data": null
+    }
+  ]
+}

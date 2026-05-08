@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "イマジネーション株式会社",
+    "name_en": "Imagination Co., Ltd.",
+    "website": "https://www.imagination.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "小笠原 有則",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E9%8A%85%E5%B8%82-%E5%B0%8F%E7%A",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E9%8A%85%E5%B8%82-%E5%B0%8F%E7%A"
+      },
+      "twitter_data": null
+    }
+  ]
+}

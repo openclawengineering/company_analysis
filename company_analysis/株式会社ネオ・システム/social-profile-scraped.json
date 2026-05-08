@@ -1,0 +1,108 @@
+{
+  "company": {
+    "name_jp": "株式会社ネオ・システム",
+    "name_en": "ネオ・システム",
+    "website": "https://www.neosystem.co.jp/company/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "深味",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%9",
+      "twitter_url": "https://x.com/somishokuhin",
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E6%B7%B1%E5%9"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/yohei_miyauchi",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "深味洋介（Fukami",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "土井伴治（Doi",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "金井幸太（Kanai",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/UtaKanai?lang=ja",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "山中幹（Yamanaka",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "2022年12月",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "2024年11月",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "（現任）",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "山中",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

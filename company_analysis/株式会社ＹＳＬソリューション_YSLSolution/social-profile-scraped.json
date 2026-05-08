@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社ＹＳＬソリューション（YSL Solution）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "長堀真己",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/泉-長堀-068903aa/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "長堀泉",
+          "headline": "",
+          "location": "",
+          "connections": "Square GroupConstruction183,257 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Director",
+            "company": "富士通総研",
+            "duration": "2008 - 2014 · 6 yrs",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/泉-長堀-068903aa/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

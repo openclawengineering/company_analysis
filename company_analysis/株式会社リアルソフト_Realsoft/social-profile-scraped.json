@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name": "株式会社リアルソフト",
+    "name_en": "",
+    "website": "https://www.realsoft.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "板崎裕",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/悠-板倉-57531331a/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "板倉悠",
+          "headline": "Tokyo, Tokyo, Japan",
+          "location": "",
+          "connections": "Square GroupConstruction183,255 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [
+          {
+            "school": "iU",
+            "degree": "2023 – 2027",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/悠-板倉-57531331a/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

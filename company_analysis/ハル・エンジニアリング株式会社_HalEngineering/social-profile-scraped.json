@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name": "ハル・エンジニアリング株式会社",
+    "name_en": "",
+    "website": "https://www.haleng.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "Ono Takehiko",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/takehiko-ono-02813b7",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Takehiko Ono",
+          "headline": "Managing Director, Sales and Marketing at REALFLEET",
+          "location": "REALFLEET",
+          "connections": "SDA Bocconi278,178 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Managing Director, Sales and Marketing",
+            "company": "REALFLEET",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "SDA Bocconi",
+            "degree": "2002 – 2003",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/takehiko-ono-02813b7"
+      },
+      "twitter_data": null
+    }
+  ]
+}

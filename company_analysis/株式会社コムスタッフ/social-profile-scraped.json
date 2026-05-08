@@ -1,0 +1,52 @@
+{
+  "company": {
+    "name_jp": "株式会社コムスタッフ",
+    "name_en": "コムスタッフ",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "永妻邦彦",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/邦彦-野村-94480641/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "野村邦彦",
+          "headline": "株式会社エージェンシー広宣 - 営業",
+          "location": "Nagano, Nagano, Japan",
+          "connections": "Akij Resource Manufacturing125,486 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "営業",
+            "company": "株式会社エージェンシー広宣",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/邦彦-野村-94480641/"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "姫野貴",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

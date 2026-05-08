@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "株式会社シースリー",
+    "name_en": "シースリー",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "大江康夫",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/徹-大江-905b486b/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "大江徹",
+          "headline": "株式会社アソシア · 東京経済大学",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "CyberAgent, Inc. 19,063 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "取締役",
+            "company": "株式会社アソシア",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "東京経済大学",
+            "degree": "1993 – 1997",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/徹-大江-905b486b/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

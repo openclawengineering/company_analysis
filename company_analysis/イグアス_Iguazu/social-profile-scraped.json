@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "Iguazu Co., Ltd.",
+    "name_en": "Iguazu Co., Ltd.",
+    "website": "https://www.i-guazu.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "矢花 達也",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E9%81%94%E4%B9%9F-%E7%9F%A2%E8%8A%B1-61653657",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "矢花達也",
+          "headline": "Tokyo, Tokyo, Japan",
+          "location": "（株）イグアス",
+          "connections": "Square GroupConstruction183,229 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "代表取締役",
+            "company": "（株）イグアス",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E9%81%94%E4%B9%9F-%E7%9F%A2%E8%8A%B1-61653657"
+      },
+      "twitter_data": null
+    }
+  ]
+}

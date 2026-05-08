@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社アプトシステム",
+    "name_en": "Aptsys Inc.",
+    "website": "https://www.aptsys.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "田村 学",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%AD%A6-%E7%94%B0%E6%9D%91-0bb61759",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "田村学",
+          "headline": "Hiroshima, Japan",
+          "location": "マツダ株式会社",
+          "connections": "Job CircularInformation Services279,027 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "なし",
+            "company": "マツダ株式会社",
+            "duration": "Apr 1989 - Present · 37 yrs 2 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%AD%A6-%E7%94%B0%E6%9D%91-0bb61759"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name": "株式会社第一コンピュータサービス（DCS）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "鮎沢潤",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/秀樹-鮎澤-8a336a151/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "鮎澤秀樹",
+          "headline": "宣研ロジエ株式会社 - 常務取締役執行役員",
+          "location": "Chiba, Japan",
+          "connections": "Square GroupConstruction183,257 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "常務取締役執行役員",
+            "company": "May 2022 - Present · 4 yrs 1 mo",
+            "duration": "東京都",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "グループ統括部長",
+            "company": "Apr 1995 - Oct 2022 · 27 yrs 7 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/秀樹-鮎澤-8a336a151/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

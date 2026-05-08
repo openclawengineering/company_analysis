@@ -1,0 +1,92 @@
+{
+  "company": {
+    "name_jp": "株式会社ブースターテクノロジー",
+    "name_en": "ブースターテクノロジー",
+    "website": "https://www.booster-technology.com/about"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "土屋達哉",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/tatsuya-tsuchiya-5847b2111",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "tatsuya tsuchiya",
+          "headline": "株式会社ブースターテクノロジー - 代表取締役",
+          "location": "株式会社ブースターテクノロジー",
+          "connections": "Amazon 36,742,797 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "代表取締役",
+            "company": "株式会社ブースターテクノロジー",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/tatsuya-tsuchiya-5847b2111"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "添野一",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "認定基礎試験",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "ネットワーク",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "データベース",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社エルパ（LPA）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "島貫歩美",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%AD%A9%E7%BE%8E-%E5%B3%B6%E8%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%AD%A9%E7%BE%8E-%E5%B3%B6%E8%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "company": {
+    "name_jp": "株式会社クロステック",
+    "name_en": "CrossTec Inc.",
+    "website": "https://www.xtec.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "渡邉 安好",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%AE%89%E5%A5%BD-%E6%B8%A1%E9%82%89-607b8312b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "渡邉安好",
+          "headline": "株式会社クロステック - 代表取締役会長",
+          "location": "株式会社クロステック",
+          "connections": "Square GroupConstruction183,231 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "代表取締役会長",
+            "company": "株式会社クロステック",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%AE%89%E5%A5%BD-%E6%B8%A1%E9%82%89-607b8312b"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "萩原 哲也",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "渡邉 直樹",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "渡邉 秋男",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

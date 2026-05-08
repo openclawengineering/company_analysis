@@ -1,0 +1,46 @@
+{
+  "company": {
+    "name_ja": "株式会社カールビット",
+    "name_en": "Karbit Co., Ltd.",
+    "name_brand": "KARBit",
+    "corporate_number": "3020001047944",
+    "website": "https://karbit.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "岡田 潔",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%BD%94-%E5%B2%A1%E7%94%B0-096634167",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "岡田潔",
+          "headline": "COMODO Inc. - CEO",
+          "location": "Hyogo, Japan",
+          "connections": "Akij Resource Manufacturing125,477 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "CEO",
+            "company": "COMODO Inc.",
+            "duration": "Mar 1978 - Present · 48 yrs 3 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%BD%94-%E5%B2%A1%E7%94%B0-096634167"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name_jp": "株式会社電創",
+    "name_en": "電創",
+    "website": "https://www.denso-japan.co.jp/company/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "栗栖",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%AD%A3%E7%BE%A9-%E6%A0%97%E6%B",
+      "twitter_url": "https://x.com/kurimoni367",
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%AD%A3%E7%BE%A9-%E6%A0%97%E6%B"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "挨拶",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "就任のお知らせ",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/torishimaru",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

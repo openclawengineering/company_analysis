@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社日本インテリジェントビジネス",
+    "name_en": "日本インテリジェントビジネス",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "萩原一成",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E4%B8%80%E6%88%90-%E8%90%A9%E5%8",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E4%B8%80%E6%88%90-%E8%90%A9%E5%8"
+      },
+      "twitter_data": null
+    }
+  ]
+}

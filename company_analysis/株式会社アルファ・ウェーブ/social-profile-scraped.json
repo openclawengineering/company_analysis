@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name_jp": "株式会社アルファ・ウェーブ",
+    "name_en": "アルファ・ウェーブ",
+    "website": "https://www.alpha-w.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "大指一郎",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/takafumi-yanagihara-a894a439",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Takafumi Yanagihara",
+          "headline": "Founder / Representative Director, Libra Inc.",
+          "location": "Libra Inc. · Univ of Tenn",
+          "connections": "Libra Inc.1 followerFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Founder / Representative Director",
+            "company": "Libra Inc.",
+            "duration": "Sep 2008 - Present · 17 yrs 9 mos",
+            "location": "Aichi, Japan",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Univ of Tenn",
+            "degree": "Master of Business Administration (M.B.A.), Human Resources Management/Personnel Administration, General",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "5月30日(木)19時より名古屋市にて、ガイナーレ鳥取代表取締役GM岡野雅行氏によるトークショーが開催されます。チケットにはまだ少し余裕がございますので、ご希望の方は052-684-9860までお問い合わせ下さい。",
+            "date": "",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          }
+        ],
+        "url": "https://jp.linkedin.com/in/takafumi-yanagihara-a894a439"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "奥田史一",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

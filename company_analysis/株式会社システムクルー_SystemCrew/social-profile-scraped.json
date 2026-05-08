@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社システムクルー",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "櫻澤伸明",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/伸次-櫻井-760635209/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "櫻井伸次",
+          "headline": "Hamamatsu, Shizuoka, Japan",
+          "location": "自分未来きょういく（株）",
+          "connections": "自分未来きょういく（株）12 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "主任/人材開発プロジェクト",
+            "company": "自分未来きょういく（株）",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/伸次-櫻井-760635209/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

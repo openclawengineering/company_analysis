@@ -1,0 +1,46 @@
+{
+  "company": {
+    "name": "テクノスクエア株式会社",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "小峰則明",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/裕弥-小峰-91749b239/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "小峰裕弥",
+          "headline": "Tokyo, Tokyo, Japan",
+          "location": "法政大学",
+          "connections": "Bolloré Logistics 454,212 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [
+          {
+            "school": "Hosei University",
+            "degree": "学士（文学）, Philosophy",
+            "dates": "2008 – Present",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Visual Basic for Applications (VBA)",
+          "Google アナリティクス"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/裕弥-小峰-91749b239/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

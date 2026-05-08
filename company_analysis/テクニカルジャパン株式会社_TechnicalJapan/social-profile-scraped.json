@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "テクニカルジャパン株式会社",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "佐藤潤",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%BD%A4-%E4%BD%90%E8%97%A4-1335",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%BD%A4-%E4%BD%90%E8%97%A4-1335"
+      },
+      "twitter_data": null
+    }
+  ]
+}

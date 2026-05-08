@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社サザン・エージェンシー",
+    "name_en": "Southern Agency Co., Ltd.",
+    "website": "https://www.sacgrp.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "川口達也",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E3%81%8B%E3%82%8F%E3%81%90%E3%81",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E3%81%8B%E3%82%8F%E3%81%90%E3%81"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "奥野庸平",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

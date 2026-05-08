@@ -1,0 +1,54 @@
+{
+  "company": {
+    "name_jp": "株式会社イオ",
+    "name_en": "イオ",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "窪田力",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/kaede-kubota-8b7b4817b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Kaede Kubota",
+          "headline": "Greater Tokyo Area",
+          "location": "",
+          "connections": "Pasona Inc. Pasona Career Company5,034 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [
+          {
+            "school": "Tama University",
+            "degree": "経営情報学部, 事業構想学科",
+            "dates": "2016 – 2020",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "日商簿記2級",
+          "MOS Excel2013, Word2013"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/kaede-kubota-8b7b4817b"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "野寺充",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

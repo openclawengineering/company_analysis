@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社システムズナカシマ 東京支店（Systems Nakashima）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "中島義雄",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%BE%A9%E9%9B%84-%E4%B8%AD%E5%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%BE%A9%E9%9B%84-%E4%B8%AD%E5%B"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "児島正典",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

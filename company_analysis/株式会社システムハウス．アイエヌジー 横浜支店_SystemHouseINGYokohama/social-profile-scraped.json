@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社システムハウス・アイエヌジー 横浜支店（System House I.N.G.）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "村越伸夫",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/聖人-村越-8b16b09b/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "村越聖人",
+          "headline": "株式会社シータス＆ゼネラルプレス - システムエンジニア",
+          "location": "株式会社シータス＆ゼネラルプレス",
+          "connections": "Square GroupConstruction183,244 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "システムエンジニア",
+            "company": "株式会社シータス＆ゼネラルプレス",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/聖人-村越-8b16b09b/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

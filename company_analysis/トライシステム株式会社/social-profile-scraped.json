@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "トライシステム株式会社",
+    "name_en": "トライシステム",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "柳島靖正",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/靖-柳-042169324/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "柳靖",
+          "headline": "ACS Japan K.K - シニアリクリートコンサルタント",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "ACS Japan K.K 4,338 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "シニアリクリートコンサルタント",
+            "company": "ACS Japan K.K · Permanent",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/靖-柳-042169324/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

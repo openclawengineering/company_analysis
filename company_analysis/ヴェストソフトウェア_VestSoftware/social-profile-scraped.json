@@ -1,0 +1,40 @@
+{
+  "company": "Unknown",
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "Kenji Kawana",
+      "role": "",
+      "linkedin_url": "https://tw.linkedin.com/in/kenji-kawana-079a09172",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Kenji Kawana",
+          "headline": "International airline  - Captain",
+          "location": "Taipei City, Taipei City, Taiwan",
+          "connections": "Square GroupConstruction183,237 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Captain",
+            "company": "International airline",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://tw.linkedin.com/in/kenji-kawana-079a09172"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "company": {
+    "name_jp": "株式会社アイ・ジー・スクウェア",
+    "name_en": "I.G. Square Co., Ltd.",
+    "website": "https://www.igsquare.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "長興寺文夫",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/文-寺田-12a592126/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "寺田文",
+          "headline": "Kanagawa-ku, Kanagawa, Japan",
+          "location": "リクルート",
+          "connections": "Square GroupConstruction183,240 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "営業マネージャー",
+            "company": "リクルート",
+            "duration": "Apr 1999 - Present · 27 yrs 2 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "慶応義塾大",
+            "degree": "学士, 環境情報学部",
+            "dates": "1996 – 1999",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Microsoftオフィス",
+          "マーケティング"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/文-寺田-12a592126/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

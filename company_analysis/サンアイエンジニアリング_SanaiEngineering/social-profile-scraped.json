@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社サンアイエンジニアリング",
+    "name_en": "Sanai Engineering Co., Ltd.",
+    "website": "https://www.sang.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "若林 義昭",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%BA%80%E7%94%9F-%E8%8B%A5%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%BA%80%E7%94%9F-%E8%8B%A5%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

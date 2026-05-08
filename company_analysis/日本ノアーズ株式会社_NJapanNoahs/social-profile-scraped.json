@@ -1,0 +1,77 @@
+{
+  "company": {
+    "name": "日本ノアーズ株式会社",
+    "name_en": "",
+    "website": "https://www.nno.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "持地秀恒",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/yknmt/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "釼持祐介",
+          "headline": "Special Operation Design 株式会社",
+          "location": "Osaka, Osaka, Japan",
+          "connections": "Square GroupConstruction183,238 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "CEO",
+            "company": "Special Operation Design 株式会社",
+            "duration": "Jan 2021 - Present · 5 yrs 5 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "デザイン部門チーフ",
+            "company": "Tanseisha Co Ltd",
+            "duration": "Apr 2000 - Dec 2020 · 20 yrs 9 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Hosei University",
+            "degree": "学士, Architectural Engineering",
+            "dates": "1995 – 2000",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "デザイン・デザインディレクション・プランニング",
+          "戦略的計画"
+        ],
+        "certifications": [],
+        "honors": [
+          {
+            "title": "ＤＤＡデザイン賞Issued by ＤＤＡ · Apr 2013Associated with Tanseisha Co LtdＳＥＩＫＯバーゼルブース、ウィンドウディスプレイデザインにてＪＣＤデザイ"
+          }
+        ],
+        "languages": [
+          {
+            "language": "Chinease 普通語Limited working proficiencyEnglishProf"
+          }
+        ],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/yknmt/"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "持地慶人",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

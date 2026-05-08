@@ -1,0 +1,236 @@
+{
+  "company": {
+    "name_jp": "株式会社ニューテック",
+    "name_en": "Newtech Co., Ltd.",
+    "website": "https://www.newtech.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "早川広幸",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/hiroyha",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Hiroyuki Hasebe",
+          "headline": "",
+          "location": "Saitama, Japan",
+          "connections": "Andrew Ng · 3rdDeepLearning.AI, AI Fund and AI Aspire2,479,868 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "CSA-Engineering",
+            "company": "Jul 2022 - Mar 2025 · 2 yrs 9 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Customer Engineer",
+            "company": "Full-time",
+            "duration": "Oct 2010 - Mar 2025 · 14 yrs 6 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Kyoto University",
+            "degree": "Mathematics",
+            "dates": "2001 – 2004",
+            "details": ""
+          },
+          {
+            "school": "Udacity",
+            "degree": "Self-Driving Car Nanodegree",
+            "dates": "2017 – 2018",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Go",
+          "Cloud Computing"
+        ],
+        "certifications": [
+          {
+            "name": "Golden KubestronautThe Linux FoundationIssued Jan 2026Show credentialLFCS: Linux Foundation Certifie"
+          }
+        ],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "I’m excited to share that I’ve achieved the Golden Kubestronaut certification. This journey deepened my understanding of Kubernetes across multiple domains and expanded my expertise across the broader cloud-native ecosystem, including technologies such as Istio and Prometheus. Thank you to the CNCF community and everyone who supported me along the way. I’m looking forward to continuing to apply and expand this knowledge in real-world platforms and production environments. hashtag #Kubestronaut hashtag #CNCF hashtag #Kubernetes hashtag #CloudNative hashtag #LinuxFoundation …more",
+            "date": "3mo •",
+            "reactions": "49",
+            "comments": "7 comments",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "View my verified achievement from The Linux Foundation.",
+            "date": "3mo •",
+            "reactions": "73",
+            "comments": "9 comments",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "article",
+            "post_url": ""
+          },
+          {
+            "content": "I’m happy to share that I’ve obtained a new certification: LFCS: Linux Foundation Certified Systems Administrator from The Linux Foundation!",
+            "date": "3mo •",
+            "reactions": "14",
+            "comments": "1 comment",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "I’m happy to share that I’ve obtained a new certification: KCA: Kyverno Certified Associate from The Linux Foundation!",
+            "date": "4mo •",
+            "reactions": "11",
+            "comments": "3 comments",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "I’m happy to share that I’ve obtained a new certification: CCA: Cilium Certified Associate from The Linux Foundation!",
+            "date": "9mo •",
+            "reactions": "20",
+            "comments": "4 comments",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "I’m happy to share that I’ve obtained a new certification: Red Hat AI Foundations Technologist Certificate from Red Hat!",
+            "date": "10mo •",
+            "reactions": "9",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "View my verified achievement from Red Hat.",
+            "date": "10mo •",
+            "reactions": "3",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "article",
+            "post_url": ""
+          },
+          {
+            "content": "I’m happy to share that I’ve obtained a new certification: Red Hat Certified Specialist in OpenShift AI from Red Hat!",
+            "date": "10mo •",
+            "reactions": "22",
+            "comments": "1 comment",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "Red Hat OpenShift Virtualization on Microsoft Azure Red Hat OpenShift is now available in public preview as a self-managed operator, offering organizations an accelerated path to modernization by streamlining the migration of virtual machines (VMs). Check it out. hashtag #RHSummit …more",
+            "date": "11mo •",
+            "reactions": "6",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "article",
+            "post_url": ""
+          },
+          {
+            "content": "I’m happy to share that I’ve obtained a new certification: CAPA: Certified Argo Project Associate from The Linux Foundation!",
+            "date": "",
+            "reactions": "16",
+            "comments": "1 comment",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          }
+        ],
+        "url": "https://jp.linkedin.com/in/hiroyha"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "宮崎有美子",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "菊池さき子",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "小野泰史",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "西川康範",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "橋口和典",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "水谷まり",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "星川明子",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "松井智",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

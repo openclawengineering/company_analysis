@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社ＮＴＴデータＩＭジェイエスピー",
+    "name_en": "",
+    "website": "https://www.jspnet.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "平松淳",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%92%8C%E5%8D%9A-%E5%B9%B3%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%92%8C%E5%8D%9A-%E5%B9%B3%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

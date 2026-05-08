@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社システム・ロジックス",
+    "name_en": "システム・ロジックス",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "吉田忠功",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/功-吉田-8b2402b0/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "吉田功",
+          "headline": "",
+          "location": "",
+          "connections": "Square GroupConstruction183,245 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/功-吉田-8b2402b0/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

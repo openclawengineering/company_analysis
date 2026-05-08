@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "アドテック株式会社",
+    "name_en": "Adtec Inc.",
+    "website": "https://www.adtec.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "下津 享",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/厚介-下津-3b0751354",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/厚介-下津-3b0751354"
+      },
+      "twitter_data": null
+    }
+  ]
+}

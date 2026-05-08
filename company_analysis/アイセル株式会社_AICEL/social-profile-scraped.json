@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "アイセル株式会社",
+    "name_en": "AICEL Inc.",
+    "website": "https://www.aisel.ne.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "草川 麗子",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/麗子-中川-2b7664179/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "中川麗子",
+          "headline": "MAISON E MAISON LTD - Vice President Marketing Development",
+          "location": "Hyogo, Japan",
+          "connections": "MAISON E MAISON LTD1 followerFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Vice President Marketing Development",
+            "company": "MAISON E MAISON LTD",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/麗子-中川-2b7664179/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

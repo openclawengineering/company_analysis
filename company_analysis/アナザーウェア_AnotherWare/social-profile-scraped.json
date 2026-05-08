@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社アナザーウェア",
+    "name_en": "Another Ware Co., Ltd.",
+    "website": "http://www.another-ware.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "鈴木 晶",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%85%83%E6%99%B6-%E9%88%B4%E6%9C%A8-b2b1561b0",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "鈴木元晶",
+          "headline": "Yokohama, Kanagawa, Japan",
+          "location": "関東学院大学",
+          "connections": "Anthropic 3,233,828 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "企画運営、事務",
+            "company": "関東学院大学 · Permanent",
+            "duration": "Oct 2017 - Present · 8 yrs 8 mos",
+            "location": "神奈川県",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%85%83%E6%99%B6-%E9%88%B4%E6%9C%A8-b2b1561b0"
+      },
+      "twitter_data": null
+    }
+  ]
+}

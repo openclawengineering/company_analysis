@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "ネットワークプランニングサービス株式会社",
+    "name_en": "ネットワークプランニングサービス",
+    "website": "https://x.com/nps_inc"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "砂川健太",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA-%E5%B2%A1%E7%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA-%E5%B2%A1%E7%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

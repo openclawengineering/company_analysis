@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "セントラル電子制御株式会社",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "杉山茂",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E8%8C%82-%E6%9D%89%E5%B1%B1-922b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E8%8C%82-%E6%9D%89%E5%B1%B1-922b"
+      },
+      "twitter_data": null
+    }
+  ]
+}

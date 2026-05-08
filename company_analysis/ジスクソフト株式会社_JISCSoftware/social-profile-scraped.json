@@ -1,0 +1,178 @@
+{
+  "company": {
+    "name_jp": "ジスクソフト株式会社",
+    "name_en": "JISC SOFT Co., Ltd.",
+    "website": "https://www.jisc.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "冨澤清",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/裕二-冨澤-8ba896117",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "冨澤裕二",
+          "headline": "株式会社ドリームツーリストサービス · トラベルジャーナル旅行専門学校",
+          "location": "Gunma, Gunma, Japan",
+          "connections": "Square GroupConstruction183,233 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "取締役会長",
+            "company": "株式会社ドリームツーリストサービス",
+            "duration": "May 2016 - Present · 10 yrs 1 mo",
+            "location": "群馬県前橋市関根町",
+            "description": ""
+          },
+          {
+            "title": "代表取締役CEO",
+            "company": "株式会社Dts creation",
+            "duration": "May 2014 - Present · 12 yrs 1 mo",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "トラベルジャーナル旅行専門学校",
+            "degree": "",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/裕二-冨澤-8ba896117"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "冨澤慶二郎",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "小海玄幸",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "菊池伸行",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "中村良一",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "栗田マユミ",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "三浦みき子",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "飯野明夫",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "奥山一藤",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "佐原喜明",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "猿谷克美",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "上坂昌和",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "白川正也",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "清里至",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "粟津潔貴",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "伊藤祐助",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

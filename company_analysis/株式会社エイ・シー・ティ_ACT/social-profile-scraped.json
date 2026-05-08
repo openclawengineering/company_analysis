@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社エイ・シー・ティ",
+    "name_en": "",
+    "website": "https://a-c-t.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "板橋哲也",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%93%B2%E4%B9%9F-%E6%A0%B9%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%93%B2%E4%B9%9F-%E6%A0%B9%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

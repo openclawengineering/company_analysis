@@ -1,0 +1,84 @@
+{
+  "company": {
+    "name_jp": "株式会社クロスユーアイエス",
+    "name_en": "Cross UIS Co., Ltd.",
+    "website": "https://www.xuis.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "神山 昌久",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/yasuhiro-sugiyama-636282122",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Yasuhiro Sugiyama",
+          "headline": "",
+          "location": "",
+          "connections": "ISF NET, Inc. 【Official】 8,186 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "部長",
+            "company": "ISFnet Inc. · Permanent",
+            "duration": "Aug 2003 - Present · 22 yrs 10 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/yasuhiro-sugiyama-636282122"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "成瀨 真伯",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "平川 一",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "小野田 友彦",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "瀧川 仁行",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "中谷 泰之",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

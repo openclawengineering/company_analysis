@@ -1,0 +1,100 @@
+{
+  "company": {
+    "name_jp": "株式会社日本アシスト",
+    "name_en": "Japan Assist Co., Ltd.",
+    "website": "https://www.n-assist.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "大島正之",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/masayuki-oshima-b8581639",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Masayuki Oshima",
+          "headline": "Mitsui Knowledge Industry",
+          "location": "Mitsui Knowledge Industry (U.S.A.), Inc.",
+          "connections": "Mitsui Knowledge Industry(MKI) / 三井情報株式会社942 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Officer",
+            "company": "Mitsui Knowledge Industry (U.S.A.), Inc.",
+            "duration": "Jul 2011 - Present · 14 yrs 11 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/masayuki-oshima-b8581639"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "中村洋介",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "水戸部賢則",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "北山洋",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "島田富儀",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "山崎英明",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "野尻拓男",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "新谷敬介",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

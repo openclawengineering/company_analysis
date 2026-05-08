@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "アーズ総合開発株式会社",
+    "name_en": "Arz Co., Ltd.",
+    "website": "https://www.arz.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "岡田 篤",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%AF%A4-%E5%B2%A1%E7%94%B0-118b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%AF%A4-%E5%B2%A1%E7%94%B0-118b"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# {'name_jp': '株式会社アルネッツ', 'name_en': 'ALNETZ Inc.', 'website': 'https://alnetz.co.jp/'} — Social Media Profiles
+
+**Website:** 
+
+---
+
+## 渡邉 輝明
+
+### 渡邉輝明
+
+**LinkedIn:** https://jp.linkedin.com/in/%E8%BC%9D%E6%98%8E-%E6%B8%A1%E9%82%89-73a264172
+
+**Headline:** Kanagawa-ku, Kanagawa, Japan
+**Location:** Noble
+**Connections:** Noble4,870 followersFollow
+
+#### Work Experience
+- **CEO** at Noble
+
+
+---

@@ -1,0 +1,65 @@
+{
+  "company": {
+    "name_jp": "高千穂ソフト株式会社",
+    "name_en": "高千穂ソフト",
+    "website": "https://takachiho-soft.co.jp/corporate/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "代表取締役",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/calvin-yuen-44777a2b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Calvin Yuen",
+          "headline": "ファイブピーワールドジャパン株式会社",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "Square GroupConstruction183,259 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Manager Global Network Development North East Asia",
+            "company": "Apr 2013 - Sep 2014 · 1 yr 6 mos",
+            "duration": "Hong Kong",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Business Development Manager",
+            "company": "Mar 2010 - Mar 2013 · 3 yrs 1 mo",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [
+          "Air Freight",
+          "Freight Forwarding"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "This is how we communicate with customers!",
+            "date": "",
+            "reactions": "2",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          }
+        ],
+        "url": "https://www.linkedin.com/in/calvin-yuen-44777a2b"
+      },
+      "twitter_data": null
+    }
+  ]
+}

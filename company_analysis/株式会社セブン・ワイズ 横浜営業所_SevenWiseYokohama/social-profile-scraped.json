@@ -1,0 +1,121 @@
+{
+  "company": {
+    "name": "株式会社セブン・ワイズ 横浜営業所",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "高見祐次",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/norio-ishikawa-43027314",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Norio Ishikawa",
+          "headline": "Experienced IT Executive and Audit & Supervisory Board Member",
+          "location": "WAmazing株式会社 · 中央大学",
+          "connections": "Northvolt 275,106 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Deputy Director Of Internal Audit 内部監査室副室長",
+            "company": "Jul 2020 - Mar 2021 · 9 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Audit & Supervisory Board Member 常勤監査役",
+            "company": "Jun 2019 - Jun 2020 · 1 yr 1 mo",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Senior Advisor 顧問",
+            "company": "Apr 2019 - Jun 2019 · 3 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "President and CEO 代表取締役社長",
+            "company": "Apr 2017 - Mar 2019 · 2 yrs",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "EVP and Director 取締役副社長",
+            "company": "Apr 2016 - Mar 2017 · 1 yr",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "General Manager of IT Business Division IT事業本部長",
+            "company": "May 2015 - Mar 2017 · 1 yr 11 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Strategic Account Executive, Indigo and Inkjet Press Solutions",
+            "company": "Jun 2013 - Apr 2015 · 1 yr 11 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Director, Graphics Solutions Business",
+            "company": "Nov 2012 - Apr 2015 · 2 yrs 6 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Country Manager, Indigo and Inkjet Press Solutions",
+            "company": "May 2010 - May 2013 · 3 yrs 1 mo",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Country Manager, Managed Enterprise Printing Solution and Laser Printing Business",
+            "company": "Nov 2007 - Apr 2010 · 2 yrs 6 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Chuo University",
+            "degree": "Bachelor of Law 法学部 法律学科, Criminology and Criminal Psychology 犯罪学/犯罪心理学",
+            "dates": "1979 – 1982",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Start-ups",
+          "Solution Selling"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [
+          {
+            "language": "ChineseElementary proficiencyEnglishFull professio"
+          }
+        ],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/norio-ishikawa-43027314"
+      },
+      "twitter_data": null
+    }
+  ]
+}

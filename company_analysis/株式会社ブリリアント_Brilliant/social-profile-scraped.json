@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社ブリリアント",
+    "name_en": "",
+    "website": "https://bril.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "田原大士",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/shiro-kamitsu-tahara-%E7%94%B0%E5",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/shiro-kamitsu-tahara-%E7%94%B0%E5"
+      },
+      "twitter_data": null
+    }
+  ]
+}

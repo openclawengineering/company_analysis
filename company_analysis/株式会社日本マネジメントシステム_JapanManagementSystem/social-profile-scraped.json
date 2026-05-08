@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社日本マネジメントシステム（Japan Management System）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "佐藤淳之",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%B7%B3%E4%B9%8B-%E4%BD%90%E8%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%B7%B3%E4%B9%8B-%E4%BD%90%E8%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

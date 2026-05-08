@@ -1,0 +1,117 @@
+{
+  "company": {
+    "name_jp": "株式会社富士テクノソリューションズ",
+    "name_en": "富士テクノソリューションズ",
+    "website": "https://www.fjtsc.co.jp/recruit/corporate/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "髙井 宏政",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/ひろき-髙井-434884375",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "髙井ひろき",
+          "headline": "一般財団法人工業所有権協力センター - 知財",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "Square GroupConstruction183,257 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "「AIを使った採用と人材獲得」コースを修了しました。 hashtag #タレントマネジメント hashtag #採用のための生成ai hashtag #採用",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「プロジェクトマネジメントの基礎：予算管理」コースを修了しました。 hashtag #プロジェクト予算管理",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「アサーティブコミュニケーションで言いにくいことを上手に伝える 」コースを修了しました。 hashtag #コミュニケーション hashtag #自己啓発",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「レジリエンスを高める」コースを修了しました。 hashtag #レジリエンシー",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「BtoB営業の基本をおさえる」コースを修了しました。 hashtag #b2b hashtag #販売プロセス hashtag #営業",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「１分で学ぶ：ChatGPTの便利技BEST 10」コースを修了しました。 hashtag #chatgpt",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「同僚と協力して心理的安全性を共に築く方法」コースを修了しました。 hashtag #チームコラボレーション hashtag #感情知能",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          },
+          {
+            "content": "「生成AIとは」コースを修了しました。 hashtag #生成ai",
+            "date": "9mo •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "video",
+            "post_url": ""
+          }
+        ],
+        "url": "https://jp.linkedin.com/in/ひろき-髙井-434884375"
+      },
+      "twitter_data": null
+    }
+  ]
+}

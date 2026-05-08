@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社ワイイーシーソリューションズ（YEC Solutions）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "壽信",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%88%A5%E5%BA%9C-%E5%A3%BD%E4%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%88%A5%E5%BA%9C-%E5%A3%BD%E4%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "company": {
+    "name": "株式会社リッケイ",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "Bui Quang Huy",
+      "role": "",
+      "linkedin_url": "https://vn.linkedin.com/in/bui-quang-huy-071692319",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Bui Quang Huy",
+          "headline": "Moho Furniture | hotline: 0349997323",
+          "location": "Hải Hậu, Nam Dinh, Vietnam",
+          "connections": "CVPro.Top - Nền tảng tuyển dụng2,299 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "ADMIN MOHO FURNITURE",
+            "company": "Freelance · Freelance",
+            "duration": "Jul 2017 - Present · 8 yrs 11 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "https://lnkd.in/eanCFfFq",
+            "date": "",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          }
+        ],
+        "url": "https://vn.linkedin.com/in/bui-quang-huy-071692319"
+      },
+      "twitter_data": null
+    }
+  ]
+}

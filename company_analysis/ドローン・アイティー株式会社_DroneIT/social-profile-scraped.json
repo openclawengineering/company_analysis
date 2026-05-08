@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "ドローン・アイティー株式会社",
+    "name_en": "",
+    "website": "https://www.drone-it.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "金子信洋",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/kazuhiro%E5%92%8C%E5%8D%9A-fukasa",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/kazuhiro%E5%92%8C%E5%8D%9A-fukasa"
+      },
+      "twitter_data": null
+    }
+  ]
+}

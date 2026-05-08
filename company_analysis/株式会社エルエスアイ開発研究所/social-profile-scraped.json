@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "株式会社エルエスアイ開発研究所",
+    "name_en": "エルエスアイ開発研究所",
+    "website": "http://lsi-2011.homepagine.com/companyinfo_detail/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/norihisa-yamamura-b4691144/en",
+      "twitter_url": "https://x.com/yohei_miyauchi",
+      "linkedin_data": {
+        "header": {
+          "name": "Norihisa Yamamura",
+          "headline": "R&D LSI, Mid/High Voltage Power Management for Automotive Apps",
+          "location": "Semiconductore Manufacture",
+          "connections": "Square GroupConstruction183,242 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "デザインエンジニア",
+            "company": "半導体製造",
+            "duration": "Oct 2017 - Present · 8 yrs 8 mos",
+            "location": "日本 東京都",
+            "description": ""
+          },
+          {
+            "title": "代表",
+            "company": ".",
+            "duration": "Oct 2010 - Sep 2017 · 7 yrs",
+            "location": "日本 東京",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/norihisa-yamamura-b4691144/en"
+      },
+      "twitter_data": null
+    }
+  ]
+}

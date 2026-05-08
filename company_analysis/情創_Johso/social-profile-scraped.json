@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社情創",
+    "name_en": "johso co.,ltd.",
+    "website": "https://johso.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "富樫 和弘",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%92%8C%E5%BC%98-%E5%AF%8C%E6%8",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%92%8C%E5%BC%98-%E5%AF%8C%E6%8"
+      },
+      "twitter_data": null
+    }
+  ]
+}

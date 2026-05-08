@@ -1,0 +1,32 @@
+{
+  "company": "Unknown",
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "竹内祥二",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%B9%AF%E5%89%8D%E7%A5%A5%E4%BA",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%B9%AF%E5%89%8D%E7%A5%A5%E4%BA"
+      },
+      "twitter_data": null
+    }
+  ]
+}

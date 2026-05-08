@@ -1,0 +1,40 @@
+{
+  "company": {
+    "name_jp": "関越ソフトウェア株式会社",
+    "name_en": "Kanetsu Software Co., Ltd.",
+    "website": "https://kanetsu-sw.co.jp",
+    "founded": "1985-07",
+    "capital_jpy": 50000000,
+    "employees": 518,
+    "employees_as_of": "2024-07"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "矢島 猛男",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/和男-矢島-1b6574240/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "矢島和男",
+          "headline": "Fukuoka, Fukuoka, Japan",
+          "location": "",
+          "connections": "Square GroupConstruction183,257 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/和男-矢島-1b6574240/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

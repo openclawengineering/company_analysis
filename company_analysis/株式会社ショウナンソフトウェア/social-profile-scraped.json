@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name_jp": "株式会社ショウナンソフトウェア",
+    "name_en": "ショウナンソフトウェア",
+    "website": "https://www.ssw-nw.co.jp/service_mobile/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "常駐型支援サービスです",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/%E8%B2%B4%E5%BF%97-%E9%BD%8B%E8%",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/%E8%B2%B4%E5%BF%97-%E9%BD%8B%E8%"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "齋藤",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/saitoryu616",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "大橋",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "金子",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "有限会社スパイスメディア",
+    "name_en": "スパイスメディア",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "鷹觜美保子",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/昌利-鷹觜-171b9527b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "鷹觜昌利",
+          "headline": "",
+          "location": "Morioka, Japan",
+          "connections": "第一三共1,205 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "営業職",
+            "company": "第一三共 · Permanent",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/昌利-鷹觜-171b9527b"
+      },
+      "twitter_data": null
+    }
+  ]
+}

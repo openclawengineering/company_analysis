@@ -1,0 +1,52 @@
+{
+  "company": {
+    "name": "株式会社トランスコスモス・デジタル・テクノロジー",
+    "name_en": "",
+    "website": "https://www.trans-cosmos-digtec.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "所年雄",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/雄佑-國方-96301023b/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "國方雄佑",
+          "headline": "株式会社ITSO：Co-founder & COO / 株式会社BRBD：Founder & CEO / 株式会社STUN：Founder & CSO",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "Square GroupConstruction183,251 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "これまで、上場企業から急成長期のベンチャー、そして自ら興した事業のM&Aや上場準備まで、幸運にもビジネスのあらゆるフェーズに身を置く機会をいただいてまいりました 。  \n\n20代の頃、参画したベンチャー企業で組織が30名から1,300名へと拡大する過程をマーケティング本部長として経験したことは、私の経営における原点となっております 。\nその後、AIやDXで業務効率化を支援する株式会社ITSO 、動画マーケティングを手掛ける株式会社STUNを創業いたしました 。  \n\n\n2023年にはSTUNを某大手広告代理店グループへ譲渡いたしましたが、現在はグループの皆様と共に歩む傍ら、新設した株式会社BRBDにてeスポーツブランド『IGZIST』の育成にも注力しております 。  \n\n大規模組織からスタートアップまで、異なるフェーズ、異なる業界を経験してきたからこそ見える視点を大切に、現在はハイパーオートメーションによる産業支援と、eスポーツという新文化の定着に取り組み、テクノロジーとカルチャーの両面から「新しい体験」をお届けすることを目指しています。… more",
+        "experience": [
+          {
+            "title": "Founder & COO",
+            "company": "株式会社ITSO",
+            "duration": "May 2018 - Present · 8 yrs 1 mo",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/雄佑-國方-96301023b/"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "奥田昌孝",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

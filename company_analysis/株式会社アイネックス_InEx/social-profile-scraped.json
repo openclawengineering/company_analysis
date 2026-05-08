@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name": "株式会社アイネックス",
+    "name_en": "",
+    "website": "https://in-ex.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "鎌田良勝",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/勝義-鎌田-402649209",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "鎌田勝義",
+          "headline": "ジョイポート淡路島（株） - 代表取締役",
+          "location": "Minamiawaji, Hyogo, Japan",
+          "connections": "TEDx1,069,273 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "代表取締役",
+            "company": "ジョイポート淡路島（株）",
+            "duration": "May 2015 - Present · 11 yrs 1 mo",
+            "location": "Hyogo, Japan · Hybrid",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Hokkaido University",
+            "degree": "学士, 水産学部",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/勝義-鎌田-402649209"
+      },
+      "twitter_data": null
+    }
+  ]
+}

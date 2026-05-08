@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社パルディアス",
+    "name_en": "パルディアス",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "小林知",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%9F%A5-%E5%B0%8F%E6%9E%97-63b8",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%9F%A5-%E5%B0%8F%E6%9E%97-63b8"
+      },
+      "twitter_data": null
+    }
+  ]
+}

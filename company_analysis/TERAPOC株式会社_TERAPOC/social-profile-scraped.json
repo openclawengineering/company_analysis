@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "TERAPOC株式会社",
+    "name_en": "TERAPOC Inc.",
+    "website": "https://terapoc.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "寺島秀雄",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%A7%80%E5%A4%AB-%E5%AF%BA%E5%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%A7%80%E5%A4%AB-%E5%AF%BA%E5%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

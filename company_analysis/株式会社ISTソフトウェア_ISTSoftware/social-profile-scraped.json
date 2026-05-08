@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name_jp": "株式会社ISTソフトウェア",
+    "name_en": "IST Software Co., Ltd.",
+    "website": "http://www.ist-software.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "瀬端 伸一",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/ssegawa/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "瀬川伸一",
+          "headline": "株式会社ペライチ · 高松工業高等専門学校",
+          "location": "Kawasaki, Kanagawa, Japan",
+          "connections": "株式会社ペライチ106 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "WEBのフロントエンド、バックエンド、インフラと多少であればデザインもできます。システム運用保守・セキュリティ管理・情シス・カスタマーサポートなども一通り一人でできるので新規事業を始める時にお買い得なWEB系エンジニアです。",
+        "experience": [
+          {
+            "title": "執行役員CTO",
+            "company": "Permanent",
+            "duration": "Nov 2022 - Present · 3 yrs 7 mos",
+            "location": "日本 東京都 台東区",
+            "description": ""
+          },
+          {
+            "title": "技術顧問",
+            "company": "May 2014 - Oct 2022 · 8 yrs 6 mos",
+            "duration": "渋谷",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "高松工業高等専門学校",
+            "degree": "制御情報工学科",
+            "dates": "Apr 2000 – Mar 2005",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Linux",
+          "CakePHP"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [
+          {
+            "language": "EnglishLimited working proficiency日本語Native or bil"
+          }
+        ],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "Peraichi Inc dự định sẽ xây dựng một trung tâm phát triển tại Đà Nẵng, Việt Nam. Chúng tôi đang tìm kiếm các kỹ sư ứng dụng web muốn làm việc như thành viên sáng lập của trung tâm mới này. Nếu bạn quan tâm, vui lòng liên hệ qua tin nhắn. …more",
+            "date": "",
+            "reactions": "11",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          }
+        ],
+        "url": "https://www.linkedin.com/in/ssegawa/"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "染谷 光四郎",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "小松 貴宏",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "安藤 泰三",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "立島 直記",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "吉澤 誠",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "五十嵐 由紀夫",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "今井 克幸",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社ギガ・システム",
+    "name_en": "",
+    "website": "https://www.giga-system.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "山本辰樹",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E8%BE%B0%E6%A8%B9-%E5%B1%B1%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E8%BE%B0%E6%A8%B9-%E5%B1%B1%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

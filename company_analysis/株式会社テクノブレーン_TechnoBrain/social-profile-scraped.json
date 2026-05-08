@@ -1,0 +1,65 @@
+{
+  "company": {
+    "name_jp": "テクノブレーン株式会社",
+    "name_en": "TechnoBrain Co., ltd.",
+    "website": "https://www.techno-brain.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "加茂 孝修",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/kamotakanobu",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "加茂孝修",
+          "headline": "テクノブレーン株式会社 - 代表取締役社長",
+          "location": "テクノブレーン株式会社",
+          "connections": "テクノブレーン株式会社226 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "■担当分野\n　自動車、半導体、電機、化学\n\n元エンジニアとして、転職経験者として、的確なアドバイスを心がけています。",
+        "experience": [
+          {
+            "title": "取締役",
+            "company": "テクノブレーン株式会社 · Permanent",
+            "duration": "Oct 2005 - Present · 20 yrs 8 mos",
+            "location": "東京都",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [
+          {
+            "content": "対戦している二人だけの世界 いつのまにか正座しておりました",
+            "date": "4d •",
+            "reactions": "",
+            "comments": "",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "",
+            "post_url": ""
+          },
+          {
+            "content": "テクノブレーンの紹介動画です。 https://lnkd.in/d56XwpPZ",
+            "date": "",
+            "reactions": "4",
+            "comments": "1 comment",
+            "reposts": "",
+            "is_repost": false,
+            "media_type": "article",
+            "post_url": ""
+          }
+        ],
+        "url": "https://jp.linkedin.com/in/kamotakanobu"
+      },
+      "twitter_data": null
+    }
+  ]
+}

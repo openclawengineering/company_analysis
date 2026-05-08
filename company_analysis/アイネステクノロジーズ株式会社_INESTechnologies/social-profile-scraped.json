@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "アイネステクノロジーズ株式会社",
+    "name_en": "INEST Technologies Inc.",
+    "website": "https://www.in-est.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "鈴木 栄二郎",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E8%8B%B1%E4%BF%8A-%E8%BF%91%E8%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E8%8B%B1%E4%BF%8A-%E8%BF%91%E8%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

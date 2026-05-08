@@ -1,0 +1,58 @@
+{
+  "company": {
+    "name_jp": "株式会社日本コンサルタントグループ",
+    "name_en": "日本コンサルタントグループ",
+    "website": "https://www.niccon.co.jp/kigyoujouhou/kaisyagaiyou/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "グループ",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "清水",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/romanticttl",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "80名",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "リング協会",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "グループ（ニッコン）",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

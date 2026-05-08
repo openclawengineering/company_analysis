@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "Arrows Systems Co., Ltd.",
+    "name_en": "Arrows Systems Co., Ltd.",
+    "website": "https://www.arrows-systems.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "矢津達彦",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/太郎-矢津-19734521a",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "矢津太郎",
+          "headline": "Kyoto, Kyoto, Japan",
+          "location": "Self-employed",
+          "connections": "Square GroupConstruction183,228 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Self Employed",
+            "company": "Self-employed · Self-employed",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/太郎-矢津-19734521a"
+      },
+      "twitter_data": null
+    }
+  ]
+}

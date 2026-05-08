@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社キャッスル",
+    "name_en": "",
+    "website": "http://www.castle-in.co.jp/ (currently inaccessible"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "成田良伸",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/良法-成田-4771b1220",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "成田良法",
+          "headline": "",
+          "location": "",
+          "connections": "kardpay16,289 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "会社役員",
+            "company": "自営業 · Self-employed",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/良法-成田-4771b1220"
+      },
+      "twitter_data": null
+    }
+  ]
+}

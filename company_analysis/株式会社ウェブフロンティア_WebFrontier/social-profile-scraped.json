@@ -1,0 +1,74 @@
+{
+  "company": {
+    "name": "株式会社ウェブフロンティア",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "村上健太",
+      "role": "",
+      "linkedin_url": "https://au.linkedin.com/in/murakami-kenta-289978187/ja",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "MURAKAMI KENTA",
+          "headline": "Junior Frontend / Mobile Developer | React · React Native · Supabase | Actively seeking Software Engineer / Frontend Intern roles",
+          "location": "Melgurashi Pty Ltd · Universal higher education",
+          "connections": "Square GroupConstruction183,242 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "I’m a React Native / TypeScript developer based in Melbourne, building and shipping mobile apps with Expo + Supabase (PostgreSQL, Auth, RLS).\n\nRecently, I built and published GeoAttend (location-aware attendance + QR fallback) and validated reliability in testing (25/25 successful proximity check-ins with 0 false unlocks). I’ve also built:\n\nFeelFit: AI-assisted fitness coaching with voice output (OpenAI API + AWS Polly)\n\nRestaurant Inventory: OCR → structured parsing → editable confirmation UI → Supabase upsert (Google Vision OCR + OpenAI)\n\n【What I’m good at】\n\n-Turning messy requirements into clean, working features\n\n-Mobile UX that stays responsive (latency/caching, practical state management)\n\n-Security-minded implementation (Auth, role-based access, RLS policies)\n\nOwning the whole cycle: build → test → iterate → ship\n\n【Tech I use】\nReact Native, Expo, TypeScript, JavaScript, Node.js, SQL, Supabase/Postgres, Git/GitHub, OpenAI API, Google Vision OCR, AWS Polly.\n\nI’m currently open to Software Engineer Intern / Junior Developer / Frontend Developer roles (mobile-first, but happy to work across the stack).\n\nIf your team needs someone who can ship, learn fast, and bring strong business communication from a sales background, feel free to message me.… moreTop skillsPython (プログラミング言語) • React Native • Node.js • SQL • JavaScript",
+        "experience": [
+          {
+            "title": "Web Content & Operations Assistant",
+            "company": "Melgurashi Pty Ltd · Internship",
+            "duration": "Sep 2025 - Present · 9 mos",
+            "location": "Melbourne, Australia · Remote",
+            "description": ""
+          },
+          {
+            "title": "Kitchen Assistant",
+            "company": "Haiku & Chotto Motto · Part-time",
+            "duration": "Mar 2023 - Present · 3 yrs 3 mos",
+            "location": "Melbourne, Australia",
+            "description": ""
+          },
+          {
+            "title": "Sales Representative",
+            "company": "Watanabeya · Full-time",
+            "duration": "Apr 2013 - Oct 2019 · 6 yrs 7 mos",
+            "location": "3-2-8 Osaka city Osaka prefecture Japan · On-site",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Universal higher education",
+            "degree": "Bachelor of Information Technology,",
+            "dates": "Mar 2023 – Jul 2026",
+            "details": "Grade: GPA: 4.93 / 7 — Credit Average"
+          },
+          {
+            "school": "Kwansei Gakuin University",
+            "degree": "Bachelor's degree, Sociology",
+            "dates": "Apr 2009 – Mar 2013",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "TypeScript",
+          "React Native"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://au.linkedin.com/in/murakami-kenta-289978187/ja"
+      },
+      "twitter_data": null
+    }
+  ]
+}

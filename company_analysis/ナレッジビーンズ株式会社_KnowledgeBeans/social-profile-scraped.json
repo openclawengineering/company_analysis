@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name_jp": "ナレッジビーンズ株式会社",
+    "name_en": "Knowledgebeans Co., Ltd.",
+    "website": "https://www.knowledgebeans.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "Kenji Kawanishi",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/kenji-kawanishi-84362b41",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Kenji Kawanishi",
+          "headline": "NTT Data Corporation · 早稲田大学 / Waseda University",
+          "location": "Japan",
+          "connections": "Waseda University 116,424 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Senior Manager",
+            "company": "NTT Data Corporation · Permanent",
+            "duration": "Apr 2018 - Present · 8 yrs 2 mos",
+            "location": "Tokyo",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Waseda University",
+            "degree": "Political Economy",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/kenji-kawanishi-84362b41"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "Kenji Kawanishi",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

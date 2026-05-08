@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name": "デルタエンジニアリング株式会社",
+    "name_en": "",
+    "website": "https://www.delta-eng.co.jp/ (currently inaccessible"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "北島直行",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/junko-alex-7b466588",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Junko Alex",
+          "headline": "ZUMBA JAMMER - Zumba Fitness LLC",
+          "location": "Kanagawa-ku, Kanagawa, Japan",
+          "connections": "Zumba 41,772 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "ZUMBA Jammer",
+            "company": "Jan 2014 - Present · 12 yrs 5 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "ZUMBA JAMMER",
+            "company": "Jan 2014 - Present · 12 yrs 5 mos",
+            "duration": "Japan",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/junko-alex-7b466588"
+      },
+      "twitter_data": null
+    }
+  ]
+}

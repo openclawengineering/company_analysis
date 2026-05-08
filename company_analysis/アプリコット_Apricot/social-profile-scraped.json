@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社アプリコット",
+    "name_en": "Apricot Inc.",
+    "website": "https://apricotinc.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "畠山 英俊",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/nnn-kkk-94b110198",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "NNN KKK",
+          "headline": "",
+          "location": "",
+          "connections": "Square GroupConstruction183,226 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "セールス",
+            "company": "あああ",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/nnn-kkk-94b110198"
+      },
+      "twitter_data": null
+    }
+  ]
+}

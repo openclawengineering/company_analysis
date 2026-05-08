@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社ビット",
+    "name_en": "ビット",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "齋藤浩二",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%B5%A9%E4%BA%8C-%E9%BD%8B%E8%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%B5%A9%E4%BA%8C-%E9%BD%8B%E8%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

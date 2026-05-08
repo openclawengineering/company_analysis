@@ -1,0 +1,88 @@
+{
+  "company": {
+    "name_jp": "株式会社アズ・ソフトウェア・デザイン",
+    "name_en": "アズ・ソフトウェア・デザイン",
+    "website": "http://www.asd-net.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "渡邉",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/hiroshiwatanabe-designer/ja",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Hiroshi Watanabe",
+          "headline": "Freelance Visual UI/UX Designer",
+          "location": "Portland, Oregon Metropolitan Area",
+          "connections": "Amplified by Design1,142 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "I’m a freelance UI/UX visual designer based in Portland, Oregon. For nearly two decades, I’ve been involved in digital product development across a wide range of industries, including automotive, education, electronics, and healthcare. My work focuses on UI design and design system development for desktop software, mobile apps, and in-vehicle HMI experiences, as well as creating forward-looking product concepts and prototypes. Drawing on my extensive background in branding—including brand mark and identity system development, environmental graphics, and website design—I strive to craft designs that go beyond usability to deliver meaningful brand experiences and memorable user interactions.… more",
+        "experience": [
+          {
+            "title": "Designer / Founder",
+            "company": "Cochi Design Inc · Freelance",
+            "duration": "Jan 2017 - Present · 9 yrs 5 mos",
+            "location": "Portland, Oregon Metropolitan Area",
+            "description": ""
+          },
+          {
+            "title": "UI/UX Designer",
+            "company": "Particle Design, a Wind River Company · Contract",
+            "duration": "Apr 2021 - Nov 2021 · 8 mos",
+            "location": "Portland, Oregon, United States",
+            "description": ""
+          },
+          {
+            "title": "Lead Visual UI/UX Designer",
+            "company": "Amplified by Design · Contract",
+            "duration": "Jul 2016 - Feb 2021 · 4 yrs 8 mos",
+            "location": "Portland, Oregon, United States",
+            "description": ""
+          },
+          {
+            "title": "Senior Visual UI/UX Designer",
+            "company": "Empirical UX Design & Research · Full-time",
+            "duration": "Jan 2011 - Jun 2016 · 5 yrs 6 mos",
+            "location": "Portland, Oregon Metropolitan Area",
+            "description": ""
+          },
+          {
+            "title": "Freelance Designer",
+            "company": "Freelance",
+            "duration": "Oct 2006 - Dec 2010 · 4 yrs 3 mos",
+            "location": "Portland, Oregon Metropolitan Area",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "ArtCenter College of Design",
+            "degree": "Bachelor of Fine Arts - BFA, Graphic and Packaging Design",
+            "dates": "1994 – 1997",
+            "details": ""
+          },
+          {
+            "school": "Art Institute of Seattle",
+            "degree": "Associate of Arts - AA, Design and Visual Communications, General",
+            "dates": "1990 – 1992",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Web Development",
+          "Editorial Design"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/hiroshiwatanabe-designer/ja"
+      },
+      "twitter_data": null
+    }
+  ]
+}

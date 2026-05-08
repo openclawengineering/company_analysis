@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社言語サービス",
+    "name_en": "Language Services Co., Ltd.",
+    "website": "https://www.ls-jp.com/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "史　莉",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/%E8%8E%89-%E5%8F%B2-197492142",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "史莉",
+          "headline": "Changchun, Jilin, China",
+          "location": "真格农业商学院",
+          "connections": "Square GroupConstruction183,257 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "执行院长",
+            "company": "真格农业商学院",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/%E8%8E%89-%E5%8F%B2-197492142"
+      },
+      "twitter_data": null
+    }
+  ]
+}

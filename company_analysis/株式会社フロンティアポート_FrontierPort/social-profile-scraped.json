@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社フロンティアポート（現：株式会社サテライト・ソリューションズ）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "山口博徳",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E9%9A%86-%E9%96%93-a29b66200",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "間隆",
+          "headline": "Ube, Yamaguchi, Japan",
+          "location": "",
+          "connections": "LinkedIn News編集部（日本）216,925 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "システムエンジニア",
+            "company": "ふじ",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E9%9A%86-%E9%96%93-a29b66200"
+      },
+      "twitter_data": null
+    }
+  ]
+}

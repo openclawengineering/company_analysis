@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "ネットリサーチ株式会社",
+    "name_en": "ネットリサーチ",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "岩鼻重雄",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/好雄-岩村-24a5711b0/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "岩村好雄",
+          "headline": "Yokohama, Kanagawa, Japan",
+          "location": "",
+          "connections": "JGC153,671 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "エンジニア",
+            "company": "JGC",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/好雄-岩村-24a5711b0/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "株式会社Ｌｕｓｔｅｒ Ａｕｇｍｅｎｔａｔｉｏｎ（Luster Augmentation）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "山本輝昭",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/teruaki-yamamoto-b05460270",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "teruaki yamamoto",
+          "headline": "株式会社LusterAugmentation - 経営者",
+          "location": "Chuo-ku, Tokyo, Japan",
+          "connections": "LinkedIn News編集部（日本）216,924 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "経営者",
+            "company": "株式会社LusterAugmentation · Permanent",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/teruaki-yamamoto-b05460270"
+      },
+      "twitter_data": null
+    }
+  ]
+}

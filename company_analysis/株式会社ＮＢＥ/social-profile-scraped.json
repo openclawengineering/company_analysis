@@ -1,0 +1,82 @@
+{
+  "company": {
+    "name_jp": "株式会社ＮＢＥ",
+    "name_en": "ＮＢＥ",
+    "website": "https://nbe.co.jp/new-graduate/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "の仕事、",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "挨拶",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "&emsp;野上",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/takeshi_nogami",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "&emsp;曽根",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "&emsp;菅野",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/P1B9f44VEGyAe8n",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "リング",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

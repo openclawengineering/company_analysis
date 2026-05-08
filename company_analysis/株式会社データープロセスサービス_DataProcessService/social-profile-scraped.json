@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社データープロセスサービス（Data Process Service）",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "大西雄一",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E9%9B%84%E4%B8%80-%E7%9B%B8%E6%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E9%9B%84%E4%B8%80-%E7%9B%B8%E6%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

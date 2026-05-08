@@ -1,0 +1,79 @@
+{
+  "company": {
+    "name_jp": "株式会社ヒューマニクス",
+    "name_en": "ヒューマニクス",
+    "website": "https://v-news.co.jp/company/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "中村和雄",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/nkawamoto",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Naoki Kawamoto",
+          "headline": "University of Toyama",
+          "location": "Osaka, Japan",
+          "connections": "University of Toyama2,801 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "At MathWorks\n >Responsible for sales of Automobile Industry as Senior\n  Sales Manager.\nCustomer: TOYOTA, DENSO, SUZUKI, Mitsubishi Motors(MMC)  \nAt Hexagon Metrology            Sales Manager      \n >Responsible for sales of non contact measurement system  \n  as Sales Manager in automotive, airplane markets and\n   Others.\n >Develop and expand new business of Automobile and \n   Aerospace Industry.\nAt VasT Systems Technology,  Senior Sales Manager\n  >Built and expanded new business of Automobile and  \n    Electronics Industry.\n  >Created excellent relation with product development and a\n    purchase section of the affiliated company.\nAt Nihon Hewlett-Packard,  Manufacturing Solution exclusive\n   duty business\n  >Built and expanded CAE, EDA business of Automobile \n   and Electronics Industry.\n  >Established excellent relations with customer’s executives\n   by sharing  business value.\nAt Kansai Research Institute Inc,    Sales Director\n   >Created the new sales market and administrated \n   business operations.\n   >embedded software service for electronics circuit\n    (IC,ASIC) ,consulting.\n AtCadence Design Systems,  Sales Manager\n  >Analyzed the new business market to expand business \n    and established the operating bases (business channels). \n  >Established excellent relations with customer’s executives \n    by sharing business value.\n  >Increased sales volume by 30% annually. (System\n    Design, FPGA Design, IC Design, Simulation.Consulting \n   Service, Design Service for electronic and semiconductor\n   companies).\nAt Digital Equipment Copperation (DEC), Sales Manager\n  >Succeed in sales of manufacturing system (professional \n   service, process control, image filing,ECAD, MCAD, CAD.\nAt Sumitomo Electric Industry Ltd.\n  >Developed order-received, production planning, purchase\n    system and internal network in the factory.\n\nSpecialties: -Demonstrated ability to achieve sales goals with practical sales skill for \n Manufacturing Industry(Automobile, Electronics, Aeros",
+        "experience": [
+          {
+            "title": "Senior Account Sales Manager",
+            "company": "MathWorks Japan",
+            "duration": "Jul 2009 - Present · 16 yrs 11 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Sales Manager",
+            "company": "Hexagon Metrology, Inc.",
+            "duration": "2008 - 2009 · 1 yr",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Senior Sales Director",
+            "company": "VaST Systems Technology",
+            "duration": "Mar 2007 - Mar 2008 · 1 yr 1 mo",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Sales Manager",
+            "company": "Hewlett-Packard",
+            "duration": "Nov 2004 - Feb 2007 · 2 yrs 4 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Sales Director",
+            "company": "Kansai Research Institute",
+            "duration": "Mar 1998 - Feb 2001 · 3 yrs",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "University of Toyama",
+            "degree": "Bachelor, Engineering in Electric Engineering",
+            "dates": "1972 – 1976",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/nkawamoto"
+      },
+      "twitter_data": null
+    }
+  ]
+}

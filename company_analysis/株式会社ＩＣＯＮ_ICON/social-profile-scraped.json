@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社ＩＣＯＮ",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "土屋 敏子",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%95%8F%E5%AD%90-%E5%9C%9F%E5%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%95%8F%E5%AD%90-%E5%9C%9F%E5%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

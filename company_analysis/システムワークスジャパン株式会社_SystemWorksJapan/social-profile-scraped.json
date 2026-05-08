@@ -1,0 +1,60 @@
+{
+  "company": {
+    "name_jp": "株式会社システムワークス",
+    "name_en": "System Works Co., Ltd.",
+    "website": "https://system-works.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "中村徳雄",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E4%BA%9C%E7%94%B1%E5%AD%90-%E4%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E4%BA%9C%E7%94%B1%E5%AD%90-%E4%B"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "北林政和",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "上野始",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "中村充良",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

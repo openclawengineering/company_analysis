@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "有限会社シンク",
+    "name_en": "シンク",
+    "website": "https://think-gd.jp/web/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "白石 直樹",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E7%99%BD%E7%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E7%99%BD%E7%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

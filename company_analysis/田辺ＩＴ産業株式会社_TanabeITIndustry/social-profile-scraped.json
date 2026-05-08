@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "田辺IT産業株式会社",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "田辺光太郎",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%85%89%E5%A4%AA%E9%83%8E-%E5%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%85%89%E5%A4%AA%E9%83%8E-%E5%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

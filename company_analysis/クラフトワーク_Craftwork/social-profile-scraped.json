@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name_jp": "株式会社クラフトワーク",
+    "name_en": "CRAFT WORK Co., Ltd.",
+    "website": "https://craft-server.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "嵯峨 幸喜",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%B9%B8%E5%96%9C-%E5%B5%AF%E5%B3%A8-888a37206",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "嵯峨幸喜",
+          "headline": "株式会社クラフトワーク - 代表取締役",
+          "location": "Tachikawa, Tokyo, Japan",
+          "connections": "Square GroupConstruction183,231 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "代表取締役",
+            "company": "株式会社クラフトワーク · Permanent",
+            "duration": "1995 - Present · 31 yrs 5 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "桜美林",
+            "degree": "学士, 経済学部経済学科",
+            "dates": "1980 – 1984",
+            "details": "Activities and societies: Modern Jazz Association"
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%B9%B8%E5%96%9C-%E5%B5%AF%E5%B3%A8-888a37206"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "田井中 由紀",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "染野 直紀",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "谷本 明洋",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "三宅 真弥",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

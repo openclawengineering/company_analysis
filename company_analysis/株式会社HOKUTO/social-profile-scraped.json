@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "株式会社HOKUTO",
+    "name_en": "HOKUTO",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "山下颯太",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E9%A2%AF%E5%A4%AA-%E5%B1%B1%E4%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E9%A2%AF%E5%A4%AA-%E5%B1%B1%E4%B"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "五十嵐北斗",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

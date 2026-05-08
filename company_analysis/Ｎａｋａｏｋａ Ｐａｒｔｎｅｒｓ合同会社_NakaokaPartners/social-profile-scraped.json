@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "Nakaoka Partners合同会社",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "Noriyuki Nakaoka",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/noriyukinakaoka",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Noriyuki Nakaoka",
+          "headline": "NHK, Japan Broadcasting Corporation",
+          "location": "Japan",
+          "connections": "Square GroupConstruction183,259 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Technical Director",
+            "company": "NHK",
+            "duration": "1999 - Present · 27 yrs 5 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/noriyukinakaoka"
+      },
+      "twitter_data": null
+    }
+  ]
+}

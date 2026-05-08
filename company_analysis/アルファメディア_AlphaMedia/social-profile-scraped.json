@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "Alpha Media Co., Ltd.",
+    "name_en": "Alpha Media Co., Ltd.",
+    "website": "https://www.alphamedia.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "小湊 宏之",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%AE%8F%E4%B9%8B-%E5%B0%8F%E6%B",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%AE%8F%E4%B9%8B-%E5%B0%8F%E6%B"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "company": {
+    "name_jp": "光洋システム株式会社",
+    "name_en": "光洋システム",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "兼俵龍弥",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/竜也-兼平-08714b210",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "兼平竜也",
+          "headline": "マイキャリア株式会社 - 代表取締役",
+          "location": "Osaka, Japan",
+          "connections": "Square GroupConstruction183,237 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "マイキャリア株式会社 代表取締役の兼平竜也です。\n\n私は「採用は求人媒体や人材紹介に依存する時代から、自社ホームページで採用する時代へ」移行すると確信しています。\n\n生成AIの普及により、企業の採用活動は構造的な転換期を迎えています。これからは、人材紹介や求人広告を出す企業ではなく、“採用メディアを持つ企業”が勝つ時代です。\n\n私は、日本初の「AI採用担当者を企業ホームページに常設するモデル」を構築し、ホームページリクルーティングという新しい市場を創っています。自社ホームページ経由の採用を増やす導線と仕組みを構築しています。\n\n目指しているのは、単なる採用支援ではありません。企業と求職者の情報格差をなくし、入社前から納得感のあるマッチングを実現する社会インフラの構築です。\n\nすべての人が楽しく働ける社会づくりへ。\n\n採用の未来を一緒につくれる方と、つながれることを楽しみにしています。\n… moreTop skills採用 • 事業開発 • 教育 • 独立 • 戦略的ビジョン",
+        "experience": [
+          {
+            "title": "営業マネージャー",
+            "company": "株式会社マイナビ · Permanent",
+            "duration": "2013 - 2020 · 7 yrs",
+            "location": "大阪府",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Kansai University",
+            "degree": "商学部 商学科",
+            "dates": "Apr 2006 – Mar 2010",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "採用",
+          "独立"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/竜也-兼平-08714b210"
+      },
+      "twitter_data": null
+    }
+  ]
+}

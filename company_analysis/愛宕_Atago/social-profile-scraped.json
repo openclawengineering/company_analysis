@@ -1,0 +1,120 @@
+{
+  "company": {
+    "name_jp": "株式会社愛宕",
+    "name_en": "愛宕",
+    "website": "https://www.ata5.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "三谷",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/jumpei-mitani-091b212a1/ja",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Jumpei Mitani",
+          "headline": "Economics @ University of California, Irvine",
+          "location": "Irvine, California, United States",
+          "connections": "Tango, a puzzle by LinkedIn10,639,510 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "Forth-year student at the University of California, Irvine pursuing a Major in Economics and Minor in Accounting. Please feel free to contact me at jmitani@uci.edu",
+        "experience": [
+          {
+            "title": "Chief Human Resources Officer",
+            "company": "Feb 2026 - Present · 4 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Executive",
+            "company": "Dec 2025 - Present · 6 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Chief Financial Officer",
+            "company": "Oct 2025 - Present · 8 mos",
+            "duration": "Remote",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Hiring Manager",
+            "company": "Sep 2025 - Feb 2026 · 6 mos",
+            "duration": "Remote",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Human Resources Positions",
+            "company": "Part-time",
+            "duration": "Feb 2025 - Jan 2026 · 1 yr",
+            "location": "Berkeley, California, United States · Hybrid",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "UC Irvine",
+            "degree": "Economics, Economics",
+            "dates": "Sep 2024 – Jun 2026",
+            "details": ""
+          },
+          {
+            "school": "De Anza College",
+            "degree": "Economics",
+            "dates": "Jan 2022 – Aug 2024",
+            "details": "Grade: 3.96 Activities and societies: DASA(Vice President),JSA(Event Officer),PHI THETA KAPPA Honors Society"
+          }
+        ],
+        "skills": [
+          "Business Strategy",
+          "API & Technical Evaluation"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/jumpei-mitani-091b212a1/ja"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "草木",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "上野",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "信藤",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "熊澤",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

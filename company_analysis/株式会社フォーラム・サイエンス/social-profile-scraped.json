@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社フォーラムサイエンス",
+    "name_en": "",
+    "website": "https://www.forum-science.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "斎藤実希",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%BE%A9%E6%96%87-%E6%B1%A0%E7%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%BE%A9%E6%96%87-%E6%B1%A0%E7%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

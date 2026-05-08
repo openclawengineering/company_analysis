@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社エム・ソフト",
+    "name_en": "",
+    "website": "https://www.msoft.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "佐藤圭介",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%9C%AD%E4%BB%8B-%E4%BD%90%E8%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%9C%AD%E4%BB%8B-%E4%BD%90%E8%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

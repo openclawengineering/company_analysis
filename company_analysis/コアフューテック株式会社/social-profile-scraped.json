@@ -1,0 +1,77 @@
+{
+  "company": {
+    "name_jp": "コアフューテック株式会社",
+    "name_en": "CoreFutec Co., Ltd.",
+    "website": "https://www.corefutec.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "松本正己",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/matsutax133381/with_replies",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "長坂厚",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/shiho-nagasaka-594b95270",
+      "twitter_url": "https://x.com/ryohei0817",
+      "linkedin_data": {
+        "header": {
+          "name": "Shiho (Inoguchi) Nagasaka",
+          "headline": "Okasan Securities（岡三証券） · 上智大学 Sophia University",
+          "location": "New York, New York, United States",
+          "connections": "Square GroupConstruction183,232 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Associate",
+            "company": "Sep 2020 - Mar 2022 · 1 yr 7 mos",
+            "duration": "Tokyo, Japan",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Associate",
+            "company": "Apr 2015 - Sep 2020 · 5 yrs 6 mos",
+            "duration": "Chiba, Japan",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Sophia University",
+            "degree": "Bachelor's degree, Economic",
+            "dates": "2011 – 2015",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "経済",
+          "Sales"
+        ],
+        "certifications": [
+          {
+            "name": "Business AnalyticsHarvard Business School OnlineIssued Oct 2025"
+          }
+        ],
+        "honors": [],
+        "languages": [],
+        "volunteering": [
+          {
+            "role": "Staff上智大学 Sophia UniversityAug 2012 · 1 moPoverty Alleviation"
+          }
+        ],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/shiho-nagasaka-594b95270"
+      },
+      "twitter_data": null
+    }
+  ]
+}

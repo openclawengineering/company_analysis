@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name": "ジェニシス",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "萩原哲也",
+      "role": "",
+      "linkedin_url": "https://th.linkedin.com/in/tetsuya-%E5%93%B2%E4%B9%9F%EF%BC%",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://th.linkedin.com/in/tetsuya-%E5%93%B2%E4%B9%9F%EF%BC%"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "井藤謙治",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

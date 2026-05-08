@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社カリバー",
+    "name_en": "カリバー",
+    "website": "https://www.calibur.co.jp/privacy-policy"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "木下章",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%A6%8F%E7%AB%A0-%E6%9C%A8%E4%",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%A6%8F%E7%AB%A0-%E6%9C%A8%E4%"
+      },
+      "twitter_data": null
+    }
+  ]
+}

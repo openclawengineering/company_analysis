@@ -1,0 +1,26 @@
+{
+  "company": {
+    "name_jp": "株式会社エハラタカオ",
+    "name_en": "エハラタカオ",
+    "website": "https://atcompany.jp/paltac/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "吉田",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/yohei_miyauchi",
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

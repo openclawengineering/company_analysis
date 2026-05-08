@@ -1,0 +1,85 @@
+{
+  "company": {
+    "name": "株式会社シーエーエル",
+    "name_en": "",
+    "website": "https://www.cal.ne.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "松本伸哉",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/shinya-morimoto-5a6846184",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Shinya Morimoto",
+          "headline": "New Business Growth | McKinsey | Investment Banking (Consumer) | Wharton MBA (Entrepreneurship)",
+          "location": "Tokyo, Japan",
+          "connections": "Mercari, Inc. 112,714 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "New Business Growth",
+            "company": "Mercari, Inc.",
+            "duration": "Sep 2025 - Present · 9 mos",
+            "location": "Tokyo, Japan",
+            "description": ""
+          },
+          {
+            "title": "Consultant",
+            "company": "McKinsey & Company",
+            "duration": "Feb 2023 - Aug 2025 · 2 yrs 7 mos",
+            "location": "Tokyo, Japan",
+            "description": ""
+          },
+          {
+            "title": "Web Marketing",
+            "company": "PayPay Securities (Secondment from Mizuho Securities)",
+            "duration": "Jun 2022 - Jan 2023 · 8 mos",
+            "location": "Tokyo, Japan",
+            "description": ""
+          },
+          {
+            "title": "Corporate Finance Intern (during Wharton MBA)",
+            "company": "Toregem Bio Pharma (Kyoto University Startup)",
+            "duration": "May 2021 - Mar 2022 · 11 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Business Development Intern (during Wharton MBA)",
+            "company": "Dense (Osaka University Startup)",
+            "duration": "May 2021 - Aug 2021 · 4 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "The Wharton School",
+            "degree": "Master of Business Administration - MBA, Entrepreneurship",
+            "dates": "Aug 2020 – May 2022",
+            "details": ""
+          },
+          {
+            "school": "Keio University",
+            "degree": "Bachelor of Arts - BA, Economics",
+            "dates": "Apr 2006 – Mar 2010",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/shinya-morimoto-5a6846184"
+      },
+      "twitter_data": null
+    }
+  ]
+}

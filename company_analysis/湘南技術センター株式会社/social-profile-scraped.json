@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "湘南技術センター株式会社",
+    "name_en": "湘南技術センター",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "武部昭彦",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%98%AD%E5%BD%A6-%E6%AD%A6%E9%8",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%98%AD%E5%BD%A6-%E6%AD%A6%E9%8"
+      },
+      "twitter_data": null
+    }
+  ]
+}

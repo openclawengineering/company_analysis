@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社ＴＳＵＮＡＧＵ",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "橋本和弥",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%92%8C%E5%BC%A5-%E6%A9%8B%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%92%8C%E5%BC%A5-%E6%A9%8B%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社スカイリミット",
+    "name_en": "",
+    "website": "https://www.sky-limit.co.jp/ (currently inaccessible"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "高木健児",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E9%AB%98%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E9%AB%98%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

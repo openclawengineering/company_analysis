@@ -1,0 +1,93 @@
+{
+  "company": {
+    "name_jp": "エスアイマネジメント株式会社",
+    "name_en": "SI Management Co., Ltd.",
+    "website": "https://www.si-m.com/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "藤村 基寛",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/keisuke-uchimura-89b1a668/",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "KEISUKE UCHIMURA",
+          "headline": "Backend Engineer (Web)",
+          "location": "フリーランス · Konan University",
+          "connections": "Square GroupConstruction183,229 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "GitHub: https://github.com/ksk-uchi",
+        "experience": [
+          {
+            "title": "Backend Engineer (Web)",
+            "company": "Nov 2023 - Dec 2025 · 2 yrs 2 mos",
+            "duration": "Remote",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Backend Engineer (Web)",
+            "company": "May 2021 - Oct 2023 · 2 yrs 6 mos",
+            "duration": "Remote",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Backend Engineer (Web)",
+            "company": "Jun 2019 - Apr 2021 · 1 yr 11 mos",
+            "duration": "Hybrid",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Backend Engineer (Web)",
+            "company": "Nov 2017 - May 2019 · 1 yr 7 mos",
+            "duration": "On-site",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Backend Engineer (Web)",
+            "company": "Oct 2016 - Oct 2017 · 1 yr 1 mo",
+            "duration": "On-site",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Backend Engineer (Web)",
+            "company": "Oct 2015 - Sep 2016 · 1 yr",
+            "duration": "On-site",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Konan University",
+            "degree": "修士, 情報工学",
+            "dates": "2006 – 2011",
+            "details": "Activities and societies: 灘本研究室"
+          }
+        ],
+        "skills": [
+          "TypeScript",
+          "Notion (生産性向上ソフトウェア)"
+        ],
+        "certifications": [
+          {
+            "name": "剣道二段全日本剣道連盟基本情報技術者試験IPA"
+          }
+        ],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/keisuke-uchimura-89b1a668/"
+      },
+      "twitter_data": null
+    }
+  ]
+}

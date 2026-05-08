@@ -1,0 +1,78 @@
+{
+  "company": {
+    "name": "株式会社エスエフシー新潟",
+    "name_en": "",
+    "website": "https://www.sfc-niigata.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "齋藤道",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/saitoshin/en",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Shin Saito",
+          "headline": "TA Lead for CIC Japan",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "LinkedIn Guide to Creating 5,134,825 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Associate Manager",
+            "company": "Accenture",
+            "duration": "Mar 2025 - Oct 2025 · 8 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Senior Consultant",
+            "company": "Avanade · Permanent",
+            "duration": "Aug 2023 - Oct 2025 · 2 yrs 3 mos",
+            "location": "Tokyo, Japan · On-site",
+            "description": ""
+          },
+          {
+            "title": "Mid-Career Recruiter Tax and Legal",
+            "company": "Deloitte · Permanent",
+            "duration": "Sep 2017 - Jan 2022 · 4 yrs 5 mos",
+            "location": "Within 23 wards, Tokyo, Japan",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "University of Baltimore",
+            "degree": "Master of Arts (M.A.), Applied Psychology",
+            "dates": "2008 – 2011",
+            "details": "Activities and societies: Psy Chi Honor's Society"
+          },
+          {
+            "school": "Montclair State University",
+            "degree": "Bachelor of Science (B.S.), Psychology",
+            "dates": "2003 – 2007",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Executive Search",
+          "Customer Relationship Management (CRM)"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [
+          {
+            "language": "EnglishNative or bilingual proficiency日本語Native or"
+          }
+        ],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/saitoshin/en"
+      },
+      "twitter_data": null
+    }
+  ]
+}

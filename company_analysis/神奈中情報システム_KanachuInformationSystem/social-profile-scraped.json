@@ -1,0 +1,71 @@
+{
+  "company": {
+    "name": "株式会社神奈中情報システム",
+    "name_en": "",
+    "website": "https://www.kanachu-it.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "米山仁",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/michio-shirasaki-51985413b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Michio Shirasaki",
+          "headline": "GOLDWIN INC. · 一橋大学",
+          "location": "Greater Tokyo Area",
+          "connections": "Hitotsubashi University 12,422 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Board Member Senior Managing Director",
+            "company": "Apr 2024 - Mar 2026 · 2 yrs",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Board Member Managing Director",
+            "company": "Jun 2022 - Mar 2024 · 1 yr 10 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Managing Director of Corporate Planning Division",
+            "company": "Jun 2019 - May 2022 · 3 yrs",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Hitotsubashi University",
+            "degree": "学士 (経済学), 国際経済",
+            "dates": "1980 – 1984",
+            "details": ""
+          },
+          {
+            "school": "Harvard Business School Executive Education",
+            "degree": "",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/michio-shirasaki-51985413b"
+      },
+      "twitter_data": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社エリアドライブ",
+    "name_en": "エリアドライブ",
+    "website": "https://x.com/areadrive_ad"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "福井二郎",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E4%BA%8C%E9%83%8E-%E6%B0%B8%E4%",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E4%BA%8C%E9%83%8E-%E6%B0%B8%E4%"
+      },
+      "twitter_data": null
+    }
+  ]
+}

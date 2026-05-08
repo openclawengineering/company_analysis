@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社シャフト",
+    "name_en": "シャフト",
+    "website": "https://www.shaft-web.co.jp/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "西田史郎",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E4%BB%8A%E4%BA%95%E5%8F%B2%E9%83",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E4%BB%8A%E4%BA%95%E5%8F%B2%E9%83"
+      },
+      "twitter_data": null
+    }
+  ]
+}

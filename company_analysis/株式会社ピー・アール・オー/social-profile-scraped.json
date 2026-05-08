@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社ピー・アール・オー",
+    "name_en": "ピー・アール・オー",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "大高潤",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%BD%A4-%E5%A4%A7%E9%AB%98-5416",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%BD%A4-%E5%A4%A7%E9%AB%98-5416"
+      },
+      "twitter_data": null
+    }
+  ]
+}

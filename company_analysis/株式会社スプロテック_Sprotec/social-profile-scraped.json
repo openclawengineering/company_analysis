@@ -1,0 +1,92 @@
+{
+  "company": {
+    "name": "株式会社スプロテック",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "奥津篤",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/keiji-furuichi-626b2880",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Keiji Furuichi",
+          "headline": "株式会社リブセンス （Livesense Inc.） · GLOBIS University",
+          "location": "Tokyo, Japan",
+          "connections": "株式会社リブセンス （Livesense Inc.） 231 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "人材業界でアルバイトパートタイム領域のメディア事業を担当しています。これまでのキャリアとしては、プログラマのバックグラウンドをもちながら、マーケティングやら事業開発やらプロダクトマネジメントを生業としてきました。スタートアップから上場企業までの様々なフェーズの会社にて、システムエンジニア／データアナリスト／マーケティング／事業企画といった、幅広い職種にてマネジメントを経験しており、事業開発ベースのプロダクトマネジメントが得意領域です。\n副業として、業種職種問わず地方案件をリサーチ中です。… more",
+        "experience": [
+          {
+            "title": "事業部長",
+            "company": "株式会社リブセンス （Livesense Inc.） · Permanent",
+            "duration": "Sep 2023 - Present · 2 yrs 9 mos",
+            "location": "Tokyo, Japan · Hybrid",
+            "description": ""
+          },
+          {
+            "title": "執行役員",
+            "company": "株式会社デジタルプラス · Permanent",
+            "duration": "Dec 2022 - Jun 2023 · 7 mos",
+            "location": "日本 東京都",
+            "description": ""
+          },
+          {
+            "title": "事業責任者 / Product Manager / Marketer",
+            "company": "M&Aキャピタルパートナーズ株式会社 · Permanent",
+            "duration": "Feb 2020 - Nov 2022 · 2 yrs 10 mos",
+            "location": "東京都",
+            "description": ""
+          },
+          {
+            "title": "Product Manager / Growth Hacker / Business Planner",
+            "company": "GLOBIS Corporation · Permanent",
+            "duration": "Dec 2017 - Jan 2020 · 2 yrs 2 mos",
+            "location": "東京都",
+            "description": ""
+          },
+          {
+            "title": "Growth Hacker / Marketer",
+            "company": "actcat · Permanent",
+            "duration": "Jun 2016 - Nov 2017 · 1 yr 6 mos",
+            "location": "Japan",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "グロービス経営大学院",
+            "degree": "経営学修士, 経営研究科 経営専攻",
+            "dates": "Apr 2019 – Mar 2021",
+            "details": ""
+          },
+          {
+            "school": "東京経済大学",
+            "degree": "学士, 企業コミュニケーション",
+            "dates": "Apr 2007 – Mar 2011",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "デジタルマーケティング",
+          "データ分析"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [
+          {
+            "language": "英語Limited working proficiency"
+          }
+        ],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/keiji-furuichi-626b2880"
+      },
+      "twitter_data": null
+    }
+  ]
+}

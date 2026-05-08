@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "株式会社横浜電算",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "鈴木一也",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E4%B8%80%E4%B9%9F-%E9%88%B4%E6%9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "400",
+          "headline": "",
+          "location": "",
+          "connections": "",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E4%B8%80%E4%B9%9F-%E9%88%B4%E6%9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

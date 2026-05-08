@@ -1,0 +1,151 @@
+{
+  "company": {
+    "name_jp": "アマノ株式会社",
+    "name_en": "Amano Corporation",
+    "website": "https://www.amano.co.jp/",
+    "stock_code": "6436",
+    "founded": "1931年",
+    "headquarters": "横浜市港北区豆口町275"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "津田博之",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E5%8D%9A%E4%B9%8B-%E6%B4%A5%E7%94%B0-5762a2370",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "津田博之",
+          "headline": "WAGO JAPAN - Senior SectionManager",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "WAGO JAPAN287 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Senior SectionManager",
+            "company": "WAGO JAPAN · Contract",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E5%8D%9A%E4%B9%8B-%E6%B4%A5%E7%94%B0-5762a2370"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "山﨑学",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "秦芳彦",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "生駒進",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "多造藤徳",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "大森通伸",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "渡邉寿美恵",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "田村恵子",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "井原邦弘",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "北見智徳",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "中家華江",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "永川尚文",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "田明眞",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "前川龍男",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

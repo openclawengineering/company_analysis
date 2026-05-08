@@ -1,0 +1,257 @@
+{
+  "company": {
+    "name_jp": "株式会社ワールドインテック",
+    "name_en": "ワールドインテック",
+    "website": "https://witc-rd.jp/corporate/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "会長",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/toshihide-yui-4b4804132",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Toshihide YUI",
+          "headline": "",
+          "location": "",
+          "connections": "Square GroupConstruction183,255 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "会長",
+            "company": "OSC",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/toshihide-yui-4b4804132"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "副会長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/SakaShima_0822",
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "社長執行役員",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/shohei-shigematsu-038922136",
+      "twitter_url": "https://x.com/tohru_SnowPeak",
+      "linkedin_data": {
+        "header": {
+          "name": "shohei shigematsu",
+          "headline": "Manager - World Intec Co ワールドインテック",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "World Intec Co ワールドインテック497 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Manager",
+            "company": "World Intec Co ワールドインテック",
+            "duration": "Apr 2006 - Present · 20 yrs 2 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "下関市立大学",
+            "degree": "",
+            "dates": "",
+            "details": ""
+          }
+        ],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/shohei-shigematsu-038922136"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "副社長執行役員",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/masahiroikenaga",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "池永正宏（Masahiro Ikenaga）",
+          "headline": "建設人材派遣領域の経営戦略、事業戦略、組織戦略全般。レガシー業界DX推進にやりがいを感じています。戦略～構築～分析～施策",
+          "location": "Tokyo, Tokyo, Japan",
+          "connections": "Paradygm Co., Ltd.1,610 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "An IT enthusiast who has experience in business processes,  risk analysis, project management, customer support, process flow analysis and documentation.\n\nビジネスプロセス、リスク分析、プロジェクト管理、顧客サポート、プロセス・フロー分析およびドキュメンテーションの経験を持つITの愛好家。… more",
+        "experience": [
+          {
+            "title": "取締役 事業戦略室室長",
+            "company": "株式会社ワールドコーポレーション · Permanent",
+            "duration": "Jan 2026 - Present · 5 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "取締役",
+            "company": "株式会社ATJC · Permanent",
+            "duration": "Jan 2026 - Present · 5 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "執行役員 事業戦略室室長",
+            "company": "株式会社ナレルグループ · Permanent",
+            "duration": "May 2022 - Present · 4 yrs 1 mo",
+            "location": "東京都 · On-site",
+            "description": ""
+          },
+          {
+            "title": "経営戦略室副室長 兼 事業統括本部長 兼 人材統括本部長",
+            "company": "共同エンジニアリング株式会社 · Permanent",
+            "duration": "Feb 2021 - May 2022 · 1 yr 4 mos",
+            "location": "東京都 · On-site",
+            "description": ""
+          },
+          {
+            "title": "取締役",
+            "company": "株式会社夢グローバル",
+            "duration": "Nov 2018 - Jan 2021 · 2 yrs 3 mos",
+            "location": "Greater Tokyo Area",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Kwansei Gakuin University",
+            "degree": "修士, 法学部法律学科",
+            "dates": "1997 – 2002",
+            "details": "Activities and societies: アメリカンフットボール部"
+          },
+          {
+            "school": "関西学院高等部",
+            "degree": "1995 – 1997",
+            "dates": "Activities and societies: ラグビー部",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "建設人材サービスのスペシャリスト（経営戦略設計、事業戦略設計、組織戦略設計）",
+          "ビジネスプロセス"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/masahiroikenaga"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "常務執行役員",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": "https://x.com/Nishimyuran",
+      "linkedin_data": null,
+      "twitter_data": {
+        "url": "https://x.com/Nishimyuran",
+        "username": "Nishimyuran",
+        "name": "",
+        "bio": "株式会社FOLIO常務執行役員。三菱UFJ国際投信にて投信専門スマホ証券立ち上げ。CMA、CFA、CFP®︎、FP1級、宅建｜資産運用、フィンテック、暗号資産、スタートアップ、事業開発、マーケ、ウイスキー、NFT。阪神トラ吉｜新米パパ｜智辯和歌山｜東大｜和歌山をネタに集まる「#わかやま未来会議」を運営！#足立光の無双塾",
+        "location": "東京都",
+        "website": "https://t.co/VDMzLLrEzB",
+        "joined_date": "Joined March 2010",
+        "following_count": "976 Following",
+        "followers_count": "",
+        "verified": true,
+        "recent_tweets": [
+          {
+            "text": "ROBOPRO has achieved the No. 1 spot in customer satisfaction ranking for the first time in Oricon-san’s user survey.\n\nThank you very much.\nWe kindly ask for your continued support and patronage \n\n#FOLIO\n#ロボアドバイザー\n#ROBOPRO\n#SBIラップ",
+            "date": "2026-05-01T17:19:15.000Z",
+            "url": "https://x.com/Nishimyuran/status/2050263793431974348"
+          },
+          {
+            "text": "Thank you very much!\nI am deeply honored.\n\n#Oricon\n#RoboAdvisor\n#ROBOPRO\n#SBIWrap",
+            "date": "2026-05-01T08:19:10.000Z",
+            "url": "https://x.com/Nishimyuran/status/2050127878239756791"
+          },
+          {
+            "text": "いつも比較ありがとうございます！\n\n株式との比較で、ドローダウンとかが比べやすくなりましたね。\n\n#FOLIO\n#ROBOPRO\n#SBIラップ\n#ロボアドバイザー",
+            "date": "2026-04-26T21:49:32.000Z",
+            "url": "https://x.com/Nishimyuran/status/2048519875703009526"
+          },
+          {
+            "text": "Please take a look.\n\n#FOLIO\n#ROBOPRO",
+            "date": "2026-04-24T14:09:39.000Z",
+            "url": "https://x.com/Nishimyuran/status/2047679365195215200"
+          },
+          {
+            "text": "Is that so?  \nAren't you about 20 years late?   \n(Mutterings from a 2007 new grad, former asset manager who hasn't done much actual trading)",
+            "date": "2026-04-24T04:02:00.000Z",
+            "url": "https://x.com/Nishimyuran/status/2047526444671373455"
+          }
+        ]
+      }
+    },
+    {
+      "name": "執行役員",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "山村",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "古賀",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "加藤",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "会長兼社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

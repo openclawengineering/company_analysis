@@ -1,0 +1,61 @@
+{
+  "company": {
+    "name": "株式会社エフタイム",
+    "name_en": "",
+    "website": ""
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "辻一成",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/motonari-tsuji-6691b6172",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "辻一成",
+          "headline": "株式会社セールスフォース・ジャパン- Sr.Account Executive",
+          "location": "Tokyo, Japan",
+          "connections": "Tokyo University of Agriculture3,807 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Account Executive",
+            "company": "株式会社セールスフォース・ジャパン · Permanent",
+            "duration": "Jun 2020 - Present · 6 yrs",
+            "location": "東京都千代田区丸の内2-7-2JPタワー12階 · Hybrid",
+            "description": ""
+          },
+          {
+            "title": "担当マネジャー",
+            "company": "Oracle Japan 日本オラクル · Permanent",
+            "duration": "Jan 2018 - May 2020 · 2 yrs 5 mos",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Tokyo University of Agriculture",
+            "degree": "学士（環境情報学）, 経済学",
+            "dates": "2004 – 2008",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "ソリューション営業",
+          "エンタープライズソフトウェア"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/motonari-tsuji-6691b6172"
+      },
+      "twitter_data": null
+    }
+  ]
+}

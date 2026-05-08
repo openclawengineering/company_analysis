@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "S&A JAPAN株式会社",
+    "name_en": "S&A JAPAN Inc.",
+    "website": "Unknown"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "大村章",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E7%AB%A0-%E5%A4%A7%E6%9D%91-7239758b",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "大村章",
+          "headline": "Yokohama, Kanagawa, Japan",
+          "location": "Ｓ＆Ａ　ＪＡＰＡＮ株式会社",
+          "connections": "Square GroupConstruction183,219 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "代表取締役",
+            "company": "Ｓ＆Ａ ＪＡＰＡＮ株式会社",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E7%AB%A0-%E5%A4%A7%E6%9D%91-7239758b"
+      },
+      "twitter_data": null
+    }
+  ]
+}

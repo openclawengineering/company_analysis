@@ -1,0 +1,168 @@
+{
+  "company": {
+    "name_jp": "株式会社新日本コンピュータサービス",
+    "name_en": "新日本コンピュータサービス",
+    "website": "https://www.sncs.co.jp/about/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "挨拶",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "本田",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/satoshihonda",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "Satoshi Honda",
+          "headline": "Nexon · 北海道大学 / Hokkaido University",
+          "location": "Director, Nexon",
+          "connections": "Square GroupConstruction183,257 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "Experienced Director with a demonstrated history of working in the music and the computer games industries. Skilled in On-line Games, Mobile Applications, Mentoring, Localization, and Start-ups. Strong professional with a Bachelor in Mechanical Engineering from 北海道大学 / Hokkaido University.",
+        "experience": [
+          {
+            "title": "External Director",
+            "company": "Nexon",
+            "duration": "Mar 2012 - Mar 2026 · 14 yrs 1 mo",
+            "location": "Tokyo, Japan",
+            "description": ""
+          },
+          {
+            "title": "Director",
+            "company": "Spline Network",
+            "duration": "Jan 2008 - Sep 2017 · 9 yrs 9 mos",
+            "location": "Tokyo, Japan",
+            "description": ""
+          },
+          {
+            "title": "Director",
+            "company": "Software Imaging",
+            "duration": "Nov 2010 - Apr 2013 · 2 yrs 6 mos",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "Managing Director",
+            "company": "Eidos Interactive (Japan)",
+            "duration": "Aug 1998 - Oct 2005 · 7 yrs 3 mos",
+            "location": "Tokyo, Japan",
+            "description": ""
+          },
+          {
+            "title": "President & CEO",
+            "company": "Electronic Arts (Japan)",
+            "duration": "Aug 1992 - Mar 1998 · 5 yrs 8 mos",
+            "location": "Tokyo, Japan",
+            "description": ""
+          }
+        ],
+        "education": [
+          {
+            "school": "Hokkaido University",
+            "degree": "Bachelor, Mechanical Engineering",
+            "dates": "1966 – 1971",
+            "details": ""
+          }
+        ],
+        "skills": [
+          "Mobile Games",
+          "Social Games"
+        ],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/satoshihonda"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "取締役",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "顧問",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/tsutomu-nishino-1150a3188",
+      "twitter_url": "https://x.com/artvast",
+      "linkedin_data": {
+        "header": {
+          "name": "Tsutomu Nishino",
+          "headline": "Chief Engineer at N.S. Computer Service Co., Ltd.",
+          "location": "N.S. Computer Service Co., Ltd.",
+          "connections": "LinkedIn Guide to Networking13,783,145 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "Chief Engineer",
+            "company": "N.S. Computer Service Co., Ltd.",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/tsutomu-nishino-1150a3188"
+      },
+      "twitter_data": {
+        "url": "https://x.com/artvast",
+        "username": "artvast",
+        "name": "",
+        "bio": "",
+        "location": "",
+        "website": "",
+        "joined_date": "",
+        "following_count": "",
+        "followers_count": "",
+        "verified": false,
+        "recent_tweets": []
+      }
+    },
+    {
+      "name": "壬生",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

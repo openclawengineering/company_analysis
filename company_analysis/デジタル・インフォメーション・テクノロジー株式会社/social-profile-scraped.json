@@ -1,0 +1,52 @@
+{
+  "company": {
+    "name_jp": "デジタル・インフォメーション・テクノロジー株式会社",
+    "name_en": "デジタル・インフォメーション・テクノロジー",
+    "website": "https://www.ditgroup.jp/corporate/outline/outline.html"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "執行役員",
+      "role": "",
+      "linkedin_url": "https://www.linkedin.com/in/yu-senoo-366577ab",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "YU SENOO",
+          "headline": "Intelligence, Ltd. - 執行役員",
+          "location": "Intelligence, Ltd.",
+          "connections": "PERSOL CAREER CO., LTD. 9,284 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "執行役員",
+            "company": "Intelligence, Ltd.",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://www.linkedin.com/in/yu-senoo-366577ab"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "代表取締役社長",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}

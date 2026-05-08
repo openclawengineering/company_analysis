@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "アイエスシー株式会社",
+    "name_en": "ISC Inc.",
+    "website": "http://www.isc-net.co.jp"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "寺田 浩之",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/%E6%B5%A9%E4%B9%8B-%E5%AF%BA%E7%94%B0-b491ab1b9",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "寺田浩之",
+          "headline": "レイクリエーション - グラフィックデザイナー",
+          "location": "Osaka, Osaka, Japan",
+          "connections": "Square GroupConstruction183,220 followersArif follows this pageFollow",
+          "profile_photo": ""
+        },
+        "about": "",
+        "experience": [
+          {
+            "title": "グラフィックデザイナー",
+            "company": "レイクリエーション · Part-time",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/%E6%B5%A9%E4%B9%8B-%E5%AF%BA%E7%94%B0-b491ab1b9"
+      },
+      "twitter_data": null
+    }
+  ]
+}

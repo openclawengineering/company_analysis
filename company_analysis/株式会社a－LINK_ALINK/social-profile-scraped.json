@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name": "株式会社a－LINK",
+    "name_en": "",
+    "website": "https://www.alink-group.com/"
+  },
+  "website": "",
+  "scraped_profiles": [
+    {
+      "name": "池田洋人",
+      "role": "",
+      "linkedin_url": "https://jp.linkedin.com/in/naoki-ikeda-47152757",
+      "twitter_url": null,
+      "linkedin_data": {
+        "header": {
+          "name": "NAOKI IKEDA",
+          "headline": "",
+          "location": "",
+          "connections": "IBM 19,448,104 followersFollow",
+          "profile_photo": ""
+        },
+        "about": "-ISO26262 consultant\n-Automotive Cybersecurity consultant\n-data management for automotive",
+        "experience": [
+          {
+            "title": "コンサルタント",
+            "company": "Apr 2003 - Present · 23 yrs 2 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          },
+          {
+            "title": "コンサルタント",
+            "company": "Apr 2003 - Present · 23 yrs 2 mos",
+            "duration": "",
+            "location": "",
+            "description": ""
+          }
+        ],
+        "education": [],
+        "skills": [],
+        "certifications": [],
+        "honors": [],
+        "languages": [],
+        "volunteering": [],
+        "posts": [],
+        "url": "https://jp.linkedin.com/in/naoki-ikeda-47152757"
+      },
+      "twitter_data": null
+    },
+    {
+      "name": "野谷洋介",
+      "role": "",
+      "linkedin_url": null,
+      "twitter_url": null,
+      "linkedin_data": null,
+      "twitter_data": null
+    }
+  ]
+}
