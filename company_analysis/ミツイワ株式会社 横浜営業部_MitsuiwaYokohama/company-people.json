@@ -1,17 +1,19 @@
 {
     "company": {
-        "name": "ミツイワ株式会社 横浜営業部",
-        "name_en": "",
-        "website": ""
+        "name_jp": "ミツイワ株式会社 横浜営業部",
+        "name_en": "Mitsuiwa Co., Ltd. Yokohama Sales Department",
+        "website": "https://www.mitsuiwa.co.jp"
     },
     "people": [
         {
-            "name": "小松 拓也",
+            "name": "高橋 洋喜",
             "title": "代表取締役",
             "linkedin": null,
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-05-07",
+    "data_source": "company_website_research"
 }

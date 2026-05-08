@@ -1,17 +1,26 @@
 {
     "company": {
-        "name": "ハル・エンジニアリング株式会社",
-        "name_en": "",
+        "name_jp": "ハル・エンジニアリング株式会社",
+        "name_en": "HaL Engineering Inc.",
         "website": "https://www.haleng.co.jp"
     },
     "people": [
         {
-            "name": "Ono Takehiko",
+            "name": "小野武彦",
             "title": "代表取締役社長",
             "linkedin": "https://jp.linkedin.com/in/takehiko-ono-02813b7",
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [
+        {
+            "name": "小野武彦",
+            "platform": "linkedin",
+            "url": "https://jp.linkedin.com/in/takehiko-ono-02813b7"
+        }
+    ],
+    "last_updated": "2026-05-07",
+    "data_source": "company_website_research"
 }

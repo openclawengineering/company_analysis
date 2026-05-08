@@ -71,4 +71,6 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[SalesNow]** — 2026-05-06 — モトミ株式会社企業情報 ([https://salesnow.jp/db/companies/jcbnt490j7u9wg6s](https://salesnow.jp/db/companies/jcbnt490j7u9wg6s))
+- **[BaseConnect]** — 2026-05-06 — モトミ株式会社企業データ ([https://baseconnect.in/companies/89dd4e86-ae9e-472a-b290-e69522d3d05a](https://baseconnect.in/companies/89dd4e86-ae9e-472a-b290-e69522d3d05a))
+- **[全国法人検索]** — 2026-05-06 — 法人情報 ([https://houjin.goo.to/corporations/3020001053736](https://houjin.goo.to/corporations/3020001053736))

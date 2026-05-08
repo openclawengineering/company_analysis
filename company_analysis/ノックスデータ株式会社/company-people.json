@@ -1,7 +1,7 @@
 {
     "company": {
-        "name": "ノックスデータ株式会社",
-        "name_en": "",
+        "name_jp": "ノックスデータ株式会社",
+        "name_en": "KNOX DATA CORP.",
         "website": "https://www.knox.co.jp"
     },
     "people": [
@@ -9,9 +9,12 @@
             "name": "小林義文",
             "title": "代表取締役社長",
             "linkedin": null,
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-05-07",
+    "data_source": "company_website_research"
 }

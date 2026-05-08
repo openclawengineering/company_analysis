@@ -43,5 +43,12 @@ The company serves:
 
 ---
 
+## Company Mentions
+
+- **[全国法人検索]** — 2026-05-06 — 法人情報検索結果 ([https://houjin.goo.to/corporations/3020001053736](https://houjin.goo.to/corporations/3020001053736))
+- **[会社案内]** — 2026-05-06 — メトロホールディングス株式会社基本情報 ([https://salesnow.jp/db/companies/3020001053736](https://salesnow.jp/db/companies/3020001053736))
+
+---
+
 *Report generated: May 6, 2026*
 *Data sources: Limited publicly available information*

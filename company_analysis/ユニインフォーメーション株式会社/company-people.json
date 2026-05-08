@@ -1,18 +1,17 @@
 {
     "company": {
         "name_jp": "ユニインフォーメーション株式会社",
-        "name_en": "ユニインフォーメーション",
+        "name_en": "Uni-Information Co., Ltd.",
         "website": ""
     },
     "people": [
         {
             "name": "新井一",
             "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
+            "department": "",
+            "email": ""
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-05-08"
 }

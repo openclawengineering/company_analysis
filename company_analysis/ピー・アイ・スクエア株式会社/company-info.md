@@ -69,7 +69,8 @@ Not publicly available in detail.
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[イケサイ制作会社データベース]** — ウェブ制作会社データベースに掲載 (https://www.ikesai.com/db/10490.html)
+- **[横浜DeNAベイスターズ]** — オフィシャルwebショップ制作実績 (https://ec.baystars.co.jp/)
 
 ---
 

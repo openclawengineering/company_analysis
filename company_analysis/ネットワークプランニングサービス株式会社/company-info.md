@@ -4,7 +4,7 @@
 
 ネットワークプランニングサービス株式会社 is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
 
-**Website:** https://x.com/nps_inc
+**Website:** https://www.nps-inc.jp/
 
 ## Headquarters & Offices
 
@@ -26,7 +26,7 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 ## Key Characteristics
 
 - **Location:** Kanagawa Prefecture, Japan
-- **Website:** https://x.com/nps_inc
+- **Website:** https://www.nps-inc.jp/
 - KIA (Kanagawa Information Service Industry Association)
 - Information Technology
 

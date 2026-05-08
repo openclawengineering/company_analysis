@@ -49,4 +49,6 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **[KIA]** — 2026-05-08 — 神奈川県情報サービス産業協会会員情報 ([https://www.kia.or.jp](https://www.kia.or.jp))
+- **[SalesNow]** — 2026-05-08 — ユニインフォーメーション株式会社企業情報 ([https://salesnow.jp](https://salesnow.jp))
+- **[法人番号検索]** — 2026-05-08 — 法人情報 ([https://houjin.goo.to](https://houjin.goo.to))

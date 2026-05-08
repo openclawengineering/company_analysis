@@ -54,5 +54,11 @@ The company serves:
 
 ---
 
+## Company Mentions
+
+_No external press coverage or media mentions found at this time. The company website is minimal and does not provide detailed information about leadership, employees, or media presence._
+
+---
+
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.hm-net.co.jp/)*
