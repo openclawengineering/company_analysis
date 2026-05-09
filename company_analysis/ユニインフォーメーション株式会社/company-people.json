@@ -1,17 +1,51 @@
 {
-    "company": {
-        "name_jp": "ユニインフォーメーション株式会社",
-        "name_en": "Uni-Information Co., Ltd.",
-        "website": ""
+  "company": {
+    "name_jp": "ユニインフォーメーション株式会社",
+    "name_en": "Uninformation Co., Ltd.",
+    "website": "https://www.uni-info.co.jp/"
+  },
+  "people": [
+    {
+      "name": "田中 勝",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "新井一",
-            "title": "代表取締役社長",
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-08"
+    {
+      "name": "佐藤 雅史",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡辺 敬",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小林 陽一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大野 翔太",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-09"
 }
