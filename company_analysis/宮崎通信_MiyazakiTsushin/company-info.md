@@ -111,4 +111,7 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website** — [1995-2026] — Comprehensive IT services provider in Yokohama and Miyazaki ([https://www.mtnet.co.jp/](https://www.mtnet.co.jp/))
+- **En-gage.net** — [2026] — Recruitment information and company profile ([https://en-gage.net/mtnet/](https://en-gage.net/mtnet/))
+- **Government Bidding** — [2022-2024] — Multiple public sector IT infrastructure projects in Yokohama and Miyazaki Prefecture
+- **ISO Certification** — [2013-2026] — ISO27001 certified IT security management system (Miyazaki branch)

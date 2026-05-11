@@ -1,10 +1,19 @@
 {
     "company": {
-        "name_jp": "協立システム開発",
-        "name_en": "Kyoritsu System Development",
-        "website": ""
+        "name_jp": "協立システム開発株式会社",
+        "name_en": "Kyoritsu System Development Co., Ltd.",
+        "website": "https://www.ksdnet.co.jp/"
     },
-    "people": [],
+    "people": [
+        {
+            "name": "髙橋 聡郎",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
     "social_profiles": [],
     "last_updated": "2026-05-11"
 }

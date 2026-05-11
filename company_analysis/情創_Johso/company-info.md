@@ -63,4 +63,7 @@ Not specified on website
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website** — [2000-2026] — 25-year IT solutions company specializing in system development ([https://johso.co.jp/](https://johso.co.jp/))
+- **25th Anniversary** — [August 2025] — Celebrated 25 years of IT solutions and system development services
+- **Service Pages** — [2026] — Detailed information on manufacturing, education, and trend technology solutions ([https://johso.co.jp/service/](https://johso.co.jp/service/))
+- **Gorikai Program** — [2026] — Development training program for junior engineers ([https://johso.co.jp/gorikai/](https://johso.co.jp/gorikai/))

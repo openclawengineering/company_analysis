@@ -36,4 +36,6 @@ Focused on enabling virtual verification in pre-prototyping stages to reduce dev
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Zuken Group Recruitment Page** — [2026] — Corporate recruitment information for Zuken PreSight ([https://www.zuken.co.jp/recruit_info/group_recruit/zpresight/](https://www.zuken.co.jp/recruit_info/group_recruit/zpresight/))
+- **Yahoo Job Catalog** — [2026] — Company profile and job listings ([https://jobcatalog.yahoo.co.jp/company/1110007723/information/](https://jobcatalog.yahoo.co.jp/company/1110007723/information/))
+- **Company Website** — [2026] — Official PLM and virtual verification solutions provider ([https://www.presight.co.jp/](https://www.presight.co.jp/))

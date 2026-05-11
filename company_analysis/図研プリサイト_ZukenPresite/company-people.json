@@ -38,19 +38,6 @@
       "email": ""
     }
   ],
-  "social_profiles": [
-    {
-      "platform": "facebook",
-      "url": "https://www.facebook.com/ZukenPreSight"
-    },
-    {
-      "platform": "twitter",
-      "url": "https://x.com/ZukenPreSight"
-    },
-    {
-      "platform": "youtube",
-      "url": "https://www.youtube.com/user/presightJP"
-    }
-  ],
-  "last_updated": "2026-05-01"
+  "social_profiles": [],
+  "last_updated": "2026-05-11"
 }

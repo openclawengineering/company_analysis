@@ -2,9 +2,26 @@
     "company": {
         "name_jp": "協栄企画システム株式会社",
         "name_en": "Kyoei Kikaku System Co., Ltd.",
-        "website": ""
+        "website": "http://www.kyouei-kikaku.com"
     },
-    "people": [],
+    "people": [
+        {
+            "name": "佐藤 大資",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "松本 竜彦",
+            "title": "専務執行役員",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
     "social_profiles": [],
     "last_updated": "2026-05-11"
 }

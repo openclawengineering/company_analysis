@@ -70,4 +70,7 @@ Not specified on website
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website** — [1939-2026] — "Connecting technologies" company with 85+ years history ([https://www.msk.co.jp/](https://www.msk.co.jp/))
+- **AT Engineer** — [2026] — Engineer recruitment information ([https://www.atengineer.com/pr/miyakawa-ss/company](https://www.atengineer.com/pr/miyakawa-ss/company))
+- **Company Note Page** — [2026] — Corporate blog and company updates ([https://note.com/msk_1939/](https://note.com/msk_1939/))
+- **Corporate Social Media** — [2026] — Official company profiles on Facebook, Twitter, Instagram for business communications
