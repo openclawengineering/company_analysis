@@ -1,18 +1,10 @@
 {
     "company": {
         "name_jp": "光洋システム株式会社",
-        "name_en": "光洋システム",
-        "website": ""
+        "name_en": "Koyo System Co., Ltd.",
+        "website": "https://www.koyo-system.co.jp/"
     },
-    "people": [
-        {
-            "name": "兼俵龍弥",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/竜也-兼平-08714b210",
-            "twitter": null
-        }
-    ],
+    "people": [],
     "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-05-11"
 }

@@ -1,17 +1,10 @@
 {
     "company": {
-        "name": "協栄企画システム株式会社",
-        "name_en": "",
-        "website": "http://www.kyouei-kikaku.com"
+        "name_jp": "協栄企画システム株式会社",
+        "name_en": "Kyoei Kikaku System Co., Ltd.",
+        "website": ""
     },
-    "people": [
-        {
-            "name": "佐藤大資",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "people": [],
+    "social_profiles": [],
+    "last_updated": "2026-05-11"
 }
