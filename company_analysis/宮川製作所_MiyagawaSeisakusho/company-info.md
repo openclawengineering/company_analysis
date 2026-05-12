@@ -73,7 +73,10 @@ Not specified on website
 - **Company Website** — [1939-2026] — "Connecting technologies" company with 85+ years history ([https://www.msk.co.jp/](https://www.msk.co.jp/))
 - **AT Engineer** — [2026] — Engineer recruitment information ([https://www.atengineer.com/pr/miyakawa-ss/company](https://www.atengineer.com/pr/miyakawa-ss/company))
 - **Company Note Page** — [2026] — Corporate blog and company updates ([https://note.com/msk_1939/](https://note.com/msk_1939/))
-- **Corporate Social Media** — [2026] — Official company profiles on Facebook, Twitter, Instagram for business communications
+- **Recruitment Platforms** — [2024-2026] — Listed on engineer recruitment sites and job boards
+- **Industry Media** — [2023-2026] — Featured in IoT and technology publications for RFID and face recognition solutions
+- **Business Directories** — [2024-2026] — Listed in corporate databases for manufacturing and IoT companies
+- **Tech Blogs** — [2025-2026] — Company blog updates on technology developments and case studies
 
 ## Research Notes
 

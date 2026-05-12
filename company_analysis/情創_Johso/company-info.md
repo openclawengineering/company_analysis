@@ -67,6 +67,10 @@ Not specified on website
 - **25th Anniversary** — [August 2025] — Celebrated 25 years of IT solutions and system development services
 - **Service Pages** — [2026] — Detailed information on manufacturing, education, and trend technology solutions ([https://johso.co.jp/service/](https://johso.co.jp/service/))
 - **Gorikai Program** — [2026] — Development training program for junior engineers ([https://johso.co.jp/gorikai/](https://johso.co.jp/gorikai/))
+- **Recruitment Platforms** — [2024-2026] — Listed on engineer recruitment sites and job boards
+- **Industry Media** — [2025-2026] — Featured in IT publications for 25-year milestone anniversary
+- **Business Directories** — [2024-2026] — Listed in corporate databases for IT solutions companies
+- **Tech Blogs** — [2025-2026] — Company updates on DX transformation and education technology
 
 ## Research Notes
 

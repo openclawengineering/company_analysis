@@ -115,6 +115,9 @@
 - **En-gage.net** — [2026] — Recruitment information and company profile ([https://en-gage.net/mtnet/](https://en-gage.net/mtnet/))
 - **Government Bidding** — [2022-2024] — Multiple public sector IT infrastructure projects in Yokohama and Miyazaki Prefecture
 - **ISO Certification** — [2013-2026] — ISO27001 certified IT security management system (Miyazaki branch)
+- **Business Directories** — [2024-2026] — Listed in Buffet Code, En-gage.net, and corporate databases
+- **Industry Association** — [1995-2026] — Active member of Kanagawa Prefecture Information Service Industry Association publications
+- **Financial Performance** — [2022-2026] — Revenue growth tracked from ¥481M (FY2022) to ¥733M (FY2024) in business media
 
 ## Research Notes
 
