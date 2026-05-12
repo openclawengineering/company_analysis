@@ -2,7 +2,7 @@
     "company": {
         "name_jp": "協栄企画システム株式会社",
         "name_en": "Kyoei Kikaku System Co., Ltd.",
-        "website": "http://www.kyouei-kikaku.com"
+        "website": "https://www.kyouei-kikaku.com"
     },
     "people": [
         {
@@ -23,5 +23,5 @@
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-12"
 }

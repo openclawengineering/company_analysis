@@ -39,3 +39,10 @@ Focused on enabling virtual verification in pre-prototyping stages to reduce dev
 - **Zuken Group Recruitment Page** — [2026] — Corporate recruitment information for Zuken PreSight ([https://www.zuken.co.jp/recruit_info/group_recruit/zpresight/](https://www.zuken.co.jp/recruit_info/group_recruit/zpresight/))
 - **Yahoo Job Catalog** — [2026] — Company profile and job listings ([https://jobcatalog.yahoo.co.jp/company/1110007723/information/](https://jobcatalog.yahoo.co.jp/company/1110007723/information/))
 - **Company Website** — [2026] — Official PLM and virtual verification solutions provider ([https://www.presight.co.jp/](https://www.presight.co.jp/))
+
+## Research Notes
+
+- All 4 executives identified: 小田泰久 (CEO), 廣田正晴 (Director), 大塚隆夫 (Outside Director), 吉田勧 (Auditor)
+- No social media profiles found for executives due to search limitations
+- Company specializes in PLM and virtual verification solutions
+- Part of Zuken Group, major Japanese EDA software company

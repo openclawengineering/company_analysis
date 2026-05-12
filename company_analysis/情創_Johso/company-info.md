@@ -67,3 +67,12 @@ Not specified on website
 - **25th Anniversary** — [August 2025] — Celebrated 25 years of IT solutions and system development services
 - **Service Pages** — [2026] — Detailed information on manufacturing, education, and trend technology solutions ([https://johso.co.jp/service/](https://johso.co.jp/service/))
 - **Gorikai Program** — [2026] — Development training program for junior engineers ([https://johso.co.jp/gorikai/](https://johso.co.jp/gorikai/))
+
+## Research Notes
+
+- CEO 富樫 和弘 identified with LinkedIn profile found
+- LinkedIn: https://jp.linkedin.com/in/和弘-富樫-059b901a5
+- No Twitter profile found for CEO
+- Company celebrated 25th anniversary in August 2025
+- Specializes in manufacturing, education, and trend technology solutions
+- Unique Gorikai program for junior engineer development

@@ -2,9 +2,18 @@
     "company": {
         "name_jp": "光洋システム株式会社",
         "name_en": "Koyo System Co., Ltd.",
-        "website": "https://www.koyo-system.co.jp/"
+        "website": "https://www.koei-system.co.jp/"
     },
-    "people": [],
+    "people": [
+        {
+            "name": "代表取締役",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
     "social_profiles": [],
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-12"
 }

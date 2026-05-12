@@ -74,3 +74,11 @@ Not specified on website
 - **AT Engineer** — [2026] — Engineer recruitment information ([https://www.atengineer.com/pr/miyakawa-ss/company](https://www.atengineer.com/pr/miyakawa-ss/company))
 - **Company Note Page** — [2026] — Corporate blog and company updates ([https://note.com/msk_1939/](https://note.com/msk_1939/))
 - **Corporate Social Media** — [2026] — Official company profiles on Facebook, Twitter, Instagram for business communications
+
+## Research Notes
+
+- CEO 宮川恒太郎 identified from company information
+- No social media profiles found for CEO due to search limitations
+- Company has 85+ years history specializing in "connecting technologies"
+- Diversified portfolio including RFID, face recognition, environmental monitoring, and IoT solutions
+- Strong presence across multiple sectors (transportation, energy, manufacturing, agriculture)

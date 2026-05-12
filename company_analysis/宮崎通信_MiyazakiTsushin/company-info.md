@@ -115,3 +115,11 @@
 - **En-gage.net** — [2026] — Recruitment information and company profile ([https://en-gage.net/mtnet/](https://en-gage.net/mtnet/))
 - **Government Bidding** — [2022-2024] — Multiple public sector IT infrastructure projects in Yokohama and Miyazaki Prefecture
 - **ISO Certification** — [2013-2026] — ISO27001 certified IT security management system (Miyazaki branch)
+
+## Research Notes
+
+- CEO 濱田 順二 identified from company information
+- No social media profiles found for CEO due to search limitations
+- Company has strong financial performance (¥733M revenue in FY2024)
+- Extensive government project participation in both Kanto and Kyushu regions
+- Multiple certifications including ISO27001 and electrical contractor license

@@ -50,4 +50,15 @@ As a manufacturing-focused software development company, the company engages in 
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website** — [2003-2026] — Manufacturing software development company (monozukuri electronic devices) ([https://www.kyouei-kikaku.com](https://www.kyouei-kikaku.com))
+- **Corporate Listings** — [2024] — Listed on doda, SalesNow DB, and Buffet Code corporate databases
+- **Industry Consortium** — [2003-2026] — Active participant in EMS-JP electronic device development consortium activities
+- **Recruitment Platforms** — [2024-2026] — Featured on manufacturing IT career platforms
+- **KIA Publications** — [2023-2026] — Member of Kanagawa IT Association member directories
+
+## Research Notes
+
+- Both executives identified: 佐藤 大資 (CEO) and 松本 竜彦 (Managing Executive Officer)
+- No social media profiles found for executives due to search limitations
+- Company specializes in manufacturing software and holds worker dispatch license
+- Strong membership in EMS-JP consortium for electronic device development

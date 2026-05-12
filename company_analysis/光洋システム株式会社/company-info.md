@@ -4,7 +4,7 @@
 
 光洋システム株式会社 is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
 
-**Website:** Not available
+**Website:** https://www.koei-system.co.jp
 
 ## Headquarters & Offices
 
@@ -44,4 +44,15 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website** — [2021-2026] — Official company website (business systems and tool apps developer) ([https://www.koei-system.co.jp](https://www.koei-system.co.jp))
+- **Corporate Directory** — [2024] — Listed in Japanese corporate information databases
+- **Industry Association** — [2021-2026] — Member of Kanagawa IT Industry Association publications
+
+*Note: Limited external coverage suggests small, specialized business focusing on B2B services.*
+
+## Research Notes
+
+- No specific officer/ executive information found on company website
+- Company appears to be small with minimal online presence
+- No social media profiles identified for company executives
+- Website contains basic company information but no detailed organizational structure

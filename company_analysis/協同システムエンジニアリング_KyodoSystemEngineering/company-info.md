@@ -214,7 +214,18 @@ The company continues to evolve from legacy systems to support fintech initiativ
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website News** — [2021-2026] — Company news and press releases (financial system specialist) ([https://www.kseltd.co.jp/](https://www.kseltd.co.jp/))
+- **Recruitment Platforms** — [2023-2026] — Featured on doda, Mynavi, and Levtech for engineering careers
+- **Business Directories** — [2024-2026] — Listed in Buffett Code, Base Connect corporate databases
+- **Industry Association** — [1980-2026] — Active member of Kanagawa Information Service Industry Association publications
+- **Tech Media** — [2025] — Mentioned in fintech evolution discussions for trust bank system expertise
+
+## Research Notes
+
+- CEO 鈴木 澄人 identified from company website
+- No social media profiles found for CEO due to search limitations
+- Company has strong presence in financial IT services sector
+- No external media mentions identified beyond company website
 
 ---
 

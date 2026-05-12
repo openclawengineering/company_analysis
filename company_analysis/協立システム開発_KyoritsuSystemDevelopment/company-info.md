@@ -208,7 +208,18 @@ The company's strength lies in its deep domain expertise—particularly in produ
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **Company Website** — [1979-2026] — System development company with Fujitsu and NTT Data partnerships ([https://www.ksdnet.co.jp/](https://www.ksdnet.co.jp/))
+- **Corporate Change** — [2025] — Became wholly-owned subsidiary of Kyoritsu Holdings Corporation
+
+No significant external press coverage or media mentions found at this time.
+
+## Research Notes
+
+- CEO 髙橋 聡郎 identified from company information
+- No social media profiles found for CEO due to search limitations
+- Company became subsidiary of Kyoritsu Holdings in May 2025
+- Strong partnerships with major Japanese IT companies (Fujitsu, NTT Data)
+- 57 employees with approximately ¥564 million in annual revenue
 
 ---
 
