@@ -121,8 +121,13 @@
 
 ## Research Notes
 
-- CEO 濱田 順二 identified from company information
-- No social media profiles found for CEO due to search limitations
-- Company has strong financial performance (¥733M revenue in FY2024)
-- Extensive government project participation in both Kanto and Kyushu regions
-- Multiple certifications including ISO27001 and electrical contractor license
+- **CEO 濱田 順二 identified from company information**
+- **No social media profiles found for CEO due to web access limitations** (fetch failed)
+- **Company has strong financial performance** (¥733M revenue in FY2024)
+- **Extensive government project participation** in both Kanto and Kyushu regions
+- **Multiple certifications** including ISO27001 and electrical contractor license
+- **Technical limitations**: Web fetch failed when accessing company website
+
+## Social Profiles
+
+- **No social profiles identified** due to technical access limitations

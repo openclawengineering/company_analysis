@@ -215,11 +215,18 @@ No significant external press coverage or media mentions found at this time.
 
 ## Research Notes
 
-- CEO 髙橋 聡郎 identified from company information
-- No social media profiles found for CEO due to search limitations
+- **CEO 髙橋 聡郎 identified from company information** (appointed July 2023)
+- **Company has Facebook page**: https://www.facebook.com/kyoritsusystem/
+- **No additional social media profiles found for executives due to web access limitations** (403 Forbidden errors)
 - Company became subsidiary of Kyoritsu Holdings in May 2025
 - Strong partnerships with major Japanese IT companies (Fujitsu, NTT Data)
 - 57 employees with approximately ¥564 million in annual revenue
+- **45+ years of continuous operation** since 1979
+
+## Social Profiles
+
+- **Company Facebook**: https://www.facebook.com/kyoritsusystem/
+- **No executive social profiles identified** due to technical access limitations
 
 ---
 

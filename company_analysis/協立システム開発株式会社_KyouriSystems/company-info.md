@@ -6,7 +6,7 @@
 |------|---------|
 | **Company Name** | 協立システム開発株式会社 |
 | **English Name** | Kyouri Systems Co., Ltd. |
-| **Website** | Research required |
+| **Website** | **No website identified** (multiple URL attempts failed) |
 | **Headquarters** | Research required |
 | **Founded** | Research required |
 | **Capital** | Research required |
@@ -29,10 +29,15 @@
 
 ## Research Notes
 
-- Company information is incomplete in current database
-- No website identified for research
-- CEO information not available
-- Requires additional research to identify company details
+- **Company information is incomplete in current database**
+- **No website identified for research** (multiple website URL attempts failed)
+- **CEO information not available** due to lack of web presence
+- **Requires additional research to identify company details**
+- **Technical limitations**: Web fetch encountered ENOTFOUND errors for all attempted URLs
+
+## Social Profiles
+
+- **No social profiles identified** due to company having no accessible web presence
 
 ---
 *Report generated: 2026-05-10*

@@ -52,7 +52,13 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 
 ## Research Notes
 
-- No specific officer/ executive information found on company website
+- **Technical Issues**: Web fetch encountered character encoding problems preventing proper scraping
+- **Limited Web Access**: No web search API key available for finding executive information
+- **No specific officer/ executive information found on company website**
 - Company appears to be small with minimal online presence
-- No social media profiles identified for company executives
+- **No social media profiles identified for company executives** due to access limitations
 - Website contains basic company information but no detailed organizational structure
+
+## Social Profiles
+
+- **No social profiles identified** due to technical limitations in web access

@@ -58,7 +58,12 @@ As a manufacturing-focused software development company, the company engages in 
 
 ## Research Notes
 
-- Both executives identified: 佐藤 大資 (CEO) and 松本 竜彦 (Managing Executive Officer)
-- No social media profiles found for executives due to search limitations
+- **Both executives confirmed from company website**: 佐藤 大資 (Representative Director) and 松本 竜彦 (Senior Managing Executive Officer)
+- **No social media profiles found for executives due to web access limitations** (403 Forbidden errors on external searches)
 - Company specializes in manufacturing software and holds worker dispatch license
 - Strong membership in EMS-JP consortium for electronic device development
+- **Major clients identified**: Amano Corp., Fujisoft Corp., and many other manufacturing IT companies
+
+## Social Profiles
+
+- **No social profiles identified** for executives due to technical access limitations

@@ -42,7 +42,15 @@ Focused on enabling virtual verification in pre-prototyping stages to reduce dev
 
 ## Research Notes
 
-- All 4 executives identified: 小田泰久 (CEO), 廣田正晴 (Director), 大塚隆夫 (Outside Director), 吉田勧 (Auditor)
-- No social media profiles found for executives due to search limitations
-- Company specializes in PLM and virtual verification solutions
-- Part of Zuken Group, major Japanese EDA software company
+- **All 4 executives identified**: 小田泰久 (CEO), 廣田正晴 (Director), 大塚隆夫 (Outside Director), 吉田勧 (Auditor)
+- **Company has official social media profiles** (identified from main website)
+- **Company specializes in PLM and virtual verification solutions**
+- **Part of Zuken Group**, major Japanese EDA software company
+- **Strong online presence** with active social media channels
+
+## Social Profiles
+
+- **Company Facebook**: https://www.facebook.com/ZukenPreSight
+- **Company Twitter/X**: https://x.com/ZukenPreSight
+- **Company YouTube**: https://www.youtube.com/user/presightJP
+- **No individual executive social profiles identified** due to access limitations

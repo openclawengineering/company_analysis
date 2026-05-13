@@ -222,10 +222,14 @@ The company continues to evolve from legacy systems to support fintech initiativ
 
 ## Research Notes
 
-- CEO 鈴木 澄人 identified from company website
-- No social media profiles found for CEO due to search limitations
+- **CEO 鈴木 澄人 identified from company website**
+- **No social media profiles found for executives due to web access limitations** (403 Forbidden errors on company pages)
 - Company has strong presence in financial IT services sector
-- No external media mentions identified beyond company website
+- **No additional external media mentions identified** due to search tool limitations
+
+## Social Profiles
+
+- **No social profiles identified** for executives due to technical access limitations
 
 ---
 
