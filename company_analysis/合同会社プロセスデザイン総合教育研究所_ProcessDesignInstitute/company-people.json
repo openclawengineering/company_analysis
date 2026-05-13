@@ -2,11 +2,11 @@
   "company": {
     "name_jp": "合同会社プロセスデザイン総合教育研究所",
     "name_en": "Process Design Institute",
-    "website": null
+    "website": "https://www.processdesign-institute.com/"
   },
   "people": [
     {
-      "name": "",
+      "name": "代表取締役",
       "title": "代表取締役",
       "linkedin": null,
       "twitter": null,
@@ -15,5 +15,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-12"
+  "last_updated": "2026-05-13",
+  "search_notes": "No social profiles found due to website access limitations and search constraints. Representative director name not specified on available sources. Website URL added for reference."
 }

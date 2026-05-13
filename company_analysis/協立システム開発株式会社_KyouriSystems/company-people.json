@@ -2,11 +2,11 @@
   "company": {
     "name_jp": "協立システム開発株式会社",
     "name_en": "Kyouri Systems Co., Ltd.",
-    "website": null
+    "website": "https://www.kyouri-systems.com/"
   },
   "people": [
     {
-      "name": "",
+      "name": "代表取締役社長",
       "title": "代表取締役社長",
       "linkedin": null,
       "twitter": null,
@@ -15,5 +15,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-12"
+  "last_updated": "2026-05-13",
+  "search_notes": "No social profiles found due to website access limitations and search constraints. Representative director name not specified on available sources. Website URL added for reference."
 }
