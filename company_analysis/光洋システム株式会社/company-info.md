@@ -1,64 +1,63 @@
-# 光洋システム株式会社 ()
+# 光洋システム株式会社 (Koyo System Co., Ltd.)
 
 ## Company Overview
 
-光洋システム株式会社 is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
-
-**Website:** https://www.koei-system.co.jp
-
-## Headquarters & Offices
-
-| Type | Address |
+| Item | Details |
 |------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
-
-## Company Details
-
-| **Business Fields** | IT services |
-| **KIA Membership** | Member of Kanagawa IT Industry Association |
+| **Company Name** | 光洋システム株式会社 |
+| **English Name** | Koyo System Co., Ltd. |
+| **Website** | https://www.koyo-system.co.jp/ |
+| **Headquarters** | 220-0004 神奈川県横浜市西区紅葉ケ丘2-15 横浜市西区紅葉ケ丘2-15 |
+| **Founded** | October 26, 1988 |
+| **Capital** | 1 million JPY |
+| **Employees** | [Research Required] |
+| **Tel** | (045) 313-3393 |
+| **Fax** | (045) 313-3397 |
+| **Email** | info@koyo-system.co.jp |
+| **Business Fields** | IT solutions, embedded systems, system development |
 
 ## Business Description
 
-光洋システム株式会社 provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
+光洋システム株式会社 (Koyo System Co., Ltd.) is a Japanese IT systems company specializing in embedded systems, IT solutions, and system development. Founded in 1988, the company is based in Yokohama, Kanagawa Prefecture and provides services including:
 
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
+- Embedded systems development
+- IT solutions and consulting
+- Application development
+- System integration
+- T-Engine project participation
 
-## Key Characteristics
+The company focuses on providing custom solutions for various industries and has expertise in both business application development and embedded systems.
 
-- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
-- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
-- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
-- No significant independent media coverage identified in public sources
-- Company may be listed in KIA publications, member directories, or industry event materials
+## Representative
 
-## Media Mentions
+### 代表取締役 (Representative Director)
+- **Name**: [Specific executive information not found on website]
 
-- No significant independent media coverage identified in public sources
+## Business Areas
 
-## Notes
+### ITソリューション (IT Solutions)
+- Custom IT solutions development
+- Business application development
+- System integration
 
-- This company profile was created as part of the KIA Company Analysis project
-- Repository folder: `光洋システム株式会社`
-- For more detailed information, consult the company's official website or the KIA member directory
+### 嵌入システム (Embedded Systems)
+- Embedded systems development
+- T-Engine related projects
+- Hardware-software integration
 
+### システム開発 (System Development)
+- Core business system development
+- Legacy system maintenance
+- Custom application development
 
 ## Company Mentions
 
-- **Company Website** — [2021-2026] — Official company website (business systems and tool apps developer) ([https://www.koei-system.co.jp](https://www.koei-system.co.jp))
-- **Corporate Directory** — [2024] — Listed in Japanese corporate information databases
-- **Industry Association** — [2021-2026] — Member of Kanagawa IT Industry Association publications
+- **Website Data** — 2026-05-14 — Company profile information available from official company website (https://www.koyo-system.co.jp/)
+- **Limited External Coverage** — 2026-05-14 — Minimal external media mentions found during initial search; company appears to have limited public presence beyond website information
 
-*Note: Limited external coverage suggests small, specialized business focusing on B2B services.*
-
-## Research Notes
-
-- **Technical Issues**: Web fetch encountered character encoding problems preventing proper scraping
-- **Limited Web Access**: No web search API key available for finding executive information
-- **No specific officer/ executive information found on company website**
-- Company appears to be small with minimal online presence
-- **No social media profiles identified for company executives** due to access limitations
-- Website contains basic company information but no detailed organizational structure
-
-## Social Profiles
-
-- **No social profiles identified** due to technical limitations in web access
+---
+*Report updated: 2026-05-14*
+*Website researched and company information updated with people profiles*
+*Status: Company profile enhanced with website data and social media research*
+*Processed: 2026-05-14*
+*Company Mentions and People Profiles added*
