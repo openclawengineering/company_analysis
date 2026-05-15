@@ -1,0 +1,20 @@
+{
+    "company": {
+        "name_jp": "株式会社リンク",
+        "name_en": "LINK, INC.",
+        "website": "https://www.link.co.jp"
+    },
+    "people": [
+        {
+            "name": "",
+            "title": "代表取締役社長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-15",
+    "notes": "Company website does not list executive names publicly. Company overview page has a '常勤役員' (full-time executives) section but names are not displayed. Total employees: 126."
+}

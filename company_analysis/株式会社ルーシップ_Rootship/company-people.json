@@ -1,17 +1,36 @@
 {
     "company": {
-        "name": "株式会社ルーシップ（Rootship）",
-        "name_en": "",
-        "website": ""
+        "name_jp": "株式会社ルーシップ",
+        "name_en": "Rootship Inc.",
+        "website": "https://www.rootship.co.jp"
     },
     "people": [
         {
             "name": "阿部豊",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E8%B1%8A-%E9%98%BF%E9%83%A8-8382",
-            "twitter": null
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "仁田脇武史",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "宮崎智行",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-05-15",
+    "notes": "Company has 29 employees as of April 2025. Executive information confirmed from company website. LinkedIn/Twitter profiles not found due to API limitations."
 }

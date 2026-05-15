@@ -1,0 +1,20 @@
+{
+    "company": {
+        "name_jp": "株式会社LOCUS ONE",
+        "name_en": "LOCUS ONE Co., Ltd.",
+        "website": "https://locusone.co.jp"
+    },
+    "people": [
+        {
+            "name": "橋本 康嗣",
+            "title": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-15",
+    "notes": "Company established December 2024. Only CEO information available from company website. LinkedIn/Twitter profiles not found due to API limitations."
+}

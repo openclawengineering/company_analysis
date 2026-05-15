@@ -179,5 +179,15 @@ The company positions itself as a specialist in financial IT systems, particular
 
 ---
 
-*Report generated: May 6, 2026*
+## Company Mentions
+
+- **[第26期決算]** — [2026-04-XX] — 第26期決算情報公開 ([社内資料](https://www.rlj.co.jp/ir/pdf/IR2025_RLJ.pdf))
+- **[第25期決算]** — [2025-04-XX] — 第25期決算情報公開 ([社内資料](https://www.rlj.co.jp/ir/pdf/IR2024_RLJ.pdf))
+- **[社長交代]** — [2024-07-XX] — 創業者小澤会長逝去、新CEO佐川学氏が就任 ([社内挨拶](https://www.rlj.co.jp/corporate/))
+- **[CSSグループ加入]** — [2018-06-XX] — 株式会社シー・エス・エスグループへ加入 ([社内沿革](https://www.rlj.co.jp/corporate/))
+- **[プライバシーマーク取得]** — [2008-04-XX] — プライバシーマーク認可取得 ([社内概要](https://www.rlj.co.jp/corporate/outline/))
+
+---
+
+*Report generated: May 15, 2026*
 *Data sources: Official company website (https://www.rlj.co.jp/)*

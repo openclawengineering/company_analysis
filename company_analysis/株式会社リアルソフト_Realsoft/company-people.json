@@ -1,17 +1,20 @@
 {
     "company": {
-        "name": "株式会社リアルソフト",
-        "name_en": "",
+        "name_jp": "株式会社リアルソフト",
+        "name_en": "Realsoft Inc.",
         "website": "https://www.realsoft.co.jp"
     },
     "people": [
         {
             "name": "板崎裕",
             "title": "代表取締役社長",
-            "linkedin": "https://www.linkedin.com/in/悠-板倉-57531331a/",
-            "twitter": null
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-05-15",
+    "notes": "Only CEO information confirmed from company website. LinkedIn/Twitter profiles not available due to API limitations. Company has 83 employees total but individual executive information not accessible."
 }
