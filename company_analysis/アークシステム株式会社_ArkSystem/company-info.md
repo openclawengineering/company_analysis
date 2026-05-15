@@ -35,9 +35,8 @@
 - URL: https://www.ark-sys.co.jp/
 
 ## Company Mentions
-- ipros.jp に企業プロフィール掲載あり
-- 神奈川情報サービス産業協会（KIA）会員企業
+- **神奈川情報サービス産業協会（KIA）** — 2026年 — KIA会員企業として登録 ([公式サイト](https://www.kia.or.jp/))
 
 ---
-*最終更新: 2026-04-30*
+*最終更新: 2026-05-14*
 *情報ソース: 会社ウェブサイト (ark-sys.co.jp)*

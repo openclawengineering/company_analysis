@@ -1,10 +1,19 @@
 {
-    "company": {
-        "name_jp": "メトロホールディングス株式会社",
-        "name_en": "Metro Holdings Co., Ltd.",
-        "website": ""
-    },
-    "people": [],
-    "social_profiles": [],
-    "last_updated": "2026-05-08"
+  "company": {
+    "name_jp": "メトロホールディングス株式会社",
+    "name_en": "MetroHoldings",
+    "website": null
+  },
+  "people": [
+    {
+      "name": "不明",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-10"
 }

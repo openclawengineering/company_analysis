@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "有限会社アドバンプランニング",
+    "name_en": "Ad-Van Planning Co., Ltd.",
+    "website": "https://www.ad-planning.co.jp/"
+  },
+  "people": [
+    {
+      "name": "栗山浩",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "安河内",
+      "title": "採用担当",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-07"
+}

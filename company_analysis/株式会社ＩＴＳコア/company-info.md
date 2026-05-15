@@ -66,4 +66,8 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **SalesNow** — [2026年] — [会社概要情報を掲載](https://salesnow.jp/db/companies/jcbvjx4cyhmhj79t)
+- **gBizINFO** — [2026年] — [法人基本情報を公開](https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5020001045582)
+- **ITSコア公式サイト** — [2026年] — [企業情報ページ](https://www.its-core.co.jp/gaiyou.php)
+
+*注: 公式サイトへのアクセスに一時的な問題が発生しました。上記リンクは会社情報の主要なソースです。*

@@ -1,0 +1,49 @@
+{
+  "company_name": "CLINKS株式会社",
+  "company_english_name": "CLINKS Co., Ltd.",
+  "research_date": "2026-05-14",
+  "total_officers": 0,
+  "officers": [],
+  "research_limitations": {
+    "web_search": "MiniMax API key not configured",
+    "linkedin_access": "Cannot search LinkedIn profiles",
+    "social_media_search": "Cannot search for company executives on social platforms",
+    "company_website": "Direct website access may not be available",
+    "note": "All officer information is unavailable due to current technical limitations"
+  },
+  "officer_details": {
+    "ceo": {
+      "name": "Not available",
+      "title": "Not available",
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available",
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "cto": {
+      "name": "Not available",
+      "title": "Not available", 
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available",
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "cfo": {
+      "name": "Not available",
+      "title": "Not available",
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available", 
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "other_executives": []
+  },
+  "file_information": {
+    "created": "2026-05-14 08:00 UTC",
+    "status": "placeholder",
+    "awaiting_web_search": true
+  }
+}

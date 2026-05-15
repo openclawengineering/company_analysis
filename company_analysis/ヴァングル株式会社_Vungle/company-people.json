@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "ヴァングル株式会社",
+    "name_en": "Vangle Inc.",
+    "website": "https://www.vangle.co.jp/"
+  },
+  "people": [
+    {
+      "name": "竹内 祥二",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Pham Quang Huy",
+      "title": "Vangle Tek株式会社 代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-10"
+}

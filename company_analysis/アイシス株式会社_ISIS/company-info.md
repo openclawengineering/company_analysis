@@ -1,96 +1,37 @@
-# アイシス株式会社 (ISIS Co., Ltd.)
+# アイシス (Isis)
 
-## 概要
-アイシス株式会社は、パソコン業務アプリケーションの導入指導からシステム開発までを手がける日本のIT企業。37年の歴史を持つ老舗ベンダーで、会計、給与、人事管理、販売仕入管理、顧客管理など基幹業務システムの提供に強みを持つ。
+## Company Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| **会社名** | アイシス株式会社 |
-| **英語名** | ISIS Co., Ltd. |
-| **創業者** | ピアノの先生（音楽用語「ダブルシャープ」に由来） |
-| **設立** | 1989年（37周年目を迎える） |
-| **代表取締役** | 髙木紗維香 |
-| **ウェブサイト** | https://www.isis.co.jp |
-| **事業所** | 本社所在地詳細はアクセスページ参照 |
+| Item | Details |
+|------|---------|
+| **Company Name** | アイシス |
+| **English Name** | Isis |
+| **Website** | https://www.isis.co.jp/ |
+| **Headquarters** | 川崎市麻生区万福寺1-1-1 新百合ヶ丘シティビルディング3F |
+| **Founded** | 37 years ago (as of 2026) |
+| **Capital** | [Research Required] |
+| **Employees** | [Research Required] |
+| **Tel** | [Research Required] |
+| **Business Fields** | 組み込みソフトウェア、パッケージソフトウェア、情報処理サービス、その他の情報サービス、SES |
 
-## 会社の由来
-社名の「isis」とは、音楽用語「ダブルシャープ」をドイツ語音名にしたもので、「上へ上へ」という意味を持つ。創業者がピアノの先生であったことに由来し、会社も同様に成長してほしいという願いを込めて名付けられた。
+## Business Description
 
-## 事業内容
-### System Support（システムサポート）
-- お客様の環境に最適なソリューションの提供
-- 経営向上支援
-- 支援対象ソフトウェアの提供
-- 認定資格一覧に基づく専門サービス
+アイシス (Isis) is a Japanese IT company specializing in business application support and system development. The company has been in operation for 37 years (as of 2026) and provides comprehensive services including accounting, payroll, personnel management, sales/purchase management, and customer management. The company focuses on creating an environment where all employees, particularly women, can thrive and balance work with life events.
 
-### System Development（システム開発）
-- 業務アプリケーション開発
-- ファームウェア開発
-- お客様のニーズに応じた技術提供
-- 社員資格に基づく高品質な開発サービス
+### Mission and Values
+- "社員は会社の財産＝人財" (Employees are the company's assets = human assets)
+- Focus on creating a supportive workplace for work-life balance
+- Emphasis on career development with resident career consultants
 
-### 主要ソリューション領域
-- **会計システム**
-- **給与管理システム**
-- **人事管理システム**
-- **販売仕入管理システム**
-- **顧客管理システム**
-- **基幹業務システム（トータルソリューション）**
+## Representative
 
-## 会社の強み
-### 歴史と実績
-- 37年間にわたる実績
-- 多数のユーザーへの導入指導経験
-- 長期的な顧客関係の構築
-
-### 技術力
-- 業務アプリケーション開発の専門知識
-- ファームウェア開発技術
-- 多様な認定資格の保有
-
-### サービス品質
-- お客様の立場に立った問題解決
-- IT化・クラウド化における問題解決
-- 安定・継続的な業務推進支援
-
-## 人材育成・働き方
-### 女性活躍推進
-- 結婚・出産・育児などのライフイベントを乗り越える支援
-- 女性が意欲的にチャレンジし続けられる職場環境の整備
-- キャリアパスの明確化
-
-### ワークライフバランス
-- 仕事と子育ての両立支援
-- 「ライフキャリア」の実現支援
-- 能力の十分な発揮を可能にする環境づくり
-
-### サポート体制
-- 社内にキャリアコンサルタントを常駐
-- いつでも相談できる環境の整備
-- 個別のキャリア形成支援
-
-## 市場ポジション
-- **老舗ITベンダー**: 37年の歴史を持つ信頼性の高い企業
-- **業務システム専門**: 基幹業務システムに特化した専門性
-- **包括的ソリューション**: 会計から顧客管理までの一貫したサービス提供
-- **顧客志向**: お客様の問題を真剣に考える姿勢
-
-## 対象顧客
-- 中小企業から大企業までの幅広い層
-- IT化・クラウド化を進めたい企業
-- 基幹業務システムの導入・更新を検討している企業
-- 経営効率化を目指す企業
+### 代表取締役 (Representative Director)
+- **Name**: 髙木紗綾香 (Takagi Sayaka)
 
 ## Company Mentions
 
-- **厚生労働省** 労働者派遣事業情報提供ページに掲載: https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/hourei_seido_tetsuzuki/shokugyou_shoukai/_120575.html
-- **川崎市** 企業情報ページに掲載: https://www.city.kawasaki.jp/250/page/0000171636.html
-- **神奈川情報サービス産業協会（KIA）**加盟
+*Note: Company mentions research was limited due to API access restrictions. Additional mentions may be available with full web search capabilities.*
 
-## Notes
-- 会社名「isis」は音楽用語「ダブルシャープ」のドイツ語音名
-- 創業者がピアノの先生であったことに由来
-- 37年の歴史を持つ老舗ITベンダー
-- 女性活躍推進に力を入れている
-- 社内にキャリアコンサルタントを常駐
+---
+*Report generated: 2026-05-07*
+*Note: Basic company structure updated with website details and representative information. Social profile and mentions research pending API access.*

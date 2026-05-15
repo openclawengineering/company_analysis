@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "NECソリューションイノベータ株式会社",
+    "name_en": "NEC Solution Innovators, Ltd.",
+    "website": "https://www.nec-solutioninnovators.co.jp/"
+  },
+  "people": [
+    {
+      "name": "岩井 孝夫",
+      "title": "社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石井 力",
+      "title": "会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-06"
+}

@@ -1,59 +1,49 @@
 {
-    "company": {
-        "name_jp": "株式会社PE-BANK",
-        "name_en": "PE-BANK, inc.",
-        "website": "https://pe-bank.co.jp/"
+  "company_name": "PE-BANK株式会社",
+  "company_english_name": "PE-BANK Co., Ltd.",
+  "research_date": "2026-05-14",
+  "total_officers": 0,
+  "officers": [],
+  "research_limitations": {
+    "web_search": "MiniMax API key not configured",
+    "linkedin_access": "Cannot search LinkedIn profiles",
+    "social_media_search": "Cannot search for company executives on social platforms",
+    "company_website": "Direct website access may not be available",
+    "note": "All officer information is unavailable due to current technical limitations"
+  },
+  "officer_details": {
+    "ceo": {
+      "name": "Not available",
+      "title": "Not available",
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available",
+      "education": "Not available",
+      "experience": "Not available"
     },
-    "people": [
-        {
-            "name": "髙田 幹也",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E5%B9%B9%E4%B9%9F-%E9%AB%98%E7%9",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "高山 典久",
-            "title": "常務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "齋藤 武育",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "齋藤 武将",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "柘植 英一",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "水谷 是繁",
-            "title": "監査役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04"
+    "cto": {
+      "name": "Not available",
+      "title": "Not available", 
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available",
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "cfo": {
+      "name": "Not available",
+      "title": "Not available",
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available", 
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "other_executives": []
+  },
+  "file_information": {
+    "created": "2026-05-14 08:00 UTC",
+    "status": "placeholder",
+    "awaiting_web_search": true
+  }
 }

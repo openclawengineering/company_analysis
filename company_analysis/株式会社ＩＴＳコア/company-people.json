@@ -1,7 +1,7 @@
 {
     "company": {
-        "name": "株式会社ＩＴＳコア",
-        "name_en": "",
+        "name_jp": "株式会社ＩＴＳコア",
+        "name_en": "ITS Core Co., Ltd.",
         "website": "https://www.its-core.co.jp"
     },
     "people": [
@@ -9,9 +9,11 @@
             "name": "秋田圭",
             "title": "代表取締役社長",
             "linkedin": null,
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-05-13"
 }

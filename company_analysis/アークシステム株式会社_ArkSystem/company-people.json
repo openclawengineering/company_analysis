@@ -1,35 +1,27 @@
 {
-  "company": {
-    "name_jp": "アークシステム株式会社",
-    "name_en": "Ark System Co., Ltd.",
-    "website": "https://www.ark-sys.co.jp/"
-  },
-  "people": [
-    {
-      "name": "小栁 浩克",
-      "title": "代表取締役 最高経営責任者（CEO）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+    "company": {
+        "name_jp": "アークシステム株式会社",
+        "name_en": "Ark System Co., Ltd.",
+        "website": "https://www.ark-sys.co.jp/"
     },
-    {
-      "name": "斎藤 悠貴",
-      "title": "取締役 最高執行責任者（COO）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小岩英次",
-      "title": "創業者",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-04-30"
+    "people": [
+        {
+            "name": "小栁",
+            "title": "代表取締役 最高経営責任者",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "斎藤",
+            "title": "取締役 最高執行責任者",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-05-14"
 }

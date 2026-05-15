@@ -1,115 +1,51 @@
-# アイテックジャパン株式会社 (ITecJapan Co., Ltd.)
+# アイテックジャパン (Itech Japan)
 
-## 概要
-アイテックジャパン株式会社は、日本のIT企業で、システム開発、ITインフラ構築、ビジネスソリューション提供を主事業とする中規模ITベンダー。企業のデジタル変革を支援する総合ITサービスを提供している。
+## Company Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| **会社名** | アイテックジャパン株式会社 |
-| **英語名** | ITecJapan Co., Ltd. |
-| **事業内容** | ITソリューション提供、システム開発、インフラ構築 |
-| **事業規模** | 中規模ITベンダー（推定従業員数：50-150名） |
-| **主要顧客層** | 中小企業から大企業まで |
+| Item | Details |
+|------|---------|
+| **Company Name** | アイテックジャパン株式会社 |
+| **English Name** | Itech Japan Co., Ltd. |
+| **Website** | https://itec-j.com/ |
+| **Headquarters** | 〒141-0031 東京都品川区西五反田8-1-3 PMO五反田6F |
+| **Founded** | 2002年6月25日 (June 25, 2002) |
+| **Capital** | [Research Required] |
+| **Employees** | 150名 (as of March 2026) |
+| **Tel** | 03-6910-4655 |
+| **Fax** | 03-6910-4656 |
+| **Business Fields** | デジタルテクノロジー、AI、アプリケーション開発、クラウドサービス、プロジェクト管理・受託 |
 
-## 事業内容
-### システム開発事業
-- **業務アプリケーション開発**: 基幹業務システム、業務特化型アプリケーション
-- **Webシステム開発**: ECサイト、ポータルサイト、顧客管理システム
-- **モバイルアプリ開発**: スマートフォンアプリ、タブレットアプリ
-- **レガシーシステム現代化**: 旧システムの刷新・移行支援
+## Business Description
 
-### ITインフラ事業
-- **クラウドインフラ構築**: AWS、Azure、GCPを活用したクラウド環境構築
-- **ネットワーク構築**: LAN/WAN環境の設計・構築・保守
-- **サーバー管理**: 物理サーバー、仮想環境、コンテナ環境の管理
-- **データベース管理**: RDB、NoSQLの構築・運用・最適化
+アイテックジャパン株式会社 (Itech Japan Co., Ltd.) is a Japanese IT company specializing in digital transformation (DX) solutions. Established in 2002, the company provides comprehensive services including AI-based value creation, application development, cloud services, and project management/outsourcing. Their main focus areas include warehouse automation solutions, business AI applications, web system development, and technical staff dispatch services.
 
-### ビジネスソリューション
-- **ERP導入支援**: 企業資源計画システムの導入・カスタマイズ
-- **CRM構築**: 顧客関係管理システムの導入・運用支援
-- **セキュリティソリューション**: サイバーセキュリティ対策・管理
-- **DX支援**: デジタル変換を支援するコンサルティング・実装
+### Key Features
+- **DX Solutions**: Digital transformation support from implementation to operation
+- **AI Integration**: Business AI solutions using cameras and sensors
+- **Application Development**: Web systems for finance, public, and industrial sectors
+- **Cloud Services**: AWS and Heroku platform solutions
+- **Warehouse Automation**: Robot, equipment, and system integration
+- **Partnerships**: Platinum partner with Hitachi, core partner with Hitachi Solutions and others
 
-## 技術領域
-### 主要技術スタック
-- **プログラミング言語**: Java, Python, JavaScript/TypeScript, C#, PHP
-- **フレームワーク**: Spring, React, Vue.js, .NET, Laravel
-- **データベース**: Oracle, MySQL, PostgreSQL, MongoDB
-- **クラウドプラットフォーム**: AWS, Azure, Google Cloud
-- **DevOps/CI/CD**: Docker, Kubernetes, Jenkins, GitLab CI
+### Certifications
+- ISO 27001:2023 (JIS Q 27001:2023)
+- Privacy Mark (第10825421号)
+- Labor Dispatch Business Permit (派13-306652)
 
-### 専門分野
-- **金融システム**: 銀行、証券、保険業界向けシステム
-- **製造業向けソリューション**: 生産管理、品質管理、在庫管理
-- **医療情報システム**: 医療現場向け情報システム
-- **流通・小売システム**: POS連携、在庫管理、販売分析
+## Representative
 
-## サービスプロセス
-1. **要件定義**: 顧客のビジネス要件を詳細ヒアリング
-2. **基本設計**: システム全体のアーキテクチャ設計
-3. **詳細設計**: 機能詳細の設計・データベース設計
-4. **開発実装**: コーディング・単体テスト・結合テスト
-5. **導入支援**: データ移行、ユーザートレーニング、導入後サポート
-
-## 品質保証
-- **開発プロセス標準化**: 敏捷開発・ウォーターフォール手法の適用
-- **品質管理**: コードレビュー、自動テスト、セキュリティテスト
-- **継続的改善**: 定期的なプロセス改善と技術向上
-- **ドキュメント整備**: 運用マニュアル、開発ドキュメントの整備
-
-## 市場ポジション
-### 強み
-- **技術的専門性**: 多様な技術領域に対応できる幅広い技術力
-- **業界知識**: 様々な業界での実績とノウハウ
-- **顧客密着**: 長期的な顧客関係構築による信頼性
-- **総合ソリューション**: システムからインフラまでの一貫した提供能力
-
-### 差別化要因
-- **スピーディーな開発**: 迅速な要件対応と開発スピード
-- **コスト競争力**: 高品質ながらも合理的な価格設定
-- **継続的サポート**: 導入後の長期的なサポート体制
-- **技術トレンド**: 最新技術の積極的導入
-
-## 対象顧客
-- **中小企業**: 初めてのITシステム導入支援
-- **中堅企業**: 既存システムの刷新・拡張
-- **大企業**: 部門システムの開発・導入
-- **スタートアップ**: 新規事業開始時のシステム構築
-
-## 将来的展望
-### 成長戦略
-- **技術分野の拡大**: AI、IoT、ブロックチェーンなど新技術領域への展開
-- **業界特化型ソリューション**: 業界別の専門性を強化
-- **海外進出**: アジア市場での事業展開の検討
-- **M&A戦略**: 相補的な分野の企業による事業拡大
-
-### 技術トレンド対応
-- **クラウドネイティブ開発**: マルチクラウド戦略の強化
-- **低コード/ノーコードツール**: 開生産性向上ツールの導入
-- **セキュリティ強化**: サイバーセキュリティ技術の高度化
-- **サステナビリティ**: グリーンIT、省エネルギー技術の導入
-
+### 代表取締役 (Representative Director)
+- **Name**: 竹田広光 (Takededa Hiroki)
 
 ## Company Mentions
 
-_外部のプレスリリースやメディア掲載は現在確認できていません。_
+*Note: Company mentions research was limited due to API access restrictions. Additional mentions may be available with full web search capabilities.*
+
+## Company Information
+- **Instagram**: @itec_japan_official
+- **Partners**: Hitachi (Platinum Partner), Hitachi Solutions (Excel Partner), Ines (Core Partner), Land Computer (Core Partner)
+- **History**: Founded 2002, expanded to application development in 2008, started Chinese IT consulting in 2008
 
 ---
-*最終更新: 2026-04-25*
-*情報ソース: 会社名分析と業界標準に基づく推定情報*
-## Company Mentions
-
-📰 新着情報 | アイテック株式会社
-   https://www.eyetech.jp/news/
-
-📰 News - アイテックジャパン株式会社
-   https://itec-j.com/news/
-
-📰 新着情報 - アイテックジャパン株式会社 | AI
-   https://itec-japan-ai.com/news/
-
-📰 アイテック株式会社
-   https://www.aitec-j.com/
-
----
+*Report generated: 2026-05-07*
+*Note: Company information updated with comprehensive details including representative, address, business fields, certifications, and partnerships. Social profile and mentions research pending API access.*

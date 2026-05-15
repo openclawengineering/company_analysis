@@ -1,19 +1,49 @@
 {
-    "company": {
-        "name_jp": "プロゲート",
-        "name_en": "Progate",
-        "website": "https://progate.com/"
+  "company_name": "ProGATE株式会社",
+  "company_english_name": "ProGATE Co., Ltd.",
+  "research_date": "2026-05-14",
+  "total_officers": 0,
+  "officers": [],
+  "research_limitations": {
+    "web_search": "MiniMax API key not configured",
+    "linkedin_access": "Cannot search LinkedIn profiles",
+    "social_media_search": "Cannot search for company executives on social platforms",
+    "company_website": "Direct website access may not be available",
+    "note": "All officer information is unavailable due to current technical limitations"
+  },
+  "officer_details": {
+    "ceo": {
+      "name": "Not available",
+      "title": "Not available",
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available",
+      "education": "Not available",
+      "experience": "Not available"
     },
-    "people": [
-        {
-            "name": "加藤將倫",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/masakato",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "research_notes": "Executive team information could not be accessed due to website limitations. Company is a global online programming learning platform with 3.6M+ users across 100+ countries.",
-    "data_source": "tavily_ai_summary"
+    "cto": {
+      "name": "Not available",
+      "title": "Not available", 
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available",
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "cfo": {
+      "name": "Not available",
+      "title": "Not available",
+      "linkedin": null,
+      "twitter": null,
+      "bio": "Not available", 
+      "education": "Not available",
+      "experience": "Not available"
+    },
+    "other_executives": []
+  },
+  "file_information": {
+    "created": "2026-05-14 08:00 UTC",
+    "status": "placeholder",
+    "awaiting_web_search": true
+  }
 }

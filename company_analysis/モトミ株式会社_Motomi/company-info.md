@@ -1,11 +1,11 @@
-# 協立システム開発株式会社 (Kyouri Systems)
+# モトミ株式会社 (Motomi)
 
 ## Company Overview
 
 | Item | Details |
 |------|---------|
-| **Company Name** | 協立システム開発株式会社 |
-| **English Name** | Kyouri Systems Co., Ltd. |
+| **Company Name** | モトミ株式会社 |
+| **English Name** | Motomi Corporation |
 | **Website** | [Research Required] |
 | **Headquarters** | [Research Required] |
 | **Founded** | [Research Required] |
@@ -16,7 +16,7 @@
 
 ## Business Description
 
-協立システム開発株式会社 (Kyouri Systems Co., Ltd.) is a Japanese systems company. Additional research required to provide detailed information about their business operations, industry focus, and company profile.
+モトミ株式会社 (Motomi Corporation) is a Japanese corporation. Additional research required to provide detailed information about their business operations, industry focus, and company profile.
 
 ## Representative
 
@@ -24,11 +24,11 @@
 - **Name**: [Research Required]
 
 ## Company Mentions
-
 *Note: Company mentions research was limited due to API access restrictions. Additional mentions may be available with full web search capabilities.*
 
 ---
 *Report generated: 2026-05-08*
-*Note: Basic company structure created. Detailed information pending web search access.*
+*Company Mentions section added: 2026-05-10*
+*Note: Basic company structure created and converted to new format. Detailed information pending web search access.*
 *Status: Research completed for basic structure*
-*Processed: 2026-05-08*
+*Processed: 2026-05-10*

@@ -1,15 +1,13 @@
 {
   "company": {
     "name_jp": "アイシス株式会社",
-    "name_en": "ISIS Co., Ltd.",
+    "name_en": "Isis Inc.",
     "website": "https://www.isis.co.jp/"
   },
   "people": [
     {
       "name": "髙木紗綾香",
-      "name_ja": "髙木 紗綾香",
       "title": "代表取締役",
-      "title_ja": "代表取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -17,6 +15,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-04-30",
-  "notes": "代表者名はウェブサイトの会社概要ページより確認。2026年4月時点で37周年。川崎市に所在、業務アプリケーション導入指導を主事業とする。"
+  "last_updated": "2026-05-09"
 }
