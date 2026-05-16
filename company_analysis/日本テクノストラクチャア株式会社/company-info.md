@@ -1,87 +1,69 @@
-# 日本テクノストラクチャア株式会社 (Nihon TechnoStructure Co., Ltd. / TESCO)
+# Company Research: 日本テクノストラクチャア株式会社 (Japan Technostructure Co., Ltd.)
+
+## Basic Information
+- **Company Name**: 日本テクノストラクチャア株式会社 (Japan Technostructure Co., Ltd.)
+- **English Name**: Japan Technostructure Co., Ltd.
+- **Keywords**: 日本テクノストラクチャア, Japan Technostructure, テクノストラクチャア, Technostructure, [additional keywords to be researched]
+- **Website**: [To be researched]
 
 ## Company Overview
+**Status**: Research in progress - Limited by web search functionality
 
-Nihon TechnoStructure Co., Ltd. (branded as "TESCO") is a system development company founded in 1975, celebrating its 50th anniversary. With 277 employees and offices across 7 locations in Japan (Tokyo, Yokohama, Mito, Hitachi, Nagoya, Osaka, Fukuoka), TESCO develops computer software systems centered on applications. The company has long been trusted as a "best partner" by major manufacturers, contributing to the development of critical social infrastructure.
+**Current Limitations:**
+- MiniMax API key not configured - Cannot perform web search
+- Company websites may not be accessible
+- Cannot extract detailed company information at this time
 
-**Website:** https://www.nihon-tesco.co.jp/
+### Expected Research Areas (when web search is available):
+1. **Company Background**
+   - Founded date
+   - Company size (employees, capital)
+   - Business focus areas
+   - Industry classification
 
-## History
+2. **Products/Services**
+   - Main products and services offered
+   - Target markets
+   - Technology stack
 
-- **1975** - Company founded
-- **2026** - Celebrating 50th anniversary
+3. **Market Position**
+   - Competitors in the same space
+   - Market share (if available)
+   - Unique selling propositions
 
-## Capital & Employees
+4. **Vending Machine Industry Relevance**
+   - Involvement in vending machine management
+   - Software solutions for operators
+   - Integration capabilities with vending systems
 
-| Item | Details |
-|------|---------|
-| **Capital** | 100,000,000 JPY |
-| **Employees** | 277 |
-| **Representative** | Kazuya Furuichi |
-| **Headquarters** | TOP Building, 1-10-3 Fuchu-cho, Fuchu, Tokyo 183-0055 |
-| **Offices** | Shin-Yokohama, Mito, Hitachi Technical Center, Nagoya Technical Center, Osaka Technical Center, Fukuoka Technical Center |
+5. **Partnership Potential**
+   - Existing relationships with vending machine operators
+   - Willingness to integrate external services
+   - Technical compatibility
 
-## Products & Services
+## Analysis Categories
+### Category Assessment (to be completed)
+- [ ] Category 1: Vending Machine Management Software Developers
+- [ ] Category 2: Legacy Vending Machine Operators with In-House Systems
+- [ ] Category 3: Payment & Financial Service Providers for Vending
+- [ ] Category 4: Equipment Maintenance & Service Companies
+- [ ] Category 5: IoT & Remote Monitoring Solution Providers
 
-### Core Business Areas
-- Application-centered computer software system development
-- Quality assurance services
-- PMO support services
-- Maintenance and operation services
+### Target Market Fit (to be assessed)
+- **High Fit** [ ] 
+- **Medium Fit** [ ]
+- **Low Fit** [ ]
 
-### Solution Domains
-- **Security**
-- **Healthcare**
-- **Cashless Payments**
-- **SCM (Supply Chain Management)** - Logistics/delivery management, store product management
-- **Public Infrastructure** - Disaster prevention, ETC, water management, broadcasting
-- **IoT Systems** - Residential/non-residential IoT, edge computing, cloud computing, network computing
-- **Automotive Systems**
-- **Digital Manufacturing**
+## Research Priority
+- **Priority Level**: Medium (pending detailed research)
+- **Geographic Focus**: [To be determined]
+- **Size Profile**: [To be determined]
 
-### Key Technology Partners
-- Panasonic System Design Co., Ltd.
-- Panasonic System Networks Development Laboratory
-- Toshiba Corporation
-- Toshiba Infrastructure Systems & Solutions
-- Toshiba Digital Solutions
-- Hitachi Information & Communication Engineering
-- System Research Co., Ltd.
-- CEC
-- Nippon Steel & Hitachi Systems Solutions
-- Konica Minolta
-- Glory Ltd.
-
-## Philosophy
-- Contributing to the informatization of communities, daily life, and people through products, solutions, and services
-- Becoming a company with flexible thinking and a challenging spirit, full of purposeful work
-
-## Memberships
-- Information Services Industry Association (JISA)
-- Ibaraki Information Services Industry Association
-- Kanagawa Information Services Industry Association (KIA)
-
-## Media Mentions
-
-- [Instagram @tesco_1975](https://www.instagram.com/tesco_1975/) - "Systems that make people happy" - 50-year established IT company
-- [Mynavi New Graduate Recruitment](https://job.mynavi.jp/27/pc/search/corp77845/outline.html) - "A young engineer's company" with growth potential
-- [CareerTasu Company Info](https://job.career-tasu.jp/corp/00024011/detail-uc/) - Company details
-- [Syukatsu Kaigi](https://syukatsu-kaigi.jp/companies/69934) - Employee reviews (73 entries)
-- [CareerMap](https://www.careermap.jp/corporations/110623) - Management philosophy and company information
-- [doda](https://doda.jp/) - Mid-career recruitment (salary examples: 4.17M JPY at age 25, 4.85M JPY at age 27, 7M JPY at age 32+)
-
-## Notes
-
-- 50-year established IT company with nationwide presence
-- Strong focus on social infrastructure and IoT systems
-- Described as a "young and energetic group of engineers"
-- Offices across 7 major Japanese cities
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+## Next Steps
+1. Web search functionality restoration needed
+2. Company website access verification
+3. Detailed industry research when tools available
 
 ---
-
-*Report generated: April 2026*
+*Research Date: May 16, 2026*
+*Status: Placeholder - Detailed research pending tool availability*

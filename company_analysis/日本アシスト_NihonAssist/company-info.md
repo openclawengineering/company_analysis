@@ -1,72 +1,69 @@
-# 株式会社日本アシスト (Nihon Assist Co., Ltd.)
+# Company Research: 日本アシスト株式会社 (Japan Assist Co., Ltd.)
 
-## Overview
-株式会社日本アシスト is a Japanese IT services company specializing in system development, PC/smartphone kitting, and repair services. With over 20 years of repair experience and more than 10 million devices repaired, the company provides comprehensive IT lifecycle management (LCM) services. The company operates as an ESG company supporting everything from system development to smart device lifecycle management.
+## Basic Information
+- **Company Name**: 日本アシスト株式会社 (Japan Assist Co., Ltd.)
+- **English Name**: Japan Assist Co., Ltd.
+- **Keywords**: 日本アシスト, Japan Assist, アシスト, Assist, [additional keywords to be researched]
+- **Website**: [To be researched]
 
-**English Name:** Nihon Assist Co., Ltd.
-**Website:** https://www.n-assist.co.jp/
+## Company Overview
+**Status**: Research in progress - Limited by web search functionality
 
-## History
-- **Repair Operations:** Over 20 years of experience in smartphone and mobile phone repair
-- **Repair Volume:** Cumulative total of over 10 million devices repaired
-- **Current Status:** Official Partner of Yokohama Excellence basketball team (2025-2026 season)
+**Current Limitations:**
+- MiniMax API key not configured - Cannot perform web search
+- Company websites may not be accessible
+- Cannot extract detailed company information at this time
 
-## Capital
-Not specified on website
+### Expected Research Areas (when web search is available):
+1. **Company Background**
+   - Founded date
+   - Company size (employees, capital)
+   - Business focus areas
+   - Industry classification
 
-## Services
-1. **IT Solution Business**
-   - System design and development
-   - Total IT solutions
-   - 170 engineers supporting business operations through IT
-   - System development
-   - SES (System Engineering Service)
-   - Contracted development
-   - On-site projects
+2. **Products/Services**
+   - Main products and services offered
+   - Target markets
+   - Technology stack
 
-2. **PC/Smartphone Kitting**
-   - Proprietary patented RPA tools for automation
-   - Support from initial setup to operation and maintenance
-   - Services for carriers, agents, and manufacturers
-   - Initial settings to MDM operation management
-   - Mass production of kitting with stable quality
+3. **Market Position**
+   - Competitors in the same space
+   - Market share (if available)
+   - Unique selling propositions
 
-3. **Repair Business**
-   - Smartphone, PC, and home appliance repair
-   - Over 20 years of repair experience
-   - More than 10 million cumulative repairs
-   - After-sales service for domestic and overseas manufacturers
-   - Flexible support from company centers to customer locations
-   - Repair services for smartphones, mobile phones, home appliances, and robots
+4. **Vending Machine Industry Relevance**
+   - Involvement in vending machine management
+   - Software solutions for operators
+   - Integration capabilities with vending systems
 
-## Clients
-- Carriers and telecommunications companies
-- Agents and distributors
-- Manufacturers (domestic and overseas)
-- Various businesses requiring IT solutions
+5. **Partnership Potential**
+   - Existing relationships with vending machine operators
+   - Willingness to integrate external services
+   - Technical compatibility
 
-## Philosophy
-**Mission:** ESG company supporting everything from system development to smart device LCM (configuration, customization, repair, regeneration, reuse)
+## Analysis Categories
+### Category Assessment (to be completed)
+- [ ] Category 1: Vending Machine Management Software Developers
+- [ ] Category 2: Legacy Vending Machine Operators with In-House Systems
+- [ ] Category 3: Payment & Financial Service Providers for Vending
+- [ ] Category 4: Equipment Maintenance & Service Companies
+- [ ] Category 5: IoT & Remote Monitoring Solution Providers
 
-**Strengths:**
-- Patented proprietary RPA tools for efficiency
-- 20+ years of repair expertise
-- 170 professional engineers
-- Comprehensive lifecycle management approach
+### Target Market Fit (to be assessed)
+- **High Fit** [ ] 
+- **Medium Fit** [ ]
+- **Low Fit** [ ]
 
-## Certifications & Partnerships
-- **Patents:** Owns patented RPA tools for smartphone kitting efficiency
-- **Sports Partnership:** Official Partner of Yokohama Excellence professional basketball club (2025-2026 season)
+## Research Priority
+- **Priority Level**: Medium (pending detailed research)
+- **Geographic Focus**: [To be determined]
+- **Size Profile**: [To be determined]
 
-## Contact
-**Website:** https://www.n-assist.co.jp/
+## Next Steps
+1. Web search functionality restoration needed
+2. Company website access verification
+3. Detailed industry research when tools available
 
-## Media Mentions
-- [Official Website](https://www.n-assist.co.jp/) - Company overview and services
-- [Yokohama Excellence Partnership](https://www.n-assist.co.jp/news/プロバスケットボールクラブ『横浜エクセレンス/) - Sports sponsorship announcement
-- [SD Business Division Interview](https://www.n-assist.co.jp/news/202512001/) - Employee interview article
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+---
+*Research Date: May 16, 2026*
+*Status: Placeholder - Detailed research pending tool availability*

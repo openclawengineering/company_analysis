@@ -1,9 +1,9 @@
-# Company Research: 有限会社キューブ (Cube LLC)
+# Company Research: 新明和ソフトテクノロジ株式会社 (Shinmeiwa Soft Technology Co., Ltd.)
 
 ## Basic Information
-- **Company Name**: 有限会社キューブ (Cube LLC)
-- **English Name**: Cube LLC
-- **Keywords**: キューブ, Cube, 有限会社, LLC, [additional keywords to be researched]
+- **Company Name**: 新明和ソフトテクノロジ株式会社 (Shinmeiwa Soft Technology Co., Ltd.)
+- **English Name**: Shinmeiwa Soft Technology Co., Ltd.
+- **Keywords**: 新明和, Shinmeiwa, ソフトテクノロジ, Soft Technology, [additional keywords to be researched]
 - **Website**: [To be researched]
 
 ## Company Overview
@@ -57,7 +57,7 @@
 ## Research Priority
 - **Priority Level**: Medium (pending detailed research)
 - **Geographic Focus**: [To be determined]
-- **Size Profile**: [To be determined] (Note: LLC structure suggests smaller company)
+- **Size Profile**: [To be determined]
 
 ## Next Steps
 1. Web search functionality restoration needed
@@ -67,5 +67,3 @@
 ---
 *Research Date: May 16, 2026*
 *Status: Placeholder - Detailed research pending tool availability*
----
-**Note**: Limited Liability Company (LLC) structure suggests smaller company size. May be in Category 2 or 3 target profiles.

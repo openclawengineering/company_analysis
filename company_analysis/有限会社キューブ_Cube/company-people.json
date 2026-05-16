@@ -1,17 +1,23 @@
 {
-    "company": {
-        "name": "有限会社キューブ",
-        "name_en": "",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "澄川春成",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "有限会社キューブ (Cube LLC)",
+  "english_name": "Cube LLC",
+  "key_people": [],
+  "executives": [],
+  "technical_leads": [],
+  "business_contacts": [],
+  "research_notes": {
+    "limitations": "Web search functionality disabled due to MiniMax API key configuration",
+    "website_access": "Company website access may be limited",
+    "data_sources": "Public information unavailable at current time",
+    "next_steps": "Resume research when web search tools become available"
+  },
+  "contact_potential": {
+    "executive_team": "Unknown",
+    "technical_team": "Unknown", 
+    "business_development": "Unknown",
+    "partnership_contacts": "Unknown"
+  },
+  "last_updated": "2026-05-16",
+  "research_status": "placeholder",
+  "estimated_research_completion": "Pending web search functionality restoration"
 }

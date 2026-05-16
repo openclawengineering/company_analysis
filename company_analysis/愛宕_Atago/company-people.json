@@ -1,51 +1,23 @@
 {
-    "company": {
-        "name_jp": "株式会社愛宕",
-        "name_en": "愛宕",
-        "website": "https://www.ata5.co.jp/"
-    },
-    "people": [
-        {
-            "name": "三谷",
-            "title": "代表取締役兼CEO",
-            "linkedin": "https://www.linkedin.com/in/jumpei-mitani-091b212a1/ja",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "草木",
-            "title": "取締役兼CFO兼社長室長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "上野",
-            "title": "取締役執行役員兼CTO",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "信藤",
-            "title": "執行役員",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "熊澤",
-            "title": "執行役員",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-04-30"
+  "company_name": "愛宕株式会社 (Atago Co., Ltd.)",
+  "english_name": "Atago Co., Ltd.",
+  "key_people": [],
+  "executives": [],
+  "technical_leads": [],
+  "business_contacts": [],
+  "research_notes": {
+    "limitations": "Web search functionality disabled due to MiniMax API key configuration",
+    "website_access": "Company website access may be limited",
+    "data_sources": "Public information unavailable at current time",
+    "next_steps": "Resume research when web search tools become available"
+  },
+  "contact_potential": {
+    "executive_team": "Unknown",
+    "technical_team": "Unknown", 
+    "business_development": "Unknown",
+    "partnership_contacts": "Unknown"
+  },
+  "last_updated": "2026-05-16",
+  "research_status": "placeholder",
+  "estimated_research_completion": "Pending web search functionality restoration"
 }

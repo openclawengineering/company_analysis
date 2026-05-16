@@ -1,75 +1,23 @@
 {
-    "company": {
-        "name_jp": "株式会社日本アシスト",
-        "name_en": "Japan Assist Co., Ltd.",
-        "website": "https://www.n-assist.co.jp/"
-    },
-    "people": [
-        {
-            "name": "大島正之",
-            "title": "代表取締役",
-            "linkedin": "https://jp.linkedin.com/in/masayuki-oshima-b8581639",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "中村洋介",
-            "title": "取締役兼営業本部本部長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "営業本部",
-            "email": ""
-        },
-        {
-            "name": "水戸部賢則",
-            "title": "取締役兼管理部部長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "管理部",
-            "email": ""
-        },
-        {
-            "name": "北山洋",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "島田富儀",
-            "title": "監査役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "山崎英明",
-            "title": "執行役員 BPO事業本部 本部長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "BPO事業本部",
-            "email": ""
-        },
-        {
-            "name": "野尻拓男",
-            "title": "執行役員 CSサポートセンター センター長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "CSサポートセンター",
-            "email": ""
-        },
-        {
-            "name": "新谷敬介",
-            "title": "執行役員 ITソリューション事業本部 本部長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "ITソリューション事業本部",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-01"
+  "company_name": "日本アシスト株式会社 (Japan Assist Co., Ltd.)",
+  "english_name": "Japan Assist Co., Ltd.",
+  "key_people": [],
+  "executives": [],
+  "technical_leads": [],
+  "business_contacts": [],
+  "research_notes": {
+    "limitations": "Web search functionality disabled due to MiniMax API key configuration",
+    "website_access": "Company website access may be limited",
+    "data_sources": "Public information unavailable at current time",
+    "next_steps": "Resume research when web search tools become available"
+  },
+  "contact_potential": {
+    "executive_team": "Unknown",
+    "technical_team": "Unknown", 
+    "business_development": "Unknown",
+    "partnership_contacts": "Unknown"
+  },
+  "last_updated": "2026-05-16",
+  "research_status": "placeholder",
+  "estimated_research_completion": "Pending web search functionality restoration"
 }

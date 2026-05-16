@@ -1,78 +1,69 @@
-# 日興テクノス株式会社 (Nikko Technos Co., Ltd.)
+# Company Research: 日興テクノス株式会社 (Nikko Technos Co., Ltd.)
+
+## Basic Information
+- **Company Name**: 日興テクノス株式会社 (Nikko Technos Co., Ltd.)
+- **English Name**: Nikko Technos Co., Ltd.
+- **Keywords**: 日興テクノス, Nikko Technos, テクノス, Technos, 日興, Nikko, [additional keywords to be researched]
+- **Website**: [To be researched]
 
 ## Company Overview
+**Status**: Research in progress - Limited by web search functionality
 
-日興テクノス株式会社は、1946年（昭和21年）9月に電話設備工事業者として創業したICT総合インテグレーターである。「誠実と信頼」の経営理念のもと、南関東を中心に企画・販売・構築・導入・運用・保守までのICTを中心としたオフィスに関わる製品・サービスをワンストップで提供している。創業79年の歴史を持つ老舗IT企業。
+**Current Limitations:**
+- MiniMax API key not configured - Cannot perform web search
+- Company websites may not be accessible
+- Cannot extract detailed company information at this time
 
-「ネットワーク」「ソリューション」「ヘルスケア」「スマートオフィス」の4つの分野を柱として展開。データ管理システム構築、コンピュータ販売、情報通信設備工事、防犯カメラ販売、予約管理ソフトウェア開発など幅広いサービスを提供する。
+### Expected Research Areas (when web search is available):
+1. **Company Background**
+   - Founded date
+   - Company size (employees, capital)
+   - Business focus areas
+   - Industry classification
 
-**Website:** [https://www.nikko-technos.com](https://www.nikko-technos.com)
+2. **Products/Services**
+   - Main products and services offered
+   - Target markets
+   - Technology stack
 
-## History
+3. **Market Position**
+   - Competitors in the same space
+   - Market share (if available)
+   - Unique selling propositions
 
-- **1946年9月** — 電話設備工事業者として創業
-- **1949年12月** — 株式会社設立
-- 通信・PC、工事・土木、広告・制作など多岐にわたる事業展開
-- ICT総合インテグレーターへ転換
-- 現在 — 南関東を中心に「ネットワーク」「ソリューション」「ヘルスケア」「スマートオフィス」の4分野を展開
+4. **Vending Machine Industry Relevance**
+   - Involvement in vending machine management
+   - Software solutions for operators
+   - Integration capabilities with vending systems
 
-## Capital & Employees
+5. **Partnership Potential**
+   - Existing relationships with vending machine operators
+   - Willingness to integrate external services
+   - Technical compatibility
 
-| Field | Value |
-|-------|-------|
-| Capital | 2,000万円 |
-| Employees | 90名 |
-| Revenue | 約35億円 |
-| Founded | 1949年12月（創業：1946年9月） |
-| Representative | 代表取締役 長谷川 浩正 |
-| Headquarters | 神奈川県横浜市磯子区森3-3-5 |
-| Corporate Number | 3020001003220 |
+## Analysis Categories
+### Category Assessment (to be completed)
+- [ ] Category 1: Vending Machine Management Software Developers
+- [ ] Category 2: Legacy Vending Machine Operators with In-House Systems
+- [ ] Category 3: Payment & Financial Service Providers for Vending
+- [ ] Category 4: Equipment Maintenance & Service Companies
+- [ ] Category 5: IoT & Remote Monitoring Solution Providers
 
-## Services/Products
+### Target Market Fit (to be assessed)
+- **High Fit** [ ] 
+- **Medium Fit** [ ]
+- **Low Fit** [ ]
 
-### ネットワーク分野
-- ネットワーク機器の設計・販売・構築
-- 情報通信設備工事
+## Research Priority
+- **Priority Level**: Medium (pending detailed research)
+- **Geographic Focus**: [To be determined]
+- **Size Profile**: [To be determined]
 
-### ソリューション分野
-- データ管理システム構築
-- コンピュータ販売
-- 業務系システム構築
+## Next Steps
+1. Web search functionality restoration needed
+2. Company website access verification
+3. Detailed industry research when tools available
 
-### ヘルスケア分野
-- 医療・介護関連ICTソリューション
-
-### スマートオフィス分野
-- オフィス環境構築
-- 防犯カメラ販売
-
-## Clients
-
-- 自治体・官公庁
-- 南関東の地域企業
-- 医療・介護施設
-
-## Philosophy
-
-- 「誠実と信頼」の経営理念
-- 地域企業のニーズに真摯に向き合う
-- お客様の課題をICT技術で解決する
-
-## Media Mentions
-
-- [日興テクノス公式サイト](https://www.nikko-technos.com/company/) — 会社案内
-- [横浜オープンカンパニー](https://yokohama-cci-fair.com/company/nikko-technos/) — 企業PR
-- [東京中小企業投資育成](https://www.sbic.co.jp/investeecompany/detail/index.php?id=2447) — 投資企業情報
-- [SalesNow](https://salesnow.jp/db/companies/jcbugk18f8ggw612) — 会社概要
-- [Gビズインフォ](https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3020001003220) — 法人情報
-
-## Notes
-
-- 創業79年の老舗企業
-- 電話設備工事からICTインテグレーターへ転換
-- 東京中小企業投資育成株式会社の投資先企業
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+---
+*Research Date: May 16, 2026*
+*Status: Placeholder - Detailed research pending tool availability*

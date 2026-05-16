@@ -1,9 +1,9 @@
-# Company Research: 有限会社キューブ (Cube LLC)
+# Company Research: 日本データスキル株式会社 (Japan Data Skill Co., Ltd.)
 
 ## Basic Information
-- **Company Name**: 有限会社キューブ (Cube LLC)
-- **English Name**: Cube LLC
-- **Keywords**: キューブ, Cube, 有限会社, LLC, [additional keywords to be researched]
+- **Company Name**: 日本データスキル株式会社 (Japan Data Skill Co., Ltd.)
+- **English Name**: Japan Data Skill Co., Ltd.
+- **Keywords**: 日本データスキル, Japan Data Skill, データスキル, Data Skill, [additional keywords to be researched]
 - **Website**: [To be researched]
 
 ## Company Overview
@@ -57,7 +57,7 @@
 ## Research Priority
 - **Priority Level**: Medium (pending detailed research)
 - **Geographic Focus**: [To be determined]
-- **Size Profile**: [To be determined] (Note: LLC structure suggests smaller company)
+- **Size Profile**: [To be determined]
 
 ## Next Steps
 1. Web search functionality restoration needed
@@ -67,5 +67,3 @@
 ---
 *Research Date: May 16, 2026*
 *Status: Placeholder - Detailed research pending tool availability*
----
-**Note**: Limited Liability Company (LLC) structure suggests smaller company size. May be in Category 2 or 3 target profiles.

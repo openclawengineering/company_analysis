@@ -1,18 +1,23 @@
 {
-    "company": {
-        "name_jp": "有限会社シンク",
-        "name_en": "シンク",
-        "website": "https://think-gd.jp/web/"
-    },
-    "people": [
-        {
-            "name": "白石 直樹",
-            "title": "代表取締役",
-            "linkedin": "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E7%99%BD%E7%9",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "有限会社シンク (Think LLC)",
+  "english_name": "Think LLC",
+  "key_people": [],
+  "executives": [],
+  "technical_leads": [],
+  "business_contacts": [],
+  "research_notes": {
+    "limitations": "Web search functionality disabled due to MiniMax API key configuration",
+    "website_access": "Company website access may be limited",
+    "data_sources": "Public information unavailable at current time",
+    "next_steps": "Resume research when web search tools become available"
+  },
+  "contact_potential": {
+    "executive_team": "Unknown",
+    "technical_team": "Unknown", 
+    "business_development": "Unknown",
+    "partnership_contacts": "Unknown"
+  },
+  "last_updated": "2026-05-16",
+  "research_status": "placeholder",
+  "estimated_research_completion": "Pending web search functionality restoration"
 }
