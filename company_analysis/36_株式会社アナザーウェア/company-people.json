@@ -2,9 +2,18 @@
   "company": {
     "name_jp": "株式会社アナザーウェア",
     "name_en": "Another Ware Corporation",
-    "website": "http://www.another-ware.co.jp/"
+    "website": "https://www.another-ware.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "鈴木 晶",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-05-16"
 }
