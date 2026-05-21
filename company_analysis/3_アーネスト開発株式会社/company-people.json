@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "アーネスト開発株式会社",
+    "name_en": "Earnest Development Co., Ltd.",
+    "website": "https://www.earnestdevelopment.co.jp/"
+  },
+  "people": [
+    {
+      "name": "野崎英昭",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "岩井明子",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西田誠",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山下剛",
+      "title": "",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-21"
+}
