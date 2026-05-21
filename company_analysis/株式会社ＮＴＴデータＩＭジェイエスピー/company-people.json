@@ -1,17 +1,10 @@
 {
-    "company": {
-        "name": "株式会社ＮＴＴデータＩＭジェイエスピー",
-        "name_en": "",
-        "website": "https://www.jspnet.co.jp/"
-    },
-    "people": [
-        {
-            "name": "平松淳",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E5%92%8C%E5%8D%9A-%E5%B9%B3%E6%9",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社ＮＴＴデータＩＭジェイエスピー",
+    "name_en": "NTT Data IM JSP Corporation",
+    "website": "https://www.jspnet.co.jp"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-05-21"
 }

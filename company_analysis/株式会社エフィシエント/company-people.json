@@ -1,17 +1,10 @@
 {
-    "company": {
-        "name": "株式会社エフィシエント",
-        "name_en": "",
-        "website": "https://efficient-inc.com/"
-    },
-    "people": [
-        {
-            "name": "脇坂健一郎",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E4%B8%80%E9%83%8E-%E8%8",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社エフィシエント",
+    "name_en": "Efficient Corporation",
+    "website": "https://efficient-inc.com"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-05-21"
 }

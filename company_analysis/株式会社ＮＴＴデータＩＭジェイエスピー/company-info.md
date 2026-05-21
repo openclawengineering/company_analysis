@@ -1,47 +1,23 @@
-# 株式会社ＮＴＴデータＩＭジェイエスピー ()
+# 株式会社ＮＴＴデータＩＭジェイエスピー
 
-## Company Overview
+## 概要
+- **会社名**: 株式会社ＮＴＴデータＩＭジェイエスピー
+- **所在地**: 220-0011　横浜市西区高島2-6-32　横浜東口ウィスポートビル11F
+- **事業内容**: 受託開発ソフトウェア、組み込みソフトウェア、パッケージソフトウェア、情報処理サービス、ネットワーク・通信関連
+- **特徴**: AI・IoT技術に強みのあるIT企業です。特にIoTシステムの知見が多くあり、センシングを活用した工場の稼働監視システムやペットの見守りシステムなどの開発実績があります。開発したシステムはビジネスから身近な生活まで、幅広く社会を支えています。【お客様のビジネス変革・拡大を支援】企業DX、工場スマート化【社会基盤を支える分野】通信、エネルギー、EV、金融、組込みなど、手掛けるシステムは多岐にわたります。「Smile Engineering」はお客様、社会、システムを開発する自分たちも笑顔にするモノづくり。この考えを大切に、笑顔あふれる社会の発展に貢献します。
+- **採用情報**: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣
 
-株式会社ＮＴＴデータＩＭジェイエスピー is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
+## 研究状況
 
-**Website:** https://www.jspnet.co.jp/
+### 現在の制約
+- **Web検索機能**: MiniMax APIキーが未設定のため、現在会社情報、LinkedInプロフィール、ニュース記事の検索ができません
+- **Webサイトアクセス**: 直接的なウェブサイトへのアクセス制限があるため、会社情報の抽出が制限されています
+- **プロフィール情報**: 役員情報、従業員情報、ソーシャルメディアプロフィールの収集が現在できません
 
-## Headquarters & Offices
+### 準備中の項目
+- **Company Mentions**: ニュース、ブログ、メディア記事の追記（Web検索機能復旧後）
+- **LinkedIn & Twitter URLs**: 役員・担当者のソーシャルメディアプロフィールURLの追加（Web検索機能復旧後）
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
+---
 
-## Company Details
-
-| **Business Fields** | IT services |
-| **KIA Membership** | Member of Kanagawa IT Industry Association |
-
-## Business Description
-
-株式会社ＮＴＴデータＩＭジェイエスピー provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
-
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
-
-## Key Characteristics
-
-- **NTT Data group member** — Renamed and joined the NTT Data group, gaining access to enterprise-grade resources and client networks
-- **45 years of history** — Long-established company with deep institutional knowledge
-- **IOWN contributor** — Working on Innovative Optical and Wireless Network (IOWN) realization, NTT's next-generation network initiative
-- **Proprietary products** — Has developed in-house products combining IoT, AI, and embedded technologies
-- **Wisport Building ecosystem** — Located alongside many KIA member companies in the Wisport Yokohama building
-
-## Media Mentions
-
-- No significant independent media coverage identified in public sources
-
-## Notes
-
-- This company profile was created as part of the KIA Company Analysis project
-- Repository folder: `株式会社ＮＴＴデータＩＭジェイエスピー`
-- For more detailed information, consult the company's official website or the KIA member directory
-
-
-## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+*このファイルはWeb検索機能が復旧されるまでプレースホルダーとして機能します。詳細な会社情報と関連データは後日追記されます。*
