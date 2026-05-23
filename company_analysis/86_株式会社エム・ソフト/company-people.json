@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name_jp": "株式会社エム・ソフト",
+    "name_en": "M.SOFT CO.,LTD.",
+    "website": "https://www.msoft.co.jp/"
+  },
+  "people": [
+    {
+      "name": "飯田 昌宏",
+      "title": "取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤 圭介",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "住本 信一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "古澤 俊和",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宇野 一光",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "烏山 一男",
+      "title": "常勤監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-20"
+}

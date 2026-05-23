@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社エフネット",
+    "name_en": "Fnet Co., Ltd.",
+    "website": "https://www.fnet.co.jp/"
+  },
+  "people": [
+    {
+      "name": "曽根 岳",
+      "title": "代表取締役社長（CEO）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長沢 浩武",
+      "title": "取締役（COO）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐々木 憲悦",
+      "title": "取締役（CTO）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大炊御門 公尋",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-20"
+}

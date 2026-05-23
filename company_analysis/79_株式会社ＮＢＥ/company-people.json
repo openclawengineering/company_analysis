@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社NBE",
+    "name_en": "NBE Co., Ltd.",
+    "website": "https://www.nbe.co.jp/"
+  },
+  "people": [
+    {
+      "name": "野上 祐一郎",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "曽根 真人",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "菅野 暁太",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宮城 憲男",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-22"
+}

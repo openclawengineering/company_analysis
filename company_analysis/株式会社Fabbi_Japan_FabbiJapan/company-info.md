@@ -1,7 +1,7 @@
-# 株式会社a－LINK_ALINK
+# 株式会社Fabbi_Japan_FabbiJapan
 
 ## 概要
-株式会社a-Linkは、ITサービス関連の企業です。
+株式会社Fabbi Japanは、ITサービス関連の企業です。
 
 ## 事業内容
 - ITサービス開発
