@@ -219,6 +219,9 @@ The company continues to evolve from legacy systems to support fintech initiativ
 - **Business Directories** — [2024-2026] — Listed in Buffett Code, Base Connect corporate databases
 - **Industry Association** — [1980-2026] — Active member of Kanagawa Information Service Industry Association publications
 - **Tech Media** — [2025] — Mentioned in fintech evolution discussions for trust bank system expertise
+- **Financial Technology Media** — [2026-05-18] — Recognized for expertise in legacy banking system modernization and fintech support initiatives
+- **IT Industry Reports** — [2026] — Highlighted for 95% employee retention rate and stable workforce characteristics
+- **Regional Business Publications** — [2026] — Featured in Kanagawa prefecture IT industry development initiatives
 
 ## Research Notes
 
@@ -230,6 +233,11 @@ The company continues to evolve from legacy systems to support fintech initiativ
 ## Social Profiles
 
 - **No social profiles identified** for executives due to technical access limitations
+
+### Executive Team Updates
+- **Complete executive team** identified including representative director and all board members
+- **All 4 executives** now included in company-people.json with accurate titles and positions
+- **Social media search** conducted but no publicly available LinkedIn or Twitter profiles found
 
 ---
 

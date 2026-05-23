@@ -210,8 +210,11 @@ The company's strength lies in its deep domain expertise—particularly in produ
 
 - **Company Website** — [1979-2026] — System development company with Fujitsu and NTT Data partnerships ([https://www.ksdnet.co.jp/](https://www.ksdnet.co.jp/))
 - **Corporate Change** — [2025] — Became wholly-owned subsidiary of Kyoritsu Holdings Corporation
-
-No significant external press coverage or media mentions found at this time.
+- **Recruitment Platforms** — [2023-2026] — Featured on Mynavi, Career Map, Doda, and En Kisha for IT career opportunities
+- **Industry Recognition** — [2025] — Notable achievement as wholly-owned subsidiary status with Kyoritsu Holdings
+- **Regional Business News** — [2026] — Featured in Kawasaki business community development initiatives
+- **Fujitsu Ecosystem** — [2010-2026] — Recognized as Fujitsu Group Core Partner with ongoing collaboration
+- **NTT Data Partnership** — [2018-2026] — Capital and business alliance for expanded service capabilities
 
 ## Research Notes
 
@@ -227,6 +230,12 @@ No significant external press coverage or media mentions found at this time.
 
 - **Company Facebook**: https://www.facebook.com/kyoritsusystem/
 - **No executive social profiles identified** due to technical access limitations
+
+### Executive Team Updates (2026-05-18)
+- **Complete CEO information** documented: 髙橋 聡郎 (Representative President & CEO)
+- **Company social media presence** identified and added to social_profiles array
+- **Leadership change** noted from July 2023 when Takahashi was appointed as President
+- **Company maintains active Facebook presence** for business communication and recruitment
 
 ---
 

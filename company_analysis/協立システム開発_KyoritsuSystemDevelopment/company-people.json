@@ -14,7 +14,17 @@
             "email": ""
         }
     ],
-    "social_profiles": [],
-    "last_updated": "2026-05-13",
-    "search_notes": "No social profiles found due to website access limitations and search constraints. CEO 髙橋 聡郎 identified but no LinkedIn/Twitter profiles available."
+    "social_profiles": [
+        {
+            "name": "Kyoritsu System Development",
+            "title": "Company Facebook Page",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": "",
+            "facebook": "https://www.facebook.com/kyoritsusystem/"
+        }
+    ],
+    "last_updated": "2026-05-18",
+    "search_notes": "CEO 髙橋 聡郎 identified and documented. Company maintains Facebook page but no executive social profiles identified."
 }

@@ -1,23 +1,11 @@
 {
-  "company_name": "新明和ソフトテクノロジ株式会社 (Shinmeiwa Soft Technology Co., Ltd.)",
-  "english_name": "Shinmeiwa Soft Technology Co., Ltd.",
-  "key_people": [],
-  "executives": [],
-  "technical_leads": [],
-  "business_contacts": [],
-  "research_notes": {
-    "limitations": "Web search functionality disabled due to MiniMax API key configuration",
-    "website_access": "Company website access may be limited",
-    "data_sources": "Public information unavailable at current time",
-    "next_steps": "Resume research when web search tools become available"
+  "company": {
+    "name_jp": "新明和ソフトテクノロジ株式会社",
+    "name_en": "Shinmeiwa Soft Technology Co., Ltd.",
+    "website": "https://www.shinmeiwa-soft.com/"
   },
-  "contact_potential": {
-    "executive_team": "Unknown",
-    "technical_team": "Unknown", 
-    "business_development": "Unknown",
-    "partnership_contacts": "Unknown"
-  },
-  "last_updated": "2026-05-16",
-  "research_status": "placeholder",
-  "estimated_research_completion": "Pending web search functionality restoration"
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-05-19",
+  "search_notes": "No executive information available due to web search limitations and website access restrictions. Company website accessible but requires MiniMax API key for detailed research."
 }

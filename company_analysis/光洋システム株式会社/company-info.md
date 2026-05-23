@@ -31,7 +31,7 @@ The company focuses on providing custom solutions for various industries and has
 ## Representative
 
 ### 代表取締役 (Representative Director)
-- **Name**: [Specific executive information not found on website]
+- **Name**: 兼俵 龍弥 (Kanatao Ryuya)
 
 ## Business Areas
 
@@ -52,8 +52,10 @@ The company focuses on providing custom solutions for various industries and has
 
 ## Company Mentions
 
-- **Website Data** — 2026-05-14 — Company profile information available from official company website (https://www.koyo-system.co.jp/)
-- **Limited External Coverage** — 2026-05-14 — Minimal external media mentions found during initial search; company appears to have limited public presence beyond website information
+- **Company Profile** — 2026-05-18 — Updated company information from official website including representative director details (https://www.koyo-system.co.jp/company/index.html)
+- **Industry Recognition** — 2026-05-18 — Company participates in multiple industry associations including NPO Japan Embedded Linux Consortium (Emblix), NPO Japan Information Technology Exchange (JIET), and Kanagawa Information Services Industry Association
+- **Client Partnerships** — 2026-05-18 — Strong relationships with major corporations including NEC, Sony, Canon, Hitachi Advanced Systems, and NEC Solution Innovator
+- **Technical Contributions** — 2026-05-18 — Active participation in T-Engine project and embedded systems development projects
 
 ---
 *Report updated: 2026-05-14*

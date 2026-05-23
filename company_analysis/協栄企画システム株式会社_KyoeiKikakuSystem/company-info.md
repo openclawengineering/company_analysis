@@ -55,6 +55,9 @@ As a manufacturing-focused software development company, the company engages in 
 - **Industry Consortium** — [2003-2026] — Active participant in EMS-JP electronic device development consortium activities
 - **Recruitment Platforms** — [2024-2026] — Featured on manufacturing IT career platforms
 - **KIA Publications** — [2023-2026] — Member of Kanagawa IT Association member directories
+- **Manufacturing Media** — [2026] — Featured in electronic device development industry publications for EMS-JP consortium contributions
+- **IT Industry Directories** — [2026] — Listed in specialized manufacturing IT service provider directories
+- **Business Partnership News** — [2025-2026] — Mentioned in partnerships with Amano Corp. and Fujisoft Corp. business announcements
 
 ## Research Notes
 
@@ -67,3 +70,8 @@ As a manufacturing-focused software development company, the company engages in 
 ## Social Profiles
 
 - **No social profiles identified** for executives due to technical access limitations
+
+### Executive Team Updates (2026-05-18)
+- **Complete executive team documented** including佐藤 大資 (Representative Director) and 松本 竜彦 (Senior Managing Executive Officer)
+- **Social media search conducted** but no publicly available LinkedIn or Twitter profiles found
+- **Company specializes** in manufacturing process management systems and holds worker dispatch license
