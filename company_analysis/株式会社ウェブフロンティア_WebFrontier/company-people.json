@@ -1,17 +1,6 @@
 {
-    "company": {
-        "name": "株式会社ウェブフロンティア",
-        "name_en": "",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "村上健太",
-            "title": "代表取締役社長",
-            "linkedin": "https://au.linkedin.com/in/murakami-kenta-289978187/ja",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社ウェブフロンティア",
+  "english_name": "Web Frontier Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

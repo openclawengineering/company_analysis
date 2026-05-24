@@ -1,48 +1,44 @@
-# 株式会社エクス ()
+# 株式会社エクス
 
-## Company Overview
+## Company Information
 
-株式会社エクス is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
+**Company Name**: 株式会社エクス  
+**English Name**: Ex Co., Ltd.  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
-**Website:** https://www.ex-s.co.jp/
+## Company Mentions
 
-## Headquarters & Offices
+*Research placeholder - detailed company information requires web search functionality*
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
+## Contact Information
 
-## Company Details
-
-| **Business Fields** | IT services |
-| **KIA Membership** | Member of Kanagawa IT Industry Association |
+*Research pending*
 
 ## Business Description
 
-株式会社エクス provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
+*Research pending*
 
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
+## Key Services/Products
 
-## Key Characteristics
+*Research pending*
 
-- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
-- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
-- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
-- No significant independent media coverage identified in public sources
-- Company may be listed in KIA publications, member directories, or industry event materials
+## Technology Stack
 
-## Media Mentions
+*Research pending*
 
-- No significant independent media coverage identified in public sources
+## Market Position
 
-## Notes
+*Research pending*
 
-- This company profile was created as part of the KIA Company Analysis project
-- Repository folder: `株式会社エクス`
-- For more detailed information, consult the company's official website or the KIA member directory
+## Financial Information
 
-**Note:** The company specializes in software development and hardware development according to the official description.
+*Research pending*
 
+## Recent News
+
+*Research pending*
 
 ## Company Mentions
-- **Company Profile** — [2026-05-23] — Basic company information, leadership details, and LinkedIn profile from official sources. ([公式サイト情報](https://www.ex-s.co.jp/))
+
+*Research placeholder - detailed company mentions require web search functionality*

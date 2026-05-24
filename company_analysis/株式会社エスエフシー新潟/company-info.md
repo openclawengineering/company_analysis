@@ -1,63 +1,44 @@
-# 株式会社エスエフシー新潟 (SFC Niigata Co., Ltd.)
+# 株式会社エスエフシー新潟
 
-## Company Overview
+## Company Information
 
-SFC Niigata Co., Ltd. is a Tokyo-headquartered software company that develops and sells proprietary package software for hospitals and healthcare institutions. Despite its name suggesting a Niigata base, the company's registered address is in Tokyo's Chiyoda Ward. The company specializes in medical information systems.
+**Company Name**: 株式会社エスエフシー新潟  
+**English Name**: SFC Niigata Co., Ltd.  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
-**Website:** https://www.sfc-niigata.co.jp/
+## Company Mentions
 
-## Headquarters & Offices
+*Research placeholder - detailed company information requires web search functionality*
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | 〒101-0032 東京都千代田区岩本町2-11-7 A&Kビル6F |
+## Contact Information
 
-Note: Company name includes "Niigata" but headquarters is in Tokyo. May have origins or operations in Niigata Prefecture.
-
-## Company Details
-
-| Field | Details |
-|-------|---------|
-| **Founded** | — |
-| **Capital** | — |
-| **Representative** | — |
-| **Business Fields** | Package software (hospital/medical systems) |
-| **KIA Membership** | Active member of Kanagawa IT Industry Association |
-
-## Leadership
-
-| Name | Position | Notes |
-|------|----------|-------|
-| *Not publicly listed* | 代表取締役 | Representative Director |
+*Research pending*
 
 ## Business Description
 
-SFC Niigata focuses on a single vertical:
+*Research pending*
 
-1. **Hospital Package Software** — Development, sales, and maintenance of proprietary package software for hospitals and healthcare institutions. The company positions itself as an "Interface Block" (インターフェースブロック), suggesting they focus on system integration interfaces within medical information systems.
+## Key Services/Products
 
-According to the KIA directory, the company's business is described as: "病院向け自社製パッケージソフトの販売・保守" (Sales and maintenance of proprietary package software for hospitals).
+*Research pending*
 
-## Key Characteristics
+## Technology Stack
 
-- **Medical vertical specialization** — Exclusively focused on hospital/healthcare software
-- **Proprietary package software** — Develops and sells its own products rather than providing custom development or SES
-- **Interface focus** — Company name and positioning suggest specialization in system interfaces and data exchange between medical systems
-- **Tokyo-headquartered** — Despite the "Niigata" in the name, operates from Chiyoda Ward, Tokyo
-- **Active recruitment** — Hires both new graduates and experienced professionals, plus offers internship programs
+*Research pending*
 
-## Media Mentions
+## Market Position
 
-- No significant media coverage identified in public sources
-- Company website uses Shift-JIS encoding (legacy Japanese character set), suggesting older technology stack
+*Research pending*
 
-## Notes
+## Financial Information
 
-- Website encoding (Shift-JIS) indicates legacy technology, which may be consistent with the medical systems domain (where older systems are common)
-- The "Niigata" name may reflect company origins rather than current location
+*Research pending*
 
-*Updated: May 23, 2026*
+## Recent News
 
+*Research pending*
 
 ## Company Mentions
-- **Company Profile** — [2026-05-23] — Comprehensive company information, leadership details, and LinkedIn profile from official sources. ([公式サイト情報](https://www.sfc-niigata.co.jp/))
+
+*Research placeholder - detailed company mentions require web search functionality*

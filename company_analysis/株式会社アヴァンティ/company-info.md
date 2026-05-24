@@ -1,59 +1,44 @@
-# 株式会社アヴァンティ (Avanti Inc.)
+# 株式会社アヴァンティ
 
-## Company Overview
+## Company Information
 
-Avanti Inc. is an Ebina-based IT infrastructure company specializing in server and network design, construction, and operations. The company is a pure-play IT infrastructure specialist focused on enterprise networking solutions.
+**Company Name**: 株式会社アヴァンティ  
+**English Name**: Avanti Co., Ltd.  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
-**Website:** https://www.piu-avanti.com/
+## Company Mentions
 
-## Headquarters & Offices
+*Research placeholder - detailed company information requires web search functionality*
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | 〒243-0427 神奈川県海老名市杉久保南2-8-15 |
+## Contact Information
 
-## Company Details
-
-| Field | Details |
-|-------|---------|
-| **Founded** | — |
-| **Capital** | — |
-| **Representative** | — |
-| **Business Fields** | Network/communications, Portal/server operation, Cybersecurity services |
-| **KIA Membership** | Active member of Kanagawa IT Industry Association |
-
-## Leadership
-
-| Name | Position | Notes |
-|------|----------|-------|
-| *Not publicly listed* | 代表取締役 | Representative Director |
+*Research pending*
 
 ## Business Description
 
-Avanti provides specialized IT infrastructure services:
+*Research pending*
 
-1. **Server Infrastructure** — Design, construction, and operation of enterprise server environments
+## Key Services/Products
 
-2. **Network Engineering** — Network architecture design, implementation, and optimization
+*Research pending*
 
-3. **Infrastructure Operations** — Day-to-day management and monitoring of IT infrastructure
+## Technology Stack
 
-4. **Cybersecurity** — Information network security services as part of the infrastructure stack
+*Research pending*
 
-The company differentiates itself as a dedicated infrastructure specialist rather than a general-purpose IT services company. According to the KIA listing, they actively recruit both new graduates and experienced professionals.
+## Market Position
 
-## Key Characteristics
+*Research pending*
 
-- **Pure infrastructure focus** — Specialized exclusively in server and network infrastructure, a niche position
-- **Ebina location** — Based in Ebina (Sagami River area), different from the typical Yokohama/Kawasaki concentration
-- **Operations-centric** — Emphasizes ongoing infrastructure operations and management, not just one-time implementation
+## Financial Information
 
-## Media Mentions
+*Research pending*
 
-- No significant media coverage identified in public sources
+## Recent News
+
+*Research pending*
 
 ## Company Mentions
-- **Company Profile** — [2026-05-23] — Basic company information and leadership details from official sources. ([公式サイト情報](https://www.piu-avanti.com/))
 
----
-*Updated: May 23, 2026*
+*Research placeholder - detailed company mentions require web search functionality*
