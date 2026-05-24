@@ -1,0 +1,42 @@
+{
+  "company_name": "株式会社ICON",
+  "english_name": "ICON Corporation",
+  "research_status": "RESEARCH PENDING",
+  "research_date": "2026-05-24",
+  "batch": "Batch 9 (Companies 84-93)",
+  "limitations": {
+    "web_search_disabled": "MiniMax API key not configured - Cannot search for executive information",
+    "website_access_issues": "Company websites may not be accessible without proper authentication",
+    "limited_public_data": "Unable to verify executive details, backgrounds, or company structure"
+  },
+  "executives": [],
+  "board_members": [],
+  "key_personnel": [],
+  "company_contacts": {
+    "address": "[Address to be researched]",
+    "phone": "[Phone to be researched]",
+    "email": "[Email to be researched]",
+    "website": "[Website to be researched]"
+  },
+  "organizational_structure": {
+    "executive_count": "[Number to be researched]",
+    "departments": ["Departments to be researched"],
+    "subsidiaries": ["Subsidiaries to be researched"]
+  },
+  "research_notes": {
+    "background_context": "Research needed to understand executive team and company structure",
+    "industry_experience": "Experience backgrounds to be researched when data available",
+    "leadership_history": "Leadership backgrounds and career history to be researched",
+    "company_relationships": "Company partnerships and relationships to be researched"
+  },
+  "data_sources_needed": [
+    "Company official website leadership section",
+    "Japan corporate registry executive data",
+    "Business databases (Teikoku Databank, etc.)",
+    "News articles and press releases about executive appointments",
+    "LinkedIn profiles (when available)",
+    "Industry association executive listings"
+  ],
+  "placeholder_created": "2026-05-24",
+  "status_updated": "2026-05-24"
+}
