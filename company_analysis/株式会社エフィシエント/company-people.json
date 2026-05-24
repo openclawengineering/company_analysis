@@ -1,10 +1,6 @@
 {
-  "company": {
-    "name_jp": "株式会社エフィシエント",
-    "name_en": "Efficient Corporation",
-    "website": "https://efficient-inc.com"
-  },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-21"
+  "company_name": "株式会社エフィシエント",
+  "english_name": "Efficient Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

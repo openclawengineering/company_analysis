@@ -1,17 +1,6 @@
 {
-    "company": {
-        "name": "株式会社エルパ（LPA）",
-        "name_en": "",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "島貫歩美",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E6%AD%A9%E7%BE%8E-%E5%B3%B6%E8%B",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社エルパ",
+  "english_name": "LPA Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

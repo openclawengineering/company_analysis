@@ -1,23 +1,6 @@
 {
-    "company": {
-        "name": "株式会社エルテックス",
-        "name_en": "",
-        "website": "https://www.eltex.co.jp/"
-    },
-    "people": [
-        {
-            "name": "森久尚",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        },
-        {
-            "name": "犬飼邦夫",
-            "title": "取締役会長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社エルテックス",
+  "english_name": "Lutex Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

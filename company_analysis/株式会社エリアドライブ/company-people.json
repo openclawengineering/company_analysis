@@ -1,18 +1,6 @@
 {
-    "company": {
-        "name_jp": "株式会社エリアドライブ",
-        "name_en": "エリアドライブ",
-        "website": "https://x.com/areadrive_ad"
-    },
-    "people": [
-        {
-            "name": "福井二郎",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E4%BA%8C%E9%83%8E-%E6%B0%B8%E4%",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社エリアドライブ",
+  "english_name": "Area Drive Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

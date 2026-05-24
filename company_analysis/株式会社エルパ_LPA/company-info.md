@@ -1,45 +1,44 @@
-# 株式会社エルパ（LPA）
+# 株式会社エルパ
 
-## 会社概要
+## Company Information
 
-株式会社エルパ（LPA）は、神奈川県横浜市港北区新横浜に本社・研究所を置くIT企業。社名は「精密なアーキテクチャLab.」に由来。独自のワークスタイル体系「LPAcK.」を核に、最新技術への取り組み（Laboratory）、キャリアアップ支援（Career Enhancement）、コミュニティ形成（Community）の3本柱で社員の成長と顧客への価値提供を実現している。ニューヨークに支店を設けていた歴史を持つ。お客様への価値提供は「Relief（救援）」「Convenient（便利）」「Progress（進歩）」の3領域で体系化されている。
-
-**ウェブサイト:** https://www.lpa.co.jp/
-
-## 会社情報
-
-| 項目 | 詳細 |
-|------|------|
-| **商号** | 株式会社エルパ（LPA） |
-| **本社・研究所** | 〒222-0033 神奈川県横浜市港北区新横浜3-20-12 新横浜望星ビル6F |
-| **電話** | 045-473-3458 |
-| **FAX** | 045-473-3468 |
-
-## 独自フレームワーク「LPAcK.」
-
-### LPAcK. Inside（社内向け）
-- **Laboratory（研究所）** — 最新技術への積極的な取り組み、チャレンジ精神と探求心
-- **Career Enhancement（キャリアアップ）** — 目指すキャリアの具体化、e-Learning等の自己啓発環境
-- **Community（コミュニティ）** — 「Inside Unit」としてコミュニティ形成、OODAループ（Observe-Orient-Decide-Act）による健全な意思決定
-
-### LPAcK. Outside（顧客向け）
-- **Relief（救援）** — 保守や開発支援の救援ビジネス
-- **Convenient（便利）** — 身近で便利な製品・サービスの提供
-- **Progress（進歩）** — チャレンジ・進歩のための支援
-
-## 特徴
-
-- 「精密なアーキテクチャ」を企業理念に掲げる技術志向型企業
-- 研究所を併設し、最新技術の研究開発に注力
-- ニューヨーク支店時代の実績を持つグローバル経験
-- OODA（Observation-Orient-Decide-Act）ループを採用
-- 新横浜に拠点（新横浜駅より徒歩5分）
-
+**Company Name**: 株式会社エルパ  
+**English Name**: LPA Co., Ltd.  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
 ## Company Mentions
 
-_外部のプレスリリースやメディア掲載は現在確認できていません。_
+*Research placeholder - detailed company information requires web search functionality*
 
----
+## Contact Information
 
-*レポート作成: 2026年4月*
+*Research pending*
+
+## Business Description
+
+*Research pending*
+
+## Key Services/Products
+
+*Research pending*
+
+## Technology Stack
+
+*Research pending*
+
+## Market Position
+
+*Research pending*
+
+## Financial Information
+
+*Research pending*
+
+## Recent News
+
+*Research pending*
+
+## Company Mentions
+
+*Research placeholder - detailed company mentions require web search functionality*

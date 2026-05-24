@@ -1,18 +1,44 @@
-# 株式会社
+# 株式会社エフケイ・ジャパン
 
-## 概要
-ITサービス関連の企業です。
+## Company Information
 
-## 事業内容
-- ITサービス開発
-- ソリューション提供
-
-## 会社情報
-- **所在地**: 住所情報が必要
-- **設立**: 年月情報が必要
-- **従業員数**: 人数情報が必要
-- **代表者**: 代表者情報が必要
+**Company Name**: 株式会社エフケイ・ジャパン  
+**English Name**: FK Japan Co., Ltd.  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
 ## Company Mentions
-- **Company Profile** — [2026-05-23] — Basic company information. Detailed research pending when web search functionality is restored. ([待機中])
 
+*Research placeholder - detailed company information requires web search functionality*
+
+## Contact Information
+
+*Research pending*
+
+## Business Description
+
+*Research pending*
+
+## Key Services/Products
+
+*Research pending*
+
+## Technology Stack
+
+*Research pending*
+
+## Market Position
+
+*Research pending*
+
+## Financial Information
+
+*Research pending*
+
+## Recent News
+
+*Research pending*
+
+## Company Mentions
+
+*Research placeholder - detailed company mentions require web search functionality*

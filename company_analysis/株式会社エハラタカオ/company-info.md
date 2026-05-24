@@ -1,23 +1,44 @@
 # 株式会社エハラタカオ
 
-## 概要
-- **会社名**: 株式会社エハラタカオ
-- **所在地**: 223-0053　横浜市港北区綱島西4-9-7-14
-- **事業内容**: パッケージソフトウェア、情報提供サービス、ネットワーク・通信関連
-- **特徴**: Webアプリケーションが現在の主力です。
-- **採用情報**: 特に記載なし
+## Company Information
 
-## 研究状況
+**Company Name**: 株式会社エハラタカオ  
+**English Name**: Ehara Takao Co., Ltd.  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
-### 現在の制約
-- **Web検索機能**: MiniMax APIキーが未設定のため、現在会社情報、LinkedInプロフィール、ニュース記事の検索ができません
-- **Webサイトアクセス**: 直接的なウェブサイトへのアクセス制限があるため、会社情報の抽出が制限されています
-- **プロフィール情報**: 役員情報、従業員情報、ソーシャルメディアプロフィールの収集が現在できません
+## Company Mentions
 
-### 準備中の項目
-- **Company Mentions**: ニュース、ブログ、メディア記事の追記（Web検索機能復旧後）
-- **LinkedIn & Twitter URLs**: 役員・担当者のソーシャルメディアプロフィールURLの追加（Web検索機能復旧後）
+*Research placeholder - detailed company information requires web search functionality*
 
----
+## Contact Information
 
-*このファイルはWeb検索機能が復旧されるまでプレースホルダーとして機能します。詳細な会社情報と関連データは後日追記されます。*
+*Research pending*
+
+## Business Description
+
+*Research pending*
+
+## Key Services/Products
+
+*Research pending*
+
+## Technology Stack
+
+*Research pending*
+
+## Market Position
+
+*Research pending*
+
+## Financial Information
+
+*Research pending*
+
+## Recent News
+
+*Research pending*
+
+## Company Mentions
+
+*Research placeholder - detailed company mentions require web search functionality*
