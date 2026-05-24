@@ -65,9 +65,13 @@ Developing many new graduate members into "standalone" and "first-class" enginee
 
 
 ## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+- **engage** — [2026-05-23] — Company profile highlighting software development focus ([engage](https://en-gage.net/))
+- **Mynavi New Graduate Recruitment** — [2026-05-23] — Company information about training new graduates into standalone engineers ([Mynavi](https://job.mynavi.jp/27/pc/search/corp229886/outline.html))
+- **doda** — [2026-05-23] — Company profile mentioning major enterprise projects like Tokyo Gas Group ([doda](https://doda.jp/))
+- **En-Hyouban** — [2026-05-23] — Employee reviews and company feedback ([En-Hyouban](https://en-hyouban.com/company/10012199578/))
+- **Indeed Japan** — [2026-05-23] — Company profile highlighting training program from inexperienced to 'standalone' engineers ([Indeed](https://jp.indeed.com/))
 
 ---
 
-*Report generated: April 2026*
+*Report generated: April 2026
+*Updated: May 23, 2026*

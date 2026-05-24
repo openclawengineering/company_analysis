@@ -1,30 +1,6 @@
 {
-    "company": {
-        "name_jp": "協立システム開発株式会社",
-        "name_en": "Kyoritsu System Development Co., Ltd.",
-        "website": "https://www.ksdnet.co.jp/"
-    },
-    "people": [
-        {
-            "name": "髙橋 聡郎",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [
-        {
-            "name": "Kyoritsu System Development",
-            "title": "Company Facebook Page",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": "",
-            "facebook": "https://www.facebook.com/kyoritsusystem/"
-        }
-    ],
-    "last_updated": "2026-05-18",
-    "search_notes": "CEO 髙橋 聡郎 identified and documented. Company maintains Facebook page but no executive social profiles identified."
+  "company_name": "株式会社協立システム開発",
+  "english_name": "Kyoritsu System Development Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

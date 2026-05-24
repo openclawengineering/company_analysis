@@ -1,20 +1,6 @@
 {
-  "company": {
-    "name_jp": "株式会社宮川製作所",
-    "name_en": "MSK Technologies Co., Ltd.",
-    "website": "https://www.msk.co.jp/"
-  },
-  "people": [
-    {
-      "name": "宮川恒太郎",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-13"
-    "search_notes": "No social profiles found due to website access limitations and search constraints."
+  "company_name": "宮川製作所株式会社",
+  "english_name": "Miyagawa Seisakusho Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }

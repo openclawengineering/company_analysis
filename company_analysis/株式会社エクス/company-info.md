@@ -4,7 +4,7 @@
 
 株式会社エクス is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
 
-**Website:** Not available
+**Website:** https://www.ex-s.co.jp/
 
 ## Headquarters & Offices
 
@@ -41,7 +41,8 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 - Repository folder: `株式会社エクス`
 - For more detailed information, consult the company's official website or the KIA member directory
 
+**Note:** The company specializes in software development and hardware development according to the official description.
+
 
 ## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+- **Company Profile** — [2026-05-23] — Basic company information, leadership details, and LinkedIn profile from official sources. ([公式サイト情報](https://www.ex-s.co.jp/))

@@ -53,8 +53,7 @@ The company differentiates itself as a dedicated infrastructure specialist rathe
 - No significant media coverage identified in public sources
 
 ## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+- **Company Profile** — [2026-05-23] — Basic company information and leadership details from official sources. ([公式サイト情報](https://www.piu-avanti.com/))
 
 ---
-*Updated: May 4, 2026*
+*Updated: May 23, 2026*

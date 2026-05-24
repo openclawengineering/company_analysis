@@ -1,8 +1,8 @@
 {
     "company": {
         "name_jp": "株式会社イオ",
-        "name_en": "イオ",
-        "website": ""
+        "name_en": "System IO",
+        "website": "https://www.system-io.co.jp/"
     },
     "people": [
         {
@@ -18,7 +18,16 @@
             "twitter": null
         }
     ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
+    "social_profiles": [
+        {
+            "name": "窪田力",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/kaede-kubota-8b7b4817b",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-23",
     "data_source": "tavily_ai_summary"
 }

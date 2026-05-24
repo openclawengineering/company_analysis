@@ -46,6 +46,15 @@
             "email": ""
         }
     ],
-    "social_profiles": [],
-    "last_updated": "2026-04-30"
+    "social_profiles": [
+        {
+            "name": "加藤",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/takekato",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-23"
 }

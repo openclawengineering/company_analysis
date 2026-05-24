@@ -1,7 +1,7 @@
 {
     "company": {
-        "name": "株式会社エスエフシー新潟",
-        "name_en": "",
+        "name_jp": "株式会社エスエフシー新潟",
+        "name_en": "SFC Niigata",
         "website": "https://www.sfc-niigata.co.jp/"
     },
     "people": [
@@ -9,9 +9,20 @@
             "name": "齋藤道",
             "title": "代表取締役社長",
             "linkedin": "https://jp.linkedin.com/in/saitoshin/en",
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [
+        {
+            "name": "齋藤道",
+            "title": "代表取締役社長",
+            "linkedin": "https://jp.linkedin.com/in/saitoshin/en",
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "last_updated": "2026-05-23"
 }

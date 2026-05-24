@@ -1,48 +1,44 @@
-# 合同会社プロセスデザイン総合教育研究所 (Process Design Institute)
+# 合同会社プロセスデザイン総合教育研究所
 
-## Company Overview
+## Company Information
 
-| Item | Details |
-|------|---------|
-| **Company Name** | 合同会社プロセスデザイン総合教育研究所 |
-| **English Name** | Process Design Institute |
-| **Website** | **No website identified** (multiple URL attempts failed) |
-| **Headquarters** | [Research Required] |
-| **Founded** | [Research Required] |
-| **Capital** | [Research Required] |
-| **Employees** | [Research Required] |
-| **Tel** | [Research Required] |
-| **Business Fields** | [Research Required] |
-
-## Business Description
-
-合同会社プロセスデザイン総合教育研究所 (Process Design Institute) is a Japanese general education research institute specializing in process design. Additional research required to provide detailed information about their business operations, industry focus, and company profile.
-
-## Representative
-
-### 代表取締役 (Representative Director)
-- **Name**: [Research Required]
+**Company Name**: 合同会社プロセスデザイン総合教育研究所  
+**English Name**: Process Design Comprehensive Education Institute LLC  
+**Last Updated**: 2026-05-24  
+**Status**: Basic structure created - detailed research pending web search restoration
 
 ## Company Mentions
 
-*Note: Company mentions research was limited due to API access restrictions. Additional mentions may be available with full web search capabilities.*
+*Research placeholder - detailed company information requires web search functionality*
 
-## Research Notes
+## Contact Information
 
-- **Company information is incomplete in current database**
-- **No website identified for research** (multiple website URL attempts failed)
-- **CEO information not available** due to lack of web presence
-- **Company appears to be a general education research institute specializing in process design**
-- **Requires additional research to identify company details**
-- **Technical limitations**: Web fetch encountered ENOTFOUND errors for all attempted URLs
+*Research pending*
 
-## Social Profiles
+## Business Description
 
-- **No social profiles identified** due to company having no accessible web presence
+*Research pending*
 
----
-*Report generated: 2026-05-08*
-*Note: Basic company structure created. Detailed information pending web search access.*
-*Status: Research completed for basic structure*
-*Processed: 2026-05-08*
-*Research Updated: 2026-05-12 - Information incomplete, requires follow-up*
+## Key Services/Products
+
+*Research pending*
+
+## Technology Stack
+
+*Research pending*
+
+## Market Position
+
+*Research pending*
+
+## Financial Information
+
+*Research pending*
+
+## Recent News
+
+*Research pending*
+
+## Company Mentions
+
+*Research placeholder - detailed company mentions require web search functionality*

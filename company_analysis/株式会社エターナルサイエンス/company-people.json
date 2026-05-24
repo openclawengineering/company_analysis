@@ -2,7 +2,7 @@
     "company": {
         "name_jp": "株式会社エターナルサイエンス",
         "name_en": "エターナルサイエンス",
-        "website": "https://www.eternal.co.jp/sitemap.html"
+        "website": "https://www.eternal.co.jp/"
     },
     "people": [
         {
@@ -13,6 +13,6 @@
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-05-23"
+  }
 }

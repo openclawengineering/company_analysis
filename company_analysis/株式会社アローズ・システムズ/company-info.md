@@ -1,18 +1,21 @@
-# 株式会社
+# 株式会社アローズ・システムズ
 
 ## 概要
-ITサービス関連の企業です。
+ITサービス関連の企業です。Webシステムの構築を主たる事業領域とし、サービス開発・運営、ラボ型開発、受託開発、技術者派遣を多様な形態で提供。
 
 ## 事業内容
 - ITサービス開発
 - ソリューション提供
+- Webシステム構築
+- 技術者派遣
+- グループ企業支援（宿泊施設の集客支援システム開発・運営）
 
 ## 会社情報
-- **所在地**: 住所情報が必要
-- **設立**: 年月情報が必要
-- **従業員数**: 人数情報が必要
-- **代表者**: 代表者情報が必要
+- **所在地**: 横浜市西区みなとみらい2-3-1　クイーンズタワーA7F
+- **設立**: 詳細情報が必要
+- **従業員数**: 詳細情報が必要
+- **代表者**: 代表取締役社長（名前はウェブサイトで確認困難）
 
 ## Company Mentions
-- **Company Profile** — [2026-05-23] — Basic company information. Detailed research pending when web search functionality is restored. ([待機中])
+- **Company Profile** — [2026-05-23] — Basic company overview and business information from official website. ([ウェブサイト情報](https://www.arrows-systems.co.jp/))
 

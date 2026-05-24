@@ -56,7 +56,8 @@ According to the KIA directory, the company's business is described as: "病院�
 - Website encoding (Shift-JIS) indicates legacy technology, which may be consistent with the medical systems domain (where older systems are common)
 - The "Niigata" name may reflect company origins rather than current location
 
+*Updated: May 23, 2026*
+
 
 ## Company Mentions
-
-_No external press coverage or media mentions found at this time._
+- **Company Profile** — [2026-05-23] — Comprehensive company information, leadership details, and LinkedIn profile from official sources. ([公式サイト情報](https://www.sfc-niigata.co.jp/))

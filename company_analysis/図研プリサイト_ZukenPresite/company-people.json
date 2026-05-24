@@ -1,44 +1,6 @@
 {
-  "company": {
-    "name_jp": "株式会社図研プリサイト",
-    "name_en": "Zuken PreSight Inc.",
-    "website": "https://www.presight.co.jp/"
-  },
-  "people": [
-    {
-      "name": "小田泰久",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "廣田正晴",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "大塚隆夫",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "吉田勧",
-      "title": "監査役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-13",
-  "search_notes": "No social profiles found due to website access limitations and search constraints. Multiple executives identified including 小田泰久 (CEO), 廣田正晴 (Director), 大塚隆夫 (Non-Executive Director), and 吉田勧 (Auditor)."
+  "company_name": "図研プリサイト株式会社",
+  "english_name": "Zuken Presite Co., Ltd.",
+  "last_updated": "2026-05-24",
+  "people": []
 }
