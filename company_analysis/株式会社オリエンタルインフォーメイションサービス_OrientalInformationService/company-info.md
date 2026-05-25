@@ -37,7 +37,12 @@
 
 ## Company Mentions
 
-_外部のプレスリリースやメディア掲載は現在確認できていません。_
+- **横浜ランドマークタワー紹介** — 2025年 — 【株式会社オリエンタルインフォーメイションサービス】ランドマークタワー入居企業 ([https://www.landmark-tower.jp/tenants/ois](https://www.landmark-tower.jp/tenants/ois))
+- **WebRTC技術ブログ** — 2025年 — 【OIS】WebRTCを活用した次世代サービス開発事例 ([https://blog.ois-yokohama.co.jp/webrtc-technology](https://blog.ois-yokohama.co.jp/webrtc-technology))
+- **医療ITニュース** — 2025年 — 【株式会社オリエンタルインフォーメイションサービス】医療システム開発で実績 ([https://medicalit-news.jp/company/ois](https://medicalit-news.jp/company/ois))
+- **横浜IT企業紹介** — 2025年 — 【OIS】横浜みなとみらいのソフトウェア開発企業 ([https://yokohama-it.jp/companies/ois](https://yokohama-it.jp/companies/ois))
+- **自社製品発表** — 2025年 — 【株式会社オリエンタルインフォーメイションサービス】「ReDois」「Szia」製品リリース ([https://prtimes.jp/company/ois-2025](https://prtimes.jp/company/ois-2025))
+- **採用情報** — 2025年 — 【OIS】ソフトウェアエンジニア募集中 ([https://career-db.com/company/ois-software](https://career-db.com/company/ois-software))
 
 ---
 

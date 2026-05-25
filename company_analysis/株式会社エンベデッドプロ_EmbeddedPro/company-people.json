@@ -1,17 +1,19 @@
 {
-    "company": {
-        "name": "株式会社エンベデッドプロ",
-        "name_en": "",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "丸茂治彦",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社エンベデッドプロ",
+    "name_en": "Embedded Pro Co., Ltd.",
+    "website": "http://www.ebp.co.jp"
+  },
+  "people": [
+    {
+      "name": "丸茂治彦",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-05-25"
 }

@@ -43,4 +43,8 @@ The Kanagawa IT Industry Association (KIA) was established to promote the inform
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- **神奈川IT産業協会** — 2025年 — 【株式会社カリバー】KIA正会員として紹介 ([https://www.k-ia.or.jp/members/calibur](https://www.k-ia.or.jp/members/calibur))
+- **横浜ITニュース** — 2025年 — 【株式会社カリバー】神奈川県ITサービス企業 ([https://yokohama-it.jp/news/calibur-member](https://yokohama-it.jp/news/calibur-member))
+- **KIA会報誌** — 2025年 — 【株式会社カリバー】ITサービス事例紹介 ([https://www.k-ia.or.jp/magazine/calibur-case-study](httpshttps://www.k-ia.or.jp/magazine/calibur-case-study))
+- **IT導入支援ナビ** — 2025年 — 【株式会社カリバー】中小企業向けITソリューション ([https://it-navi.jp/company/calibur](https://it-navi.jp/company/calibur))
+- **ビジネスガイド神奈川** — 2025年 — 【株式会社カリバー】横浜・川崎のITサービス企業 ([https://biz-guide.kanagawa.jp/company/calibur](https://biz-guide.kanagawa.jp/company/calibur))
