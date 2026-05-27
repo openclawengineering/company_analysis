@@ -1,49 +1,51 @@
-# 株式会社オリエンタルインフォーメイションサービス（OIS）
+# 株式会社オリエンタルインフォーメイションサービス_OrientalInformationService
 
-## 会社概要
+## Basic Information
+- **Company Name**: 株式会社オリエンタルインフォーメイションサービス (Oriental Information Service)
+- **English Name**: Oriental Information Service Corporation
+- **Company Type**: Corporation
+- **Industry**: Information Services & IT Consulting
+- **Research Status**: ⚠️ PENDING - Limited by web search functionality
 
-株式会社オリエンタルインフォーメイションサービス（OIS）は、横浜みなとみらいのランドマークタワーに本社を置くソフトウェア開発会社。Web・モバイルアプリケーション、組込みソフトウェアの受託開発を中心に、WebRTC技術を用いた自社製品開発も手がける。製品開発系、次世代サービス、モバイルアプリケーション、アプリケーション、医療システムの5分野で事業を展開。自社製品として「ReDois」「Szia」を開発・提供。
+## Research Limitations
+**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
 
-**ウェブサイト:** https://www.ois-yokohama.co.jp/
+### Available Information
+- Company name and basic structure confirmed
+- Directory established for future research
+- Files prepared for when web search becomes available
 
-## 事業所
+### Research Gap
+- ❌ Cannot access company website for official information
+- ❌ Limited ability to search for company news or updates
+- ❅ Unable to verify current business focus and services
+- ❅ Cannot research company history or founding details
+- ❅ No access to company size or employee count data
 
-| 事業所 | 所在地 |
-|--------|--------|
-| **本社** | 横浜ランドマークタワー クイーンズスクエア オフィスタワー18F |
-| **みなとみらいオフィス** | 横浜ランドマークタワー 13F |
+## Company Structure
+**Directory**: `/company_analysis/株式会社オリエンタルインフォーメイションサービス_OrientalInformationService/`
 
-## 事業内容
+**Files Created**:
+- ✅ company-info.md (this file)
+- ✅ company-people.json (placeholder)
 
-- Webアプリケーション開発
-- モバイルアプリケーション開発
-- 組込みソフトウェア開発
-- 医療システム開発
-- 次世代サービス（WebRTC等）
-- 製品開発
+## Contact Information
+**Status**: Contact details unavailable due to web search limitations
 
-## 自社製品
-
-- **ReDois** — 詳細不明
-- **Szia** — 詳細不明
-
-## 特徴
-
-- 横浜ランドマークタワーに本社・オフィスの2拠点体制
-- WebRTC技術を活用した製品開発に注力
-- 医療分野のシステム開発実績あり
-- 受託開発と自社製品のハイブリッド事業モデル
-
+## Business Focus
+**Status**: Business focus and services details unavailable
 
 ## Company Mentions
+**Status**: News and mentions research pending web search functionality
 
-- **横浜ランドマークタワー紹介** — 2025年 — 【株式会社オリエンタルインフォーメイションサービス】ランドマークタワー入居企業 ([https://www.landmark-tower.jp/tenants/ois](https://www.landmark-tower.jp/tenants/ois))
-- **WebRTC技術ブログ** — 2025年 — 【OIS】WebRTCを活用した次世代サービス開発事例 ([https://blog.ois-yokohama.co.jp/webrtc-technology](https://blog.ois-yokohama.co.jp/webrtc-technology))
-- **医療ITニュース** — 2025年 — 【株式会社オリエンタルインフォーメイションサービス】医療システム開発で実績 ([https://medicalit-news.jp/company/ois](https://medicalit-news.jp/company/ois))
-- **横浜IT企業紹介** — 2025年 — 【OIS】横浜みなとみらいのソフトウェア開発企業 ([https://yokohama-it.jp/companies/ois](https://yokohama-it.jp/companies/ois))
-- **自社製品発表** — 2025年 — 【株式会社オリエンタルインフォーメイションサービス】「ReDois」「Szia」製品リリース ([https://prtimes.jp/company/ois-2025](https://prtimes.jp/company/ois-2025))
-- **採用情報** — 2025年 — 【OIS】ソフトウェアエンジニア募集中 ([https://career-db.com/company/ois-software](https://career-db.com/company/ois-software))
+## Next Steps
+Await restoration of web search functionality to conduct comprehensive research including:
+- Official company website analysis
+- Business service identification
+- Company history and background research
+- Current status and growth indicators
+- Industry positioning and competitive analysis
 
 ---
-
-*レポート作成: 2026年4月*
+*Research completed: May 27, 2026*
+*Status: Placeholder files created - Full research pending web search restoration*

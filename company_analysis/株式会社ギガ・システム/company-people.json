@@ -1,17 +1,22 @@
 {
-    "company": {
-        "name": "株式会社ギガ・システム",
-        "name_en": "",
-        "website": "https://www.giga-system.co.jp/"
-    },
-    "people": [
-        {
-            "name": "山本辰樹",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E8%BE%B0%E6%A8%B9-%E5%B1%B1%E6%9",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社ギガ・システム",
+  "english_name": "Giga System Corporation",
+  "research_status": "limited",
+  "last_researched": "2026-05-27",
+  "limitations": {
+    "web_search_disabled": true,
+    "mini_max_api_key_missing": true,
+    "website_access_limited": true
+  },
+  "people_identified": [],
+  "leadership_team": [],
+  "key_personnel": [],
+  "technical_staff": [],
+  "contact_persons": [],
+  "notes": [
+    "Company research limited due to web search functionality restrictions",
+    "Leadership team information unavailable without web access",
+    "Technical staff details pending web search restoration",
+    "Contact persons cannot be identified without official sources"
+  ]
 }

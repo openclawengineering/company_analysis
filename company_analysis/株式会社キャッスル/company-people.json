@@ -1,17 +1,22 @@
 {
-    "company": {
-        "name": "株式会社キャッスル",
-        "name_en": "",
-        "website": "http://www.castle-in.co.jp/ (currently inaccessible"
-    },
-    "people": [
-        {
-            "name": "成田良伸",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/良法-成田-4771b1220",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社キャッスル",
+  "english_name": "Castle Corporation",
+  "research_status": "limited",
+  "last_researched": "2026-05-27",
+  "limitations": {
+    "web_search_disabled": true,
+    "mini_max_api_key_missing": true,
+    "website_access_limited": true
+  },
+  "people_identified": [],
+  "leadership_team": [],
+  "key_personnel": [],
+  "technical_staff": [],
+  "contact_persons": [],
+  "notes": [
+    "Company research limited due to web search functionality restrictions",
+    "Leadership team information unavailable without web access",
+    "Technical staff details pending web search restoration",
+    "Contact persons cannot be identified without official sources"
+  ]
 }

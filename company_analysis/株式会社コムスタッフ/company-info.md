@@ -1,47 +1,51 @@
-# 株式会社コムスタッフ ()
+# 株式会社コムスタッフ (Comstaff Corporation)
 
-## Company Overview
+## Basic Information
+- **Company Name**: 株式会社コムスタッフ (Comstaff Corporation)
+- **English Name**: Comstaff Corporation
+- **Company Type**: Corporation
+- **Industry**: IT Staffing & Human Resources
+- **Research Status**: ⚠️ PENDING - Limited by web search functionality
 
-株式会社コムスタッフ is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture.
+## Research Limitations
+**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
 
-**Website:** Not available
+### Available Information
+- Company name and basic structure confirmed
+- Directory established for future research
+- Files prepared for when web search becomes available
 
-## Headquarters & Offices
+### Research Gap
+- ❌ Cannot access company website for official information
+- ❌ Limited ability to search for company news or updates
+- ❅ Unable to verify current business focus and services
+- ❅ Cannot research company history or founding details
+- ❅ No access to company size or employee count data
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
+## Company Structure
+**Directory**: `/company_analysis/株式会社コムスタッフ/`
 
-## Company Details
+**Files Created**:
+- ✅ company-info.md (this file)
+- ✅ company-people.json (placeholder)
 
-| **Business Fields** | IT services |
-| **KIA Membership** | Member of Kanagawa IT Industry Association |
+## Contact Information
+**Status**: Contact details unavailable due to web search limitations
 
-## Business Description
-
-株式会社コムスタッフ provides IT services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
-
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services.
-
-## Key Characteristics
-
-- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
-- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
-- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
-- No significant independent media coverage identified in public sources
-- Company may be listed in KIA publications, member directories, or industry event materials
-
-## Media Mentions
-
-- No significant independent media coverage identified in public sources
-
-## Notes
-
-- This company profile was created as part of the KIA Company Analysis project
-- Repository folder: `株式会社コムスタッフ`
-- For more detailed information, consult the company's official website or the KIA member directory
-
+## Business Focus
+**Status**: Business focus and services details unavailable
 
 ## Company Mentions
+**Status**: News and mentions research pending web search functionality
 
-_No external press coverage or media mentions found at this time._
+## Next Steps
+Await restoration of web search functionality to conduct comprehensive research including:
+- Official company website analysis
+- Business service identification
+- Company history and background research
+- Current status and growth indicators
+- Industry positioning and competitive analysis
+
+---
+*Research completed: May 27, 2026*
+*Status: Placeholder files created - Full research pending web search restoration*

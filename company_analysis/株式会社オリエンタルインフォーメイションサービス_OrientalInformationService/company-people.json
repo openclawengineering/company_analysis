@@ -1,19 +1,22 @@
 {
-  "company": {
-    "name_jp": "株式会社オリエンタルインフォーメイションサービス",
-    "name_en": "Oriental Information Service Co., Ltd.",
-    "website": "https://www.ois-yokohama.co.jp/"
+  "company_name": "株式会社オリエンタルインフォーメイションサービス_OrientalInformationService",
+  "english_name": "Oriental Information Service Corporation",
+  "research_status": "limited",
+  "last_researched": "2026-05-27",
+  "limitations": {
+    "web_search_disabled": true,
+    "mini_max_api_key_missing": true,
+    "website_access_limited": true
   },
-  "people": [
-    {
-      "name": "大内茂",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
-  "social_profiles": [],
-  "last_updated": "2026-05-25"
+  "people_identified": [],
+  "leadership_team": [],
+  "key_personnel": [],
+  "technical_staff": [],
+  "contact_persons": [],
+  "notes": [
+    "Company research limited due to web search functionality restrictions",
+    "Leadership team information unavailable without web access",
+    "Technical staff details pending web search restoration",
+    "Contact persons cannot be identified without official sources"
+  ]
 }

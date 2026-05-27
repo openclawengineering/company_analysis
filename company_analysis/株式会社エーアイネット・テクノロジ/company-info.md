@@ -1,32 +1,51 @@
-# 株式会社エーアイネット・テクノロジ (AI-Net Technologies Co., Ltd.)
+# 株式会社エーアイネット・テクノロジ
 
-## 概要
-株式会社エーアイネット・テクノロジは、ITサービスとソリューション提供を専門とする企業です。企業名の「AI-Net」は、人工知能（AI）とネットワーク技術に特化していることを示唆しています。
+## Basic Information
+- **Company Name**: 株式会社エーアイネット・テクノロジ (AI Net Technology)
+- **English Name**: AI Net Technology Corporation
+- **Company Type**: Corporation
+- **Industry**: AI Technology & IT Services
+- **Research Status**: ⚠️ PENDING - Limited by web search functionality
 
-## 事業内容
-- ITサービス開発
-- ソリューション提供
-- AI関連技術開発
-- ネットワークシステム構築
-- ソフトウェア開発サービス
+## Research Limitations
+**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
 
-## 会社情報
-- **所在地**: 日本（詳細な住所情報が必要）
-- **設立**: 年月情報が必要
-- **従業員数**: 推定 5名〜20名
-- **代表者**: 代表者情報が必要
-- **ウェブサイト**: https://www.ai-net-tech.co.jp/（推定）
+### Available Information
+- Company name and basic structure confirmed
+- Directory established for future research
+- Files prepared for when web search becomes available
 
-## 技術分野
-- AI（人工知能）開発
-- ネットワーク技術
-- ソフトウェア開発
-- ITインフラ構築
-- データ処理システム
+### Research Gap
+- ❌ Cannot access company website for official information
+- ❌ Limited ability to search for company news or updates
+- ❅ Unable to verify current business focus and services
+- ❅ Cannot research company history or founding details
+- ❅ No access to company size or employee count data
+
+## Company Structure
+**Directory**: `/company_analysis/株式会社エーアイネット・テクノロジ/`
+
+**Files Created**:
+- ✅ company-info.md (this file)
+- ✅ company-people.json (placeholder)
+
+## Contact Information
+**Status**: Contact details unavailable due to web search limitations
+
+## Business Focus
+**Status**: Business focus and services details unavailable
 
 ## Company Mentions
-- **IT業界ニュース** — 2026年5月 — 【株式会社エーアイネット・テクノロジ】ITソリューション提供企業として注目 ([https://itnews.jp/company/ai-net-tech](https://itnews.jp/company/ai-net-tech))
-- **技術ブログ** — 2026年5月 — AI-Net Technologies、最新AI技術に関する記事を公開 ([https://blog.ai-net-tech.jp](https://blog.ai-net-tech.jp))
-- **採用情報** — 2026年5月 — 【株式会社エーアイネット・テクノロジ】AIエンジニア募集中 ([https://job-ai.net/company/ai-net-tech](https://job-ai.net/company/ai-net-tech))
-- **プレスリリース** — 2026年5月 — 新AIソリューションサービスの開始 ([https://prtimes.jp/company/ai-net-tech](https://prtimes.jp/company/ai-net-tech))
+**Status**: News and mentions research pending web search functionality
 
+## Next Steps
+Await restoration of web search functionality to conduct comprehensive research including:
+- Official company website analysis
+- Business service identification
+- Company history and background research
+- Current status and growth indicators
+- Industry positioning and competitive analysis
+
+---
+*Research completed: May 27, 2026*
+*Status: Placeholder files created - Full research pending web search restoration*

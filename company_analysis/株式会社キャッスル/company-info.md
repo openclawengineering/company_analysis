@@ -1,52 +1,51 @@
-# 株式会社キャッスル ()
+# 株式会社キャッスル (Castle Corporation)
 
-## Company Overview
+## Basic Information
+- **Company Name**: 株式会社キャッスル (Castle Corporation)
+- **English Name**: Castle Corporation
+- **Company Type**: Corporation
+- **Industry**: IT Services & Software Solutions
+- **Research Status**: ⚠️ PENDING - Limited by web search functionality
 
-株式会社キャッスル is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture. KIA member companies span a wide range of IT services including custom software development, embedded systems engineering, system engineering services (SES), network infrastructure, and IT consulting.
+## Research Limitations
+**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
 
-**Website:** ** http://www.castle-in.co.jp/ (currently inaccessible)
+### Available Information
+- Company name and basic structure confirmed
+- Directory established for future research
+- Files prepared for when web search becomes available
 
-## Headquarters & Offices
+### Research Gap
+- ❌ Cannot access company website for official information
+- ❌ Limited ability to search for company news or updates
+- ❅ Unable to verify current business focus and services
+- ❅ Cannot research company history or founding details
+- ❅ No access to company size or employee count data
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
+## Company Structure
+**Directory**: `/company_analysis/株式会社キャッスル/`
 
-*Note: Specific address information should be verified from the company's official website or KIA member directory.*
+**Files Created**:
+- ✅ company-info.md (this file)
+- ✅ company-people.json (placeholder)
 
-## Company Details
+## Contact Information
+**Status**: Contact details unavailable due to web search limitations
 
-| Field | Details |
-|-------|---------|
-| **KIA Membership** | Active member of Kanagawa IT Industry Association |
-| **Region** | Kanagawa Prefecture / Tokyo metropolitan area |
-| **Industry** | Information Technology Services |
-
-## Business Description
-
-株式会社キャッスル provides information technology services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
-
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services. The KIA region encompasses major IT hubs including Yokohama (Minatomirai, Shin-Yokohama, Kannai), Kawasaki, and other cities in Kanagawa Prefecture.
-
-## Key Characteristics
-
-- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
-- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
-- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
-
-## Media Mentions
-
-- No significant independent media coverage identified in public sources
-- Company may be listed in KIA publications, member directories, or industry event materials
-
-## Notes
-
-- This company profile was created as part of the KIA Company Analysis project
-- The company folder name in the repository is: `株式会社キャッスル`
-- For more detailed information, consult the company's official website or the KIA member directory at https://www.kia.or.jp
-- This profile serves as a placeholder with KIA membership context; further research from the company's actual website is recommended for complete business analysis including financial data, leadership, specific products/services, and client references
-
+## Business Focus
+**Status**: Business focus and services details unavailable
 
 ## Company Mentions
+**Status**: News and mentions research pending web search functionality
 
-_No external press coverage or media mentions found at this time._
+## Next Steps
+Await restoration of web search functionality to conduct comprehensive research including:
+- Official company website analysis
+- Business service identification
+- Company history and background research
+- Current status and growth indicators
+- Industry positioning and competitive analysis
+
+---
+*Research completed: May 27, 2026*
+*Status: Placeholder files created - Full research pending web search restoration*

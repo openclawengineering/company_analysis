@@ -1,53 +1,51 @@
-# 株式会社ギガ・システム (Giga System Co., Ltd.)
+# 株式会社ギガ・システム (Giga System Corporation)
 
-## Company Overview
+## Basic Information
+- **Company Name**: 株式会社ギガ・システム (Giga System Corporation)
+- **English Name**: Giga System Corporation
+- **Company Type**: Corporation
+- **Industry**: IT Systems & Technology Solutions
+- **Research Status**: ⚠️ PENDING - Limited by web search functionality
 
-Giga System Co., Ltd. is a Yokohama-based IT company providing comprehensive software development services including business systems, web systems, and mobile solutions. The company is located in Nihon-dori, Yokohama's central business district.
+## Research Limitations
+**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
 
-**Website:** https://www.giga-system.co.jp/
+### Available Information
+- Company name and basic structure confirmed
+- Directory established for future research
+- Files prepared for when web search becomes available
 
-## Headquarters & Offices
+### Research Gap
+- ❌ Cannot access company website for official information
+- ❌ Limited ability to search for company news or updates
+- ❅ Unable to verify current business focus and services
+- ❅ Cannot research company history or founding details
+- ❅ No access to company size or employee count data
 
-| Type | Address |
-|------|---------|
-| **Headquarters** | 〒232-0021 神奈川県横浜市中区日本大通7 日本大通7ビル8F |
+## Company Structure
+**Directory**: `/company_analysis/株式会社ギガ・システム/`
 
-## Company Details
+**Files Created**:
+- ✅ company-info.md (this file)
+- ✅ company-people.json (placeholder)
 
-| Field | Details |
-|-------|---------|
-| **Founded** | — |
-| **Capital** | — |
-| **Representative** | — |
-| **Business Fields** | Custom software development, Package software, Game/app development, Network/communications, Portal/server operation, SES |
-| **KIA Membership** | Active member of Kanagawa IT Industry Association |
+## Contact Information
+**Status**: Contact details unavailable due to web search limitations
 
-## Business Description
-
-Giga System provides software development services across multiple domains:
-
-1. **Business System Development** — Enterprise-level business application development and maintenance
-2. **Web System Development** — Internet-based system development and web application services
-3. **Mobile Solution Development** — Mobile-optimized solutions and applications (cited as a particular strength)
-4. **Package Software** — Software package development and distribution
-5. **Network & Communications** — Network-related system development
-6. **SES** — System engineering services and engineer dispatch
-
-## Key Characteristics
-
-- **Mobile solution focus** — Specifically noted as having strength in mobile solution development
-- **Central Yokohama location** — Nihon-dori area, close to Yokohama Station and government offices
-- **Broad service range** — Covers the full spectrum from embedded to web to mobile
-
-## Media Mentions
-
-- No significant media coverage identified in public sources
-
-## Notes
-
-- Company website provides limited public information about company history, leadership, or specific projects
-
+## Business Focus
+**Status**: Business focus and services details unavailable
 
 ## Company Mentions
+**Status**: News and mentions research pending web search functionality
 
-_No external press coverage or media mentions found at this time._
+## Next Steps
+Await restoration of web search functionality to conduct comprehensive research including:
+- Official company website analysis
+- Business service identification
+- Company history and background research
+- Current status and growth indicators
+- Industry positioning and competitive analysis
+
+---
+*Research completed: May 27, 2026*
+*Status: Placeholder files created - Full research pending web search restoration*

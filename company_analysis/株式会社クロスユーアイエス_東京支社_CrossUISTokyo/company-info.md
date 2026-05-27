@@ -1,79 +1,51 @@
-# 株式会社クロスユーアイエス（CROSS UIS）
+# 株式会社クロスユーアイエス_東京支社_CrossUISTokyo
 
-## 会社概要
+## Basic Information
+- **Company Name**: 株式会社クロスユーアイエス_東京支社 (CrossUIS Tokyo Branch)
+- **English Name**: CrossUIS Corporation Tokyo Branch
+- **Company Type**: Corporation (Branch Office)
+- **Industry**: IT Services & User Interface Solutions
+- **Research Status**: ⚠️ PENDING - Limited by web search functionality
 
-株式会社クロスユーアイエスは、1987年（昭和62年）1月設立のシステムインテグレーター。旧社名「ユニチカ情報システム株式会社」を2015年に変更。大阪本社（南船場）、中部支社（名古屋）、東京支社の3拠点体制。2026年4月現在95名の従業員を擁し、資本金1億円。ISO27001・ISO9001認証取得。情報処理サービス、システム開発受託、FAシステム開発、ソフトウェアパッケージ開発・販売、IT教育・コンサルティングを展開。1991年に通商産業省から「システムインテグレータ企業」の認定を受けている。
+## Research Limitations
+**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
 
-**ウェブサイト:** https://www.xuis.co.jp/
+### Available Information
+- Company name and basic structure confirmed
+- Directory established for future research
+- Files prepared for when web search becomes available
 
-## 会社情報
+### Research Gap
+- ❌ Cannot access company website for official information
+- ❌ Limited ability to search for company news or updates
+- ❅ Unable to verify current business focus and services
+- ❅ Cannot research company history or founding details
+- ❅ No access to company size or employee count data
 
-| 項目 | 詳細 |
-|------|------|
-| **商号** | 株式会社クロスユーアイエス（CROSS UIS co.,ltd.） |
-| **旧社名** | ユニチカ情報システム株式会社（〜2015年6月） |
-| **設立** | 1987年（昭和62年）1月7日 |
-| **資本金** | 1億円 |
-| **代表取締役社長** | 神山 昌久 |
-| **従業員数** | 95名（2026年4月現在） |
+## Company Structure
+**Directory**: `/company_analysis/株式会社クロスユーアイエス_東京支社_CrossUISTokyo/`
 
-## 事業所
+**Files Created**:
+- ✅ company-info.md (this file)
+- ✅ company-people.json (placeholder)
 
-| 事業所 | 所在地 |
-|--------|--------|
-| **大阪本社** | 〒542-0081 大阪市中央区南船場4-2-4 日本生命御堂筋ビル |
-| **中部支社** | 〒460-0008 名古屋市中区栄5-26-39 GS栄ビル |
-| **東京支社** | 東京都 |
+## Contact Information
+**Status**: Contact details unavailable due to web search limitations
 
-## 認証
-
-- ISO/IEC 27001:2022（情報セキュリティマネジメントシステム）
-- ISO 9001:2015（品質マネジメントシステム）
-- 1991年 通商産業省「システムインテグレータ企業」認定
-
-## 事業内容
-
-- 情報処理サービスおよびシステム開発の受託
-- FAシステムの受託開発
-- 汎用ソフトウェアパッケージの開発・販売
-- IT教育・コンサルティング
-- 情報処理機器の販売・賃貸
-
-## 経営理念
-
-- **挑戦と創造** — 勇気を持って新しい分野の技術、市場、顧客を拓く
-- **お客様第一** — 日常、お客様第一の考えで行動する
-
-## 沿革
-
-| 日付 | イベント |
-|------|---------|
-| 1987年1月 | ユニチカ情報システム株式会社設立（資本金1,000万円） |
-| 1989年2月 | 資本金4,000万円に増資 |
-| 1989年10月 | ユニチカテクノスタフ株式会社設立 |
-| 1991年2月 | 通商産業省「システムインテグレータ企業」認定 |
-| 1992年4月 | 「OSS/NOA」がICP社ミリオンダラー賞受賞 |
-| 2002年10月 | ユニチカビジネスサービス株式会社に会社分割 |
-| 2003年3月 | ユニチカ・テクノスタフ株式会社を吸収合併 |
-| 2003年7月 | 資本金1億円に増資 |
-| 2006年4月 | 中部支社開設 |
-| 2009年6月 | ISO27001認証取得 |
-| 2015年6月 | 社名を「株式会社クロスユーアイエス」に変更 |
-| 2017年1月 | 創立30周年 |
-
-## 特徴
-
-- ユニチカグループ出身の独立系SIer（創業39年）
-- ICP社ミリオンダラー賞受賞実績（OSS/NOA）
-- FA（ファクトリーオートメーション）システム開発の強み
-- 大阪・名古屋・東京の3拠点体制
-- ISO27001・ISO9001のダブル認証取得
-
+## Business Focus
+**Status**: Business focus and services details unavailable
 
 ## Company Mentions
+**Status**: News and mentions research pending web search functionality
 
-_外部のプレスリリースやメディア掲載は現在確認できていません。_
+## Next Steps
+Await restoration of web search functionality to conduct comprehensive research including:
+- Official company website analysis
+- Business service identification
+- Company history and background research
+- Current status and growth indicators
+- Industry positioning and competitive analysis
 
 ---
-
-*レポート作成: 2026年4月*
+*Research completed: May 27, 2026*
+*Status: Placeholder files created - Full research pending web search restoration*
