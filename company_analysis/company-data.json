@@ -4,11 +4,11 @@
     "company_name_en": "Alpha Wave Corporation",
     "company_name_jp": "株式会社アルファ・ウェーブ",
     "company_domains": [
-      "Recruitment: 新卒採用 | 中途採用 | 常駐・派遣"
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "108-0073 東京都港区三田2-18-5 アルファ・ウェーブビル",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -22,7 +22,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.alphawave.co.jp/",
         "url": "http://www.alphawave.co.jp/"
       }
     ],
@@ -357,7 +357,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.sanda-japan.jp/",
         "url": "http://www.sanda-japan.jp/"
       }
     ],
@@ -474,7 +474,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.sgb.co.jp/",
         "url": "https://www.sgb.co.jp/"
       },
       {
@@ -566,7 +566,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.skyperfectjsat.co.jp/",
         "url": "https://www.skyperfectjsat.co.jp/"
       },
       {
@@ -630,7 +630,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://terapoc.co.jp/",
         "url": "https://terapoc.co.jp/"
       },
       {
@@ -881,7 +881,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.a-sk.co.jp/",
         "url": "https://www.a-sk.co.jp/"
       }
     ],
@@ -925,7 +925,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.kara-kuri.jp/",
         "url": "https://www.kara-kuri.jp/"
       },
       {
@@ -1005,7 +1005,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.isc-net.co.jp",
         "url": "http://www.isc-net.co.jp"
       },
       {
@@ -1036,11 +1036,11 @@
     "company_name_en": "Isis Inc.",
     "company_name_jp": "アイシス株式会社",
     "company_domains": [
-      "| 組み込みソフトウェア",
-      "パッケージソフトウェア",
+      "Embedded Systems",
+      "Packaged Software",
       "情報処理サービス",
-      "その他の情報サービス",
-      "SES |"
+      "IT Services",
+      "Staffing/SES"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -1075,7 +1075,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.isis.co.jp/",
         "url": "https://www.isis.co.jp/"
       }
     ],
@@ -1094,7 +1094,7 @@
       "founded": "1989年1月25日",
       "established": null,
       "capital": "1億円",
-      "num_of_employees": "156名",
+      "num_of_employees": "156",
       "sales": []
     },
     "people": [
@@ -1131,18 +1131,9 @@
         }
       }
     ],
-    "partners": [
-      "製造業、流通業、卸売業、金融業、サービス業（ブライダル等）など多業種",
-      "ウェディングドレスレンタル事業のRFID在庫管理導入実績",
-      "什器レンタル業界大手の基幹システムマイグレーション実績",
-      "電気保安管理のDX化（iPad活用の点検業務支援システム）"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.aisel.ne.jp/"
-      },
       {
         "name_and_description": "https://www.aisel.ne.jp",
         "url": "https://www.aisel.ne.jp"
@@ -1183,7 +1174,7 @@
       "founded": "2006年11月",
       "established": null,
       "capital": "1,000万円",
-      "num_of_employees": "15名（2021年4月現在）",
+      "num_of_employees": "15",
       "sales": []
     },
     "people": [
@@ -1220,16 +1211,9 @@
         }
       }
     ],
-    "partners": [
-      "神奈川県内を中心とした中小・中堅企業",
-      "横浜市（入札参加資格取得、コンピュータ業務）"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://it-surf.co.jp/"
-      },
       {
         "name_and_description": "https://it-surf.co.jp",
         "url": "https://it-surf.co.jp"
@@ -1268,10 +1252,10 @@
     "company_name_jp": "アイテックジャパン株式会社",
     "company_domains": [
       "| デジタルテクノロジー",
-      "AI",
-      "アプリケーション開発",
-      "クラウドサービス",
-      "プロジェクト管理・受託 |"
+      "AI/Machine Learning",
+      "Application Development",
+      "Cloud Services",
+      "Project Management"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -1397,7 +1381,7 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://itec-j.com/",
         "url": "https://itec-j.com/"
       }
     ],
@@ -1419,7 +1403,7 @@
       "founded": "1999年4月",
       "established": null,
       "capital": "3,000万円",
-      "num_of_employees": "約98名（推定）",
+      "num_of_employees": "98",
       "sales": []
     },
     "people": [
@@ -1440,20 +1424,12 @@
         }
       }
     ],
-    "partners": [
-      "岩井ファルマテック株式会社 — SecureRDP導入（2社分の情報をクラウド上に一元化）",
-      "株式会社アイネス — JENNIFER導入（Webシステム監視、レスポンス悪化の原因特定）",
-      "公共機関 — サーバインフラの構築・運用"
-    ],
+    "partners": [],
     "certifications": [
       "プライバシーマーク取得",
       "Microsoft Intune / Windows Autopilot クラウド型デバイス管理認定技術力評価"
     ],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.in-est.co.jp/"
-      },
       {
         "name_and_description": "https://www.iti.ines.co.jp",
         "url": "https://www.iti.ines.co.jp"
@@ -1549,10 +1525,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "http://www.active-web.co.jp/"
-      },
-      {
         "name_and_description": "http://www.active-web.co.jp",
         "url": "http://www.active-web.co.jp"
       },
@@ -1617,7 +1589,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.upload21.jp/",
         "url": "http://www.upload21.jp/"
       },
       {
@@ -1745,7 +1717,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.atomsystem.co.jp/",
         "url": "https://www.atomsystem.co.jp/"
       },
       {
@@ -1809,7 +1781,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.adtec.co.jp/",
         "url": "https://www.adtec.co.jp/"
       },
       {
@@ -2021,12 +1993,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.ad-planning.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -2083,7 +2050,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.another-ware.co.jp",
         "url": "http://www.another-ware.co.jp"
       }
     ],
@@ -2102,7 +2069,7 @@
       "founded": null,
       "established": null,
       "capital": " ¥30,000,000 JPY (approximately $200,000 USD)",
-      "num_of_employees": " 42",
+      "num_of_employees": "42",
       "sales": []
     },
     "people": [
@@ -2143,7 +2110,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.aptsys.co.jp/",
         "url": "https://www.aptsys.co.jp/"
       },
       {
@@ -2173,8 +2140,8 @@
       "fax": null,
       "founded": " January 1971 (Showa 46)",
       "established": null,
-      "capital": " ¥90 million (9,000万円)",
-      "num_of_employees": " 280 people",
+      "capital": "9,000万円",
+      "num_of_employees": "280",
       "sales": []
     },
     "people": [
@@ -2213,12 +2180,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://apricotinc.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -2227,8 +2189,8 @@
     "company_name_jp": "アマノ株式会社",
     "company_domains": [
       "タイムレコーダー・勤務管理システム",
-      "アクセス制御システム",
-      "セキュリティソリューション",
+      "Control Systems",
+      "Cybersecurity",
       "ID管理システム",
       "労務管理システム"
     ],
@@ -2273,7 +2235,7 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": "年: [情報が必要]\n\n## 事業内容\n- タイムレコーダー・勤務管理システム\n- アクセス制御システム\n- セキュリティソリューション\n- ID管理システム\n- 労務管理システム\n\n## 代表取締役\n[情報が必要]\n\n## 資本金\n[情報が必要]\n\n## 従業員数\n[情報が必要]\n\n## 主要取引先\n[情報が必要]\n\n## 事業所\n本社: [情報が必要]\n\n## 連絡先\n- 住所: [情報が必要]\n- 電話: [情報が必要]\n- URL: [情報が必要]\n\n## 備考\n[追加情報が必要]\n\n\n## Company Mentions\n\n_外部のプレスリリースやメディア掲載は現在確認できていません。_\n\n---\n*この情報は更新が必要です。正確な情報を入手してください。*",
+      "founded": null,
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -2284,7 +2246,7 @@
         "name_en": null,
         "name_jp": "津田博之",
         "title": "代表取締役会長",
-        "notes": null,
+        "notes": "1982年入社。2017年代表取締役社長就任、2023年代表取締役会長就任。",
         "linkedin": {
           "profile_available": true,
           "data_available": true,
@@ -2316,7 +2278,7 @@
         "name_en": null,
         "name_jp": "山﨑学",
         "title": "代表取締役社長",
-        "notes": null,
+        "notes": "1986年入社。2023年代表取締役社長就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2332,7 +2294,7 @@
         "name_en": null,
         "name_jp": "秦芳彦",
         "title": "取締役 兼 常務執行役員",
-        "notes": null,
+        "notes": "1987年入社。2022年取締役就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2348,7 +2310,7 @@
         "name_en": null,
         "name_jp": "生駒進",
         "title": "取締役 兼 常務執行役員",
-        "notes": null,
+        "notes": "1986年入社。2025年取締役就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2364,7 +2326,7 @@
         "name_en": null,
         "name_jp": "多造藤徳",
         "title": "取締役 兼 常務執行役員",
-        "notes": null,
+        "notes": "1987年入社。2020年取締役就任、2026年常務執行役員。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2380,7 +2342,7 @@
         "name_en": null,
         "name_jp": "大森通伸",
         "title": "取締役（社外）",
-        "notes": null,
+        "notes": "元財務省官僚。2019年取締役就任。三菱重工サーマルシステムズ顧問、日本信用情報機構取締役。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2396,7 +2358,7 @@
         "name_en": null,
         "name_jp": "渡邉寿美恵",
         "title": "取締役（社外）",
-        "notes": null,
+        "notes": "元第一生命保険執行役員。2021年取締役就任。第一生命チャレンジド取締役会長。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2412,7 +2374,7 @@
         "name_en": null,
         "name_jp": "田村恵子",
         "title": "取締役（社外）",
-        "notes": null,
+        "notes": "弁護士（あさひ法律事務所パートナー）。2025年取締役就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2428,7 +2390,7 @@
         "name_en": null,
         "name_jp": "井原邦弘",
         "title": "常勤監査役",
-        "notes": null,
+        "notes": "元第一生命保険。2007年入社、2025年常勤監査役就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2444,7 +2406,7 @@
         "name_en": null,
         "name_jp": "北見智徳",
         "title": "常勤監査役",
-        "notes": null,
+        "notes": "1986年入社。2024年常勤監査役就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2460,7 +2422,7 @@
         "name_en": null,
         "name_jp": "中家華江",
         "title": "監査役（社外）",
-        "notes": null,
+        "notes": "公認会計士・税理士。2019年監査役就任。日本公認会計士協会理事、神奈川県監査委員。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2476,7 +2438,7 @@
         "name_en": null,
         "name_jp": "永川尚文",
         "title": "監査役（社外）",
-        "notes": null,
+        "notes": "元東急不動産。学校法人富士見丘学園理事長。2021年監査役就任。",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -2523,12 +2485,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.amano.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -2577,7 +2534,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://arisaftech.co.jp/",
         "url": "https://arisaftech.co.jp/"
       }
     ],
@@ -2637,7 +2594,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.arrows-systems.co.jp/",
         "url": "https://www.arrows-systems.co.jp/"
       },
       {
@@ -2676,7 +2633,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://andone-eng.co.jp/",
         "url": "https://andone-eng.co.jp/"
       }
     ],
@@ -2687,13 +2644,13 @@
     "company_name_en": "Ark System Co., Ltd.",
     "company_name_jp": "アークシステム株式会社",
     "company_domains": [
-      "パッケージソフトウェア開発",
-      "システム開発・設計",
-      "SES（システムエンジニアリングサービス）",
-      "ITインフラ構築・運用",
-      "ネットワーク管理",
-      "技術サポート・保守",
-      "セキュリティソリューション"
+      "Software Development",
+      "System Development",
+      "Staffing/SES",
+      "Infrastructure",
+      "Network/Communications",
+      "System Operations & Maintenance",
+      "Cybersecurity"
     ],
     "products_and_services": [
       {
@@ -2794,7 +2751,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.ark-sys.co.jp/",
         "url": "https://www.ark-sys.co.jp/"
       },
       {
@@ -2809,9 +2766,9 @@
     "company_name_en": "Arz Co., Ltd.",
     "company_name_jp": "アーズ総合開発株式会社",
     "company_domains": [
-      "システム開発",
+      "System Development",
       "IT人材教育・管理",
-      "SE系・開発系・WEB系・運用保守系・管理系・事務系等の各商流での経験者および未経験者の支援",
+      "System Operations & Maintenance",
       "研修・マナー教育"
     ],
     "products_and_services": [
@@ -2876,7 +2833,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.arz.co.jp/",
         "url": "https://www.arz.co.jp/"
       },
       {
@@ -2893,8 +2850,8 @@
     "company_domains": [
       "C#、JAVA等のアプリケーションプログラミング",
       "WebアプリケーションおよびWebデザイン",
-      "顧客のニーズに応じたシステムの提案・設計・開発・運用・保守・アップデート",
-      "クラウド・オンプレミス対応",
+      "System Operations & Maintenance",
+      "Cloud Services",
       "フロントエンド開発（HTML、JavaScript、CSS）"
     ],
     "products_and_services": [
@@ -2937,7 +2894,7 @@
     "company_profile": {
       "address": "〒230-0075 横浜市鶴見区上の宮1-36-2 |",
       "phone": null,
-      "fax": "| 045-585-6437 |",
+      "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
@@ -2966,7 +2923,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.earnestdevelopment.co.jp/",
         "url": "https://www.earnestdevelopment.co.jp/"
       }
     ],
@@ -3110,7 +3067,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.i-guazu.co.jp/",
         "url": "https://www.i-guazu.co.jp/"
       },
       {
@@ -3136,8 +3093,8 @@
       "fax": "045-681-0149",
       "founded": null,
       "established": null,
-      "capital": "1,000万円, Employees: 11, Location: Same building in Yokohama |",
-      "num_of_employees": "11, Location: Same building in Yokohama |",
+      "capital": "1,000万円",
+      "num_of_employees": "11",
       "sales": []
     },
     "people": [
@@ -3162,7 +3119,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.imagination.co.jp/",
         "url": "https://www.imagination.co.jp/"
       }
     ],
@@ -3206,7 +3163,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.kk-imagine.com/",
         "url": "https://www.kk-imagine.com/"
       }
     ],
@@ -3317,7 +3274,7 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.eleven-lab.co.jp/",
         "url": "https://www.eleven-lab.co.jp/"
       }
     ],
@@ -3380,20 +3337,13 @@
       "founded": "1998年",
       "established": null,
       "capital": null,
-      "num_of_employees": "約15名",
+      "num_of_employees": "15",
       "sales": []
     },
     "people": [],
-    "partners": [
-      "神奈川県内の中小企業",
-      "各種ビジネスユーザー"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.infotech-s.co.jp/"
-      },
       {
         "name_and_description": "https://www.infotech-s.co.jp",
         "url": "https://www.infotech-s.co.jp"
@@ -3422,7 +3372,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.isforce.jp/",
         "url": "https://www.isforce.jp/"
       },
       {
@@ -3602,25 +3552,9 @@
         }
       }
     ],
-    "partners": [
-      "東北水産流通システム事業共同組合",
-      "学校法人早稲田学園",
-      "学校法人近畿大学",
-      "住友重機械工業株式会社",
-      "株式会社ノリタケカンパニーリミテド",
-      "JAL生活協同組合",
-      "MS&ADグランアシスタンス株式会社",
-      "NECソリューションイノベータ株式会社（契約先）",
-      "日本電気株式会社（契約先）",
-      "富士ソフト株式会社（契約先）",
-      "その他多数"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.si-m.com/"
-      },
       {
         "name_and_description": "https://www.si-m.com",
         "url": "https://www.si-m.com"
@@ -3754,7 +3688,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.orthos.co.jp/",
         "url": "http://www.orthos.co.jp/"
       },
       {
@@ -3862,7 +3796,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.orangetech.co.jp/",
         "url": "http://www.orangetech.co.jp/"
       }
     ],
@@ -3881,7 +3815,7 @@
       "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": "118",
+      "num_of_employees": null,
       "sales": [
         {
           "date_type": "year",
@@ -3892,7 +3826,7 @@
     },
     "people": [
       {
-        "name_en": "Kiyoshi Okada",
+        "name_en": null,
         "name_jp": "岡田 潔",
         "title": "代表取締役社長",
         "notes": null,
@@ -4039,7 +3973,7 @@
         "name_en": "Kiiyama",
         "name_jp": "貝山",
         "title": "顧問",
-        "notes": null,
+        "notes": "Received 'Radio Technology Association Award' (電波技術協会賞) in November 2016",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -4056,7 +3990,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://karbit.co.jp/",
         "url": "https://karbit.co.jp/"
       },
       {
@@ -4073,7 +4007,7 @@
     "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "| OS Building 5F, 3-5-15 Shibasaki-cho, Tachikawa, Tokyo 190-0023 |",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -4190,10 +4124,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://craft-server.co.jp/"
-      },
       {
         "name_and_description": "http://www.craft-server.co.jp/",
         "url": "http://www.craft-server.co.jp/"
@@ -4328,7 +4258,7 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.xtec.co.jp/",
         "url": "https://www.xtec.co.jp/"
       },
       {
@@ -4357,7 +4287,7 @@
     "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "| Asou Building 202, 12-1 Takara-cho, Hiratsuka, Kanagawa 254-0034 |",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -4390,7 +4320,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.ki-s.co.jp",
         "url": "https://www.ki-s.co.jp"
       }
     ],
@@ -4497,7 +4427,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.corefutec.co.jp/",
         "url": "https://www.corefutec.co.jp/"
       },
       {
@@ -4534,17 +4464,7 @@
     "company_domains": [
       "Contracted Software Development",
       "System Engineering Service",
-      "Labor Dispatch Business",
-      "Insurance",
-      "Railway/Transportation",
-      "Medical/Healthcare",
-      "Automotive",
-      "Banking/Finance",
-      "Credit/Consumer Finance",
-      "Logistics",
-      "Government",
-      "Telecommunications",
-      "Electronics"
+      "Labor Dispatch Business"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -4625,21 +4545,16 @@
     "certifications": [
       "Labor Dispatch Business",
       "Specific Labor Dispatch Business",
-      "Qualified Invoice Issuer",
-      "Kanagawa Prefecture Information Service Industry Association",
-      "Metropolitan Area Digital Industry Health Insurance Association",
-      "Small and Medium Enterprise Retirement Allowance Mutual Aid Business Headquarters",
-      "Information Service Company Pension Fund",
-      "Sagamihara Corporate Association"
+      "Qualified Invoice Issuer"
     ],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.kk-cosmic.co.jp"
-      },
-      {
         "name_and_description": "http://www.kk-cosmic.co.jp/",
         "url": "http://www.kk-cosmic.co.jp/"
+      },
+      {
+        "name_and_description": "https://www.kk-cosmic.co.jp",
+        "url": "https://www.kk-cosmic.co.jp"
       }
     ],
     "tech_stack": [
@@ -4684,8 +4599,8 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": " 2,000万円 (20,000,000 JPY)",
-      "num_of_employees": " 39名 total",
+      "capital": "2,000万円",
+      "num_of_employees": "39",
       "sales": [
         {
           "date_type": "year",
@@ -4716,7 +4631,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://cos-sys.co.jp/",
         "url": "https://cos-sys.co.jp/"
       },
       {
@@ -4758,7 +4673,7 @@
       "founded": "2024年（事業開始：2024年10月1日）",
       "established": null,
       "capital": null,
-      "num_of_employees": "約10名（推定）",
+      "num_of_employees": "10",
       "sales": []
     },
     "people": [
@@ -4779,15 +4694,11 @@
         }
       }
     ],
-    "partners": [
-      "製造業",
-      "自動車・車載機器メーカー",
-      "IoT関連企業"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.suprime.co.jp",
         "url": "https://www.suprime.co.jp"
       },
       {
@@ -4818,7 +4729,7 @@
       "founded": "1991年10月",
       "established": null,
       "capital": null,
-      "num_of_employees": "約36名（推定）",
+      "num_of_employees": "36",
       "sales": []
     },
     "people": [
@@ -4839,16 +4750,9 @@
         }
       }
     ],
-    "partners": [
-      "CMでおなじみの大手企業（直請け9割）",
-      "各種エンタープライズ企業"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.sang.co.jp/"
-      },
       {
         "name_and_description": "https://www.sang.co.jp",
         "url": "https://www.sang.co.jp"
@@ -5092,10 +4996,6 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.sunnet.co.jp/company/outline/"
-      },
-      {
         "name_and_description": "https://www.sunnet.co.jp/",
         "url": "https://www.sunnet.co.jp/"
       },
@@ -5123,7 +5023,7 @@
       "founded": "April 1982",
       "established": null,
       "capital": "Not disclosed",
-      "num_of_employees": "Approximately 34 (estimated)",
+      "num_of_employees": "34",
       "sales": []
     },
     "people": [
@@ -5160,15 +5060,9 @@
         }
       }
     ],
-    "partners": [
-      "3,000+ stores deployed"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.thecomputer.co.jp/"
-      },
       {
         "name_and_description": "https://thecomputer.co.jp",
         "url": "https://thecomputer.co.jp"
@@ -5246,7 +5140,7 @@
         "name_en": "Keisuke Kuzukawa",
         "name_jp": "葛川 敬祐",
         "title": null,
-        "notes": null,
+        "notes": "元バンドマン (Former band musician) - Featured in media for Bandman Recruitment program",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -5294,7 +5188,7 @@
         "name_en": "Satoshi Ogata",
         "name_jp": "緒方 聡",
         "title": null,
-        "notes": null,
+        "notes": "Appointed August 2022",
         "linkedin": {
           "profile_available": false,
           "data_available": false,
@@ -5412,7 +5306,7 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://systemi.co.jp/",
         "url": "https://systemi.co.jp/"
       },
       {
@@ -5475,7 +5369,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "http://www.systemicol.co.jp/",
         "url": "http://www.systemicol.co.jp/"
       }
     ],
@@ -5563,18 +5457,11 @@
         }
       }
     ],
-    "partners": [
-      "real estate management",
-      "Universities and educational institutions",
-      "Municipal governments",
-      "Automotive inspection facilities",
-      "Baseball stadiums",
-      "Manufacturing facilities"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://system-works.co.jp",
         "url": "https://system-works.co.jp"
       }
     ],
@@ -5665,7 +5552,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.shimpo.co.jp/",
         "url": "https://www.shimpo.co.jp/"
       }
     ],
@@ -6035,16 +5922,11 @@
         }
       }
     ],
-    "partners": [
-      "Social infrastructure organizations",
-      "IoT device manufacturers",
-      "Digital service providers",
-      "Various industries requiring software solutions"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.jisc.co.jp",
         "url": "https://www.jisc.co.jp"
       },
       {
@@ -6244,7 +6126,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.slj-net.co.jp/",
         "url": "https://www.slj-net.co.jp/"
       },
       {
@@ -6283,7 +6165,7 @@
       "founded": "2013年1月17日",
       "established": null,
       "capital": "700万円",
-      "num_of_employees": "11名（2024年4月時点）",
+      "num_of_employees": "11",
       "sales": []
     },
     "people": [
@@ -6304,14 +6186,11 @@
         }
       }
     ],
-    "partners": [
-      "小売業（POSシステム）",
-      "横浜・神奈川エリアの中小企業"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.twocrest.com",
         "url": "https://www.twocrest.com"
       },
       {
@@ -6498,7 +6377,7 @@
       "founded": "Not disclosed",
       "established": null,
       "capital": "Not disclosed",
-      "num_of_employees": "Not disclosed",
+      "num_of_employees": null,
       "sales": []
     },
     "people": [
@@ -6603,7 +6482,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.d-solution.co.jp",
         "url": "https://www.d-solution.co.jp"
       },
       {
@@ -6647,16 +6526,11 @@
         }
       }
     ],
-    "partners": [
-      "Sports industry clients",
-      "SNS localization",
-      "sponsorship activation support",
-      "Global SNS site operations during World Cup"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://dgt.co.jp",
         "url": "https://dgt.co.jp"
       },
       {
@@ -6743,10 +6617,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.ditgroup.jp/corporate/outline/outline.html"
-      },
       {
         "name_and_description": "https://www.ditgroup.jp/",
         "url": "https://www.ditgroup.jp/"
@@ -6865,7 +6735,7 @@
       "founded": "August 1, 2019",
       "established": null,
       "capital": "8,000,000 JPY",
-      "num_of_employees": "Not disclosed",
+      "num_of_employees": null,
       "sales": []
     },
     "people": [
@@ -6886,23 +6756,11 @@
         }
       }
     ],
-    "partners": [
-      "iNet Corporation",
-      "Arc Co., Ltd.",
-      "SkyMatics Inc.",
-      "T&T Inc.",
-      "Sekido Inc.",
-      "WorldLink & Company Inc.",
-      "Three-S Inc.",
-      "Ishikawa Energy Research Inc.",
-      "Shimananami Lighthouse Inc.",
-      "Sakawa Giken Inc.",
-      "M's Sky Solution"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.drone-it.jp",
         "url": "https://www.drone-it.jp"
       }
     ],
@@ -6965,17 +6823,11 @@
         }
       }
     ],
-    "partners": [
-      "Entertainment industry",
-      "Education sector",
-      "Healthcare industry",
-      "Automotive industry",
-      "Consumer electronics manufacturers"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.knowledgebeans.co.jp",
         "url": "https://www.knowledgebeans.co.jp"
       }
     ],
@@ -7186,20 +7038,11 @@
         }
       }
     ],
-    "partners": [
-      "LLM development GPU implementation",
-      "Ongakukan Corporation",
-      "Educational institutions",
-      "Printing companies",
-      "Earth Environmental Science Research",
-      "Japan Geodetic Design",
-      "Research institutions",
-      "Medical facilities"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.newtech.co.jp",
         "url": "https://www.newtech.co.jp"
       },
       {
@@ -7226,7 +7069,7 @@
       "founded": "December 1994",
       "established": null,
       "capital": "10,000,000 JPY",
-      "num_of_employees": "10 (as of December 2016)",
+      "num_of_employees": "10",
       "sales": []
     },
     "people": [
@@ -7254,12 +7097,12 @@
       "Fujisoft Inc.",
       "Systena Corporation",
       "CIJ Inc.",
-      "in no particular order"
+      "Others (in no particular order)"
     ],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://nscomputing.co.jp",
         "url": "https://nscomputing.co.jp"
       }
     ],
@@ -7386,7 +7229,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.nps-inc.jp/",
         "url": "https://www.nps-inc.jp/"
       }
     ],
@@ -7405,7 +7248,7 @@
       "founded": "1974年5月6日",
       "established": null,
       "capital": "4,500万円",
-      "num_of_employees": "約179名",
+      "num_of_employees": "179",
       "sales": [
         {
           "date_type": "year",
@@ -7432,16 +7275,11 @@
         }
       }
     ],
-    "partners": [
-      "通信キャリア",
-      "放送業界",
-      "ISBグループ各社",
-      "ネットワーク機器メーカー"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.knox.co.jp",
         "url": "https://www.knox.co.jp"
       },
       {
@@ -7509,7 +7347,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.hirise.co.jp",
         "url": "https://www.hirise.co.jp"
       },
       {
@@ -7532,7 +7370,7 @@
       "founded": "September 1977",
       "established": null,
       "capital": "60,000,000 JPY",
-      "num_of_employees": "77 (as of April 2025)",
+      "num_of_employees": "77",
       "sales": []
     },
     "people": [
@@ -7596,7 +7434,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.haleng.co.jp",
         "url": "https://www.haleng.co.jp"
       },
       {
@@ -7635,7 +7473,7 @@
       "founded": null,
       "established": null,
       "capital": "Not publicly disclosed",
-      "num_of_employees": "Information not publicly disclosed",
+      "num_of_employees": null,
       "sales": []
     },
     "people": [],
@@ -7643,7 +7481,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.hm-net.co.jp/",
         "url": "https://www.hm-net.co.jp/"
       }
     ],
@@ -7686,10 +7524,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.pisquare.co.jp/"
-      },
       {
         "name_and_description": "https://www.pisquare.co.jp/",
         "url": "https://www.pisquare.co.jp/"
@@ -7783,7 +7617,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.4dn.co.jp/",
         "url": "https://www.4dn.co.jp/"
       }
     ],
@@ -7823,10 +7657,10 @@
       "address": "〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F |",
       "phone": "045-311-8984",
       "fax": "045-312-5964",
-      "founded": "年 | 1964年 |\n| 資本金 | 40億9000万円 |\n| 従業員数 | 970名（ミツイワ株式会社全体） |\n| 代表取締役 | 高橋 洋喜 |\n| 横浜営業部所在地 | 〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F |\n| 横浜営業部電話番号 | 045-311-8984 |\n| 横浜営業部FAX番号 | 045-312-5964 |\n| 本社所在地 | 〒108-0075 東京都港区虎ノ門一丁目2番20号 |\n| 本社電話番号 | 03-6702-3111 |\n| 業種 | OA機器販売・修理、ITサービス業 |\n| 所属団体 | 一般社団法人 横須賀市観光協会（ICT分野） |\n\n## 経営理念・ブランドコンセプト\n\nブランドコンセプト:\n「Foresight Innovating Company」をブランドコンセプトとして掲げ、デジタルトランスフォーメーション（DX）を推進している。お客様のDX推進を支援し、ビジネスモデルの変革を後押しする姿勢を明確にしている。\n\n経営方針:\n顧客のビジネスをITでサポートし、心豊かな社会の実現に貢献する。情報機器の販売からクラウド・IoT・スマートファクトリーまで、ワンストップでソリューションを提供している。\n\n## 事業内容\n\n### ミツイワ株式会社全体の主要事業\n\n#### ITソリューション事業\nMCP（マネージドクラウド）\n- マネージドクラウドサービスの提供\n- パブリッククラウド、プライベートクラウドの構築・運用\n\nMDX/DX活用推進\n- デジタルトランスフォーメーション（DX）の支援・推進\n- 既存システムのデジタル化支援\n\nMDS（デバイス開発・運用支援）\n- デバイス開発・運用支援\n- IoT機器の開発・運用\n\nMIP（インフラ構築）\n- ITインフラの設計・構築・運用\n\nMSS（総合運用サポート）\n- システムの総合運用・保守\n\n#### サポートサービス事業\n- インフラ/ネットワーク — ネットワーク設計・構築・運用\n- セキュリティ — 情報セキュリティ対策・運用\n\n#### IoT・スマートファクトリー事業\n- IoTソリューション — IoTソリューションの提供・導入支援\n- スマートファクトリー — 工場のスマート化・自動化支援\n- デバイスソリューション — 各種デバイスのソリューション提供\n\n#### 製品・サービス\n- 3Dプリンター — 3Dプリンターの販売・サポート\n- OA機器 — OA機器の販売・修理\n- ソフトウェア・プロダクト開発 — 自社ソフトウェア・プロダクトの開発・販売\n\n#### エネルギー・環境事業\n- エネルギー・環境分野への進出\n- 再生可能エネルギー関連事業\n\n## 横浜営業部の事業\n\n### OA機器販売・修理\n- OA機器の販売\n- OA機器の修理・メンテナンス\n- 製品・消耗品の提供\n- テクニカルサポート\n\n## 横浜エリア事業所\n\n### 横浜営業部\n- 住所：〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F\n- TEL：045-311-8984\n- FAX：045-312-5964\n- 事業内容：OA機器販売・修理\n\n### 横浜第一マネージドサービス部\n- 住所：〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F\n- TEL：045-550-4361\n- FAX：045-312-7760\n- 事業内容：マネージドサービス・保守\n\n### 横浜第二マネージドサービス部\n- 住所：〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F\n- TEL：045-312-4153\n- FAX：045-312-7760\n- 事業内容：マネージドサービス・保守\n\n### 神奈川フィールドサービス部\n- 住所：〒213-0011 神奈川県川崎市高津区久本三丁目2番3号 ヴェルビュー溝の口ビル6F\n- TEL：044-813-8870\n- FAX：044-813-8878\n- 事業内容：フィールドサービス・保守\n\n## 本社（ミツイワ株式会社）\n\n- 住所：〒108-0075 東京都港区虎ノ門一丁目2番20号\n- TEL：03-6702-3111\n- 最寄駅：虎ノ門駅（東京メトロ日比谷線）、神谷町駅（都営三田線）\n- アクセス：虎ノ門駅・神谷町駅より徒歩約5〜7分\n\n## 主要技術領域\n\nITインフラ・クラウド:\n- パブリッククラウド\n- プライベートクラウド\n- マネージドクラウドサービス\n\nIoT・スマートファクトリー:\n- IoT機器開発・運用\n- 工場自動化・スマート化\n- データ分析・活用\n\nセキュリティ:\n- 情報セキュリティ対策\n- ネットワークセキュリティ\n\n## アクセス（横浜営業部）\n\n- 所在地：〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F\n- 最寄駅：横浜駅（JR京浜東北線・根岸線、東急東横線、市営地下鉄ブルーライン）\n- アクセス：横浜駅から西口より徒歩約5〜10分\n\n## メディア掲載\n\n### 新聞記事\n\n日本経済新聞（Nikkei）\n- [2025年4月1日] 「人事、ミツイワ」（デジタルイノベーション推進本部デジタルイノベーション企画開発部担当）— デジタルイノベーション推進本部デジタルイノベーション企画開発部担当（サービスエンジニアリング本部EDAビジネス推進室担当）執行役員稲葉善典\n- [2024年4月1日] 「人事、ミツイワ」（サービスエンジニアリング本部）— サービスエンジニアリング本部営業本部ビジネス推進室担当、執行役員営業本部副本部長松本匡生\n- [2024年4月1日] 「人事、ミツイワ」（サービスエンジニアリング本部）— 業務一部・業務二部担当、執行役員営業本部副本部長兼東京MSSセンター・東京第一マネージドサービス部担当（サービスエンジニアリング本部情報通信工事部担当）同竹脇正雄\n- [2022年4月1日] 「人事、ミツイワ」（業務管理本部業務部担当）— 業務管理本部業務部担当、執行役員業務管理本部長門田茂徳\n\n日本経済新聞会社情報\n- [ミツイワ株式会社の会社情報と信用管理](https://www.nikkei.com/compass/company/rah2XrcUK5m3QSf1DsZVnE) — ミツイワ株式会社 Mitsuiwa Corp. ミツイワ株式会社は電気機械器具卸売業（家庭用電気機械器具を除く）を営む東京都の企業\n- [人事情報](https://www.nikkei.com/article/DGXZTSJD22601_R00C24A4000000/) — 代表取締役高橋洋喜氏の経歴\n\nYahoo!ニュース・経済ニュース\n- [「卸売り」のニュース・最新情報](https://www.nikkei.com/business/wholesale/) — 日用品・食品などの卸大手9社が、全国の小売店向け配送で手を組む\n\n## 主要顧客・業界\n\n主要業界:\n- IT業界\n- 情報通信業\n- OA機器販売・修理業\n- マネージドサービス業\n- クラウド・インフラ業界\n\n神奈川県内の顧客:\n- 横浜市内の企業\n- 神奈川県内の企業\n- 公的機関\n\n## 備考\n\n- ⚠️ 本資料は「横浜営業部」に関する情報であるため、ミツイワ株式会社全体の情報を含む\n- ミツイワ株式会社は1964年設立の中堅総合商社であり、資本金40億9000万円、従業員数970名の規模である\n- 横浜営業部は神奈川県横浜市を担当するOA機器販売・修理拠点である\n- ミツイワ株式会社はIT基盤構築、クラウドサービス、IoTソリューション、スマートファクトリー、3Dプリンターなど、幅広い事業展開を行っている\n- 2020年には「Foresight Innovating Company」をブランドコンセプトとして打ち出し、DX推進企業として事業展開している\n- 横浜エリアには営業部、第一・第二マネージドサービス部、神奈川フィールドサービス部の4拠点を有しており、神奈川県全域にサービスを提供している\n- 代表取締役高橋洋喜氏（87歳、愛知大学法科卒、1996年入社、2012年執行役員、2022年専門委員）が経営を統括している\n\n## 役員情報\n\n### 代表取締役\n高橋 洋喜（たかはし ひろよし）\n- 年齢：87歳（昭和62年生まれ）\n- 学歴：愛知大学法科卒\n- 入社：1996年\n- 役職歴：\n  - 2012年：執行役員\n  - 2022年：専門委員\n- 担当：ミツイワ株式会社の代表取締役を務める\n\n### 組織構造\nミツイワ株式会社は全国に複数の営業所・支店・フィールドサービス拠点を有しており、各エリアでIT基盤構築、クラウドサービス、OA機器販売・修理など幅広い事業を展開している。\n\n\n## Company Mentions\n\n_外部のプレスリリースやメディア掲載は現在確認できていません。_\n\n---\n\n*情報取得日: 2025年4月21日*",
+      "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": "970名（ミツイワ株式会社全体）",
+      "num_of_employees": "970",
       "sales": []
     },
     "people": [
@@ -7851,7 +7685,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.mitsuiwa.co.jp",
         "url": "https://www.mitsuiwa.co.jp"
       },
       {
@@ -7987,7 +7821,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.minebea-ss.com/",
         "url": "https://www.minebea-ss.com/"
       },
       {
@@ -8181,10 +8015,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.uni-info.co.jp/"
-      },
-      {
         "name_and_description": "https://www.kia.or.jp",
         "url": "https://www.kia.or.jp"
       },
@@ -8237,7 +8067,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.rocketsoftware.com/",
         "url": "https://www.rocketsoftware.com/"
       },
       {
@@ -8337,12 +8167,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.vangle.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -8383,12 +8208,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.vest.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -8429,12 +8249,12 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "http://1corp.co.jp"
-      },
-      {
         "name_and_description": "http://ichi.jupiter.bindcloud.jp/research/",
         "url": "http://ichi.jupiter.bindcloud.jp/research/"
+      },
+      {
+        "name_and_description": "http://1corp.co.jp",
+        "url": "http://1corp.co.jp"
       },
       {
         "name_and_description": "https://1corp.biz/primary2026/",
@@ -8954,7 +8774,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.atago.co.jp/",
         "url": "https://www.atago.co.jp/"
       }
     ],
@@ -8983,7 +8803,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.shinmeiwa-soft.com/",
         "url": "https://www.shinmeiwa-soft.com/"
       }
     ],
@@ -9157,7 +8977,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.nihonassist.co.jp/",
         "url": "https://www.nihonassist.co.jp/"
       }
     ],
@@ -9186,7 +9006,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.japansystemstudy.co.jp/",
         "url": "https://www.japansystemstudy.co.jp/"
       }
     ],
@@ -9248,7 +9068,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.japansoftwaremanagement.co.jp/",
         "url": "https://www.japansoftwaremanagement.co.jp/"
       }
     ],
@@ -9452,7 +9272,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.japantechnostructure.co.jp/",
         "url": "https://www.japantechnostructure.co.jp/"
       }
     ],
@@ -9492,29 +9312,7 @@
     "company_name_en": "Japan Noah's Co., Ltd.",
     "company_name_jp": "日本ノアーズ株式会社 (Japan Noah's Co., Ltd.)",
     "company_domains": [],
-    "products_and_services": [
-      {
-        "name": "Main products and services offered",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Target markets",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Technology stack",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      }
-    ],
+    "products_and_services": [],
     "company_profile": {
       "address": null,
       "phone": null,
@@ -9602,29 +9400,7 @@
     "company_name_en": "Nissan Body Computer Service Co., Ltd.",
     "company_name_jp": "日産車体コンピュータサービス株式会社 (Nissan Body Computer Service Co., Ltd.)",
     "company_domains": [],
-    "products_and_services": [
-      {
-        "name": "Main products and services offered",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Target markets",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Technology stack",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      }
-    ],
+    "products_and_services": [],
     "company_profile": {
       "address": null,
       "phone": null,
@@ -9646,29 +9422,7 @@
     "company_name_en": "Nikko Technos Co., Ltd.",
     "company_name_jp": "日興テクノス株式会社 (Nikko Technos Co., Ltd.)",
     "company_domains": [],
-    "products_and_services": [
-      {
-        "name": "Main products and services offered",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Target markets",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Technology stack",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      }
-    ],
+    "products_and_services": [],
     "company_profile": {
       "address": null,
       "phone": null,
@@ -9707,29 +9461,7 @@
     "company_name_en": "Cube LLC",
     "company_name_jp": "有限会社キューブ (Cube LLC)",
     "company_domains": [],
-    "products_and_services": [
-      {
-        "name": "Main products and services offered",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Target markets",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Technology stack",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      }
-    ],
+    "products_and_services": [],
     "company_profile": {
       "address": null,
       "phone": null,
@@ -9751,29 +9483,7 @@
     "company_name_en": "Think LLC",
     "company_name_jp": "有限会社シンク (Think LLC)",
     "company_domains": [],
-    "products_and_services": [
-      {
-        "name": "Main products and services offered",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Target markets",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Technology stack",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      }
-    ],
+    "products_and_services": [],
     "company_profile": {
       "address": null,
       "phone": null,
@@ -9812,29 +9522,7 @@
     "company_name_en": "Spice Media LLC",
     "company_name_jp": "有限会社スパイスメディア (Spice Media LLC)",
     "company_domains": [],
-    "products_and_services": [
-      {
-        "name": "Main products and services offered",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Target markets",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      },
-      {
-        "name": "Technology stack",
-        "type": "service",
-        "client_type": "b2b",
-        "description": null,
-        "target_demography": null
-      }
-    ],
+    "products_and_services": [],
     "company_profile": {
       "address": null,
       "phone": null,
@@ -9889,14 +9577,14 @@
     "company_name_en": "朝日ソフトウェア開発",
     "company_name_jp": "朝日ソフトウェア開発株式会社",
     "company_domains": [
-      "システムの分析・設計から開発・製造までトータルなソフトウェア開発事業を展開。ハードウェアの構築や運営サポートなど多岐にわたるノウハウを提案。"
+      "Software Development"
     ],
     "products_and_services": [],
     "company_profile": {
       "address": "〒210-0005 神奈川県川崎市川崎区東田町8番地 パレール三井ビル15F",
       "phone": null,
       "fax": null,
-      "founded": "| 1979年（昭和54年） |\n| 代表取締役会長 | 信夫 他人也 |\n| 代表取締役社長 | 竹田 由美子 |\n| 個人情報保護管理者 | 辰巳 慎太郎（取締役営業部長） |\n| 電話 | 044-222-1771 / 044-222-1780 |\n| 設立記念日 | 7月11日 |\n\n## 採用情報\n\n- 募集職種: システムエンジニア及びプログラマー\n- 開発言語: Java, VB, VB.net, C, C#, COBOL\n- 勤務地: 神奈川県川崎市（本社）、宮城県仙台市（仙台事業所）、他東京都内・神奈川県内のプロジェクト先\n\n## Company Mentions\n\n- 役員変更 — 2026年2月 — 信夫他人也が代表取締役会長に、竹田由美子が代表取締役社長に就任\n- プライバシーマーク取得 — 個人情報保護管理者を設置し、プライバシーマーク対応\n- 多拠点展開 — 本社（川崎市）に加え、仙台事業所（宮城県）を開設",
+      "founded": null,
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -9956,10 +9644,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.asahi-s.co.jp/"
-      },
-      {
         "name_and_description": "https://www.asdweb.co.jp",
         "url": "https://www.asdweb.co.jp"
       }
@@ -9980,8 +9664,8 @@
     "company_domains": [
       "Shopifyエキスパートパートナー",
       "D2Cブランド立ち上げ支援",
-      "ECサイト運用・保守",
-      "ストア構築コンサルティング"
+      "System Operations & Maintenance",
+      "IT Consulting"
     ],
     "products_and_services": [
       {
@@ -10064,7 +9748,7 @@
       "founded": "2021年10月1日",
       "established": null,
       "capital": "5億円",
-      "num_of_employees": "991名 (from available data)",
+      "num_of_employees": "991",
       "sales": []
     },
     "people": [
@@ -10085,16 +9769,11 @@
         }
       }
     ],
-    "partners": [
-      "東芝グループ各社",
-      "政府省庁・公共団体",
-      "大企業様（金融、製造、半導体等各業界）",
-      "中小企業様"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.toshiba-tden.co.jp/",
         "url": "https://www.toshiba-tden.co.jp/"
       }
     ],
@@ -10140,7 +9819,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.acquware.com/",
         "url": "https://www.acquware.com/"
       }
     ],
@@ -10151,8 +9830,8 @@
     "company_name_en": "USEWARE Co., Ltd.",
     "company_name_jp": "株式会社 ユーズウェア",
     "company_domains": [
-      "業務系システムの設計・開発",
-      "業務系システムの保守・運用",
+      "Design/Engineering",
+      "System Operations & Maintenance",
       "特に飼料業界のJV工場業務システム — 国内トップシェア"
     ],
     "products_and_services": [
@@ -10181,7 +9860,7 @@
     "company_profile": {
       "address": "〒220-0011 横浜市西区高島2-10-13 横浜東口ビル2F 203 |",
       "phone": null,
-      "fax": "| 045-440-3622 |",
+      "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
@@ -10253,12 +9932,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.a-link.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -10280,7 +9954,7 @@
     "company_profile": {
       "address": "〒220-0011 神奈川県横浜市西区高島1-2-5 横濱ゲートタワー17階 |",
       "phone": null,
-      "fax": "| 045-212-2277 |",
+      "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
@@ -10352,12 +10026,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.esu.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -10397,12 +10066,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.fabbi.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -10500,12 +10164,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.icon.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -10691,10 +10350,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "http://www.ist-software.co.jp/"
-      },
-      {
         "name_and_description": "http://www.ist-software.co.jp",
         "url": "http://www.ist-software.co.jp"
       }
@@ -10706,8 +10361,8 @@
     "company_name_en": "LOCUS ONE Co., Ltd.",
     "company_name_jp": "株式会社LOCUS ONE",
     "company_domains": [
-      "オフィスのサーバ、パソコン、ソフトウェア、クラウドサービスのコンサルティングと販売・保守",
-      "業務改善や効率向上のトータルコンサルティング"
+      "Cloud Services",
+      "IT Consulting"
     ],
     "products_and_services": [
       {
@@ -10729,7 +10384,7 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": "| 2024年12月2日 |\n| 代表取締役 | 橋本 康嗣 |\n| 本社 | 神奈川県茅ケ崎市東海岸南2-8-44-8 |\n| 横浜事業所 | 神奈川県横浜市西区高島1-2-5 横濱ゲートタワー3F |\n| 法務顧問 | 高橋名取法律事務所 |\n| 顧問税理士法人 | GrowthPartners税理士法人 |\n\n## 事業内容\n\n### ICTコンサルティング事業\n- オフィスのサーバ、パソコン、ソフトウェア、クラウドサービスのコンサルティングと販売・保守\n- 業務改善や効率向上のトータルコンサルティング\n\n### システムエンジニアリング事業\n- お客様の要件に基づき、エンジニアが技術支援\n\n### WEB制作・保守事業\n- ロゴ・名刺デザイン\n- ホームページ、ショッピングサイト、ランディングページ（LP）の制作保守\n- AI-Optimized Websites（AIO Web Solutions）\n\n### 電気通信事業\n- 携帯キャリアのSIMレンタルおよび機器販売\n- 電気通信事業登録番号: A-06-22328\n\n### 採用代行事業\n- RPO（Recruitment Process Outsourcing）\n\n## 加盟団体\n\n- 一般社団法人 神奈川県情報サービス産業協会（KIA）\n- 一般社団法人 全日本電気通信サービス取引協会\n- 首都圏デジタル産業保険組合\n\n## 取引銀行\n\n- みずほ銀行 藤沢支店\n- 三井住友銀行 藤沢支店\n- 横浜信用金庫 横浜西口店\n\n## 経営理念\n\n- 「社員とお客様にとって、唯一無二の重要な場所を創造していく」\n- 信頼と尊重の文化\n- 明確な目標の共有と機会の提供\n- 適切なワークライスバランス\n- 快適な物理的・心理的な職場環境\n\n## Company Mentions\n\n- [採用強化中] — [2026-05-12] — 事業成長に伴い仲間を募集 ([会社サイト](https://locusone.co.jp/news/%e3%80%90%e6%8e%a1%e7%94%a8%e5%bc%b7%e5%8c%96%e4%b8%ad%ef%bd%9c%e4%ba%8b%e6%a5%ad%e6%88%90%e9%95%b7%e3%81%ab%e4%bc%b4%e3%81%84%e4%bb%b2%e9%96%93%e3%82%92%e5%8b%9f%e9%9b%86%e3%81%97%e3%81%a6%e3%81%84/))\n- [全日本電気通信サービス取引協会加盟] — [2025-09-06] — 一般社団法人 全日本電気通信サービス取引協会へ加盟 ([会社サイト](https://locusone.co.jp/news/%e4%b8%80%e8%88%ac%e7%a4%be%e5%9b%a3%e6%b3%95%e4%ba%ba%e3%80%80%e5%85%a8%e6%97%a5%e6%9c%ac%e9%9b%bb%e6%b0%97%e9%80%9a%e4%bf%a1%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%8f%96%e5%bc%95%e5%8d%94%e4%bc%9a/))\n- [かながわ健康企業宣言] — [2025-06-28] — かながわ健康企業宣言を実施 ([会社サイト](https://locusone.co.jp/news/%e3%81%8b%e3%81%aa%e3%81%8c%e3%82%8f%e5%81%a5%e5%ba%b7%e4%bc%81%e6%a5%ad%e5%ae%a3%e8%a8%80/))\n\n## Notes\n\n- KIA（神奈川県情報サービス産業協会）会員\n- 2024年12月設立の新興企業\n- 横浜ゲートタワーに事業所を構える\n- AI-Optimized Websites（AIO Web Solutions）という独自のWeb制作コンセプト\n- 古物商許可：452670010359号",
+      "founded": null,
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -10757,7 +10412,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://locusone.co.jp",
         "url": "https://locusone.co.jp"
       },
       {
@@ -10903,10 +10558,6 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://solumina.co.jp/about/"
-      },
-      {
         "name_and_description": "https://solumina.co.jp/",
         "url": "https://solumina.co.jp/"
       },
@@ -10975,7 +10626,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.ical.jp/",
         "url": "https://www.ical.jp/"
       },
       {
@@ -11030,12 +10681,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.itec.co.jp"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -11051,7 +10697,7 @@
       "founded": "2002年5月",
       "established": null,
       "capital": "8,200万円",
-      "num_of_employees": "59人（令和7年6月現在、男性70%：女性30%）",
+      "num_of_employees": "59",
       "sales": []
     },
     "people": [
@@ -11099,7 +10745,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://in-ex.co.jp/",
         "url": "https://in-ex.co.jp/"
       }
     ],
@@ -11466,7 +11112,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.inet.co.jp/",
         "url": "https://www.inet.co.jp/"
       }
     ],
@@ -11509,12 +11155,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -11557,7 +11198,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.i-pocket.co.jp/",
         "url": "https://www.i-pocket.co.jp/"
       }
     ],
@@ -11576,7 +11217,7 @@
       "founded": "2013年6月27日",
       "established": null,
       "capital": "50,000,000円",
-      "num_of_employees": "132名（2025年4月現在）",
+      "num_of_employees": "132",
       "sales": []
     },
     "people": [
@@ -11601,7 +11242,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.aillumission.co.jp/",
         "url": "https://www.aillumission.co.jp/"
       }
     ],
@@ -11671,7 +11312,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.igsquare.co.jp/",
         "url": "https://www.igsquare.co.jp/"
       },
       {
@@ -11695,7 +11336,7 @@
       "技術者派遣・受託事業 |",
       "| KIA Membership | 一般社団法人神奈川県情報サービス産業協会 (KIA) |",
       "| Certifications | ISO27001 (ISMS)",
-      "ISO27017 (クラウドセキュリティ)",
+      "Cloud Services",
       "プライバシーマーク |"
     ],
     "products_and_services": [],
@@ -11731,7 +11372,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.ipl-soft.co.jp/",
         "url": "https://www.ipl-soft.co.jp/"
       },
       {
@@ -11758,7 +11399,7 @@
     "company_name_en": "Acroit Corporation",
     "company_name_jp": "株式会社アクロイト",
     "company_domains": [
-      "採用情報: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣"
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -11873,7 +11514,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.acroit.co.jp/",
         "url": "https://www.acroit.co.jp/"
       }
     ],
@@ -11892,7 +11533,7 @@
       "founded": "1990年9月",
       "established": null,
       "capital": "1,000万円",
-      "num_of_employees": "8名＋契約(10名) (2019年4月現在)",
+      "num_of_employees": "8",
       "sales": []
     },
     "people": [
@@ -11973,30 +11614,9 @@
         }
       }
     ],
-    "partners": [
-      "日本電気株式会社",
-      "NECソリューションイノベータ株式会社",
-      "株式会社コスモス",
-      "アークシステム株式会社",
-      "ファーム・プロダクツ株式会社",
-      "シド海運株式会社",
-      "コスモ・サイエンティフィック・システム株式会社",
-      "東京京装コンピュータ株式会社",
-      "富士ソフト株式会社",
-      "株式会社ウィズコミュニケーションズ",
-      "スパイラル・アーツ株式会社",
-      "日伸ソフトウェア株式会社",
-      "株式会社アビリィティーニッケン",
-      "キッセイコムテック株式会社",
-      "普拉内特計算機技術（北京）有限公司",
-      "神奈川県庁"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.asd-net.co.jp/"
-      },
       {
         "name_and_description": "http://www.asd-net.co.jp",
         "url": "http://www.asd-net.co.jp"
@@ -12041,12 +11661,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -12086,12 +11701,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -12131,12 +11741,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -12144,7 +11749,7 @@
     "company_name_en": "Arrow Systems",
     "company_name_jp": "株式会社アローシステムズ",
     "company_domains": [
-      "Web系・DB・メインフレームのシステム開発・運用のスペシャリスト"
+      "System Development"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -12154,7 +11759,7 @@
       "founded": "*: 2001年2月1日",
       "established": null,
       "capital": "2,000万円",
-      "num_of_employees": "36名（2025年12月、女性比率32.4%）",
+      "num_of_employees": "36",
       "sales": []
     },
     "people": [
@@ -12232,7 +11837,7 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://arrow-systems.co.jp",
         "url": "https://arrow-systems.co.jp"
       }
     ],
@@ -13683,12 +13288,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.code-dynamix.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -13728,12 +13328,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -13741,9 +13336,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社システムクルー",
     "company_domains": [
-      "### ソフトウェア開発",
-      "汎用機・UNIX・PCサーバー",
-      "事務系・技術系・OS等のソフトウェア開発からゲームソフトの企画・開発まで対応"
+      "Software Development",
+      "汎用機・UNIX・PCサーバー"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -13807,7 +13401,7 @@
     "company_domains": [
       "情報処理サービス",
       "ソフトウェアの研究・開発・販売",
-      "コンピュータシステムの設計・開発"
+      "Design/Engineering"
     ],
     "products_and_services": [
       {
@@ -13891,11 +13485,11 @@
     "company_name_en": null,
     "company_name_jp": "株式会社システムハウス・アイエヌジー 横浜支店（System House I.N.G.）",
     "company_domains": [
-      "ソフトウェア開発",
-      "ネットワーク構築・運用",
-      "ITコンサルティング",
-      "情報セキュリティサービス",
-      "システム運用保守"
+      "Software Development",
+      "Network/Communications",
+      "IT Consulting",
+      "Cybersecurity",
+      "System Operations & Maintenance"
     ],
     "products_and_services": [
       {
@@ -14136,10 +13730,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://mid-tenshoku.com/agency/a-8519/"
-      },
-      {
         "name_and_description": "https://cisumeton.com/",
         "url": "https://cisumeton.com/"
       },
@@ -14203,10 +13793,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.shaft-web.co.jp/"
-      },
       {
         "name_and_description": "https://www.shaft.bz/",
         "url": "https://www.shaft.bz/"
@@ -14350,17 +13936,9 @@
         }
       }
     ],
-    "partners": [
-      "NEC Corporation",
-      "NEC Solution Innovators Co., Ltd.",
-      "AccessMap"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.ssw-nw.co.jp/service_mobile/"
-      },
       {
         "name_and_description": "https://www.ssw-nw.co.jp/",
         "url": "https://www.ssw-nw.co.jp/"
@@ -14425,12 +14003,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -14470,12 +14043,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -14558,7 +14126,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.cis.vc/",
         "url": "https://www.cis.vc/"
       },
       {
@@ -14585,7 +14153,7 @@
       "founded": "1979年9月1日",
       "established": null,
       "capital": "9,000万円",
-      "num_of_employees": "82名 （関連会社含む）",
+      "num_of_employees": "82",
       "sales": []
     },
     "people": [
@@ -14663,19 +14231,11 @@
         }
       }
     ],
-    "partners": [
-      "三菱電機デジタルイノベーション株式会社",
-      "三菱自動車工業株式会社",
-      "京セラコミュニケーションシステム株式会社",
-      "株式会社CIJ",
-      "株式会社ミノス",
-      "Sky株式会社",
-      "BIPROGY株式会社"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.cal.ne.jp",
         "url": "https://www.cal.ne.jp"
       }
     ],
@@ -14826,10 +14386,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.sky-limit.co.jp/ (currently inaccessible"
-      },
-      {
         "name_and_description": "https://www.sky-limit.co.jp/",
         "url": "https://www.sky-limit.co.jp/"
       },
@@ -14853,7 +14409,7 @@
       "founded": "1986年10月1日",
       "established": null,
       "capital": "4,000万円",
-      "num_of_employees": "128名（2025年4月）",
+      "num_of_employees": "128",
       "sales": []
     },
     "people": [
@@ -14874,21 +14430,11 @@
         }
       }
     ],
-    "partners": [
-      "NTTテクノクロス株式会社",
-      "株式会社NTTドコモ",
-      "NTTドコモビジネス株式会社",
-      "ドコモ・テクノロジ株式会社",
-      "コムシス情報システム株式会社",
-      "株式会社アイエスピー",
-      "アドソル日進株式会社",
-      "株式会社ニフコ",
-      "横須賀市"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.step-japan.co.jp",
         "url": "https://www.step-japan.co.jp"
       },
       {
@@ -14911,10 +14457,10 @@
     "company_name_en": null,
     "company_name_jp": "株式会社スプロテック",
     "company_domains": [
-      "受託開発ソフトウェア",
-      "組み込みソフトウェア",
-      "ウェブアプリケーション開発",
-      "ホームページ制作",
+      "Custom Software Development",
+      "Embedded Systems",
+      "Application Development",
+      "Web Design",
       "自社製品開発・販売（スプロテックストア）",
       "定点カメラシステム"
     ],
@@ -14965,7 +14511,7 @@
     "company_profile": {
       "address": "〒250-0852 神奈川県小田原市栢山60 |",
       "phone": null,
-      "fax": "| 0465-39-1412 |",
+      "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
@@ -15065,8 +14611,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社セカンド・ウェーブ",
     "company_domains": [
-      "正社員・契約社員向け求人案件紹介",
-      "副業・兼業・業務委託・起業・海外等の多様な働き方の相談・案件紹介",
+      "Recruiting",
+      "Business Process Outsourcing",
       "パーソナルブランディング支援"
     ],
     "products_and_services": [
@@ -15203,7 +14749,7 @@
       "founded": "2000年10月",
       "established": null,
       "capital": null,
-      "num_of_employees": "40名（2019年4月1日現在）",
+      "num_of_employees": "40",
       "sales": []
     },
     "people": [
@@ -15495,10 +15041,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.softem.co.jp/"
-      },
-      {
         "name_and_description": "https://www.softem.co.jp",
         "url": "https://www.softem.co.jp"
       },
@@ -15546,12 +15088,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -15786,7 +15323,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.takes.ne.jp/",
         "url": "https://www.takes.ne.jp/"
       }
     ],
@@ -15829,12 +15366,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -15847,9 +15379,9 @@
       "address": "〒141-0022 東京都品川区東五反田1-13-12 いちご五反田ビル 5F Tokyo, Japan",
       "phone": null,
       "fax": "03-5860-0009",
-      "founded": "in 1992 as a scout service focusing on high-end engineers, the company has spent nearly 30 years connecting technology-based growth companies with the engineers who support that technology.\n\n---\n\n## 4. Capital and Employee Count\n\nCapital: 4,000万円 (40 million yen) - as of June 2021\n\nParent Company: テクノプロ・ホールディングス株式会社 (100% shareholder)\n\nNote: Employee count not specified on website\n\n---\n\n## 5. Products and Services\n\n### Core Business Philosophy\n\"採用は、『プロ』に任せる時代\" (Recruitment is an era to leave to 'professionals')\n\n### Service Categories\n\n#### 1. For Recruiters (採用担当者の方へ)\n\nA. Headhunting Services (ヘッドハンティング)\n- Specialized in engineer recruitment\n- 30 years of track record in high-end engineer scouting\n- Expert recruitment consultation for difficult hiring challenges\n\nB. RPO Services (Recruitment Process Outsourcing)\n- General recruitment process outsourcing\n- Support for companies overwhelmed with recruitment activities\n- Professional recruitment support services\n\nKey Value Proposition:\n- Address limitations of in-house HR departments\n- Professional expertise in rapidly changing recruitment environment\n- Solutions for declining birth rates, DX talent scarcity, and globalization challenges\n\n#### 2. For Business Professionals (ビジネスパーソンの方へ)\n\nCareer Consulting Services:\n- 30 years of providing professional career consultation\n- Focus on Japanese engineers and technicians\n- Proposals for new career opportunities\n- Scout service for career advancement\n\n### Specialization\nエンジニア専門の採用集団 (Engineer-specialized recruitment group)\n\n### Target Markets\n- Technology-based companies seeking growth\n- Engineers looking for new challenges\n- Companies needing specialized technical talent\n- Organizations facing DX talent shortages\n\n---\n\n## 6. Company Philosophy and Culture\n\n### Mission Statement (from CEO Message)\n\nCore Beliefs:\n1. Evolution of Technology\n   - Witnessed technology shift from hardware to software over 30 years\n   - Base technologies (semiconductors, robotics) continue to evolve\n   - Engineer quality requirements increasing with international competition\n\n2. Unchanging Values\n   - Companies' sincere desire to provide opportunities to cutting-edge engineers\n   - Engineers' strong passion to test their skills in new environments\n\n3. Sincere Approach\n   - Careful and thorough approach to these unchanging needs\n   - Built trust with many companies over the years\n   - Extensive human network developed through engineer success stories\n\n### CEO Philosophy\n\n加茂 孝修 (Kamo Takanobu):\n\n\"企業の想いと、エンジニアの情熱に、誠実に応えること。この領域に特化して、30年積み重ねてきた弊社の実績は、どんな大企業でも一朝一夕には真似できない大きな成果だと感じています。\"\n\n\"より深く、より広く、そしてより尖鋭に。テクノブレーンは技術者のキャリアを輝かせ、技術者が創造する未来を、これからも誠実に作り出していきます。\"\n\nTranslation:\n\"Responding sincerely to both corporate needs and engineer passion. Our 30-year track record in this specialized area is a significant achievement that even large corporations cannot easily replicate.\"\n\n\"Deeper, broader, and more cutting-edge. Techno Brain will continue to make engineers' careers shine and sincerely create the future that engineers will build.\"\n\n---\n\n## 7. Certifications and Affiliations\n\nBusiness Licenses:\n- 有料職業紹介事業許可 (Paid Employment Agency License): 13-ユ-070177 (Obtained 1992/11/01)\n- 一般労働者派遣事業許可 (General Worker Dispatching Business License): 派13-300885 (Obtained 2005/06/01)\n\nCertifications:\n- プライバシーマーク (Privacy Mark)\n- 認定番号: 10861667\n- Issued by: 財団法人日本情報処理開発協会 (Japan Information Processing Development Corporation)\n\nBusiness Operation Information:\n- Available at: https://www.techno-brain.co.jp/images/tbc_margin_260401.pdf\n\n---\n\n## 8. Key Clients and Industries Served\n\nTarget Industries:\n- Technology companies\n- Software development firms\n- Manufacturing with technical focus\n- Companies undergoing digital transformation\n- Organizations requiring specialized engineering talent\n\nClient Challenges Addressed:\n- DX talent scarcity\n- Difficult recruitment challenges\n- Limited HR capacity\n- Need for high-end technical expertise\n- International competition for talent\n\n---\n\n## 9. Banking and Financial Partners\n\nMain Banks:\n- 三井住友銀行　五反田支店 (Sumitomo Mitsui Banking Corporation, Gotanda Branch)\n\n---\n\n## 10. Recruitment Information\n\n### Current Status\n\n新卒採用 (New Graduate Recruitment):\n- Currently not conducting new graduate recruitment\n\n中途採用 (Mid-Career Recruitment):\n- Interested candidates should contact via inquiry form\n\n### Social Media Presence\n\n- Official Blog: https://note.techno-brain.co.jp/\n- Twitter: https://twitter.com/technobrain_ex\n- Facebook: https://www.facebook.com/technobrain\n- YouTube: https://www.youtube.com/channel/UCreVlEi5FUD_ybPLdK8WK4A/featured\n\n### Information Shared\n- Seminar and event information\n- IT career market reports\n- Company announcements\n\n---\n\n## 11. Media Mentions\n\nSearch Status: Web search unavailable due to API limitations\n\nRecommended Search Terms:\n- \"テクノブレーン株式会社\"\n- \"テクノブレーン ヘッドハンティング\"\n- \"Techno Brain Japan recruitment\"\n- \"テクノプロ・ホールディングス\"\n\nSuggested Sources:\n- HR industry publications\n- Career development magazines\n- Technology recruitment news\n- Japanese business media\n\n---\n\n## 12. Summary\n\nテクノブレーン株式会社 (Techno Brain Co., Ltd.) is a specialized engineer recruitment and career consulting company with nearly 30 years of experience, operating as a 100% subsidiary of Techno Pro Holdings. The company provides headhunting and RPO (Recruitment Process Outsourcing) services focused on high-end engineers and technical talent.\n\n### Key Strengths:\n1. 30-Year Track Record - Extensive experience since 1992\n2. Engineer Specialization - Focused exclusively on technical recruitment\n3. High-End Focus - Targeting top-tier engineering talent\n4. Dual Services - Both headhunting and RPO capabilities\n5. Strong Network - Extensive connections with companies and engineers\n\n### Service Portfolio:\n1. Headhunting - Executive and senior engineer recruitment\n2. RPO Services - Complete recruitment process outsourcing\n3. Career Consulting - Professional guidance for engineers\n4. Scout Services - Proactive talent identification\n\n### Competitive Advantages:\n- Deep understanding of technology industry evolution\n- Specialized knowledge in engineer quality requirements\n- Sincere and careful approach to matching\n- Extensive human network built over decades\n- Large corporation capabilities with boutique service quality\n\n### Business Philosophy:\n- Responding sincerely to both corporate needs and engineer passion\n- Continuous evolution: \"deeper, broader, and more cutting-edge\"\n- Making engineers' careers shine\n- Creating the future that engineers will build\n\n### Market Position:\n- Part of Techno Pro Holdings group\n- Located in prime Tokyo locations (Gotanda and Roppongi Hills)\n- Privacy Mark certified\n- Fully licensed for employment agency and worker dispatching services\n\n### Industry Challenges Addressed:\n- Declining birth rate and talent shortage\n- DX talent scarcity\n- Globalization of recruitment\n- Increasing engineer quality requirements\n- International competition for technical talent\n\n\n## Company Mentions\n\n_No external press coverage or media mentions found at this time._\n\n---\n\n*Analysis Date: 2026-03-31*  \n*Data Source: Official company website (https://www.techno-brain.co.jp)*  \n*Parent Company: テクノプロ・ホールディングス株式会社*",
+      "founded": null,
       "established": null,
-      "capital": " 4,000万円 (40 million yen) - as of June 2021",
+      "capital": "4,000万円",
       "num_of_employees": null,
       "sales": []
     },
@@ -15891,10 +15423,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.techno-brain.co.jp/"
-      },
-      {
         "name_and_description": "https://www.techno-brain.co.jp",
         "url": "https://www.techno-brain.co.jp"
       },
@@ -15926,10 +15454,7 @@
     "company_name_en": null,
     "company_name_jp": "株式会社テクノリサーチ（Techno Research）",
     "company_domains": [
-      "Webシステム開発",
-      "制御システム開発",
-      "専門店システム開発",
-      "ネットワークシステム開発",
+      "System Development",
       "SE・PG派遣"
     ],
     "products_and_services": [
@@ -15972,7 +15497,7 @@
     "company_profile": {
       "address": "〒256-0812 神奈川県小田原市国府津2519-3 |",
       "phone": null,
-      "fax": "| 0465-47-2404 |",
+      "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
@@ -16056,11 +15581,10 @@
     "company_name_en": null,
     "company_name_jp": "株式会社ディーインクリエイティブ",
     "company_domains": [
-      "クラウドVPSサーバー（AlmaLinux等、最短数日で納品）",
-      "プライベートクラウド（完全冗長化、高可用性環境）",
+      "Cloud Services",
       "専用サーバー（1台独占利用）",
       "共用サーバー（ライトプラン/スタンダードプラン）",
-      "コロケーションサービス（1U単位でデータセンター設置）",
+      "Data Center",
       "独自構成サービス（ロードバランサー、DB冗長化等）"
     ],
     "products_and_services": [
@@ -16193,7 +15717,7 @@
     "company_name_jp": "デルタエンジニアリング株式会社",
     "company_domains": [
       "| Custom software development",
-      "SES |",
+      "Staffing/SES",
       "| KIA Membership | Active member of Kanagawa IT Industry Association |"
     ],
     "products_and_services": [],
@@ -16252,10 +15776,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.delta-eng.co.jp/ (currently inaccessible"
-      },
-      {
         "name_and_description": "https://www.delta-eng.co.jp/",
         "url": "https://www.delta-eng.co.jp/"
       }
@@ -16267,8 +15787,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社データープロセスサービス（Data Process Service）",
     "company_domains": [
-      "通信ネットワーク制御（公衆電話網〜NGN、各種交換機）",
-      "鉄道・交通システム制御（安全・高速化対応）"
+      "Network/Communications",
+      "Control Systems"
     ],
     "products_and_services": [
       {
@@ -16329,7 +15849,7 @@
     "company_name_en": null,
     "company_name_jp": "株式会社トマト（Tomato）",
     "company_domains": [
-      "### Webシステム開発",
+      "System Development",
       "顧客のコンピュータシステムを統合し",
       "業務生産性の向上・競争力の強化を支援"
     ],
@@ -16444,7 +15964,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.trans-cosmos-digtec.co.jp/",
         "url": "https://www.trans-cosmos-digtec.co.jp/"
       }
     ],
@@ -16545,12 +16065,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -16590,12 +16105,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -16736,7 +16246,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.hakuei-net.co.jp/",
         "url": "https://www.hakuei-net.co.jp/"
       }
     ],
@@ -16783,7 +16293,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.instagram.com/happydesign2012/",
         "url": "https://www.instagram.com/happydesign2012/"
       }
     ],
@@ -16894,7 +16404,7 @@
     ],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.pasion.co.jp/",
         "url": "https://www.pasion.co.jp/"
       },
       {
@@ -17035,10 +16545,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://v-news.co.jp/company/"
-      },
-      {
         "name_and_description": "https://www.v-news.co.jp/",
         "url": "https://www.v-news.co.jp/"
       },
@@ -17139,7 +16645,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://hat-world.co.jp/",
         "url": "https://hat-world.co.jp/"
       },
       {
@@ -17214,7 +16720,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://businessland.jbplt.jp/",
         "url": "https://businessland.jbplt.jp/"
       }
     ],
@@ -17225,10 +16731,10 @@
     "company_name_en": "ビット",
     "company_name_jp": "株式会社ビット",
     "company_domains": [
-      "| 受託開発ソフトウェア",
+      "Custom Software Development",
       "情報処理サービス",
-      "その他の情報サービス",
-      "ネットワーク・通信関連 |",
+      "IT Services",
+      "Network/Communications",
       "| KIA Membership | Active member of Kanagawa IT Industry Association |"
     ],
     "products_and_services": [],
@@ -17311,12 +16817,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -17418,7 +16919,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://natural-bsp.com/",
         "url": "https://natural-bsp.com/"
       }
     ],
@@ -17505,12 +17006,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.company.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -17526,7 +17022,7 @@
       "founded": "1982年4月",
       "established": null,
       "capital": null,
-      "num_of_employees": "約108名",
+      "num_of_employees": "108",
       "sales": []
     },
     "people": [
@@ -17547,16 +17043,11 @@
         }
       }
     ],
-    "partners": [
-      "フジサンケイグループ各社（フジテレビ等）",
-      "放送業界",
-      "セキュリティ業界",
-      "各種エンタープライズ企業"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.fujisystems.co.jp",
         "url": "https://www.fujisystems.co.jp"
       },
       {
@@ -17620,7 +17111,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.fnet.ne.jp",
         "url": "https://www.fnet.ne.jp"
       }
     ],
@@ -17631,7 +17122,7 @@
     "company_name_en": null,
     "company_name_jp": "株式会社フロンティアポート（現：株式会社サテライト・ソリューションズ）",
     "company_domains": [
-      "情報システムの企画・設計・開発・運用",
+      "Design/Engineering",
       "幅広い業界向けソリューション提供"
     ],
     "products_and_services": [
@@ -17742,7 +17233,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://bril.co.jp/",
         "url": "https://bril.co.jp/"
       }
     ],
@@ -17940,10 +17431,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.booster-technology.com/about"
-      },
-      {
         "name_and_description": "https://www.booster-technology.com/",
         "url": "https://www.booster-technology.com/"
       },
@@ -17967,8 +17454,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社ベスタッフ（Bestaff Corporation）",
     "company_domains": [
-      "基幹及び業務支援システムの設計・開発",
-      "コンシューマ向けWEBシステム開発",
+      "Design/Engineering",
+      "System Development",
       "お客様の業務を同じ目線で理解し、要求漏れやズレがないシステムを構築"
     ],
     "products_and_services": [
@@ -18040,7 +17527,7 @@
     "company_name_jp": "株式会社ホープクリエイト",
     "company_domains": [
       "| Custom software development",
-      "SES |",
+      "Staffing/SES",
       "| KIA Membership | Active member of Kanagawa IT Industry Association |"
     ],
     "products_and_services": [],
@@ -18075,10 +17562,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.hopecreate.co.jp/ (currently inaccessible"
-      },
       {
         "name_and_description": "https://www.hopecreate.co.jp/",
         "url": "https://www.hopecreate.co.jp/"
@@ -18124,7 +17607,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.vtx.co.jp/",
         "url": "https://www.vtx.co.jp/"
       }
     ],
@@ -18135,12 +17618,12 @@
     "company_name_en": null,
     "company_name_jp": "株式会社マネーパートナーズソリューションズ",
     "company_domains": [
-      "受託開発ソフトウェア",
+      "Custom Software Development",
       "ゲーム・アプリソフトウェア",
       "情報処理サービス",
       "情報提供サービス",
-      "その他の情報サービス",
-      "インターネット利用サポート（情報ネットワーク・セキュリティ・サービス）",
+      "IT Services",
+      "Network/Communications",
       "その他インターネット付随サービス"
     ],
     "products_and_services": [
@@ -18279,7 +17762,7 @@
     "company_name_en": "Medinos Inc.",
     "company_name_jp": "株式会社メディノス",
     "company_domains": [
-      "メディノスは主にITソリューションやソフトウェア開発事業を手掛ける企業と推測されます。具体的な事業内容については詳細情報が必要です。"
+      "Software Development"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -18289,7 +17772,7 @@
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": "従業員数不明",
+      "num_of_employees": null,
       "sales": [
         {
           "date_type": "year",
@@ -18317,7 +17800,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "不明",
+        "name_jp": "代表取締役",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -18333,7 +17816,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "代表取締役",
+        "name_jp": "不明",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -18359,8 +17842,8 @@
     "company_name_jp": "株式会社メトロ",
     "company_domains": [
       "株式会社メトロは",
-      "主にITソリューションやソフトウェア開発事業を手掛ける企業と推測されます。メトロという名称から",
-      "都市インフラ関連や輸送システム関連の事業も可能性があります。"
+      "Software Development",
+      "Infrastructure"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -18370,7 +17853,7 @@
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": "従業員数不明",
+      "num_of_employees": null,
       "sales": [
         {
           "date_type": "year",
@@ -18414,7 +17897,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "不明",
+        "name_jp": "代表取締役",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -18430,7 +17913,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "代表取締役",
+        "name_jp": "不明",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -18505,7 +17988,7 @@
       "founded": "2001年11月",
       "established": null,
       "capital": null,
-      "num_of_employees": "約35名（推定）",
+      "num_of_employees": "35",
       "sales": []
     },
     "people": [
@@ -18542,18 +18025,9 @@
         }
       }
     ],
-    "partners": [
-      "建設業",
-      "流通業",
-      "物流業",
-      "製造業"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.unitec-net.co.jp) ⚠️（サイトにアクセスできない — 2026年4月現在）"
-      },
       {
         "name_and_description": "https://www.unitec-net.co.jp",
         "url": "https://www.unitec-net.co.jp"
@@ -18607,7 +18081,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.yucom.co.jp/",
         "url": "https://www.yucom.co.jp/"
       },
       {
@@ -18876,19 +18350,9 @@
         }
       }
     ],
-    "partners": [
-      "Energy sector companies",
-      "Telecommunications companies",
-      "Public sector organizations",
-      "Distribution and logistics companies",
-      "Manufacturing companies"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://usoft.co.jp/aboutus/"
-      },
       {
         "name_and_description": "https://usoft.co.jp/",
         "url": "https://usoft.co.jp/"
@@ -18926,8 +18390,8 @@
     "company_name_jp": "株式会社ライトウェア",
     "company_domains": [
       "株式会社ライトウェアは",
-      "主にソフトウェア開発やITソリューション事業を手掛ける企業と推測されます。ライトウェア（Lightware）という名称から",
-      "軽量ソフトウェアや効率的なシステム開発に特化している可能性があります。"
+      "Software Development",
+      "System Development"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -18937,7 +18401,7 @@
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": "従業員数不明",
+      "num_of_employees": null,
       "sales": [
         {
           "date_type": "year",
@@ -18965,7 +18429,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "不明",
+        "name_jp": "代表取締役",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -18981,7 +18445,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "代表取締役",
+        "name_jp": "不明",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -19014,7 +18478,7 @@
       "founded": null,
       "established": null,
       "capital": "Not publicly disclosed",
-      "num_of_employees": "Information not publicly disclosed",
+      "num_of_employees": null,
       "sales": []
     },
     "people": [],
@@ -19022,7 +18486,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.kk-lapis.co.jp/",
         "url": "https://www.kk-lapis.co.jp/"
       }
     ],
@@ -19041,7 +18505,7 @@
       "founded": "2005年4月",
       "established": null,
       "capital": "3,300万円",
-      "num_of_employees": "83名",
+      "num_of_employees": "83",
       "sales": []
     },
     "people": [
@@ -19077,15 +18541,11 @@
         }
       }
     ],
-    "partners": [
-      "製造業（生産管理・ERP導入）",
-      "流通業",
-      "中国市場の製造企業（上海子会社経由）"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.realsoft.co.jp",
         "url": "https://www.realsoft.co.jp"
       },
       {
@@ -19144,11 +18604,11 @@
     "company_name_en": null,
     "company_name_jp": "株式会社リッケイ",
     "company_domains": [
-      "受託開発ソフトウェア",
-      "組み込みソフトウェア",
-      "パッケージソフトウェア",
+      "Custom Software Development",
+      "Embedded Systems",
+      "Packaged Software",
       "ゲーム・アプリソフトウェア",
-      "SES"
+      "Staffing/SES"
     ],
     "products_and_services": [
       {
@@ -19260,6 +18720,11 @@
           "date_type": "year",
           "date": null,
           "total_sales": "¥487,990,000 JPY (4.8799 billion yen) for FY2025 (ending March)"
+        },
+        {
+          "date_type": "year",
+          "date": null,
+          "total_sales": "¥487,990,000 JPY (4.8799 billion yen) for FY2025 (ending March)"
         }
       ]
     },
@@ -19317,10 +18782,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.rlj.co.jp/"
-      },
-      {
         "name_and_description": "https://blog.css-net.co.jp/",
         "url": "https://blog.css-net.co.jp/"
       },
@@ -19343,6 +18804,10 @@
       {
         "name_and_description": "https://www.rlj.co.jp/corporate/outline/",
         "url": "https://www.rlj.co.jp/corporate/outline/"
+      },
+      {
+        "name_and_description": "https://www.rlj.co.jp/",
+        "url": "https://www.rlj.co.jp/"
       }
     ],
     "tech_stack": []
@@ -19354,9 +18819,9 @@
     "company_domains": [
       "at+link — 高品質サーバサービス",
       "at+link リモートPCサービス — デスクトップ環境サービス",
-      "ベアメタルクラウド — 物理サーバのオンデマンドサービス",
+      "Cloud Services",
       "ベアメール — 高いメール到達率を実現するメールリレーサービス",
-      "ベアサポート — インフラ運用サポート",
+      "Infrastructure",
       "ベアケア — EOL/EOSL後のシステム延命サポート"
     ],
     "products_and_services": [
@@ -19407,10 +18872,10 @@
       "address": "〒107-0061 |",
       "phone": "20",
       "fax": null,
-      "founded": "| 1987年11月18日 |\n| 本社 | 東京都港区北青山2-14-4 アーガイル青山 14階/15階 〒107-0061 |\n| 大阪支社 | 大阪市北区梅田2-2-2 ヒルトンプラザウエスト オフィスタワー 18階 〒530-0001 |\n| 福岡支社 | 福岡市博多区博多駅前1-15-20 NMF博都駅前ビル 2階 〒812-0011 |\n| 売上高 | 108億4,500万円（2025年5月実績） |\n| 電気通信事業者登録 | A-17-8479 |\n\n## 事業内容\n\n### クラウド・ホスティング事業\n- at+link — 高品質サーバサービス\n- at+link リモートPCサービス — デスクトップ環境サービス\n- ベアメタルクラウド — 物理サーバのオンデマンドサービス\n- ベアメール — 高いメール到達率を実現するメールリレーサービス\n- ベアサポート — インフラ運用サポート\n- ベアケア — EOL/EOSL後のシステム延命サポート\n\n### クラウド型テレフォニー事業\n- BIZTEL — クラウド型コールセンターサービス（2026年で20周年）\n- BIZTEL shouin — BIZTELの小型版\n\n### セキュリティプラットフォーム事業\n- PCI DSS Ready Cloud — クレジット産業特化型クラウドサービス\n- Cloud Token for Payment Card — トークン化サービス\n- Pay TG — 電話/はがき/FAXオーダー向けカード情報非保持化サービス\n- Smart TG — 店舗サブスクリプション決済サービス\n\n### 農系事業\n- なかほら牧場 — 持続可能な酪農、牛乳・乳製品の製造販売\n\n## 主な制度\n\n- 累進子供手当（2002年度～）— 子ども1人目2万円、2人目3万円、3人目4万円…/月額\n- 出産祝（2004年度～）— 50万円（国の出産育児一時金に加算）\n- 変動定年制（2002年度～）— 満65歳の後に迎える5月末日まで\n- 定年退職金（2002年度～）— 2,500万円（勤続30年）\n- 定年後の延長再雇用（2019年度～）— 満70歳まで\n- GLTD保険（2025年度～）— 病気やケガによる長期間の収入減少を補償\n\n## 認証・加盟団体\n\n- ISO 27001取得 — IS 516602\n- ISO 27017取得 — CLOUD 777673（BIZTELにて取得）\n- 特定非営利活動法人 日本データセンター協会\n- 一般社団法人 日本ネットワークインフォメーションセンター\n- 一般社団法人 日本コールセンター協会\n- 一般社団法人 アニマルウェルフェア畜産協会\n- PCI DSS AWS Users Consortium Japan\n\n## 関連会社\n\n- 株式会社ネットフォース\n- なかほら牧場（農業生産法人 株式会社企業農業研究所）\n\n## 理念\n\n- 全員正規雇用\n- 株式非公開（上場を目指さない）\n- 農系分野への参入\n- 「人はコストに非ず」\n\n## Company Mentions\n\n- [BIZTEL 20周年記念 新CM発表会] — [2026-05-14] — 松本若菜さんを起用した新CM第3弾を公開 ([プレスリリース](https://biztel.jp/news/release/2026/05/14/18992/))\n- [ベアメール High Performer 受賞] — [2026-05-13] — 「ベアメール 迷惑メールスコアリング」が「ITreview Grid Award 2026 Spring」で「High Performer」を受賞 ([プレスリリース](https://baremail.jp/news/release_20260513.php))\n- [BIZTEL コールセンター/CRM デモ&コンファレンス 2026 出展] — [2026-05-15] — 大阪で開催されるイベントに出展 ([プレスリリース](https://biztel.jp/news/release/2026/05/15/18903/))\n- [BIZTEL 新CM公開] — [2026-05-12] — 松本若菜さんを起用した新CM第3弾を5月12日より公開 ([プレスリリース](https://biztel.jp/news/release/2026/05/12/18908/))\n- [活力経営 2009] — [2009-07-24] — フジサンケイビジネスアイに掲載 ([記事](https://www.link.co.jp/aboutus/data/katsuryoku.pdf))\n\n## Notes\n\n- KIA（神奈川県情報サービス産業協会）非加盟（東京都港区に本社）\n- 株式非公開企業\n- 全員正規雇用、派遣労働者なし\n- 独自の社内制度（変動定年制、累進子供手当など）\n- 農系事業（なかほら牧場）を展開\n- BIZTELは2026年でサービス提供開始から20周年",
+      "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": "126名",
+      "num_of_employees": "126",
       "sales": [
         {
           "date_type": "year",
@@ -19424,7 +18889,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.link.co.jp",
         "url": "https://www.link.co.jp"
       },
       {
@@ -19463,11 +18928,11 @@
     "company_profile": {
       "address": "〒102-0074 東京都千代田区九段南4-8-8 日本YWCA会館4階 |",
       "phone": null,
-      "fax": "| 03-3239-3677 |",
+      "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": "29名（2025年4月現在）",
+      "num_of_employees": "29",
       "sales": []
     },
     "people": [
@@ -19524,10 +18989,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.rootship.co.jp"
-      },
-      {
         "name_and_description": "https://www.rootship.co.jp/",
         "url": "https://www.rootship.co.jp/"
       },
@@ -19551,7 +19012,7 @@
     "company_name_jp": "株式会社ワイイーシーソリューションズ（YEC Solutions）",
     "company_domains": [
       "商品・サービスの提供（自治体・公共向けICTソリューション）",
-      "導入支援・コンサルティング",
+      "IT Consulting",
       "コラム・情報発信"
     ],
     "products_and_services": [
@@ -19900,10 +19361,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://witc-rd.jp/corporate/"
-      },
-      {
         "name_and_description": "https://www.witc.co.jp/",
         "url": "https://www.witc.co.jp/"
       },
@@ -20015,7 +19472,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www9.takumigiken.biz/aboutus/profile",
         "url": "https://www9.takumigiken.biz/aboutus/profile"
       }
     ],
@@ -20058,10 +19515,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.idec.or.jp/business/csr/company_info.html?id=412"
-      },
       {
         "name_and_description": "https://tetsuei-japan.co.jp/",
         "url": "https://tetsuei-japan.co.jp/"
@@ -20130,7 +19583,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.fjtsc.co.jp/recruit/corporate/",
         "url": "https://www.fjtsc.co.jp/recruit/corporate/"
       }
     ],
@@ -20191,7 +19644,7 @@
     "company_profile": {
       "address": "| 東京都港区虎ノ門1-12-1 虎ノ門第一法規ビル2F |",
       "phone": null,
-      "fax": "| 03-5860-9847 |",
+      "fax": null,
       "founded": "5年未満の急成長ベンチャー（190名規模）",
       "established": null,
       "capital": null,
@@ -20220,7 +19673,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.goku-tech.jp/",
         "url": "https://www.goku-tech.jp/"
       }
     ],
@@ -20343,10 +19796,6 @@
     "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://ise-group.jp/recruit.html"
-      },
       {
         "name_and_description": "https://ise-group.jp/",
         "url": "https://ise-group.jp/"
@@ -20586,10 +20035,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.sncs.co.jp/about/"
-      },
-      {
         "name_and_description": "https://www.sncs.co.jp/",
         "url": "https://www.sncs.co.jp/"
       },
@@ -20818,10 +20263,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.niccon.co.jp/kigyoujouhou/kaisyagaiyou/"
-      },
-      {
         "name_and_description": "https://www.niccon.co.jp/",
         "url": "https://www.niccon.co.jp/"
       },
@@ -20922,7 +20363,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.n-c-c.co.jp/",
         "url": "https://www.n-c-c.co.jp/"
       },
       {
@@ -20961,8 +20402,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社日本マネジメントシステム（Japan Management System）",
     "company_domains": [
-      "ISOマネジメントシステム構築支援コンサルティング",
-      "品質（ISO 9001）、環境（ISO 14001）、情報セキュリティ（ISO 27001）、労働安全衛生（ISO 45001）の認証取得支援",
+      "IT Consulting",
+      "Cybersecurity",
       "内部監査支援",
       "教育研修",
       "文書化支援"
@@ -21047,9 +20488,7 @@
     "company_name_en": null,
     "company_name_jp": "株式会社曙光システムズ（Daybreak Systems）",
     "company_domains": [
-      "銀行・証券システム開発",
-      "公共系システム開発・改修",
-      "保険系・流通系・サービス系システム開発",
+      "System Development",
       "最新技術を使用したシステム構築"
     ],
     "products_and_services": [
@@ -21128,7 +20567,7 @@
       "栄養管理ソフトウェアの開発・販売",
       "栄養計算ソフトウェア",
       "給食管理システム",
-      "受託ソフトウェア開発"
+      "Software Development"
     ],
     "products_and_services": [
       {
@@ -21233,17 +20672,13 @@
       }
     ],
     "partners": [
-      "moving industry No.1 — 2,700 trucks with dedicated tablets",
-      "~520 clients",
+      "Sakai Moving Center (moving industry No.1 — 2,700 trucks with dedicated tablets)",
+      "Food distribution companies (~520 clients)",
       "Construction industry clients",
       "Various enterprises across multiple industries"
     ],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://contact.toukei.co.jp/"
-      },
       {
         "name_and_description": "https://www.toukei.co.jp/",
         "url": "https://www.toukei.co.jp/"
@@ -21324,8 +20759,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社第一コンピュータサービス（DCS）",
     "company_domains": [
-      "IoTソリューション事業",
-      "通信分野（携帯電話ネットワーク支援）",
+      "IoT",
+      "Network/Communications",
       "新規事業開発",
       "金融系システムの開発・運用（創業以来の強み）"
     ],
@@ -21481,12 +20916,12 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.sogokikaku.co.jp/company/"
-      },
-      {
         "name_and_description": "https://www.sogokikaku.co.jp/",
         "url": "https://www.sogokikaku.co.jp/"
+      },
+      {
+        "name_and_description": "https://www.sogokikaku.co.jp/company/",
+        "url": "https://www.sogokikaku.co.jp/company/"
       }
     ],
     "tech_stack": []
@@ -21545,7 +20980,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.ls-jp.com/",
         "url": "https://www.ls-jp.com/"
       },
       {
@@ -21703,10 +21138,6 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
-        "url": "https://www.denso-japan.co.jp/company/"
-      },
-      {
         "name_and_description": "https://www.denso-japan.co.jp/",
         "url": "https://www.denso-japan.co.jp/"
       },
@@ -21742,7 +21173,7 @@
       "founded": null,
       "established": null,
       "capital": "Not publicly disclosed",
-      "num_of_employees": "Information not publicly disclosed",
+      "num_of_employees": null,
       "sales": []
     },
     "people": [],
@@ -21750,7 +21181,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.eec.co.jp/",
         "url": "https://www.eec.co.jp/"
       }
     ],
@@ -21768,8 +21199,8 @@
       "fax": null,
       "founded": "2004年2月23日",
       "established": null,
-      "capital": "1,500万円（払込資本金）/ 1億円（授権資本金）",
-      "num_of_employees": "約47名",
+      "capital": "1,500万円",
+      "num_of_employees": "47",
       "sales": []
     },
     "people": [
@@ -21790,14 +21221,11 @@
         }
       }
     ],
-    "partners": [
-      "横浜・神奈川エリアの企業",
-      "各種業種のシステム開発ニーズ"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.its-core.co.jp",
         "url": "https://www.its-core.co.jp"
       },
       {
@@ -21821,7 +21249,7 @@
     "company_name_jp": "株式会社ＬＩＡスタッフィング（LIA Staffing）",
     "company_domains": [
       "ITエンジニアの正社員紹介（転職支援）",
-      "SES（システムエンジニアリングサービス）",
+      "Staffing/SES",
       "IT人材の派遣・紹介予定派遣"
     ],
     "products_and_services": [
@@ -21890,9 +21318,9 @@
     "company_name_en": null,
     "company_name_jp": "株式会社Ｌｕｓｔｅｒ Ａｕｇｍｅｎｔａｔｉｏｎ（Luster Augmentation）",
     "company_domains": [
-      "Web開発",
-      "システム開発",
-      "コンサルティング"
+      "Web Development",
+      "System Development",
+      "IT Consulting"
     ],
     "products_and_services": [
       {
@@ -21981,7 +21409,7 @@
     "company_name_en": "NBE Corporation",
     "company_name_jp": "株式会社ＮＢＥ",
     "company_domains": [
-      "採用情報: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣"
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -22142,12 +21570,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.nbe.co.jp"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -22156,7 +21579,7 @@
     "company_name_jp": "株式会社ＮＳＰ",
     "company_domains": [
       "特徴: 日清オイリオグループ株式会社100％子会社です。",
-      "採用情報: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣"
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -22189,12 +21612,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.nsp-ltd.co.jp/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -22202,8 +21620,8 @@
     "company_name_en": "NTT Data IM JSP Corporation",
     "company_name_jp": "株式会社ＮＴＴデータＩＭジェイエスピー",
     "company_domains": [
-      "特徴: AI・IoT技術に強みのあるIT企業です。特にIoTシステムの知見が多くあり、センシングを活用した工場の稼働監視システムやペットの見守りシステムなどの開発実績があります。開発したシステムはビジネスから身近な生活まで、幅広く社会を支えています。【お客様のビジネス変革・拡大を支援】企業DX、工場スマート化【社会基盤を支える分野】通信、エネルギー、EV、金融、組込みなど、手掛けるシステムは多岐にわたります。「Smile Engineering」はお客様、社会、システムを開発する自分たちも笑顔にするモノづくり。この考えを大切に、笑顔あふれる社会の発展に貢献します。",
-      "採用情報: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣"
+      "Network/Communications",
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -22236,12 +21654,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.jspnet.co.jp"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -22322,7 +21735,7 @@
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.suppoza.com/contact",
         "url": "https://www.suppoza.com/contact"
       }
     ],
@@ -22375,9 +21788,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社ＴＳＵＮＡＧＵ",
     "company_domains": [
-      "Webアプリケーション開発",
-      "モバイルアプリケーション開発",
-      "システム開発",
+      "Application Development",
+      "System Development",
       "UI/UXデザイン"
     ],
     "products_and_services": [
@@ -22556,8 +21968,8 @@
     "company_name_jp": "田辺IT産業株式会社",
     "company_domains": [
       "ITエンジニアリングサービス",
-      "ソフトウェア開発",
-      "システム運用保守"
+      "Software Development",
+      "System Operations & Maintenance"
     ],
     "products_and_services": [
       {
@@ -22633,7 +22045,7 @@
       "founded": "2002年4月1日",
       "established": null,
       "capital": "7,000万円",
-      "num_of_employees": "50名（2023年4月時点）",
+      "num_of_employees": "50",
       "sales": []
     },
     "people": [
@@ -22697,14 +22109,11 @@
         }
       }
     ],
-    "partners": [
-      "神奈中グループ各社（バス、タクシー、不動産、自動車販売、ホテル等）",
-      "地域の公共機関・企業"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.kanachu-it.co.jp",
         "url": "https://www.kanachu-it.co.jp"
       },
       {
@@ -22728,7 +22137,7 @@
     "company_name_jp": "科学情報システムズ",
     "company_domains": [
       "科学情報システムズは",
-      "主に科学技術分野の情報システム開発や研究支援システムを手掛ける企業と推測されます。科学情報システムズという名称から",
+      "System Development",
       "学術研究や科学技術のデータ管理",
       "分析システムを専門としている可能性が高いです。"
     ],
@@ -22740,7 +22149,7 @@
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": "従業員数不明",
+      "num_of_employees": null,
       "sales": [
         {
           "date_type": "year",
@@ -22768,7 +22177,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "不明",
+        "name_jp": "代表取締役",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -22784,7 +22193,7 @@
       },
       {
         "name_en": null,
-        "name_jp": "代表取締役",
+        "name_jp": "不明",
         "title": null,
         "notes": null,
         "linkedin": {
@@ -22886,19 +22295,11 @@
         }
       }
     ],
-    "partners": [
-      "Major electronics manufacturers' system companies",
-      "Financial institutions",
-      "Distribution and retail companies",
-      "Public sector organizations",
-      "Telecommunications companies",
-      "Manufacturing companies",
-      "Plant and industrial facilities"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://www.keiso.co.jp/",
         "url": "https://www.keiso.co.jp/"
       }
     ],
@@ -22914,7 +22315,7 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": "as the system development arm of the Suzuyo Group. The company has grown through continuous expansion of its IT services, cloud solutions, and system development capabilities.\n\n## Capital & Employees\n\n| Item | Details |\n|------|---------|\n| Securities Code | 9360 (Tokyo Stock Exchange Standard) |\n| Headquarters | Tokyo (Minato-ku) |\n| Affiliation | KIA (Kanagawa Information Services Industry Association) |\n| Group | Suzuyo Group (鈴与グループ) |\n\n### Financials (FY ending March 2026, Q3)\n- Revenue: 14,195 million JPY (6.8% YoY increase)\n- Active investment in human resources\n\n## Products & Services\n\n### System Solutions\n- Core business systems\n- Business package implementation and support\n- SuperStream-NX (Canon IT Solutions product)\n- Bugyo Cloud / Bugyo V ERP Cloud (OBC product)\n\n### IT Infrastructure\n- Data center services\n- Cloud services\n- IT infrastructure construction, maintenance, and operations\n- S-PAYCIAL with electronic payslips\n\n### System Development\n- Contract software development\n- Development support services\n- Implementation support\n\n### Proprietary Products & Services\n- AsaRepo - Cloud service for pre-driving alcohol checks and temperature screening\n- KokoRepo - Cloud service for improving employee engagement\n- Rezaen - Reservation system\n- IQ-FORM - Cloud-based form creation tool\n- Heart Core - Product offering\n- POWER EGG 3.0 - Webmail service\n\n### Specialized Services\n- Logistics IT consulting\n- HR and payroll domain business operations\n- Data processing services\n\n## Clients\n\n- Suzuyo Group companies\n- Logistics industry clients\n- Manufacturing and distribution companies\n- Various enterprises requiring IT infrastructure and system development\n\n## Philosophy\n\nThe company positions continuous growth and long-term stable corporate value enhancement as key management priorities. To achieve this, the company builds strong relationships with all stakeholders — shareholders, customers, business partners, local communities, and employees — while continuing to provide products that satisfy customers. The company actively works on strengthening corporate governance.\n\n### Suzuyo Group Philosophy\n\"共生 (Tomoiki)\" — The spirit of coexistence, mutual challenge, and co-creation. This management foundation guides the group's approach to business and society.\n\n## Memberships & Certifications\n\n- Kanagawa Information Services Industry Association (KIA)\n- LPI-Japan Open Source Partner\n- Health Management certification\n- Privacy Mark certification\n- ISO27001 certification\n- Various other industry certifications\n\n## Media Mentions\n\n- [Wikipedia](https://ja.wikipedia.org/wiki/%E9%88%B4%E4%B8%8E%E3%82%B7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%88) - Corporate overview\n- [Yahoo Finance](https://finance.yahoo.co.jp/quote/9360.T) - Stock information and financial results\n- [Nikkei Company Overview](https://www.nikkei.com/nkd/company/gaiyo/?scode=9360) - Securities Code 9360\n- [OpenWork](https://www.openwork.jp/) - Employee reviews\n- [Suzuyo Group](https://www.suzuyo.co.jp/) - Parent group website\n- [LPI-Japan](https://lpi.or.jp/partner/list/bp/shinwart/) - Linux certification partner\n\n## Notes\n\n- Publicly listed company (TSE Standard, Code: 9360)\n- Part of the Suzuyo Group, a major logistics conglomerate\n- Strong focus on logistics IT and cloud services\n- Actively investing in human resources despite revenue growth pressures\n- Diverse product portfolio including proprietary cloud services\n\n\n## Company Mentions\n\n_No external press coverage or media mentions found at this time._\n\n---\n\n*Report generated: April 2026*\n*Sources: Official website, financial databases, Wikipedia*",
+      "founded": null,
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -22976,18 +22377,9 @@
         }
       }
     ],
-    "partners": [
-      "Suzuyo Group companies",
-      "Logistics industry clients",
-      "Manufacturing and distribution companies",
-      "Various enterprises requiring IT infrastructure and system development"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://www.shinwart.co.jp/ir/"
-      },
       {
         "name_and_description": "https://www.shinwart.co.jp/",
         "url": "https://www.shinwart.co.jp/"
@@ -23023,28 +22415,21 @@
     "company_folder_name": "関越ソフトウェア_KanetsuSoftware",
     "company_name_en": "Kanetsu Software Co., Ltd.",
     "company_name_jp": "関越ソフトウェア株式会社",
-    "company_domains": [
-      "受託開発ソフトウェア (Contract Software Development)",
-      "情報処理サービス (Information Processing Services)",
-      "その他の情報サービス (Other Information Services)",
-      "ネットワーク・通信関連 (Network/Communications)",
-      "SES (System Engineering Services)",
-      "インターネット利用サポート (Internet Support Services)"
-    ],
+    "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": "神奈川県川崎市多摩区登戸3398-1 大樹生命登戸ビル6F",
+      "address": "〒214-0014 神奈川県川崎市多摩区登戸3398-1 大樹生命登戸ビル6F - 3398-1 Taiju Life Noborito Building 6F, Tama-ku, Kawasaki-shi, Kanagawa 214-0014",
       "phone": "044-931-5018",
       "fax": "044-931-5028",
       "founded": null,
       "established": null,
-      "capital": " 50,000,000 JPY (5000万円)",
-      "num_of_employees": " 518 (Group total, as of July 2024)",
+      "capital": "5000万円",
+      "num_of_employees": "518",
       "sales": []
     },
     "people": [
       {
-        "name_en": "Takeo Yajima",
+        "name_en": null,
         "name_jp": "矢島 猛男",
         "title": "代表取締役",
         "notes": null,
@@ -23164,20 +22549,11 @@
         }
       }
     ],
-    "partners": [
-      "it_vendors",
-      "financial",
-      "other_major"
-    ],
-    "certifications": [
-      "Privacy Mark (プライバシーマーク) - JIPDEC",
-      "ISMS (Information Security Management System)",
-      "Japan IBM SSO Certification",
-      "Worker Dispatch Business License (派14-301531)"
-    ],
+    "partners": [],
+    "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://kanetsu-sw.co.jp",
         "url": "https://kanetsu-sw.co.jp"
       },
       {
@@ -23297,7 +22673,7 @@
       "JR Kyushu System Solutions",
       "NSD Inc.",
       "SCSK Corporation",
-      "ISE Group",
+      "Information System Engineering Co., Ltd. (ISE Group)",
       "Nihon Soft Giken",
       "And other major enterprises"
     ],
@@ -23306,10 +22682,6 @@
       "Labor Dispatch Business licensed"
     ],
     "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://takachiho-soft.co.jp/corporate/"
-      },
       {
         "name_and_description": "https://takachiho-soft.co.jp/",
         "url": "https://takachiho-soft.co.jp/"
@@ -23367,15 +22739,11 @@
         }
       }
     ],
-    "partners": [
-      "官公庁・自治体（各省庁統一入札資格保有）",
-      "東京都・神奈川県・横浜市・川崎市等",
-      "企業のデータセキュリティ対応"
-    ],
+    "partners": [],
     "certifications": [],
     "links": [
       {
-        "name_and_description": "Website",
+        "name_and_description": "https://dele.gr",
         "url": "https://dele.gr"
       },
       {
@@ -23390,8 +22758,8 @@
     "company_name_en": "NDS.TS Corporation",
     "company_name_jp": "ＮＤＳ.ＴＳ株式会社",
     "company_domains": [
-      "特徴: モバイル系基地局開発業務、端末開発業務並びにソフトウェア開発業務を主たる事業として展開しています。",
-      "採用情報: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣"
+      "Software Development",
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -23488,12 +22856,7 @@
     ],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "http://www.nds-g.co.jp/ndsts/"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   },
   {
@@ -23502,9 +22865,8 @@
     "company_name_jp": "Ｎａｋａｏｋａ Ｐａｒｔｎｅｒｓ合同会社（中岡パートナーズ）",
     "company_domains": [
       "求職者へのキャリア支援・面接対策・入職後フォロー",
-      "企業への適材適所な人材紹介",
-      "心理カウンセラー・キャリアコーディネーターによる無料フォロー",
-      "採用後の離職防止・定着率向上支援"
+      "Recruiting",
+      "心理カウンセラー・キャリアコーディネーターによる無料フォロー"
     ],
     "products_and_services": [
       {
@@ -23595,7 +22957,7 @@
     "company_name_en": "enefla Corporation",
     "company_name_jp": "ｅｎｅｆｌａ株式会社",
     "company_domains": [
-      "採用情報: 中途採用"
+      "Recruiting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -23611,12 +22973,7 @@
     "people": [],
     "partners": [],
     "certifications": [],
-    "links": [
-      {
-        "name_and_description": "Website",
-        "url": "https://enefla.co.jp"
-      }
-    ],
+    "links": [],
     "tech_stack": []
   }
 ]
