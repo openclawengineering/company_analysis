@@ -48,9 +48,7 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "CLINKS株式会社_CLINKS",
@@ -72,9 +70,7 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "FabbiJapan株式会社_FabbiJapan",
@@ -96,9 +92,7 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "NTTテクノクロス株式会社_NTT_TechnoCross",
@@ -120,9 +114,7 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "NTTデータフォース株式会社_NTTDataForce",
@@ -144,9 +136,7 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "PE-BANK株式会社_PEBank",
@@ -265,9 +255,7 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "ProGATE株式会社_Progate",
@@ -332,18 +320,14 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "S&A JAPAN株式会社",
     "company_name_en": "S&A JAPAN Inc.",
     "company_name_jp": "S&A JAPAN株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -355,10 +339,10 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Japan",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "Information not publicly available",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -428,16 +412,13 @@
     "partners": [],
     "certifications": [],
     "links": [],
-    "tech_stack": [
-      "Note: Company technology information not available due to web search limitations."
-    ]
+    "tech_stack": []
   },
   {
     "company_folder_name": "SGビジネス株式会社_SGBusiness",
     "company_name_en": "SGB",
     "company_name_jp": "SGビジネス株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "System Development",
       "System Operations & Maintenance"
     ],
@@ -470,8 +451,8 @@
       "fax": "045-530-5612",
       "founded": "in 2015, relatively young but established with 20億円 capital",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "20,000,000円",
+      "num_of_employees": "41名（契約社員含む）",
       "sales": []
     },
     "people": [
@@ -539,8 +520,7 @@
     "company_name_en": "SKY Perfect JSAT Corporation",
     "company_name_jp": "スカパーフェクトJSAT株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -643,7 +623,6 @@
       "Drone Technology",
       "IoT",
       "Software Development",
-      "Staffing/SES",
       "System Development"
     ],
     "products_and_services": [
@@ -1148,8 +1127,7 @@
     "company_name_jp": "株式会社からくり",
     "company_domains": [
       "AI/Machine Learning",
-      "Software Development",
-      "Staffing/SES"
+      "Software Development"
     ],
     "products_and_services": [
       {
@@ -1168,12 +1146,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "神奈川県川崎市川崎区貝塚一丁目",
       "phone": null,
       "fax": null,
       "founded": "in 2019 with 700万円 capital",
       "established": null,
-      "capital": null,
+      "capital": "700万円",
       "num_of_employees": null,
       "sales": []
     },
@@ -1230,9 +1208,7 @@
     "company_name_en": "ISC Inc.",
     "company_name_jp": "アイエスシー株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -1296,7 +1272,7 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "~1990 (36+ years of history)",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -1386,13 +1362,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "川崎市麻生区万福寺1-1-1 新百合ヶ丘シティビルディング3F",
+      "phone": "[Research Required]",
       "fax": null,
-      "founded": null,
+      "founded": "37 years ago (as of 2026)",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -1631,12 +1607,12 @@
     ],
     "company_profile": {
       "address": "〒141-0031 東京都品川区西五反田8-1-3 PMO五反田6F |",
-      "phone": null,
+      "phone": "03-6910-4655",
       "fax": null,
-      "founded": null,
+      "founded": "2002年6月25日 (June 25, 2002)",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "150名 (as of March 2026)",
       "sales": []
     },
     "people": [
@@ -1770,7 +1746,7 @@
     "products_and_services": [],
     "company_profile": {
       "address": null,
-      "phone": null,
+      "phone": "045-826-8600",
       "fax": null,
       "founded": "1999年4月",
       "established": null,
@@ -1838,7 +1814,6 @@
     "company_name_en": "アクティブ",
     "company_name_jp": "株式会社アクティブ",
     "company_domains": [
-      "AI/Machine Learning",
       "IT Consulting",
       "Infrastructure",
       "Network/Communications",
@@ -1853,7 +1828,7 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "Not publicly disclosed on company website",
       "num_of_employees": null,
       "sales": []
     },
@@ -1936,7 +1911,6 @@
     "company_name_en": "アップロード",
     "company_name_jp": "株式会社アップロード",
     "company_domains": [
-      "AI/Machine Learning",
       "Custom Software Development",
       "Network/Communications",
       "SAP/ERP Consulting",
@@ -1947,9 +1921,9 @@
       "address": "〒105-0013 東京都港区浜松町2-2-15 浜松町ダイヤハイツ1002号 |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "October 19, 2006 (Heisei 18)",
       "established": null,
-      "capital": null,
+      "capital": "¥10,000,000 (10 million yen)",
       "num_of_employees": null,
       "sales": []
     },
@@ -2142,7 +2116,6 @@
     "company_name_en": "Adtec Inc.",
     "company_name_jp": "アドテック株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Cybersecurity",
       "IoT",
       "Network/Communications",
@@ -2602,7 +2575,7 @@
       "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "100",
       "sales": []
     },
     "people": [
@@ -2658,13 +2631,13 @@
     ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "WeWork Ocean Gate Minato Mirai, 3-7-1 Minato Mirai, Nishi-ku, Yokohama 220-0012",
+      "phone": "045-312-6389",
       "fax": null,
-      "founded": null,
+      "founded": "April 8, 1991",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "¥50,000,000 (50 million yen)",
+      "num_of_employees": "115 (as of January 2026)",
       "sales": []
     },
     "people": [
@@ -2824,7 +2797,6 @@
     "company_name_en": "Apricot Inc.",
     "company_name_jp": "株式会社アプリコット",
     "company_domains": [
-      "AI/Machine Learning",
       "CAD/CAM",
       "SAP/ERP Consulting",
       "Software Testing",
@@ -3555,10 +3527,10 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Japan",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "Information not publicly disclosed",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -3643,7 +3615,7 @@
       "address": "〒220-0011 横浜市西区高島2-6-32 横浜東口ウィスポートビル4F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "2004",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -3737,9 +3709,9 @@
     ],
     "company_profile": {
       "address": "〒140-0001 東京都品川区北品川3-6-2 品川MSビル8F |",
-      "phone": null,
+      "phone": "03-6451-4455",
       "fax": null,
-      "founded": null,
+      "founded": "2004",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -3826,9 +3798,9 @@
     ],
     "company_profile": {
       "address": "〒230-0075 横浜市鶴見区上の宮1-36-2 |",
-      "phone": null,
+      "phone": "045-585-6437",
       "fax": null,
-      "founded": null,
+      "founded": "2019",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -3939,8 +3911,7 @@
       "AI/Machine Learning",
       "Digital Transformation",
       "Hardware Design",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -3973,13 +3944,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Solid Square West Tower 21F, 580 Horikawa-cho, Saiwai-ku, Kawasaki, Kanagawa 212-0013",
       "phone": null,
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "¥90 million (90百万円)",
+      "num_of_employees": "295 (including fixed-term employees, as of August 2025)",
       "sales": []
     },
     "people": [
@@ -4039,7 +4010,6 @@
     "company_name_en": "Imagination Co., Ltd.",
     "company_name_jp": "イマジネーション株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Business Process Outsourcing",
       "IT Education & Training",
       "SAP/ERP Consulting",
@@ -4050,7 +4020,7 @@
       "address": "〒231-0023 <br>神奈川県横浜市中区山下町2番地<br>産業貿易センタービル2階<br>(Sangyo Boeki Center Building, 2F, Yamashita-cho 2, Naka-ku, Yokohama, Kanagawa) |",
       "phone": "045-681-0147",
       "fax": "045-681-0149",
-      "founded": null,
+      "founded": "2015",
       "established": null,
       "capital": "1,000万円",
       "num_of_employees": "11",
@@ -4089,16 +4059,14 @@
     "company_name_en": "Imagine Inc.",
     "company_name_jp": "株式会社イマジン",
     "company_domains": [
-      "AI/Machine Learning",
       "Infrastructure",
       "Network/Communications",
-      "Staffing/SES",
       "System Development"
     ],
     "products_and_services": [],
     "company_profile": {
       "address": "〒221-0835 <br>8F, 3rd Yasuda Building, 2-26-4 Tsuruyacho, Kanagawa-ku, Yokohama-shi, Japan<br>(横浜市神奈川区鶴屋町2-26-4 第３安田ビル8F) |",
-      "phone": null,
+      "phone": "045-317-2855",
       "fax": null,
       "founded": null,
       "established": null,
@@ -4258,8 +4226,7 @@
     "company_name_jp": "インバースネット株式会社",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -4268,7 +4235,7 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": ")**",
       "num_of_employees": null,
       "sales": []
     },
@@ -4305,7 +4272,6 @@
     "company_name_en": "Infotech Serve Co., Ltd.",
     "company_name_jp": "インフォテックサーブ株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Application Development",
       "Network/Communications",
       "Software Development"
@@ -4337,19 +4303,17 @@
     "company_name_en": "Information Service Force Co., Ltd.",
     "company_name_jp": "インフォメーションサービスフォース株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "IT Consulting",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "Tokyo (Shinjuku area)",
       "phone": null,
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "¥30,000,000 (30 million yen)",
       "num_of_employees": null,
       "sales": []
     },
@@ -4373,7 +4337,6 @@
     "company_name_en": "Infolink Ltd.",
     "company_name_jp": "株式会社インフォリンク",
     "company_domains": [
-      "AI/Machine Learning",
       "Infrastructure",
       "Network/Communications",
       "SAP/ERP Consulting",
@@ -4445,7 +4408,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -4626,12 +4589,12 @@
     ],
     "company_profile": {
       "address": "〒221-0835 神奈川県横浜市神奈川区鶴屋町2-20-3 第5安田ビル5F |",
-      "phone": null,
+      "phone": "045-316-1567",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": ")**",
+      "num_of_employees": "20",
       "sales": []
     },
     "people": [
@@ -4822,9 +4785,9 @@
       "address": "〒222-0033 神奈川県横浜市港北区新横浜3-17-5 いちご新横浜ビル3F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
+      "capital": "—",
       "num_of_employees": null,
       "sales": []
     },
@@ -4914,7 +4877,7 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": ")**",
       "num_of_employees": null,
       "sales": [
         {
@@ -5106,18 +5069,17 @@
     "company_name_jp": "株式会社クラフトワーク",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [],
     "company_profile": {
       "address": "| OS Building 5F, 3-5-15 Shibasaki-cho, Tachikawa, Tokyo 190-0023 |",
-      "phone": null,
+      "phone": "042-512-8287",
       "fax": null,
-      "founded": null,
+      "founded": "May 19, 1995",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "25,000,000 JPY",
+      "num_of_employees": "Approximately 43-56 (varies by source); Male: ~49, Female: ~5-7",
       "sales": []
     },
     "people": [
@@ -5345,13 +5307,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "XTEC Building, 2-4-1 Shinohara-kita, Kohoku-ku, Yokohama 222-0021",
       "phone": "(",
       "fax": null,
-      "founded": null,
+      "founded": "July 7, 1981",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "210 (as of April 2025)",
       "sales": []
     },
     "people": [
@@ -5472,7 +5434,6 @@
     "company_name_en": "KIS Co., Ltd.",
     "company_name_jp": "株式会社ケイアイエス",
     "company_domains": [
-      "AI/Machine Learning",
       "Staffing/SES",
       "System Development",
       "System Operations & Maintenance"
@@ -5488,12 +5449,12 @@
     ],
     "company_profile": {
       "address": "| Asou Building 202, 12-1 Takara-cho, Hiratsuka, Kanagawa 254-0034 |",
-      "phone": null,
+      "phone": "0463-24-9155",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "10,000,000 JPY",
+      "num_of_employees": "21 (as of March 1, 2024)",
       "sales": []
     },
     "people": [
@@ -5599,12 +5560,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "KTS Building 2F, 2-888 Shin-Maruko-Higashi, Nakahara-ku, Kawasaki, Kanagawa 211-0004",
+      "phone": "044-430-5501",
       "fax": null,
-      "founded": null,
+      "founded": "May 20, 1983",
       "established": null,
-      "capital": null,
+      "capital": "24,000,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -5729,8 +5690,7 @@
     "company_name_jp": "株式会社コスミック",
     "company_domains": [
       "Software Development",
-      "System Engineering Service",
-      "Labor Dispatch Business"
+      "Staffing/SES"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -5918,7 +5878,7 @@
       "address": "〒221-0824 神奈川県横浜市神奈川区広台太田町4-21トラストワンビル22",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "2025",
       "established": null,
       "capital": "2,000万円",
       "num_of_employees": "39",
@@ -6170,12 +6130,12 @@
     ],
     "company_profile": {
       "address": null,
-      "phone": null,
+      "phone": "0465-22-9707",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "32,000,000 JPY",
+      "num_of_employees": "233",
       "sales": []
     },
     "people": [
@@ -6393,8 +6353,7 @@
     "company_name_en": "The Computer Co., Ltd.",
     "company_name_jp": "ザ・コンピュータ株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Staffing/SES"
+      "System Development"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -6473,8 +6432,8 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": ")**",
+      "num_of_employees": "376名 (as of April 2025)",
       "sales": []
     },
     "people": [
@@ -6724,8 +6683,7 @@
     "company_name_en": "System Nicol Co., Ltd.",
     "company_name_jp": "システムニコル株式会社",
     "company_domains": [
-      "Software Development",
-      "Staffing/SES"
+      "Software Development"
     ],
     "products_and_services": [
       {
@@ -6740,9 +6698,9 @@
       "address": "〒244-0813 神奈川県横浜市戸塚区舞岡町644-13 ユニバーサル・ビジネスセンター4F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
+      "capital": "—",
       "num_of_employees": null,
       "sales": []
     },
@@ -6779,9 +6737,7 @@
     "company_name_en": "System Works Co., Ltd.",
     "company_name_jp": "株式会社システムワークス",
     "company_domains": [
-      "AI/Machine Learning",
-      "IoT",
-      "Staffing/SES"
+      "IoT"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -6896,7 +6852,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -6938,9 +6894,7 @@
     "company_name_en": "シンポー情報システム",
     "company_name_jp": "シンポー情報システム株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -6959,7 +6913,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -7022,7 +6976,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -7080,7 +7034,6 @@
     "company_name_en": "JISC SOFT Co., Ltd.",
     "company_name_jp": "ジスクソフト株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "IoT",
       "SAP/ERP Consulting"
     ],
@@ -7436,7 +7389,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -7480,8 +7433,7 @@
     "company_domains": [
       "AI/Machine Learning",
       "Digital Transformation",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -7570,12 +7522,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Yokohama Basha-michi Building 6F, Naka-ku, Yokohama, Kanagawa",
       "phone": null,
       "fax": null,
       "founded": "approximately 55 years ago (parent organization)",
       "established": null,
-      "capital": null,
+      "capital": "Not disclosed",
       "num_of_employees": null,
       "sales": []
     },
@@ -7728,7 +7680,6 @@
     "company_name_en": "Two Crest Co., Ltd.",
     "company_name_jp": "ツークレスト株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Infrastructure",
       "Network/Communications"
     ],
@@ -7817,7 +7768,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -7880,7 +7831,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -7940,9 +7891,7 @@
     "company_name_en": "ディアシステム",
     "company_name_jp": "ディアシステム株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -7961,7 +7910,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -7998,7 +7947,6 @@
     "company_name_en": "D-Solution Inc.",
     "company_name_jp": "ディエスソリューション株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Staffing/SES"
     ],
     "products_and_services": [],
@@ -8188,7 +8136,8 @@
     "company_name_en": "デジタル・インフォメーション・テクノロジー",
     "company_name_jp": "デジタル・インフォメーション・テクノロジー株式会社",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services",
+      "System Development"
     ],
     "products_and_services": [
       {
@@ -8256,13 +8205,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Tokyo, Japan",
+      "phone": "03-6311-6520",
       "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "1,630 (consolidated, as of December 2025)",
       "sales": []
     },
     "people": [
@@ -8370,9 +8319,7 @@
     "company_name_en": "トライシステム",
     "company_name_jp": "トライシステム株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -8391,7 +8338,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -8444,9 +8391,7 @@
     "company_name_en": "Drone-IT Corporation",
     "company_name_jp": "ドローン・アイティー株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Drone Technology",
-      "Staffing/SES"
+      "Drone Technology"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -8493,8 +8438,7 @@
     "company_name_jp": "ナレッジビーンズ株式会社",
     "company_domains": [
       "AI/Machine Learning",
-      "IoT",
-      "Staffing/SES"
+      "IoT"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -8564,8 +8508,7 @@
     "company_name_jp": "株式会社ニューテック",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -8795,7 +8738,7 @@
     "products_and_services": [],
     "company_profile": {
       "address": null,
-      "phone": null,
+      "phone": "046-262-4961",
       "fax": null,
       "founded": "December 1994",
       "established": null,
@@ -8844,7 +8787,6 @@
     "company_name_en": "Netchart Corporation",
     "company_name_jp": "ネットチャート株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Web Development"
     ],
     "products_and_services": [
@@ -8864,13 +8806,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "[Research Required]",
+      "phone": "[Research Required]",
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [],
@@ -8884,9 +8826,7 @@
     "company_name_en": "ネットリサーチ",
     "company_name_jp": "ネットリサーチ株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -8905,7 +8845,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -8958,9 +8898,7 @@
     "company_name_en": "ネットワークプランニングサービス",
     "company_name_jp": "ネットワークプランニングサービス株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -8979,7 +8917,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -9021,7 +8959,6 @@
     "company_name_en": "KNOX DATA CORP.",
     "company_name_jp": "ノックスデータ株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Application Development",
       "Custom Software Development",
       "Infrastructure",
@@ -9125,7 +9062,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -9180,7 +9117,7 @@
     "products_and_services": [],
     "company_profile": {
       "address": null,
-      "phone": null,
+      "phone": "045-324-1751",
       "fax": null,
       "founded": "September 1977",
       "established": null,
@@ -9280,12 +9217,10 @@
     "company_name_en": "Humans Net Co., Ltd.",
     "company_name_jp": "ヒューマンズ・ネット株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Application Development",
       "Control Software",
       "Embedded Systems",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -9295,7 +9230,7 @@
       "founded": null,
       "established": null,
       "capital": "Not publicly disclosed",
-      "num_of_employees": null,
+      "num_of_employees": "Information not publicly disclosed",
       "sales": []
     },
     "people": [],
@@ -9391,13 +9326,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "3-31-5 Tsuruya-cho, Kanagawa-ku, Yokohama, Kanagawa 221-0835",
+      "phone": "045-313-9331",
       "fax": null,
       "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "6-9",
       "sales": []
     },
     "people": [
@@ -9465,12 +9400,10 @@
     "company_name_en": "4D Networks, Co., Ltd.",
     "company_name_jp": "フォーディーネットワークス株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "CAD/CAM",
       "Drone Technology",
       "Mobile App Development",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -9569,9 +9502,9 @@
       "address": "〒220-0004 神奈川県横浜市西区北幸二丁目10番39号 日総第五ビル8F |",
       "phone": "045-311-8984",
       "fax": "045-312-5964",
-      "founded": null,
+      "founded": "1964",
       "established": null,
-      "capital": null,
+      "capital": "40億9000万円の中堅総合商社として、社会インフラのIT化推進に貢献している。",
       "num_of_employees": "970",
       "sales": []
     },
@@ -9621,8 +9554,7 @@
     "company_name_jp": "ミネベア ソフトウェアソリューションズ株式会社",
     "company_domains": [
       "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -9644,10 +9576,10 @@
       "address": "〒210-0005 神奈川県川崎市川崎区東田町8番地 パレール三井ビルディング14階 |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "1983年2月",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "2,000万円 (paid-in capital, 100% owned by Honda Engineering Co., Ltd.)",
+      "num_of_employees": "280名 (as of April 2025)",
       "sales": []
     },
     "people": [
@@ -9767,7 +9699,6 @@
     "company_name_en": "MetroHoldings",
     "company_name_jp": "メトロホールディングス株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "System Operations & Maintenance"
     ],
     "products_and_services": [
@@ -9780,13 +9711,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "[Research Required]",
+      "phone": "[Research Required]",
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -9817,7 +9748,6 @@
     "company_name_en": "Motomi Corporation",
     "company_name_jp": "モトミ株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "System Operations & Maintenance"
     ],
     "products_and_services": [
@@ -9830,13 +9760,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "[Research Required]",
+      "phone": "[Research Required]",
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -9888,7 +9818,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -10003,8 +9933,7 @@
     "company_name_jp": "ロケットソフトウェアジャパン株式会社",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -10105,7 +10034,6 @@
     "company_name_en": "Vangle Inc.",
     "company_name_jp": "ヴァングル株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "System Operations & Maintenance"
     ],
     "products_and_services": [
@@ -10118,13 +10046,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "[Research Required]",
+      "phone": "[Research Required]",
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -10171,7 +10099,6 @@
     "company_name_en": "VEST SOFTWARE Co., Ltd.",
     "company_name_jp": "ヴェストソフトウェア株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "Software Development",
       "System Operations & Maintenance"
     ],
@@ -10185,13 +10112,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "[Research Required]",
+      "phone": "[Research Required]",
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -10223,8 +10150,7 @@
     "company_name_jp": "株式会社一",
     "company_domains": [
       "AI/Machine Learning",
-      "IT Consulting",
-      "Staffing/SES"
+      "IT Consulting"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -10278,7 +10204,7 @@
     "company_name_en": "Koyo Systems Co., Ltd.",
     "company_name_jp": "株式会社光洋システム",
     "company_domains": [
-      "AI/Machine Learning"
+      "System Development"
     ],
     "products_and_services": [
       {
@@ -10355,7 +10281,8 @@
     "company_name_en": "Kyodo System Engineering Co., Ltd.",
     "company_name_jp": "株式会社協同システムエンジニアリング",
     "company_domains": [
-      "AI/Machine Learning"
+      "Design/Engineering",
+      "System Development"
     ],
     "products_and_services": [
       {
@@ -10460,7 +10387,7 @@
     "company_name_en": "Kyoei Kikaku System Co., Ltd.",
     "company_name_jp": "協栄企画システム株式会社",
     "company_domains": [
-      "AI/Machine Learning"
+      "System Development"
     ],
     "products_and_services": [
       {
@@ -10494,7 +10421,6 @@
     "company_name_en": "Kyouri Systems Co., Ltd.",
     "company_name_jp": "協立システム開発株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "System Development"
     ],
     "products_and_services": [
@@ -10529,7 +10455,6 @@
     "company_name_en": "Process Design Comprehensive Education Institute LLC",
     "company_name_jp": "合同会社プロセスデザイン総合教育研究所",
     "company_domains": [
-      "AI/Machine Learning",
       "IT Education & Training"
     ],
     "products_and_services": [
@@ -10564,7 +10489,7 @@
     "company_name_en": "Zuken Presite Co., Ltd.",
     "company_name_jp": "図研プリサイト株式会社",
     "company_domains": [
-      "AI/Machine Learning"
+      "CAD/CAM"
     ],
     "products_and_services": [
       {
@@ -10598,7 +10523,7 @@
     "company_name_en": "Miyazaki Tsushin Co., Ltd.",
     "company_name_jp": "宮崎通信株式会社",
     "company_domains": [
-      "AI/Machine Learning"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -10632,7 +10557,7 @@
     "company_name_en": "Miyagawa Seisakusho Co., Ltd.",
     "company_name_jp": "宮川製作所株式会社",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -10666,7 +10591,7 @@
     "company_name_en": "Johso Co., Ltd.",
     "company_name_jp": "情創株式会社",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -10719,13 +10644,13 @@
     "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -10887,13 +10812,13 @@
     "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [],
@@ -10914,13 +10839,13 @@
     "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -11083,16 +11008,18 @@
     "company_folder_name": "日本システムスタデイ株式会社",
     "company_name_en": "Japan System Study Co., Ltd.",
     "company_name_jp": "日本システムスタデイ株式会社",
-    "company_domains": [],
+    "company_domains": [
+      "System Development"
+    ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [],
@@ -11110,16 +11037,19 @@
     "company_folder_name": "日本ソフトウェアマネジメント株式会社",
     "company_name_en": "Japan Software Management Co., Ltd.",
     "company_name_jp": "日本ソフトウェアマネジメント株式会社",
-    "company_domains": [],
+    "company_domains": [
+      "IT Consulting",
+      "Software Development"
+    ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -11173,13 +11103,13 @@
     "company_domains": [],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [
@@ -11372,16 +11302,18 @@
     "company_folder_name": "日本データスキル株式会社_JapanDataSkill",
     "company_name_en": "Japan Data Skill Co., Ltd.",
     "company_name_jp": "日本データスキル株式会社 (Japan Data Skill Co., Ltd.)",
-    "company_domains": [],
+    "company_domains": [
+      "Data Analytics"
+    ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
+      "address": "[Research Required]",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "[Research Required]",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "[Research Required]",
+      "num_of_employees": "[Research Required]",
       "sales": []
     },
     "people": [],
@@ -11678,9 +11610,9 @@
     ],
     "company_profile": {
       "address": "〒210-0005 神奈川県川崎市川崎区東田町8番地 パレール三井ビル15F",
-      "phone": null,
+      "phone": "044-222-1771",
       "fax": null,
-      "founded": null,
+      "founded": "1979",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -11797,7 +11729,7 @@
       "address": "〒222-0033 横浜市港北区新横浜3-19-7 新横浜パークビル3F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "2006",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -11890,7 +11822,7 @@
     "company_name_en": "アクウェア",
     "company_name_jp": "株式会社 アクウェア",
     "company_domains": [
-      "related services"
+      "Infrastructure"
     ],
     "products_and_services": [
       {
@@ -11933,9 +11865,9 @@
       "address": "〒243-0018 神奈川県厚木市中町2-7-6 LGビル7F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
+      "capital": "—",
       "num_of_employees": null,
       "sales": []
     },
@@ -12000,12 +11932,12 @@
     ],
     "company_profile": {
       "address": "〒220-0011 横浜市西区高島2-10-13 横浜東口ビル2F 203 |",
-      "phone": null,
+      "phone": "045-440-3621",
       "fax": null,
-      "founded": null,
+      "founded": "1983",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "4,000万円",
+      "num_of_employees": "6",
       "sales": []
     },
     "people": [
@@ -12063,10 +11995,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -12097,12 +12029,12 @@
     ],
     "company_profile": {
       "address": "〒220-0011 神奈川県横浜市西区高島1-2-5 横濱ゲートタワー17階 |",
-      "phone": null,
+      "phone": "045-222-0555",
       "fax": null,
-      "founded": null,
+      "founded": "2025",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "22億70百万円",
+      "num_of_employees": "連結1,677名、単体808名（2025年6月30日現在）",
       "sales": []
     },
     "people": [
@@ -12160,10 +12092,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -12199,10 +12131,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -12216,9 +12148,7 @@
     "company_name_en": "HOKUTO",
     "company_name_jp": "株式会社HOKUTO",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -12237,7 +12167,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -12312,10 +12242,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -12553,9 +12483,9 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "2024",
       "established": null,
-      "capital": null,
+      "capital": "・従業員数",
       "num_of_employees": null,
       "sales": []
     },
@@ -12646,13 +12576,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Yokohama Blue Avenue 13F, 4-4-2 Minatomirai, Nishi-ku, Yokohama, Kanagawa 220-0012",
+      "phone": "045-211-0761",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "42,000,000 JPY",
+      "num_of_employees": "160",
       "sales": []
     },
     "people": [
@@ -12802,7 +12732,6 @@
     "company_name_en": "I-Cal Co., Ltd.",
     "company_name_jp": "株式会社アイキャル",
     "company_domains": [
-      "AI/Machine Learning",
       "Network/Communications",
       "Staffing/SES"
     ],
@@ -12913,10 +12842,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -13044,9 +12973,9 @@
       "address": "〒220-0012 神奈川県横浜市西区みなとみらい5-1-2 横浜シンフォステージ ウエストタワー13F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
+      "capital": "—",
       "num_of_employees": null,
       "sales": []
     },
@@ -13425,10 +13354,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -13492,10 +13421,10 @@
       "address": "〒231-0023 神奈川県横浜市中区山下町194 横濱ニューポートビル3F |",
       "phone": "098-987-6605)",
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "—",
+      "num_of_employees": "4",
       "sales": []
     },
     "people": [
@@ -13531,7 +13460,6 @@
     "company_name_en": "アイルミッション",
     "company_name_jp": "株式会社アイルミッション",
     "company_domains": [
-      "AI/Machine Learning",
       "Cybersecurity",
       "Digital Transformation",
       "IT Consulting",
@@ -13585,7 +13513,6 @@
     "company_name_en": "I.G. Square Co., Ltd.",
     "company_name_jp": "株式会社アイ・ジー・スクウェア",
     "company_domains": [
-      "AI/Machine Learning",
       "Staffing/SES"
     ],
     "products_and_services": [],
@@ -13698,8 +13625,8 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "300万円",
+      "num_of_employees": "714名 (2025年9月現在、Jストリームグループ合計)",
       "sales": []
     },
     "people": [
@@ -14011,10 +13938,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -14050,10 +13977,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -14089,10 +14016,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -14227,7 +14154,7 @@
     "company_name_en": "Avanti Co., Ltd.",
     "company_name_jp": "株式会社アヴァンティ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14386,7 +14313,7 @@
     "company_name_en": "Io Co., Ltd.",
     "company_name_jp": "株式会社イオ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14471,7 +14398,7 @@
     "company_name_en": "Web Frontier Co., Ltd.",
     "company_name_jp": "株式会社ウェブフロンティア",
     "company_domains": [
-      "AI/Machine Learning"
+      "Web Development"
     ],
     "products_and_services": [
       {
@@ -14568,7 +14495,7 @@
     "company_name_en": "ACT Co., Ltd.",
     "company_name_jp": "株式会社エイ・シー・ティ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14619,7 +14546,7 @@
     "company_name_en": "Ex Co., Ltd.",
     "company_name_jp": "株式会社エクス",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14670,7 +14597,7 @@
     "company_name_en": "SFC Niigata Co., Ltd.",
     "company_name_jp": "株式会社エスエフシー新潟",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14767,7 +14694,7 @@
     "company_name_en": "Eternal Science Co., Ltd.",
     "company_name_jp": "株式会社エターナルサイエンス",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14801,7 +14728,7 @@
     "company_name_en": "NSP Co., Ltd.",
     "company_name_jp": "株式会社エヌ・エス・ピイ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14835,7 +14762,7 @@
     "company_name_en": "Ehara Takao Co., Ltd.",
     "company_name_jp": "株式会社エハラタカオ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14902,7 +14829,7 @@
     "company_name_en": "Efficient Co., Ltd.",
     "company_name_jp": "株式会社エフィシエント",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14953,7 +14880,7 @@
     "company_name_en": "FK Japan Co., Ltd.",
     "company_name_jp": "株式会社エフケイ・ジャパン",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -14987,7 +14914,7 @@
     "company_name_en": "F Time Co., Ltd.",
     "company_name_jp": "株式会社エフタイム",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -15071,7 +14998,7 @@
     "company_name_en": "F Net Co., Ltd.",
     "company_name_jp": "株式会社エフネット",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -15105,7 +15032,7 @@
     "company_name_en": "M Soft Co., Ltd.",
     "company_name_jp": "株式会社エム・ソフト",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -15156,7 +15083,7 @@
     "company_name_en": "Area Drive Co., Ltd.",
     "company_name_jp": "株式会社エリアドライブ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -15207,7 +15134,7 @@
     "company_name_en": "LSI Development Research Institute Co., Ltd.",
     "company_name_jp": "株式会社エルエスアイ開発研究所",
     "company_domains": [
-      "AI/Machine Learning"
+      "LSI/IC Design"
     ],
     "products_and_services": [
       {
@@ -15281,7 +15208,7 @@
     "company_name_en": "Lutex Co., Ltd.",
     "company_name_jp": "株式会社エルテックス",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -15315,7 +15242,7 @@
     "company_name_en": "LPA Co., Ltd.",
     "company_name_jp": "株式会社エルパ",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -15837,10 +15764,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -15876,10 +15803,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -16036,7 +15963,7 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "1960",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -16138,10 +16065,10 @@
       "address": "〒101-0032 東京都千代田区岩本町3-9-6 MFビル3F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "1985",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "4,900万円",
+      "num_of_employees": "100名",
       "sales": []
     },
     "people": [
@@ -16193,9 +16120,7 @@
     "company_name_en": "システムワン",
     "company_name_jp": "株式会社システムワン",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -16214,7 +16139,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -16288,7 +16213,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -16338,7 +16263,6 @@
     "company_name_en": "シスメトン",
     "company_name_jp": "株式会社シスメトン",
     "company_domains": [
-      "AI/Machine Learning",
       "SAP/ERP Consulting",
       "Staffing/SES"
     ],
@@ -16401,13 +16325,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "21-9 Sakaegimotomachi, Hodogaya-ku, Yokohama, Kanagawa 240-0033",
+      "phone": "045-308-3188",
       "fax": null,
-      "founded": null,
+      "founded": "April 2016",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "12,000,000 JPY",
+      "num_of_employees": "15",
       "sales": []
     },
     "people": [
@@ -16568,7 +16492,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa Prefecture, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -16632,7 +16556,9 @@
     "company_name_en": "ショウナンソフトウェア",
     "company_name_jp": "株式会社ショウナンソフトウェア",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Consulting",
+      "IT Services",
+      "Software Development"
     ],
     "products_and_services": [
       {
@@ -16686,12 +16612,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Sunny Plaza Hiratsuka 301, 8-16 Beniya-cho, Hiratsuka, Kanagawa 254-0043",
+      "phone": "0463-24-8820",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "20,000,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -16850,10 +16776,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -16889,10 +16815,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -16906,9 +16832,7 @@
     "company_name_en": "シンシア",
     "company_name_jp": "株式会社シンシア",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -16927,7 +16851,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -16964,9 +16888,7 @@
     "company_name_en": "シーアイエス",
     "company_name_jp": "株式会社シーアイエス",
     "company_domains": [
-      "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -17006,8 +16928,8 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Kanagawa Prefecture, Japan",
+      "phone": "044-431-2231",
       "fax": null,
       "founded": null,
       "established": null,
@@ -17160,9 +17082,7 @@
     "company_name_en": "シースリー",
     "company_name_jp": "株式会社シースリー",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -17181,7 +17101,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -17241,9 +17161,7 @@
     "company_name_en": "ジェー・アイ・ピー",
     "company_name_jp": "株式会社ジェー・アイ・ピー",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -17262,7 +17180,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -17320,7 +17238,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -17484,12 +17402,12 @@
     ],
     "company_profile": {
       "address": "〒250-0852 神奈川県小田原市栢山60 |",
-      "phone": null,
+      "phone": "0465-39-1411",
       "fax": null,
-      "founded": null,
+      "founded": "1996",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "1,060万円",
+      "num_of_employees": "9名（2018年4月1日現在）",
       "sales": []
     },
     "people": [
@@ -17616,7 +17534,7 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "2014",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -17894,7 +17812,7 @@
       "fax": null,
       "founded": "2000年10月",
       "established": null,
-      "capital": null,
+      "capital": "は77",
       "num_of_employees": "40",
       "sales": []
     },
@@ -18032,9 +17950,7 @@
     "company_name_en": "ゼロワン",
     "company_name_jp": "株式会社ゼロワン",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -18053,7 +17969,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -18274,10 +18190,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -18312,7 +18228,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -18375,7 +18291,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -18438,7 +18354,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -18501,7 +18417,7 @@
     ],
     "company_profile": {
       "address": "〒237-0068 神奈川県横須賀市追浜本町2-1-26 |",
-      "phone": null,
+      "phone": "046-869-1551",
       "fax": null,
       "founded": null,
       "established": null,
@@ -18542,7 +18458,6 @@
     "company_name_en": null,
     "company_name_jp": "株式会社テイクス",
     "company_domains": [
-      "AI/Machine Learning",
       "SAP/ERP Consulting"
     ],
     "products_and_services": [
@@ -18661,10 +18576,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -18678,7 +18593,6 @@
     "company_name_en": "TechnoBrain Co., ltd.",
     "company_name_jp": "テクノブレーン株式会社",
     "company_domains": [
-      "AI/Machine Learning",
       "CAD/CAM",
       "Digital Transformation",
       "Staffing/SES"
@@ -18715,7 +18629,7 @@
     ],
     "company_profile": {
       "address": "〒141-0022 東京都品川区東五反田1-13-12 いちご五反田ビル 5F Tokyo, Japan",
-      "phone": null,
+      "phone": "03-5860-0000",
       "fax": "03-5860-0009",
       "founded": null,
       "established": null,
@@ -18833,12 +18747,12 @@
     ],
     "company_profile": {
       "address": "〒256-0812 神奈川県小田原市国府津2519-3 |",
-      "phone": null,
+      "phone": "0465-48-3398",
       "fax": null,
-      "founded": null,
+      "founded": "2020",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "1,000万円",
+      "num_of_employees": "34",
       "sales": []
     },
     "people": [
@@ -18896,7 +18810,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19028,9 +18942,7 @@
     "company_name_en": "デジタルフォルン",
     "company_name_jp": "株式会社デジタルフォルン",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -19049,7 +18961,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19101,9 +19013,9 @@
       "address": "〒221-0031 神奈川県横浜市神奈川区新浦島町1-1-25 テクノウェイブ100ビル 16F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
+      "capital": "—",
       "num_of_employees": null,
       "sales": []
     },
@@ -19309,12 +19221,10 @@
     "company_name_en": "| transcosmos digital technology inc. |",
     "company_name_jp": "株式会社トランスコスモス・デジタル・テクノロジー",
     "company_domains": [
-      "AI/Machine Learning",
       "Business Process Outsourcing",
       "Cloud Services",
       "Cybersecurity",
       "RPA",
-      "Staffing/SES",
       "System Operations & Maintenance"
     ],
     "products_and_services": [
@@ -19383,7 +19293,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "220-0004 横浜市西区北幸2-8-4 横浜西口KNビル8F",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19457,9 +19367,7 @@
     "company_name_en": "ドゥシステム",
     "company_name_jp": "株式会社ドゥシステム",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -19478,7 +19386,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19553,10 +19461,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -19592,10 +19500,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -19609,9 +19517,7 @@
     "company_name_en": "ネットフォレスト",
     "company_name_jp": "株式会社ネットフォレスト",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -19630,7 +19536,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19667,9 +19573,7 @@
     "company_name_en": "ハイマックス",
     "company_name_jp": "株式会社ハイマックス",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -19688,7 +19592,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19725,7 +19629,6 @@
     "company_name_en": null,
     "company_name_jp": "株式会社ハクエイ",
     "company_domains": [
-      "AI/Machine Learning",
       "Staffing/SES"
     ],
     "products_and_services": [
@@ -19780,7 +19683,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "231-0031 横浜市中区万代町1-2-12 VORT横浜関内Ⅲ7F-B",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -19838,9 +19741,7 @@
     "company_name_en": "ハッピーデザイン",
     "company_name_jp": "株式会社ハッピーデザイン",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -19859,7 +19760,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20048,9 +19949,7 @@
     "company_name_en": "パルディアス",
     "company_name_jp": "株式会社パルディアス",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -20069,7 +19968,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20107,8 +20006,7 @@
     "company_name_jp": "株式会社ヒューマニクス",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -20148,12 +20046,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "1-18-25 Nukui-Kita-cho, Koganei, Tokyo 184-0015",
       "phone": null,
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "10,000,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -20279,7 +20177,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa Prefecture, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20365,9 +20263,7 @@
     "company_name_en": "ビジネスランド",
     "company_name_jp": "株式会社ビジネスランド",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -20386,7 +20282,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20526,10 +20422,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -20543,9 +20439,7 @@
     "company_name_en": "ビーシーエス",
     "company_name_jp": "株式会社ビーシーエス",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -20564,7 +20458,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20617,9 +20511,7 @@
     "company_name_en": "ビー・エス・ピー",
     "company_name_jp": "株式会社ビー・エス・ピー",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -20638,7 +20530,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20701,7 +20593,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -20765,10 +20657,10 @@
       "address": null,
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "年月情報が必要",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "人数情報が必要",
       "sales": []
     },
     "people": [],
@@ -20798,7 +20690,7 @@
       "fax": null,
       "founded": "1982年4月",
       "established": null,
-      "capital": null,
+      "capital": "の公開情報なし（Limited information）",
       "num_of_employees": "108",
       "sales": []
     },
@@ -20917,7 +20809,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "231-8418 神奈川県横浜市中区桜木町1-1-8-2 県民共済プラザビル9階",
       "phone": "(",
       "fax": "(",
       "founded": null,
@@ -20980,7 +20872,7 @@
     ],
     "company_profile": {
       "address": "| 神奈川県横浜市 |",
-      "phone": null,
+      "phone": "045-534-7591",
       "fax": null,
       "founded": null,
       "established": null,
@@ -21037,10 +20929,8 @@
     "company_name_en": null,
     "company_name_jp": "株式会社ブリリアント",
     "company_domains": [
-      "AI/Machine Learning",
       "Design/Engineering",
-      "Hardware Design",
-      "Staffing/SES"
+      "Hardware Design"
     ],
     "products_and_services": [
       {
@@ -21076,9 +20966,9 @@
       "address": "〒190-0023 |",
       "phone": "(",
       "fax": null,
-      "founded": null,
+      "founded": "2002",
       "established": null,
-      "capital": null,
+      "capital": "8,600万円",
       "num_of_employees": null,
       "sales": []
     },
@@ -21115,9 +21005,7 @@
     "company_name_en": "ブレイド",
     "company_name_jp": "株式会社ブレイド",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -21136,7 +21024,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -21221,12 +21109,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "7-1-17-302 Kamiodanaka, Nakahara-ku, Kawasaki, Kanagawa 211-0053",
+      "phone": "044-711-1617",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "3,050,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -21473,9 +21361,9 @@
       "address": "〒221-0031 神奈川県横浜市神奈川区新浦島町1-1-25 テクノウェイブ100ビル 68F |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "—",
       "established": null,
-      "capital": null,
+      "capital": "—",
       "num_of_employees": null,
       "sales": []
     },
@@ -21517,7 +21405,6 @@
       "IT Consulting",
       "Network/Communications",
       "SAP/ERP Consulting",
-      "Staffing/SES",
       "System Development",
       "System Operations & Maintenance"
     ],
@@ -21663,9 +21550,7 @@
     "company_name_en": "メタテクノ",
     "company_name_jp": "株式会社メタテクノ",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -21684,7 +21569,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -21754,13 +21639,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "住所不明",
       "phone": null,
       "fax": null,
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": null,
+      "num_of_employees": "従業員数不明",
       "sales": [
         {
           "date_type": "year",
@@ -21870,13 +21755,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "住所不明",
       "phone": null,
       "fax": null,
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": null,
+      "num_of_employees": "従業員数不明",
       "sales": [
         {
           "date_type": "year",
@@ -21961,9 +21846,7 @@
     "company_name_en": "メリウステック",
     "company_name_jp": "株式会社メリウステック",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -21982,7 +21865,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -22112,7 +21995,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -22165,13 +22048,13 @@
     ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Nishi-Shinjuku Prime Square 4F, 7-5-25 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023",
+      "phone": "03-6907-0751",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "10,000,000 JPY",
+      "num_of_employees": "55",
       "sales": []
     },
     "people": [
@@ -22497,13 +22380,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "住所不明",
       "phone": null,
       "fax": null,
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": null,
+      "num_of_employees": "従業員数不明",
       "sales": [
         {
           "date_type": "year",
@@ -22572,7 +22455,6 @@
     "company_name_en": "LAPIS CO., LTD.",
     "company_name_jp": "株式会社ラピス",
     "company_domains": [
-      "AI/Machine Learning",
       "SAP/ERP Consulting",
       "Staffing/SES",
       "System Development"
@@ -22600,7 +22482,7 @@
       "founded": null,
       "established": null,
       "capital": "Not publicly disclosed",
-      "num_of_employees": null,
+      "num_of_employees": "Information not publicly disclosed",
       "sales": []
     },
     "people": [],
@@ -22627,7 +22509,7 @@
     "products_and_services": [],
     "company_profile": {
       "address": null,
-      "phone": null,
+      "phone": "045-222-3303",
       "fax": null,
       "founded": "2005年4月",
       "established": null,
@@ -22780,7 +22662,7 @@
       "founded": null,
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "000",
       "sales": []
     },
     "people": [
@@ -23016,9 +22898,9 @@
       "address": "〒107-0061 |",
       "phone": "20",
       "fax": null,
-      "founded": null,
+      "founded": "1987",
       "established": null,
-      "capital": null,
+      "capital": "・従業員数",
       "num_of_employees": "126",
       "sales": [
         {
@@ -23099,11 +22981,11 @@
     ],
     "company_profile": {
       "address": "〒102-0074 東京都千代田区九段南4-8-8 日本YWCA会館4階 |",
-      "phone": null,
+      "phone": "03-3239-3678",
       "fax": null,
-      "founded": null,
+      "founded": "2024",
       "established": null,
-      "capital": null,
+      "capital": "・従業員数（追記）",
       "num_of_employees": "29",
       "sales": []
     },
@@ -23420,12 +23302,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Fukuasa Building 6F, 2-1-1 Hakata Ekimae, Hakata-ku, Fukuoka 812-0011",
+      "phone": "092-481-0209",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "450,000,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -23750,7 +23632,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -23792,9 +23674,7 @@
     "company_name_en": "匠技術研究所",
     "company_name_jp": "株式会社匠技術研究所",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -23818,7 +23698,7 @@
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "- **Location:** Kanagawa Prefecture",
       "num_of_employees": null,
       "sales": []
     },
@@ -23855,7 +23735,8 @@
     "company_name_en": "哲英",
     "company_name_jp": "株式会社哲英",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Consulting",
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -23937,7 +23818,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "20-18 Shin-Yokohama 3-chome, Kohoku-ku, Yokohama, Kanagawa",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -23991,9 +23872,7 @@
     "company_name_en": "富士テクノソリューションズ",
     "company_name_jp": "株式会社富士テクノソリューションズ",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -24012,7 +23891,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -24062,9 +23941,7 @@
     "company_name_en": "富士ミライ",
     "company_name_jp": "株式会社富士ミライ",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -24083,7 +23960,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -24126,12 +24003,12 @@
     "products_and_services": [],
     "company_profile": {
       "address": "| 東京都港区虎ノ門1-12-1 虎ノ門第一法規ビル2F |",
-      "phone": null,
+      "phone": "03-5860-9447",
       "fax": null,
       "founded": "5年未満の急成長ベンチャー（190名規模）",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "2,000万円",
+      "num_of_employees": "190名（2024年9月現在、契約社員・アルバイト含む）",
       "sales": []
     },
     "people": [
@@ -24168,8 +24045,7 @@
     "company_name_jp": "株式会社情報システム工学",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -24237,8 +24113,8 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Tokyo",
+      "phone": "03-6716-0811",
       "fax": null,
       "founded": null,
       "established": null,
@@ -24383,7 +24259,6 @@
     "company_name_en": "新日本コンピュータサービス",
     "company_name_jp": "株式会社新日本コンピュータサービス",
     "company_domains": [
-      "AI/Machine Learning",
       "Staffing/SES"
     ],
     "products_and_services": [
@@ -24438,13 +24313,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Chuo-Rinjan Annex 4F, 3-2-10 Chuo-Rinjan, Yamato, Kanagawa 242-0007",
+      "phone": "046-271-1661",
       "fax": null,
-      "founded": null,
+      "founded": "1971",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "20,000,000 JPY",
+      "num_of_employees": "92 (including contract workers, as of April 2026)",
       "sales": []
     },
     "people": [
@@ -24687,7 +24562,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -24750,7 +24625,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -24793,8 +24668,7 @@
     "company_name_jp": "株式会社日本コンサルタントグループ",
     "company_domains": [
       "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -24855,13 +24729,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Nikkon Building, 3-22-15 Shimo-Ochiai, Shinjuku-ku, Tokyo 161-8553",
+      "phone": "03-5996-7541",
       "fax": null,
-      "founded": null,
+      "founded": "1956",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "50,000,000 JPY",
+      "num_of_employees": "120",
       "sales": []
     },
     "people": [
@@ -25001,9 +24875,7 @@
     "company_name_en": "日本コンピュータコンサルタント",
     "company_name_jp": "株式会社日本コンピュータコンサルタント",
     "company_domains": [
-      "AI/Machine Learning",
-      "CAD/CAM",
-      "Staffing/SES"
+      "CAD/CAM"
     ],
     "products_and_services": [
       {
@@ -25015,10 +24887,10 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Yokohama, Kanagawa Prefecture",
       "phone": "045-440-6125",
       "fax": null,
-      "founded": null,
+      "founded": "1980",
       "established": null,
       "capital": null,
       "num_of_employees": null,
@@ -25236,12 +25108,12 @@
     ],
     "company_profile": {
       "address": "〒330-0063 埼玉県さいたま市浦和区高砂2-14-17 浦和マルゼンビル4F |",
-      "phone": null,
+      "phone": "048-815-8457",
       "fax": null,
-      "founded": null,
+      "founded": "2004",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "1,500万円",
+      "num_of_employees": "25",
       "sales": []
     },
     "people": [
@@ -25357,8 +25229,7 @@
       "Application Development",
       "Business Process Outsourcing",
       "SAP/ERP Consulting",
-      "SaaS",
-      "Staffing/SES"
+      "SaaS"
     ],
     "products_and_services": [
       {
@@ -25384,13 +25255,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "150 Ichinotsubo, Nakahara-ku, Kawasaki, Kanagawa 211-8550",
+      "phone": "044-430-1343",
       "fax": null,
-      "founded": null,
+      "founded": "1970",
       "established": null,
       "capital": null,
-      "num_of_employees": null,
+      "num_of_employees": "875",
       "sales": []
     },
     "people": [
@@ -25464,7 +25335,7 @@
     "products_and_services": [],
     "company_profile": {
       "address": "| 横浜市 |",
-      "phone": null,
+      "phone": "045-319-3276",
       "fax": null,
       "founded": null,
       "established": null,
@@ -25605,7 +25476,7 @@
     "company_name_en": "総合企画",
     "company_name_jp": "株式会社総合企画",
     "company_domains": [
-      "AI/Machine Learning"
+      "IT Services"
     ],
     "products_and_services": [
       {
@@ -25701,12 +25572,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Eiraku Building 4F, 1-13-9 Ginza 1-chome, Chuo-ku, Tokyo 104-0061",
+      "phone": "03-3573-1121",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
+      "capital": "10,000,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -25826,12 +25697,12 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Nagase Takashimacho Building 3F, 51 Tobe-Honcho, Nishi-ku, Yokohama, Kanagawa 220-0041",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "August 2009",
       "established": null,
-      "capital": null,
+      "capital": "26,250,000 JPY",
       "num_of_employees": null,
       "sales": []
     },
@@ -25908,18 +25779,17 @@
     "company_name_en": "電創",
     "company_name_jp": "株式会社電創",
     "company_domains": [
-      "AI/Machine Learning",
-      "Staffing/SES"
+      "AI/Machine Learning"
     ],
     "products_and_services": [],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Komoriyama Building 6F, 15-1 Omiya-cho, Saiwai-ku, Kawasaki, Kanagawa",
+      "phone": "044-544-4821",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "30,000,000 JPY",
+      "num_of_employees": "~30",
       "sales": []
     },
     "people": [
@@ -26061,8 +25931,9 @@
     "company_name_en": "Electronic Engineering Center Co., Ltd.",
     "company_name_jp": "株式会社電子工学センター",
     "company_domains": [
-      "AI/Machine Learning",
-      "Staffing/SES"
+      "Design/Engineering",
+      "Hardware Design",
+      "System Development"
     ],
     "products_and_services": [],
     "company_profile": {
@@ -26072,7 +25943,7 @@
       "founded": null,
       "established": null,
       "capital": "Not publicly disclosed",
-      "num_of_employees": null,
+      "num_of_employees": "Information not publicly disclosed",
       "sales": []
     },
     "people": [],
@@ -26091,7 +25962,6 @@
     "company_name_en": "ITS Core Co., Ltd.",
     "company_name_jp": "株式会社ＩＴＳコア",
     "company_domains": [
-      "AI/Machine Learning",
       "Application Development",
       "Custom Software Development",
       "Packaged Software",
@@ -26564,9 +26434,7 @@
     "company_name_en": "Ｓｕｐｐｏｚａ",
     "company_name_jp": "株式会社Ｓｕｐｐｏｚａ",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -26585,7 +26453,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -26664,9 +26532,7 @@
     "company_name_en": "ＴＲＯＮＳ",
     "company_name_jp": "株式会社ＴＲＯＮＳ",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -26685,7 +26551,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -26758,7 +26624,7 @@
     ],
     "company_profile": {
       "address": "| 神奈川県横浜市西区みなとみらい |",
-      "phone": null,
+      "phone": "045-650-6637",
       "fax": null,
       "founded": "8年の成長企業",
       "established": null,
@@ -26808,10 +26674,10 @@
       "address": "〒231-0033 横浜市中区長者町4-9-1 YS関内ビル |",
       "phone": null,
       "fax": null,
-      "founded": null,
+      "founded": "2025",
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "9,900万円",
+      "num_of_employees": "384名（2025年4月時点 子会社連結）",
       "sales": []
     },
     "people": [
@@ -26863,9 +26729,7 @@
     "company_name_en": "湘南技術センター",
     "company_name_jp": "湘南技術センター株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "Network/Communications",
-      "Staffing/SES"
+      "Network/Communications"
     ],
     "products_and_services": [
       {
@@ -26884,7 +26748,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Kanagawa/Tokyo metropolitan area, Japan",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -27145,13 +27009,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "住所不明",
       "phone": null,
       "fax": null,
       "founded": "詳細不明",
       "established": null,
       "capital": "資本金不明",
-      "num_of_employees": null,
+      "num_of_employees": "従業員数不明",
       "sales": [
         {
           "date_type": "year",
@@ -27220,7 +27084,6 @@
     "company_name_en": "Keiso Engineering Co., Ltd.",
     "company_name_jp": "株式会社計装エンジニアリング",
     "company_domains": [
-      "AI/Machine Learning",
       "Application Development",
       "Embedded Systems",
       "Infrastructure",
@@ -27541,9 +27404,7 @@
     "company_name_en": "鈴与シンワート",
     "company_name_jp": "鈴与シンワート株式会社",
     "company_domains": [
-      "AI/Machine Learning",
-      "SAP/ERP Consulting",
-      "Staffing/SES"
+      "SAP/ERP Consulting"
     ],
     "products_and_services": [
       {
@@ -27688,7 +27549,7 @@
       }
     ],
     "company_profile": {
-      "address": null,
+      "address": "Tokyo (Minato-ku)",
       "phone": null,
       "fax": null,
       "founded": null,
@@ -27804,7 +27665,7 @@
       "address": "〒214-0014 神奈川県川崎市多摩区登戸3398-1 大樹生命登戸ビル6F - 3398-1 Taiju Life Noborito Building 6F, Tama-ku, Kawasaki-shi, Kanagawa 214-0014",
       "phone": "044-931-5018",
       "fax": "044-931-5028",
-      "founded": null,
+      "founded": "July 1985",
       "established": null,
       "capital": "5000万円",
       "num_of_employees": "518",
@@ -28001,13 +27862,13 @@
       }
     ],
     "company_profile": {
-      "address": null,
-      "phone": null,
+      "address": "Tsuruya-cho 2nd Building, 2-12-1 Tsuruya-cho, Kanagawa-ku, Yokohama, Kanagawa 221-0835",
+      "phone": "045-316-1561",
       "fax": null,
       "founded": null,
       "established": null,
-      "capital": null,
-      "num_of_employees": null,
+      "capital": "10,000,000 JPY",
+      "num_of_employees": "70",
       "sales": []
     },
     "people": [
@@ -28103,7 +27964,7 @@
     "products_and_services": [],
     "company_profile": {
       "address": null,
-      "phone": null,
+      "phone": "044-223-7820",
       "fax": null,
       "founded": "（詳細設立年月日は要確認）",
       "established": null,
