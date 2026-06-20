@@ -6,12 +6,45 @@
     },
     "people": [
         {
-            "name": "鎌田良勝",
+            "name": "早坂宣則",
             "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/勝義-鎌田-402649209",
-            "twitter": null
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "早川寛",
+            "title": "専務取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "早坂美雪",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "田川大祐",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "天野和哉",
+            "title": "取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-06-19"
 }

@@ -1,44 +1,47 @@
-# 株式会社エリアドライブ
+# 株式会社エリアドライブ (Area Drive Corporation)
 
-## Company Information
+## 基本情報
+- **会社名**: 株式会社エリアドライブ
+- **英語名**: Area Drive Corporation
+- **ウェブサイト**: http://www.areadrive.jp/
+- **所在地**: 231-0013 横浜市中区住吉町4-50 グリシーナ馬車道ビル5F
+- **事業内容**: パッケージソフトウェア、インターネット利用サポート（情報ネットワーク・セキュリティ・サービス）、その他インターネット付随サービス
 
-**Company Name**: 株式会社エリアドライブ  
-**English Name**: Area Drive Co., Ltd.  
-**Last Updated**: 2026-05-24  
-**Status**: Basic structure created - detailed research pending web search restoration
+## 会社概要
 
-## Company Mentions
+**事業内容**: パッケージソフトウェア、インターネット利用サポート（情報ネットワーク・セキュリティ・サービス）、その他インターネット付随サービス
 
-*Research placeholder - detailed company information requires web search functionality*
+**事業内容詳細**: WEB広告ほかWEB制作、動画制作、ドローン撮影などをメインに営む会社。地元神奈川新聞社の関連会社からのスタート会社でもあるので、tvk・FMヨコハマなどのマーケ業なども行っています。
 
-## Contact Information
+## 採用情報
 
-*Research pending*
+**特長**: WEB広告ほかWEB制作、動画制作、ドローン撮影などをメインに営む会社。地元神奈川新聞社の関連会社からのスタート会社でもあるので、tvk・FMヨコハマなどのマーケ業なども行っています。
 
-## Business Description
+## 会社説明
 
-*Research pending*
+株式会社エリアドライブは、横浜市中区に拠点を置くITサービス企業です。WEB広告、WEB制作、動画制作、ドローン撮影などのサービスを主力事業としており、地元神奈川新聞社の関連会社としても活動しています。
 
-## Key Services/Products
+## 会社特徴
 
-*Research pending*
+- WEB広告と制作サービスを提供
+- 動画制作に強み
+- ドローン撮影サービスも展開
+- 地元神奈川新聞社の関連会社
+- tvk・FMヨコハマなどのマーケティング事業も手掛ける
 
-## Technology Stack
+## 研究状況
 
-*Research pending*
+**Current Limitations**: 
+- Web search functionality is currently disabled due to MiniMax API key configuration issues
+- Direct website access may be limited
+- Cannot perform detailed company research at this time
 
-## Market Position
+**Next Steps**:
+- Wait for web search functionality restoration
+- Research company details from official website
+- Search for company mentions in news and media
+- Research employee profiles for LinkedIn and Twitter links
 
-*Research pending*
+---
 
-## Financial Information
-
-*Research pending*
-
-## Recent News
-
-*Research pending*
-
-## Company Mentions
-
-*Research placeholder - detailed company mentions require web search functionality*
+*This is a placeholder file. Detailed research will be conducted when web search functionality becomes available.*

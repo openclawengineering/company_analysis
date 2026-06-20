@@ -1,6 +1,10 @@
 {
-  "company_name": "株式会社エフネット",
-  "english_name": "F Net Co., Ltd.",
-  "last_updated": "2026-05-24",
-  "people": []
+  "company": {
+    "name_jp": "株式会社エフネット",
+    "name_en": "F Net Corporation",
+    "website": "https://www.fnet.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-05-27"
 }

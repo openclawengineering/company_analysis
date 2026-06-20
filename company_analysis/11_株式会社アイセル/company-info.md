@@ -61,3 +61,10 @@
 
 ## Company Mentions
 
+- **株式会社アイセル** — 2026.05.19 — 「AI NATIVE EXPO2026」出展のお知らせ [展示会情報](https://www.aisel.ne.jp/news/20260515/)
+- **株式会社アイセル** — 2026.04.01 — ブレーン・アシスト株式会社の吸収合併に関するお知らせ [合併概要](https://www.aisel.ne.jp/news/20260401/)
+- **株式会社アイセル** — 2026.03.26 — 「健康経営優良法人2026」の認定に関するお知らせ [健康経営](https://www.aisel.ne.jp/news/20260311/)
+- **株式会社アイセル** — 2026.02.19 — 「SECURITY SHOW2026」出展のお知らせ [セキュリティショー](https://www.aisel.ne.jp/news/20260217/)
+- **株式会社アイセル** — 2026.05.22 — RFID技術に関する記事 [ITトレンド](https://blog.aisel.ne.jp/archives/215)
+- **株式会社アイセル** — 2026.05.22 — 経産省「SCS評価制度」解説記事 [ITトレンド](https://blog.aisel.ne.jp/archives/225)
+

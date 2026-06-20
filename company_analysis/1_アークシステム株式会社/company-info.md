@@ -98,6 +98,10 @@
 - **2017.08**: 「楽王3」の販売を開始
 - **2021.06**: 楽王のサブスクリプションサービス「楽王CREW」「楽王LINK」の販売を開始
 
-## 会社_mentions
+## Company Mentions
 
-*会社に関する言及や情報が見つかりませんでした。継続して調査予定。*
+- **アークシステム株式会社 — 2025年12月17日** — 2025年度年末年始休業のお知らせ ([https://www.ark-sys.co.jp/news/](https://www.ark-sys.co.jp/news/))
+- **アークシステム株式会社 — 2025年7月29日** — 2025年度創立記念休業のお知らせ（37周年） ([https://www.ark-sys.co.jp/news/](https://www.ark-sys.co.jp/news/))
+- **アークシステム株式会社 — 2024年11月28日** — 2024年度年末年始休業のお知らせ ([https://www.ark-sys.co.jp/news/](https://www.ark-sys.co.jp/news/))
+- **アークシステム株式会社 — 2024年7月24日** — 創立記念日振替休業のお知らせ ([https://www.ark-sys.co.jp/news/](https://www.ark-sys.co.jp/news/))
+- **アークシステム株式会社 — 2024年6月26日** — 2次元CADソフト「ZEROCAD」ソフトウェア販売・サポート終了のお知らせ ([https://www.ark-sys.co.jp/news/](https://www.ark-sys.co.jp/news/))

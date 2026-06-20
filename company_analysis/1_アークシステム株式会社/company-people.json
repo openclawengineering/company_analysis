@@ -7,7 +7,7 @@
   "people": [
     {
       "name": "小栁",
-      "title": "代表取締役社長",
+      "title": "代表取締役 / CEO",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -15,7 +15,7 @@
     },
     {
       "name": "斎藤",
-      "title": "取締役",
+      "title": "取締役 / COO",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -23,5 +23,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-20"
+  "last_updated": "2026-06-19"
 }

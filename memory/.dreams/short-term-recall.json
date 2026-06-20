@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T08:03:44.019Z",
+  "updatedAt": "2026-05-26T04:06:44.847Z",
   "entries": {
     "memory:memory/2026-03-29.md:1:27": {
       "key": "memory:memory/2026-03-29.md:1:27",
@@ -195,26 +195,28 @@
       "endLine": 45,
       "source": "memory",
       "snippet": "- **Cross UIS** — Former Unichika subsidiary (renamed 2015), 95 employees, ICP Million Dollar Award - **Think Tank of Japan** — NEC group partner, 100 employees, embedded/LSI/AI/networking - **Useware** — 1983-founded, domestic #1 share in JV factory systems for feed industry, quirky products (baseball analysis software) ### Technical Issues - Brave Search API remains down (SUBSCRIPTION_TOKEN_INVALID) — had to rely on web_fetch only - Many KIA member companies have dead websites (domain expired, server down) - Some companies share names with unrelated businesses (e.g., 協立システム開発 = care taxi company at that domain) ### Repos/Paths - Repo: `https://github.com/openclawengineering/company_analy",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.262711874044883,
+      "totalScore": 3.262711874044883,
       "maxScore": 1,
       "firstRecalledAt": "2026-04-23T04:14:53.216Z",
-      "lastRecalledAt": "2026-04-30T08:03:44.019Z",
+      "lastRecalledAt": "2026-05-26T04:06:44.847Z",
       "queryHashes": [
         "3099332d720a",
         "dcccc525616e",
         "d88b0ab1b145",
         "4fca8c9e6dc5",
         "0f8236e21bdf",
-        "0a79cad770d9"
+        "0a79cad770d9",
+        "db7e3329a2fc"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
         "2026-04-27",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-26"
       ],
       "conceptTags": [
         "network",
@@ -234,26 +236,28 @@
       "endLine": 25,
       "source": "memory",
       "snippet": "# 2026-04-22 Daily Memory ## KIA Company Research Project — Massive Batch Completion ### Context Continuing from prior session: researching 64 stub companies (gist-level data only) in the KIA (Kanagawa IT Association) company analysis project. ### What Happened This Session - **64/64 stub companies processed** — all now have reports (Japanese) - ~45 companies received full web research with detailed Japanese reports - ~19 companies had dead/inaccessible websites — updated with KIA data + \"website unreachable\" notes - 3 duplicate directories cleaned up - Final state: **292/327 companies fully researched (89.2%)**, 35 remain as stubs ### Key Discoveries - **CIJ** is actually a **TSE Prime",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.262375511504927,
+      "totalScore": 3.262375511504927,
       "maxScore": 1,
       "firstRecalledAt": "2026-04-23T04:14:53.216Z",
-      "lastRecalledAt": "2026-04-30T08:03:44.019Z",
+      "lastRecalledAt": "2026-05-26T04:06:44.847Z",
       "queryHashes": [
         "3099332d720a",
         "dcccc525616e",
         "d88b0ab1b145",
         "4fca8c9e6dc5",
         "56c5d5417b7a",
-        "0a79cad770d9"
+        "0a79cad770d9",
+        "db7e3329a2fc"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
         "2026-04-27",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-26"
       ],
       "conceptTags": [
         "gist-level",
@@ -273,21 +277,23 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "# 2026-04-23 Daily Memory ## KIA Company Research Project — Batch 1 Re-Research ### What Happened - Subagent completed \"Batch 1\" — 15 Japanese company analysis reports created and pushed to GitHub - Commit: `05edc7b` — \"Add company analysis reports for Batch 1 (15 Japanese companies)\" - Total runtime: ~10 minutes ### Quality Breakdown - **5 high-quality reports**: NEC Solution Innovators, NTT TechnoCross, NTT Data Force, SKY Perfect JSAT, enefla - **4 medium-quality reports**: AndOne Software Engineering, TERAPOC, ISC, IST Software - **6 limited-data reports**: CLINKS, ProGATE, S&A Japan, SG Business, Karakuri, Sakura KCS ### Technical Notes - Brave Search API still down (SUBSCRIPTION_TO",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.6315765834206184,
+      "totalScore": 3.6315765834206184,
       "maxScore": 1,
       "firstRecalledAt": "2026-04-27T12:27:20.462Z",
-      "lastRecalledAt": "2026-04-30T08:03:44.019Z",
+      "lastRecalledAt": "2026-05-26T04:06:44.847Z",
       "queryHashes": [
         "0f8236e21bdf",
         "56c5d5417b7a",
-        "0a79cad770d9"
+        "0a79cad770d9",
+        "db7e3329a2fc"
       ],
       "recallDays": [
         "2026-04-27",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-26"
       ],
       "conceptTags": [
         "re-research",
@@ -307,18 +313,20 @@
       "endLine": 24,
       "source": "memory",
       "snippet": "# 2026-04-26 Daily Memory ## KIA Company Research Project — Batch 2 Completion ### Session Start Status - Git status: Already up to date - Batch 1: 10 companies completed (files 61-70) - Batch 2: 6 companies completed (files 71-76), 3 remaining stub files - Gap identified: 3 companies need proper research ### Companies to Research (Remaining from Batch 2) 1. アーズ総合開発株式会社 (Arz Co., Ltd.) 2. アーネスト開発株式会社 (Earnest Development Co., Ltd.) 3. アーバン・コーポレーション株式会社 (Urban Corporation) ### Current Stub Status All three exist as directory stubs with placeholder info: - company-info.md files (~900 bytes each) - Missing: Detailed research, URLs, founding dates, employee counts, etc. - Created: 2026-04-1",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.6325335155661234,
-      "maxScore": 0.6325335155661234,
+      "totalScore": 1.6325335155661234,
+      "maxScore": 1,
       "firstRecalledAt": "2026-04-30T08:03:44.019Z",
-      "lastRecalledAt": "2026-04-30T08:03:44.019Z",
+      "lastRecalledAt": "2026-05-26T04:06:44.847Z",
       "queryHashes": [
-        "0a79cad770d9"
+        "0a79cad770d9",
+        "db7e3329a2fc"
       ],
       "recallDays": [
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-26"
       ],
       "conceptTags": [
         "61-70",
@@ -329,6 +337,68 @@
         "company",
         "research",
         "project"
+      ]
+    },
+    "memory:memory/2026-05-03.md:1:22": {
+      "key": "memory:memory/2026-05-03.md:1:22",
+      "path": "memory/2026-05-03.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-05-03 Company Research Session ## Progress - **Batch 5 completed**: Companies 30-39 (10 companies processed) - アイシス株式会社 (ISIS Co., Ltd.) - Business software support and system development company - 株式会社アイテク (AITECH Co., Ltd.) - Electrical equipment construction and FA system design - 株式会社アドバンスコミュニケーション (Advance Communication Inc.) - Marketing and promotion company - アマノ株式会社 (Amano Corporation) - Time management systems, parking systems, environmental solutions - アリサフテック・ジャパン (AriSaf Tech Japan) - Custom software and AI solutions provider - アークシステム (Ark System) - System solutions for various industries (manufacturing, government, finance, etc.) - 大井電気株式会社 (Oi Electric Co",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-26T04:06:44.847Z",
+      "lastRecalledAt": "2026-05-26T04:06:44.847Z",
+      "queryHashes": [
+        "db7e3329a2fc"
+      ],
+      "recallDays": [
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "30-39",
+        "company",
+        "research",
+        "progress",
+        "batch",
+        "completed",
+        "companies",
+        "processed"
+      ]
+    },
+    "memory:memory/2026-04-30.md:1:24": {
+      "key": "memory:memory/2026-04-30.md:1:24",
+      "path": "memory/2026-04-30.md",
+      "startLine": 1,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "# 2026-04-30 Company Research Session ## Progress - **Batch 4 completed**: Companies 21-29 (9 companies processed) - 株式会社アイ・ピー・エル (website corrected to https://www.ipl-soft.co.jp/) - 株式会社アイポケット - 株式会社アイルミッション - 株式会社Ａｉｎ - 株式会社アヴァンティ (found: 代表取締役社長 加藤良祐, 専務取締役 米谷嘉朗, etc.) - 株式会社 アクウェア - 株式会社アクティブ (ハタラクエール 5年連続認証) - 株式会社アクロイト (social profiles found: Twitter, Facebook, Instagram) - あさかわシステムズ株式会社 (listed on TOKYO PRO Market, code 5249, 代表取締役社長 三宅安幸) - 朝日ソフトウェア開発株式会社 (2026年2月役員変更: 代表取締役会長 信夫他人也, 代表取締役社長 竹田由美子) ## Issues - **GitHub push failing**: Authentication error for `openclawengineering/company_analysis` - needs token/credentials fix - **web_search unavailable**: MiniMa",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-26T04:06:44.847Z",
+      "lastRecalledAt": "2026-05-26T04:06:44.847Z",
+      "queryHashes": [
+        "db7e3329a2fc"
+      ],
+      "recallDays": [
+        "2026-05-26"
+      ],
+      "conceptTags": [
+        "21-29",
+        "www.ipl-soft.co.jp",
+        "token/credentials",
+        "web-search",
+        "company",
+        "research",
+        "progress",
+        "batch"
       ]
     }
   }

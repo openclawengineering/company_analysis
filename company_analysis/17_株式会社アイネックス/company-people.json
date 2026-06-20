@@ -1,0 +1,22 @@
+{
+    "company": {
+        "name_jp": "株式会社アイネックス",
+        "name_en": "InEx Co., Ltd.",
+        "website": "https://inex.co.jp/"
+    },
+    "people": [
+        {
+            "name": "比留川 俊索",
+            "name_ja": "比留川 俊索",
+            "title": "代表取締役",
+            "title_ja": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        }
+    ],
+    "social_profiles": [],
+    "last_updated": "2026-06-20",
+    "data_source": "official_website"
+}

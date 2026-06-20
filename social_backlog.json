@@ -1,0 +1,772 @@
+[
+  {
+    "dir": "日清オイリオグループ_NisshinOillioGroup",
+    "name_en": "The Nisshin OilliO Group, Ltd.",
+    "name_jp": "日清オイリオグループ株式会社",
+    "website": "https://www.nisshin-oillio.com/",
+    "num_people": 28
+  },
+  {
+    "dir": "株式会社アイネット",
+    "name_en": "I-NET Corp.",
+    "name_jp": "株式会社アイネット",
+    "website": "https://www.inet.co.jp/",
+    "num_people": 21
+  },
+  {
+    "dir": "NTTテクノクロス株式会社_NTT_TechnoCross",
+    "name_en": "NTT TechnoCross",
+    "name_jp": "NTTテクノクロス株式会社",
+    "website": "https://www.ntt-tx.co.jp",
+    "num_people": 16
+  },
+  {
+    "dir": "アマノ株式会社_AmanoCorporation",
+    "name_en": "Amano Corporation",
+    "name_jp": "アマノ株式会社",
+    "website": "https://www.amano.co.jp/",
+    "num_people": 14
+  },
+  {
+    "dir": "あさかわシステムズ株式会社",
+    "name_en": "ASAKAWA SYSTEMS CO.,LTD.",
+    "name_jp": "あさかわシステムズ株式会社",
+    "website": "https://www.a-sk.co.jp/",
+    "num_people": 11
+  },
+  {
+    "dir": "ジスクソフト株式会社_JISCSoftware",
+    "name_en": "JISC SOFT Co., Ltd.",
+    "name_jp": "ジスクソフト株式会社",
+    "website": "https://www.jisc.co.jp",
+    "num_people": 11
+  },
+  {
+    "dir": "CLINKS_CLINKS",
+    "name_en": "CLINKS",
+    "name_jp": "CLINKS株式会社",
+    "website": "https://www.clinks.jp",
+    "num_people": 10
+  },
+  {
+    "dir": "CLINKS株式会社",
+    "name_en": "CLINKS",
+    "name_jp": "CLINKS株式会社",
+    "website": "https://www.clinks.jp",
+    "num_people": 10
+  },
+  {
+    "dir": "CLINKS株式会社_CLINKS",
+    "name_en": "CLINKS",
+    "name_jp": "CLINKS株式会社",
+    "website": "https://www.clinks.jp",
+    "num_people": 10
+  },
+  {
+    "dir": "株式会社PE-BANK",
+    "name_en": "PE-BANK",
+    "name_jp": "株式会社PE-BANK",
+    "website": "https://pe-bank.co.jp/company/companyprofile/",
+    "num_people": 10
+  },
+  {
+    "dir": "ニューテック株式会社_Newtech",
+    "name_en": "Newtech Co., Ltd.",
+    "name_jp": "株式会社ニューテック",
+    "website": "https://www.newtech.co.jp",
+    "num_people": 9
+  },
+  {
+    "dir": "株式会社アイネステクノロジーズ_INESTechnologies",
+    "name_en": "INES Technologies",
+    "name_jp": "株式会社アイネステクノロジーズ",
+    "website": "https://www.iti.ines.co.jp",
+    "num_people": 9
+  },
+  {
+    "dir": "日本アシスト_NihonAssist",
+    "name_en": "Japan Assist Co., Ltd.",
+    "name_jp": "株式会社日本アシスト",
+    "website": "https://www.n-assist.co.jp/",
+    "num_people": 8
+  },
+  {
+    "dir": "株式会社ISTソフトウェア_ISTSoftware",
+    "name_en": "IST Software Co., Ltd.",
+    "name_jp": "株式会社ISTソフトウェア",
+    "website": "http://www.ist-software.co.jp/",
+    "num_people": 8
+  },
+  {
+    "dir": "株式会社ＩＳＴソフトウェア",
+    "name_en": "IST Software Co., Ltd.",
+    "name_jp": "株式会社ＩＳＴソフトウェア",
+    "website": "https://www.ist-software.co.jp/company/outline/",
+    "num_people": 8
+  },
+  {
+    "dir": "FabbiJapan株式会社",
+    "name_en": "Fabbi Japan Inc.",
+    "name_jp": "株式会社 Fabbi Japan",
+    "website": "https://fabbi-japan.jp/",
+    "num_people": 7
+  },
+  {
+    "dir": "PE-BANK株式会社_PEBank",
+    "name_en": "PE-BANK, inc.",
+    "name_jp": "株式会社PE-BANK",
+    "website": "https://pe-bank.co.jp/",
+    "num_people": 6
+  },
+  {
+    "dir": "株式会社クロスユーアイエス_東京支社_CrossUISTokyo",
+    "name_en": "Cross UIS Co., Ltd.",
+    "name_jp": "株式会社クロスユーアイエス",
+    "website": "https://www.xuis.co.jp/",
+    "num_people": 6
+  },
+  {
+    "dir": "株式会社情報システム工学",
+    "name_en": "情報システム工学",
+    "name_jp": "株式会社情報システム工学",
+    "website": "https://ise-group.jp/recruit.html",
+    "num_people": 6
+  },
+  {
+    "dir": "オオイテクノ_OTN_Oi-Techno",
+    "name_en": "OI Techno Inc.",
+    "name_jp": "株式会社オオイテクノ",
+    "website": "https://www.oitechno.co.jp/",
+    "num_people": 5
+  },
+  {
+    "dir": "クラフトワーク_Craftwork",
+    "name_en": "CRAFT WORK Co., Ltd.",
+    "name_jp": "株式会社クラフトワーク",
+    "website": "https://craft-server.co.jp/",
+    "num_people": 5
+  },
+  {
+    "dir": "愛宕_Atago",
+    "name_en": "愛宕",
+    "name_jp": "株式会社愛宕",
+    "website": "https://www.ata5.co.jp/",
+    "num_people": 5
+  },
+  {
+    "dir": "株式会社アヴァンティ",
+    "name_en": "アヴァンティ",
+    "name_jp": "株式会社アヴァンティ",
+    "website": "https://www.piu-avanti.com/",
+    "num_people": 5
+  },
+  {
+    "dir": "株式会社ネオシステム_NeoSystem",
+    "name_en": "NEOSYSTEM Co., Ltd.",
+    "name_jp": "株式会社ネオシステム",
+    "website": "https://www.neosystem.co.jp/",
+    "num_people": 5
+  },
+  {
+    "dir": "株式会社パシオン_Pasion",
+    "name_en": "PASION",
+    "name_jp": "株式会社パシオン",
+    "website": "https://www.pasion.co.jp/",
+    "num_people": 5
+  },
+  {
+    "dir": "アイテックジャパン株式会社_ITecJapan",
+    "name_en": "ITEC Co., Ltd.",
+    "name_jp": "株式会社アイテック",
+    "website": "https://www.itec.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "アトムシステム_AtomSystem",
+    "name_en": "Atom System Co., Ltd.",
+    "name_jp": "株式会社アトムシステム",
+    "website": "https://www.atomsystem.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "クロステック_Xtec",
+    "name_en": "CrossTec Inc.",
+    "name_jp": "株式会社クロステック",
+    "website": "https://www.xtec.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "システムワークスジャパン株式会社_SystemWorksJapan",
+    "name_en": "System Works Co., Ltd.",
+    "name_jp": "株式会社システムワークス",
+    "website": "https://system-works.co.jp",
+    "num_people": 4
+  },
+  {
+    "dir": "ソリューション・ラボ・ジャパン株式会社",
+    "name_en": "ソリューション・ラボ・ジャパン",
+    "name_jp": "ソリューション・ラボ・ジャパン株式会社",
+    "website": "https://www.slj-net.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "図研プリサイト_ZukenPresite",
+    "name_en": "Zuken PreSight Inc.",
+    "name_jp": "株式会社図研プリサイト",
+    "website": "https://www.presight.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "株式会社アクロイト",
+    "name_en": "アクロイト",
+    "name_jp": "株式会社アクロイト",
+    "website": "https://acroit.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "株式会社アローシステムズ_ArrowSystems",
+    "name_en": "Arrow Systems",
+    "name_jp": "株式会社アローシステムズ",
+    "website": "https://arrow-systems.co.jp",
+    "num_people": 4
+  },
+  {
+    "dir": "株式会社ソフテム_Softem",
+    "name_en": "SOFTEM Co., Ltd.",
+    "name_jp": "株式会社ソフテム",
+    "website": "https://www.softem.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "株式会社Ａｉｎ",
+    "name_en": "Ａｉｎ",
+    "name_jp": "株式会社Ａｉｎ",
+    "website": "https://www.ain-jpn.com/",
+    "num_people": 4
+  },
+  {
+    "dir": "計装エンジニアリング_KeisoEngineering",
+    "name_en": "Keiso Engineering Co., Ltd.",
+    "name_jp": "株式会社計装エンジニアリング",
+    "website": "https://www.keiso.co.jp/",
+    "num_people": 4
+  },
+  {
+    "dir": "AndOneSoftwareEngineering株式会社",
+    "name_en": "And One Software Engineering Inc.",
+    "name_jp": "And One Software Engineering 株式会社",
+    "website": "https://andone-eng.co.jp/",
+    "num_people": 3
+  },
+  {
+    "dir": "AndOneSoftwareEngineering株式会社_AndOneSoftware",
+    "name_en": "",
+    "name_jp": "",
+    "website": "",
+    "num_people": 3
+  },
+  {
+    "dir": "アークシステム株式会社_ArkSystem",
+    "name_en": "Ark System Co., Ltd.",
+    "name_jp": "アークシステム株式会社",
+    "website": "https://www.ark-sys.co.jp/",
+    "num_people": 3
+  },
+  {
+    "dir": "オルトス_Orthos",
+    "name_en": "Orthos Inc.",
+    "name_jp": "株式会社オルトス",
+    "website": "http://www.orthos.co.jp/",
+    "num_people": 3
+  },
+  {
+    "dir": "朝日ソフトウェア開発株式会社_AsahiSoftwareDevelopment",
+    "name_en": "朝日ソフトウェア開発",
+    "name_jp": "朝日ソフトウェア開発株式会社",
+    "website": "https://www.asahi-s.co.jp/",
+    "num_people": 3
+  },
+  {
+    "dir": "株式会社日本コンピュータコンサルタント",
+    "name_en": "日本コンピュータコンサルタント",
+    "name_jp": "株式会社日本コンピュータコンサルタント",
+    "website": "https://www.n-c-c.co.jp/",
+    "num_people": 3
+  },
+  {
+    "dir": "アイティサーフ株式会社_ITSurf",
+    "name_en": "IT Surf Inc.",
+    "name_jp": "アイティサーフ株式会社",
+    "website": "https://it-surf.co.jp/",
+    "num_people": 2
+  },
+  {
+    "dir": "アドバンスドプランニング_AdvancedPlanning",
+    "name_en": "Advanced Planning Co., Ltd.",
+    "name_jp": "有限会社アドバンスドプランニング",
+    "website": "https://www.ad-planning.co.jp/",
+    "num_people": 2
+  },
+  {
+    "dir": "ザ・コンピュータ株式会社_TheComputer",
+    "name_en": "The Computer Co., Ltd.",
+    "name_jp": "ザ・コンピュータ株式会社",
+    "website": "http://www.thecomputer.co.jp/",
+    "num_people": 2
+  },
+  {
+    "dir": "株式会社アイティサーフ_ITSurf",
+    "name_en": "IT-Surf",
+    "name_jp": "株式会社アイティサーフ",
+    "website": "https://it-surf.co.jp",
+    "num_people": 2
+  },
+  {
+    "dir": "SGビジネス株式会社_SGBusiness",
+    "name_en": "SGB",
+    "name_jp": "SGビジネス株式会社",
+    "website": "https://www.sgb.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "enefla株式会社_enefla",
+    "name_en": "enefla Co., Ltd.",
+    "name_jp": "enefla株式会社",
+    "website": "https://enefla.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "からくり_Karakuri",
+    "name_en": "Karakuri Corporation",
+    "name_jp": "株式会社からくり",
+    "website": "https://www.kara-kuri.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アイエスシー_ISC",
+    "name_en": "ISC Inc.",
+    "name_jp": "アイエスシー株式会社",
+    "website": "http://www.isc-net.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "アイエスシー株式会社_ISC",
+    "name_en": "ISC inc.",
+    "name_jp": "アイエスシー株式会社",
+    "website": "http://www.isc-net.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アイキャル株式会社_iCal",
+    "name_en": "iCal Inc.",
+    "name_jp": "株式会社アイキャル",
+    "website": "https://www.ical.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "アイシス_Isis",
+    "name_en": "ISIS Co., Ltd.",
+    "name_jp": "アイシス株式会社",
+    "website": "https://www.isis.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アイシス株式会社_ISIS",
+    "name_en": "ISIS Co., Ltd.",
+    "name_jp": "アイシス株式会社",
+    "website": "https://www.isis.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アイセル株式会社_AICEL",
+    "name_en": "AICEL Inc.",
+    "name_jp": "アイセル株式会社",
+    "website": "https://www.aisel.ne.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アイネステクノロジーズ株式会社_INESTechnologies",
+    "name_en": "INEST Technologies Inc.",
+    "name_jp": "アイネステクノロジーズ株式会社",
+    "website": "https://www.in-est.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アクティブ_Active",
+    "name_en": "アクティブ",
+    "name_jp": "株式会社アクティブ",
+    "website": "http://www.active-web.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アップロード_Upload",
+    "name_en": "アップロード",
+    "name_jp": "株式会社アップロード",
+    "website": "http://www.upload21.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アドテック_Adtec",
+    "name_en": "Adtec Inc.",
+    "name_jp": "アドテック株式会社",
+    "website": "https://www.adtec.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アナザーウェア_AnotherWare",
+    "name_en": "Another Ware Co., Ltd.",
+    "name_jp": "株式会社アナザーウェア",
+    "website": "http://www.another-ware.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "アプトシステム_Aptsys",
+    "name_en": "Aptsys Inc.",
+    "name_jp": "株式会社アプトシステム",
+    "website": "https://www.aptsys.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アプリコット_Apricot",
+    "name_en": "Apricot Inc.",
+    "name_jp": "株式会社アプリコット",
+    "website": "https://apricotinc.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アミエル_Amiel",
+    "name_en": "Amiel Inc.",
+    "name_jp": "株式会社アミエル",
+    "website": "",
+    "num_people": 1
+  },
+  {
+    "dir": "アリサフテックジャパン_ArisaftechJapan",
+    "name_en": "AriSaf Tech Japan Co., Ltd.",
+    "name_jp": "アリサフテック・ジャパン株式会社",
+    "website": "https://arisaftech.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アリサフテック・ジャパン株式会社_AriSaf Tech Japan",
+    "name_en": "AriSaf Tech Japan Co., Ltd.",
+    "name_jp": "アリサフテック・ジャパン株式会社",
+    "website": "https://arisaftech.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アリサフテック・ジャパン株式会社_ArisafTechJapan",
+    "name_en": "Arisaf Tech Japan Co., Ltd.",
+    "name_jp": "アリサフテック・ジャパン株式会社",
+    "website": "https://arisaftech.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アルネッツ_Alnetz",
+    "name_en": "ALNETZ Inc.",
+    "name_jp": "株式会社アルネッツ",
+    "website": "https://alnetz.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アルファウェーブ_AlphaWave",
+    "name_en": "AlphaWave Corporation",
+    "name_jp": "アルファウェーブ株式会社",
+    "website": "https://www.alphawave.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アルファメディア_AlphaMedia",
+    "name_en": "Alpha Media Co., Ltd.",
+    "name_jp": "Alpha Media Co., Ltd.",
+    "website": "https://www.alphamedia.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アローシステムズ_ArrowSystems",
+    "name_en": "Arrow Systems Co., Ltd.",
+    "name_jp": "Arrow Systems Co., Ltd.",
+    "website": "",
+    "num_people": 1
+  },
+  {
+    "dir": "アローズシステムズ_ArrowsSystems",
+    "name_en": "Arrows Systems Co., Ltd.",
+    "name_jp": "Arrows Systems Co., Ltd.",
+    "website": "https://www.arrows-systems.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "アーズ総合開発株式会社_Arz",
+    "name_en": "Arz Co., Ltd.",
+    "name_jp": "アーズ総合開発株式会社",
+    "website": "https://www.arz.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "イグアス_Iguazu",
+    "name_en": "Iguazu Co., Ltd.",
+    "name_jp": "Iguazu Co., Ltd.",
+    "website": "https://www.i-guazu.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "イマジネーション_Imagination",
+    "name_en": "Imagination Co., Ltd.",
+    "name_jp": "イマジネーション株式会社",
+    "website": "https://www.imagination.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "イマジン_Imagine",
+    "name_en": "Imagine Inc.",
+    "name_jp": "株式会社イマジン",
+    "website": "https://www.kk-imagine.com/",
+    "num_people": 1
+  },
+  {
+    "dir": "イレブンラボ_ElevenLab",
+    "name_en": "Eleven Lab Co., Ltd.",
+    "name_jp": "株式会社イレブンラボ",
+    "website": "https://www.eleven-lab.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "インバースネット_Inversenet",
+    "name_en": "Inversenet Inc.",
+    "name_jp": "インバースネット株式会社",
+    "website": "",
+    "num_people": 1
+  },
+  {
+    "dir": "インフォテックサーブ_InfotechServe",
+    "name_en": "Infotech Serve Co., Ltd.",
+    "name_jp": "インフォテックサーブ株式会社",
+    "website": "https://www.infotech-s.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "インフォメーションサービスフォース_ISForce",
+    "name_en": "Information Service Force Co., Ltd.",
+    "name_jp": "インフォメーションサービスフォース株式会社",
+    "website": "https://www.isforce.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "インフォリンク_Infolink",
+    "name_en": "Infolink Ltd.",
+    "name_jp": "株式会社インフォリンク",
+    "website": "",
+    "num_people": 1
+  },
+  {
+    "dir": "ウィザースシステム_WithearthSystem",
+    "name_en": "WithearthSystem",
+    "name_jp": "ウィザースシステム",
+    "website": "",
+    "num_people": 1
+  },
+  {
+    "dir": "ウィザース・システム株式会社",
+    "name_en": "ウィザース・システム",
+    "name_jp": "ウィザース・システム株式会社",
+    "website": "https://withearth-system.com/about.html",
+    "num_people": 1
+  },
+  {
+    "dir": "エスアイマネジメント株式会社",
+    "name_en": "SI Management Co., Ltd.",
+    "name_jp": "エスアイマネジメント株式会社",
+    "website": "https://www.si-m.com/",
+    "num_people": 1
+  },
+  {
+    "dir": "ケイアイエス_KIS",
+    "name_en": "KIS Co., Ltd.",
+    "name_jp": "株式会社ケイアイエス",
+    "website": "https://www.ki-s.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "コスモスシステム_CosmosSystem",
+    "name_en": "CosMos System Co., Ltd.",
+    "name_jp": "株式会社コスモスシステム",
+    "website": "https://cos-sys.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "サプライム_Suprime",
+    "name_en": "Suprime Inc.",
+    "name_jp": "株式会社サプライム",
+    "website": "https://www.suprime.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "サンアイエンジニアリング_SanaiEngineering",
+    "name_en": "Sanai Engineering Co., Ltd.",
+    "name_jp": "株式会社サンアイエンジニアリング",
+    "website": "https://www.sang.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "デジタルコム株式会社_DigiTrade",
+    "name_en": "DigiTrade Ltd.",
+    "name_jp": "デジトレード株式会社",
+    "website": "https://dgt.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "協立システム開発_KyoritsuSystemDevelopment",
+    "name_en": "Kyoritsu System Development Co., Ltd.",
+    "name_jp": "協立システム開発株式会社",
+    "website": "https://www.ksdnet.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "宮川製作所_MiyagawaSeisakusho",
+    "name_en": "MSK Technologies Co., Ltd.",
+    "name_jp": "株式会社宮川製作所",
+    "website": "https://www.msk.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "情創_Johso",
+    "name_en": "johso co.,ltd.",
+    "name_jp": "株式会社情創",
+    "website": "https://johso.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社 アクウェア",
+    "name_en": "アクウェア",
+    "name_jp": "株式会社 アクウェア",
+    "website": "https://www.acquware.com/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社ICON_ICON",
+    "name_en": "ICON Corp.",
+    "name_jp": "株式会社ICON",
+    "website": "https://www.e-icon.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アイキャル_ICal",
+    "name_en": "I-Cal Co., Ltd.",
+    "name_jp": "株式会社アイキャル",
+    "website": "https://www.ical.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アイポケット",
+    "name_en": "アイポケット",
+    "name_jp": "株式会社アイポケット",
+    "website": "https://www.i-pocket.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アイルミッション_Aillumission",
+    "name_en": "アイルミッション",
+    "name_jp": "株式会社アイルミッション",
+    "website": "https://www.aillumission.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アイ・ピー・エル",
+    "name_en": "アイ・ピー・エル",
+    "name_jp": "株式会社アイ・ピー・エル",
+    "website": "https://www.ipl-soft.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アズ・ソフトウェア・デザイン_AsSoftwareDesign",
+    "name_en": "アズ・ソフトウェア・デザイン",
+    "name_jp": "株式会社アズ・ソフトウェア・デザイン",
+    "website": "http://www.asd-net.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アミエル_Amiel",
+    "name_en": "Amiel",
+    "name_jp": "株式会社アミエル",
+    "website": "https://keirimarugoto.com",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アルネッツ_Alnetz",
+    "name_en": "Alnetz",
+    "name_jp": "株式会社アルネッツ",
+    "website": "https://alnetz.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社アルファメディア_Alphamedia",
+    "name_en": "Alphamedia",
+    "name_jp": "株式会社アルファメディア",
+    "website": "https://www.alphamedia.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社コーエイシステム_KoeiSystem",
+    "name_en": "Koei System Co., Ltd.",
+    "name_jp": "株式会社コーエイシステム",
+    "website": "http://www.koeisystem.co.jp",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社サザン・エージェンシー_SouthernAgency",
+    "name_en": "Southern Agency Co., Ltd.",
+    "name_jp": "株式会社サザン・エージェンシー",
+    "website": "https://www.sacgrp.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社シスメトン",
+    "name_en": "シスメトン",
+    "name_jp": "株式会社シスメトン",
+    "website": "https://mid-tenshoku.com/agency/a-8519/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社テクノブレーン_TechnoBrain",
+    "name_en": "TechnoBrain Co., ltd.",
+    "name_jp": "テクノブレーン株式会社",
+    "website": "https://www.techno-brain.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社ヒューマニクス",
+    "name_en": "ヒューマニクス",
+    "name_jp": "株式会社ヒューマニクス",
+    "website": "https://v-news.co.jp/company/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社匠技術研究所",
+    "name_en": "匠技術研究所",
+    "name_jp": "株式会社匠技術研究所",
+    "website": "https://www9.takumigiken.biz/aboutus/profile",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社悟空テクノロジーズ_GokuTechnologies",
+    "name_en": "GOKU TECHNOLOGIES INC.",
+    "name_jp": "株式会社悟空テクノロジーズ",
+    "website": "https://www.goku-tech.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社東計電算",
+    "name_en": "東計電算",
+    "name_jp": "株式会社東計電算",
+    "website": "https://contact.toukei.co.jp/",
+    "num_people": 1
+  },
+  {
+    "dir": "株式会社言語サービス",
+    "name_en": "Language Services Co., Ltd.",
+    "name_jp": "株式会社言語サービス",
+    "website": "https://www.ls-jp.com/",
+    "num_people": 1
+  }
+]

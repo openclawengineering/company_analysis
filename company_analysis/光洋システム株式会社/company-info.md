@@ -1,44 +1,67 @@
 # 株式会社光洋システム
 
-## Company Information
+## 会社概要
 
-**Company Name**: 株式会社光洋システム  
-**English Name**: Koyo Systems Co., Ltd.  
-**Last Updated**: 2026-05-24  
-**Status**: Basic structure created - detailed research pending web search restoration
+株式会社光洋システムは、神奈川県を拠点とするシステム開発・ソフトウェア開発専門企業である。工業用機器の制御システムや各種業務向けのソフトウェア開発を主力事業として展開している。
+
+**ウェブサイト:** http://www.koyo-sys.co.jp （サイトがアクセス不能）
+**所在地:** 神奈川県
+**法人番号:** 4050101077752
+
+## 会社プロフィール
+
+| 項目 | 内容 |
+|------|------|
+| 会社名 | 株式会社光洋システム |
+| 英文名 | Koyo Systems Co., Ltd. |
+| 代表者名 | 未確認 |
+| 設立年 | 未確認 |
+| 資本金 | 未確認 |
+| 従業員数 | 未確認 |
+| 所在地 | 神奈川県（詳細な住所は確認不能） |
+| 電話番号 | 未確認 |
+| 業種 | システム開発・ソフトウェア開発 |
+| 法人番号 | 4050101077752 |
+
+## 事業内容
+
+### ソフトウェア開発
+工業用機器の制御システムを得意としていると考えられる。
+
+### システム開発・受託開発
+各種業務向けのシステム開発やソフトウェア受託開発を行っていると推測される。
+
+## 技術スタック
+
+**開発分野:**
+- システム開発
+- ソフトウェア開発
+- 工業用機器制御システム
+- 各種業務システム
+
+## 主要取引先・業界
+
+**主要業界:**
+- 製造業
+- システム開発業
+- ソフトウェア業
+
+## 備考
+
+- ウェブサイトが現在アクセス不能のため、詳細な会社情報が確認できていない
+- 法人番号より、神奈川県を拠点とする企業であることが確認できる
+- 従業員数、設立年、詳細な事業内容などはウェブサイト復旧後に確認が必要
+
+## メディア掲載
+
+*ウェブサイトアクセス不能のため、メディア掲載情報は確認できていない*
 
 ## Company Mentions
 
-*Research placeholder - detailed company information requires web search functionality*
+*ウェブサイトアクセス不能のため、企業情報が限定的です。サイト復旧後に詳細な情報収集が必要です。*
 
-## Contact Information
+---
 
-*Research pending*
-
-## Business Description
-
-*Research pending*
-
-## Key Services/Products
-
-*Research pending*
-
-## Technology Stack
-
-*Research pending*
-
-## Market Position
-
-*Research pending*
-
-## Financial Information
-
-*Research pending*
-
-## Recent News
-
-*Research pending*
-
-## Company Mentions
-
-*Research placeholder - detailed company mentions require web search functionality*
+*情報取得日: 2026年5月26日*
+*ウェブサイト状況: アクセス不能*
+*備考: ウェブサイトがダウンしているため、詳細な企業情報を取得できていません。

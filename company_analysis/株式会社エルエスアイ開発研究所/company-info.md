@@ -1,44 +1,50 @@
-# 株式会社エルエスアイ開発研究所
+# 株式会社エルエスアイ開発研究所 (LSI Development Research Institute)
 
-## Company Information
+## 基本情報
+- **会社名**: 株式会社エルエスアイ開発研究所
+- **英語名**: LSI Development Research Institute
+- **ウェブサイト**: http://lsi-dev.co.jp/
+- **所在地**: 223-0053 横浜市港北区綱島西6-13-32 ワコー電子ビル4F
+- **事業内容**: 受託開発ソフトウェア、組み込みソフトウェア、パッケージソフトウェア、ネットワーク・通信関連、SES
 
-**Company Name**: 株式会社エルエスアイ開発研究所  
-**English Name**: LSI Development Research Institute Co., Ltd.  
-**Last Updated**: 2026-05-24  
-**Status**: Basic structure created - detailed research pending web search restoration
+## 会社概要
 
-## Company Mentions
+**事業内容**: 受託開発ソフトウェア、組み込みソフトウェア、パッケージソフトウェア、ネットワーク・通信関連、SES
 
-*Research placeholder - detailed company information requires web search functionality*
+**技術特徴**: 組込みシステム開発は、43年の経験があります。
 
-## Contact Information
+## 採用情報
 
-*Research pending*
+**採用区分**: 新卒採用 | 中途採用 | インターンシップ | 常駐・派遣
 
-## Business Description
+**特徴**: 組込みシステム開発は、43年の経験があります。
 
-*Research pending*
+## 会社説明
 
-## Key Services/Products
+株式会社エルエスアイ開発研究所は、横浜市港北区に拠点を置くソフトウェア開発会社です。43年にわたる組込みシステム開発の経験を持ち、受託開発ソフトウェア、組み込みソフトウェア、パッケージソフトウェアなど多岐にわたるITサービスを提供しています。
 
-*Research pending*
+## 会社特徴
 
-## Technology Stack
+- 43年の組込みシステム開発経験
+- 受託開発ソフトウェア事業を展開
+- 組み込みソフトウェア開発に強み
+- パッケージソフトウェアも提供
+- ネットワーク・通信関連サービスも手掛ける
+- SES（システムエンジニアリングサービス）も提供
 
-*Research pending*
+## 研究状況
 
-## Market Position
+**Current Limitations**: 
+- Web search functionality is currently disabled due to MiniMax API key configuration issues
+- Direct website access may be limited
+- Cannot perform detailed company research at this time
 
-*Research pending*
+**Next Steps**:
+- Wait for web search functionality restoration
+- Research company details from official website
+- Search for company mentions in news and media
+- Research employee profiles for LinkedIn and Twitter links
 
-## Financial Information
+---
 
-*Research pending*
-
-## Recent News
-
-*Research pending*
-
-## Company Mentions
-
-*Research placeholder - detailed company mentions require web search functionality*
+*This is a placeholder file. Detailed research will be conducted when web search functionality becomes available.*

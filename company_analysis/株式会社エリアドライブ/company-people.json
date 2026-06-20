@@ -1,6 +1,10 @@
 {
-  "company_name": "株式会社エリアドライブ",
-  "english_name": "Area Drive Co., Ltd.",
-  "last_updated": "2026-05-24",
-  "people": []
+  "company": {
+    "name_jp": "株式会社エリアドライブ",
+    "name_en": "Area Drive Corporation",
+    "website": "http://www.areadrive.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-05-27"
 }
