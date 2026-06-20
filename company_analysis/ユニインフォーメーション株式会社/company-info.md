@@ -1,54 +1,99 @@
-# ユニインフォーメーション株式会社 ()
+# ユニインフォーメーション株式会社 (Uninformation Co., Ltd.)
 
 ## Company Overview
 
-ユニインフォーメーション株式会社 is a Japanese IT company operating in the Kanagawa/Tokyo metropolitan area. The company is registered as a member of the Kanagawa IT Industry Association (神奈川県情報サービス産業協会, KIA), which represents information technology businesses in Kanagawa Prefecture. KIA member companies span a wide range of IT services including custom software development, embedded systems engineering, system engineering services (SES), network infrastructure, and IT consulting.
+ユニインフォーメーション株式会社は、1982年9月に設立されたシステム開発会社です。ソフトウェア開発、ソフトウェア保守（ベンダー）、ソフトウェアパッケージの販売、スタッフフィリング、ネットワーク構築・運用・保守、運用サービスなどのITサービスを提供しています。ISMS認証（IS 650327/ISO 27001）およびプライバシーマーク認証（10821279(10)）を取得済みです。
 
-**Website:** ** Unknown
+東京都世田谷区に本社を置き、横浜本社、掛川営業所、磐田営業所、名古屋営業所、東北営業所などの拠点を全国展開しています。
+
+**Website:** https://www.uni-info.co.jp/
+
+## History
+
+- **1982年9月** — ユニインフォーメーション株式会社設立
+- **2006年5月23日** — プライバシーマーク認証取得
+- **2016年8月17日** — ISMS（ISO 27001）認証取得
+- **2025年6月** — 本社を横浜から東京都世田谷区へ移転
+- **2025年8月17日** — ISMS認証更新
 
 ## Headquarters & Offices
 
-| Type | Address |
+| Location | Address |
+|----------|---------|
+| **Headquarters** | 〒144-0052 東京都世田谷区世田谷5-28-4 駒沢27号館7F |
+| **Phone** | 03-3735-3933 |
+| **Fax** | 03-3735-3503 |
+| **Email** | director@uni-info.co.jp |
+
+## Capital & Employees
+
+| Item | Details |
 |------|---------|
-| **Headquarters** | Kanagawa/Tokyo metropolitan area, Japan |
+| **Capital** | 4,300万円 |
+| **Founded** | 昭和57年（1982年）9月 |
+| **Corporate Number** | 2010801012348 |
+| **Representative** | 田中 勝（代表取締役） |
 
-*Note: Specific address information should be verified from the company's official website or KIA member directory.*
+## Services/Products
 
-## Company Details
+### ソフトウェア開発・保守
+- 各種ソフトウェアの受託開発
+- ソフトウェアの保守（ベンダー）サービス
 
-| Field | Details |
-|-------|---------|
-| **KIA Membership** | Active member of Kanagawa IT Industry Association |
-| **Region** | Kanagawa Prefecture / Tokyo metropolitan area |
-| **Industry** | Information Technology Services |
+### スタッフフィリング
+- ITエンジニアの派遣・紹介
 
-## Business Description
+### ネットワーク・運用
+- ネットワーク構築・運用・保守
+- システム運用サービス
 
-ユニインフォーメーション株式会社 provides information technology services to clients in the Kanagawa and greater Tokyo area. As a KIA member, the company operates within the regional IT ecosystem, which includes collaboration with other member companies, participation in industry events, and access to Kanagawa Prefecture's IT promotion programs.
+### 関連会社
+- ワイズラボシステムズ株式会社
+- システム・エンド・ディベロップメント株式会社
+- 株式会社中継
 
-The Kanagawa IT Industry Association (KIA) was established to promote the information service industry in Kanagawa Prefecture. Member companies benefit from networking opportunities, industry-government collaboration, recruitment support, and business matching services. The KIA region encompasses major IT hubs including Yokohama (Minatomirai, Shin-Yokohama, Kannai), Kawasaki, and other cities in Kanagawa Prefecture.
+## Major Clients
 
-## Key Characteristics
+- BIPROGY株式会社（旧日本ユニシス）
+- ユニアデックス 株式会社
+- 東京情報通信ソフトウェア株式会社
+- 富士通ハイパーソフトウェア株式会社
+- NECプラットフォームズ株式会社
+- NTTTPCコミュニケーション株式会社
 
-- **KIA member** — Registered with the Kanagawa IT Industry Association, indicating active participation in the regional IT industry community
-- **Kanagawa-based** — Operating in one of Japan's largest IT industry concentrations outside of Tokyo
-- **Industry ecosystem** — Part of a network of 300+ IT companies in the Kanagawa region
+## Certifications
 
-## Media Mentions
+- ISMS（ISO 27001）認証取得 — 認証番号: IS 650327（2016年8月17日取得）
+- プライバシーマーク認証 — 登録番号: 10821279(10)（2006年5月23日登録）
+- 労働者派遣事業許可 — 派13-301128
 
-- No significant independent media coverage identified in public sources
-- Company may be listed in KIA publications, member directories, or industry event materials
+## Philosophy
+
+「情報の力は、多くの課題に大きく影響を与えている。そのリスクは地球温暖化に似ている。」
+
+「人間力を磨くことで、技術力は高まり、人間力を磨くことで、人間力が磨かれる。」
+
+「人間力を磨くことで新たなイノベーションが生み出されているのではないか。」
+
+## Memberships
+
+- 神奈川IT産業協会（KIA）会員
 
 ## Notes
 
-- This company profile was created as part of the KIA Company Analysis project
-- The company folder name in the repository is: `ユニインフォーメーション株式会社`
-- For more detailed information, consult the company's official website or the KIA member directory at https://www.kia.or.jp
-- This profile serves as a placeholder with KIA membership context; further research from the company's actual website is recommended for complete business analysis including financial data, leadership, specific products/services, and client references
-
+- 40年以上の歴史を持つ老舗IT企業（1982年設立）
+- ISMS・プライバシーマークの両認証を取得
+- 全国5拠点（東京・横浜・掛川・磐田・名古屋・東北）を展開
+- 採用用Twitter/Xアカウント: @uni_recruit1982
+- KIA会員企業
 
 ## Company Mentions
 
-- **[KIA]** — 2026-05-08 — 神奈川県情報サービス産業協会会員情報 ([https://www.kia.or.jp](https://www.kia.or.jp))
-- **[SalesNow]** — 2026-05-08 — ユニインフォーメーション株式会社企業情報 ([https://salesnow.jp](https://salesnow.jp))
-- **[法人番号検索]** — 2026-05-08 — 法人情報 ([https://houjin.goo.to](https://houjin.goo.to))
+- **[公式サイト]** — 2026-06-20 — ユニインフォーメーション株式会社会社概要 ([https://www.uni-info.co.jp/company/outline.html](https://www.uni-info.co.jp/company/outline.html))
+- **[公式Twitter]** — 2026-04-01 — 採用アカウント開設 ([https://x.com/uni_recruit1982](https://x.com/uni_recruit1982))
+- **[KIA]** — 2026-05-08 — 神奈川県情報サービス産業協会会員 ([https://www.kia.or.jp](https://www.kia.or.jp))
+- **[東京労働局]** — 2026-06-05 — 新卒合同説明会出展 ([https://jsite.mhlw.go.jp/tokyo-roudoukyoku/news_topics/event/080526sinsotu.html](https://jsite.mhlw.go.jp/tokyo-roudoukyoku/news_topics/event/080526sinsotu.html))
+
+---
+*Report generated: 2026-06-20*
+*Data source: Official website (uni-info.co.jp)*

@@ -46,6 +46,14 @@
       "email": ""
     }
   ],
-  "social_profiles": [],
-  "last_updated": "2026-05-09"
+  "social_profiles": [
+    {
+      "name": "ユニインフォーメーション株式会社",
+      "type": "corporate",
+      "twitter": "https://x.com/uni_recruit1982",
+      "linkedin": null
+    }
+  ],
+  "last_updated": "2026-06-20",
+  "data_source": "official_website"
 }

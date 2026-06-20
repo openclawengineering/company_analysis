@@ -7,11 +7,17 @@
     "people": [
         {
             "name": "星川 愛華",
+            "name_ja": "星川 愛華",
             "title": "代表取締役",
+            "title_ja": "代表取締役",
+            "linkedin": null,
+            "twitter": null,
             "department": "",
-            "email": ""
+            "email": "info@motomi.co.jp"
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-08"
+    "last_updated": "2026-06-20",
+    "data_source": "official_website",
+    "notes": "Website only has index.html active. Social profiles for representative not found."
 }

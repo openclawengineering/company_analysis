@@ -6,7 +6,7 @@
 
 最先端技術に精通した多くの技術者が蓄積した経験と知識で、顧客のニーズを先取りして実現するとともに、中堅・若手の技術力・情報セキュリティの向上に努めている。
 
-**Website:** http://www.motomi.co.jp ⚠️（ドメイン期限切れ — GMOパーキングページ表示中）
+**Website:** http://www.motomi.co.jp ⚠️（ index.htmlのみ稼働、他ページは404）
 
 ## History
 
@@ -16,13 +16,22 @@
 - 海外展開も開始
 - **2023年1月** — 住所移転（横浜市内）
 
+## Headquarters & Offices
+
+| Location | Address |
+|----------|---------|
+| **Headquarters** | 〒231-0002 神奈川県横浜市中区海岸通4-17 東信ビル6F |
+| **Phone** | 045-212-2235 |
+| **Fax** | 045-212-2235 |
+| **Email** | info@motomi.co.jp |
+| **Corporate Number** | 3020001053736 |
+
 ## Capital & Employees
 
 | Field | Value |
 |-------|-------|
 | Founded | 2005年12月 |
 | Headquarters | 神奈川県横浜市中区海岸通4-17 東信ビル6F |
-| Corporate Number | 3020001053736 |
 
 ## Services/Products
 
@@ -41,6 +50,11 @@
 - DNA解析システムの研究開発
 - 大規模塩基配列解析
 
+## Group Companies
+
+- 株式会社システムクリエーション (http://www.system-creation.com)
+- ハルソフトウェア株式会社
+
 ## Clients
 
 - 研究機関（バイオインフォマティクス）
@@ -53,24 +67,26 @@
 - 最先端技術の追求
 - 中堅・若手の技術力向上
 
-## Media Mentions
+## Memberships
 
-- [モトミ公式サイト（キャッシュ）](http://www.motomi.co.jp) — ⚠️ ドメイン期限切れ
-- [SalesNow](https://salesnow.jp/db/companies/jcbnt490j7u9wg6s) — 会社概要
-- [BaseConnect](https://baseconnect.in/companies/89dd4e86-ae9e-472a-b290-e69522d3d05a) — 企業情報
-- [全国法人検索](https://houjin.goo.to/corporations/3020001053736) — 法人情報
+- 神奈川IT産業協会（KIA）会員
 
 ## Notes
 
 - KIA（神奈川IT協会）会員
-- ⚠️ 公式ウェブサイト（motomi.co.jp）ドメイン期限切れ
+- 公式ウェブサイトは index.html のみ稼働
 - バイオインフォマティクス分野に強み（DNA解析、塩基配列解析）
 - 非常にユニークな事業展開 — IT＋バイオの融合
 - インボイス登録済み
-
+- グループ会社：株式会社システムクリエーション、ハルソフトウェア株式会社
 
 ## Company Mentions
 
 - **[SalesNow]** — 2026-05-06 — モトミ株式会社企業情報 ([https://salesnow.jp/db/companies/jcbnt490j7u9wg6s](https://salesnow.jp/db/companies/jcbnt490j7u9wg6s))
 - **[BaseConnect]** — 2026-05-06 — モトミ株式会社企業データ ([https://baseconnect.in/companies/89dd4e86-ae9e-472a-b290-e69522d3d05a](https://baseconnect.in/companies/89dd4e86-ae9e-472a-b290-e69522d3d05a))
 - **[全国法人検索]** — 2026-05-06 — 法人情報 ([https://houjin.goo.to/corporations/3020001053736](https://houjin.goo.to/corporations/3020001053736))
+- **[公式サイト]** — 2026-06-20 — モトミ株式会社トップページ ([http://www.motomi.co.jp/](http://www.motomi.co.jp/))
+
+---
+*Report generated: 2026-06-20*
+*Data source: Official website, SalesNow, BaseConnect, 全国法人検索*

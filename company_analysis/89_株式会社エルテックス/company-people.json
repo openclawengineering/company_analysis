@@ -1,0 +1,12 @@
+{
+    "company": {
+        "name_jp": "株式会社エルテックス",
+        "name_en": "Eltex Corporation",
+        "website": "https://www.eltex.co.jp/"
+    },
+    "people": [],
+    "social_profiles": [],
+    "last_updated": "2026-06-20",
+    "data_source": "kia_member_list",
+    "notes": "Representative information not yet researched. Website is SPA (JavaScript-rendered), content not extractable via web_fetch."
+}
