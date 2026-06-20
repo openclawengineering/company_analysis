@@ -26,7 +26,15 @@
             "email": "ad-plan@bell.ocn.ne.jp"
         }
     ],
-    "social_profiles": [],
-    "last_updated": "2026-04-30",
-    "notes": "有限会社。福岡市中央区薬院に所在。平成7年（1995年）2月設立。土木設計（下水道・上水道・農業土木）が主事業。代表者：栗山浩。九州各県～関東まで業務範囲。KIA会員ではない可能性あり（福岡拠点）。"
+    "social_profiles": [
+        {
+            "name": "栗山浩",
+            "title": "代表者",
+            "linkedin": "https://jp.linkedin.com/in/%E8%B1%AA%E5%85%AB-%E6%A0%97%E5%B",
+            "twitter": null
+        }
+    ],
+    "last_updated": "2026-06-20",
+    "data_source": "official_website_linkedin",
+    "notes": "有限会社。福岡市中央区薬院に所在。平成7年（1995年）2月設立。土木設計（下水道・上水道・農業土木）が主事業。代表者：栗山浩。九州各県～関東まで業務範囲。"
 }

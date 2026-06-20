@@ -2,16 +2,28 @@
     "company": {
         "name_jp": "ロケットソフトウェアジャパン株式会社",
         "name_en": "Rocket Software Japan Co., Ltd.",
-        "website": "https://www.rocketsoftware.com/"
+        "website": "https://www.rocketsoftware.com/",
+        "japan_entity": {
+            "name": "AMC ソフトウェアジャパン合同会社",
+            "name_en": "AMC Software Japan LLC",
+            "website": "https://www.amc.rocketsoftware.co.jp/",
+            "founded": "1984-12-01"
+        }
     },
     "people": [
         {
-            "name": "代表取締役",
-            "title": "CEO",
+            "name": "大野 洋一",
+            "name_ja": "大野 洋一",
+            "title": "職務執行者",
+            "title_ja": "職務執行者",
+            "linkedin": null,
+            "twitter": null,
             "department": "",
             "email": ""
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-08"
+    "last_updated": "2026-06-20",
+    "data_source": "amc_software_japan_website",
+    "notes": "Japan operations through AMC Software Japan LLC (formerly Micro Focus Japan). Representative is 大野 洋一. LinkedIn/Twitter profiles not found."
 }

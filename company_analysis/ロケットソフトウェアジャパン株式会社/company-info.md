@@ -2,101 +2,106 @@
 
 ## Company Overview
 
-Rocket Software Japan Co., Ltd. is the Japanese subsidiary of Rocket Software, a global enterprise software company founded in 1990. Headquartered in Minatomirai, Yokohama, the company provides 100+ software products spanning business intelligence, storage, networking, compliance, application development, integration, modernization, and database solutions. The parent company serves 10+ million IT professionals worldwide with approximately 1,400 employees globally.
+Rocket Software Japan Co., Ltd. is the Japanese subsidiary of Rocket Software, a global enterprise software company founded in 1990. The Japanese operations are primarily conducted through AMC Software Japan LLC (AMC ソフトウェアジャパン合同会社), headquartered in Tokyo Midtown Tower, Minato-ku, Tokyo. The company provides COBOL development tools, enterprise modernization solutions, CORBA distributed processing infrastructure, and 100+ software products spanning business intelligence, storage, networking, compliance, application development, integration, and database solutions.
 
-Rocket Software partners with IBM, EMC, Fujitsu, Hitachi Data Systems, Avaya, Epicor, and Infor, with R&D centers across the US, UK, Germany, Russia, Australia, China, and Japan.
+The parent company Rocket Software serves 10+ million IT professionals worldwide with approximately 1,400 employees globally.
 
 **Website:** https://www.rocketsoftware.com/
+**Japan Entity:** https://www.amc.rocketsoftware.co.jp/
 
 ## History
 
-- **1990** - Rocket Software founded in the United States
-- **2000s** - Extensive acquisition-driven growth (multiple companies acquired)
-- **Present** - Global operations with 1,400 employees
+- **1984年12月** — マイクロ・フォーカス・ジャパン株式会社設立（日本におけるCOBOL事業開始）
+- **1996年2月** — インターソルブ株式会社設立
+- **1999年2月** — メラント・ソリューションズ株式会社に社名変更
+- **2001年9月** — マイクロフォーカス株式会社に社名変更
+- **2009年8月** — ボーランド社 CORBA事業買収
+- **2012年12月** — プログレス社 CORBA事業買収
+- **2018年11月** — マイクロフォーカス合同会社に組織変更
+- **2024年5月** — ロケットソフトウェア社による AMC（COBOL・CORBA）事業の買収完了
+- **2025年4月** — AMCソフトウェアジャパン合同会社に社名変更
 
 ## Headquarters & Offices
 
 | Location | Address |
 |----------|---------|
-| **Japan HQ** | 3-6-3 Minatomirai, Nishi-ku, Yokohama, Kanagawa |
-| **Access** | 1-min walk from Minatomirai Station Exit 2 |
-| **AMC Software Japan LLC** | Shibuya, Tokyo (COBOL/CORBA business unit) |
+| **AMC Software Japan LLC** | 〒107-6219 東京都港区赤坂9-7-1 ミッドタウン・タワー19階 |
+| **Access** | 都営大江戸線六本木駅8番出口直結、東京メトロ日比谷線六本木駅地下通路直結 |
 
 ## Capital & Employees
 
 | Item | Details |
 |------|---------|
+| **Japan Entity** | AMC ソフトウェアジャパン合同会社 |
+| **Founded** | 1984年12月1日 |
+| **Representative** | 大野 洋一（職務執行者） |
 | **Global Employees** | 1,400 |
 | **Products** | 100+ |
 
 ## Products & Services
 
-### Archive & Backup Management
-- **Rocket Archive** - Enterprise archive and backup solutions
+### COBOL Products
+- **Rocket Visual COBOL** — COBOL開発環境
+- **Rocket Net Express** — Windows用COBOL開発
+- **Rocket Server Express** — UNIX/Linux用COBOL開発
+- **COBOL Server** — COBOL実行環境
 
-### Database & Application Servers
-- **Rocket D3** - Multi-value database (Pick OS origins)
-- **Rocket UniVerse / UniData (U2)** - Multi-value databases (acquired from IBM)
+### Enterprise Products
+- **Rocket Enterprise Developer** — エンタープライズ開発環境
+- **Rocket Enterprise Server** — エンタープライズ実行環境
+- **Rocket Enterprise Analyzer** — アプリケーション解析
 
-### Content & Search
-- **Rocket NXT** - Content creation, storage, security, and delivery with high-speed search (acquired from Microsoft)
-
-### Business Intelligence & Analytics
-- **Rocket Discover** - Self-service analytics for business analysts (announced 2015)
-- **Rocket AS** - Reporting for IBM DB2 and VSAM
+### Distributed Processing (CORBA)
+- **Rocket VisiBroker** — CORBA ORB
+- **Rocket Orbix** — CORBA ORB
 
 ### Modernization
-- **Rocket LegaSuite** - Modernizes 3270 and 5250 screen-based applications to HTML5
+- **Rocket LegaSuite** — 3270/5250画面アプリのHTML5モダナイゼーション
 
-### COBOL Solutions (via AMC Software Japan)
-- COBOL-related products with 40+ years of industry-standard track record
-- Software quality management and development support tools
-- Testing tools for efficient development
+### Archive & Backup
+- **Rocket Archive** — エンタープライズアーカイブ・バックアップソリューション
 
-### z Systems Management
-- **Rocket Mainstar** - IBM z Systems system management products (acquired from Mainstar Software)
+### Database & Application Servers
+- **Rocket D3** — マルチバリューデータベース
+- **Rocket UniVerse / UniData (U2)** — マルチバリューデータベース
+
+### Content & Search
+- **Rocket NXT** — コンテンツ管理・高速検索
 
 ## Key Partners
 
 - IBM
 - EMC
-- Fujitsu (US, Australia)
-- Hitachi Data Systems (US)
+- Fujitsu
+- Hitachi Data Systems
 - Avaya
 - Epicor
 - Infor
 
-## Philosophy
+## Certifications & Philosophy
 
-Rocket Software is also known as a company that loves music — musical instruments are part of its corporate culture.
+Rocket Software is known as a company that loves music — musical instruments are part of its corporate culture.
 
-## Media Mentions
+## Memberships
 
-- [Wikipedia](https://ja.wikipedia.org/) - Comprehensive company overview
-- [Hatarakigai](https://hatarakigai.info/) - "Founded 1990, serving 10M+ IT professionals"
-- [AMC Software Japan](https://www.amc.rocketsoftware.co.jp/) - COBOL solutions for Japanese market
-- [doda](https://doda.jp/) - Mid-career recruitment
-- [Nikkei Compass](https://www.nikkei.com/compass/) - Corporate credit information
+- 神奈川IT産業協会（KIA）会員
 
 ## Notes
 
-- Japanese subsidiary of major US enterprise software company
-- 35+ years of global operations since 1990
-- Extensive acquisition history (100+ products)
-- Major IBM ecosystem partner
-- Unique corporate culture emphasizing music alongside technology
-- KIA member company
-- AMC Software Japan LLC handles COBOL/CORBA business in Japan
-
+- 米国ロケットソフトウェアの日本法人（AMC ソフトウェアジャパン合同会社）
+- 40年以上の歴史（1984年日本法人設立）
+- COBOL・CORBA分野で40年以上の業界実績
+- 東京ミッドタウン・タワーにオフィス
+- 2024年にロケットソフトウェアによる買収完了、2025年に社名変更
+- KIA会員企業
 
 ## Company Mentions
 
-- **[Wikipedia]** — 2026-05-08 — ロケットソフトウェアジャパン株式会社概要 ([https://ja.wikipedia.org/wiki/ロケット・ソフトウェア](https://ja.wikipedia.org/wiki/ロケット・ソフトウェア))
+- **[AMC Software Japan]** — 2026-06-20 — AMCソフトウェアジャパン合同会社 会社概要 ([https://www.amc.rocketsoftware.co.jp/about/company/](https://www.amc.rocketsoftware.co.jp/about/company/))
+- **[Wikipedia]** — 2026-05-08 — ロケット・ソフトウェア概要 ([https://ja.wikipedia.org/wiki/ロケット・ソフトウェア](https://ja.wikipedia.org/wiki/ロケット・ソフトウェア))
 - **[Hatarakigai]** — 2026-05-08 — IT企業情報 ([https://hatarakigai.info/rocket-software](https://hatarakigai.info/rocket-software))
-- **[AMC Software Japan]** — 2026-05-08 — 日本法人情報 ([https://www.amc.rocketsoftware.co.jp](https://www.amc.rocketsoftware.co.jp))
 - **[doda]** — 2026-05-08 — 採用情報 ([https://doda.jp](https://doda.jp))
-- **[Nikkei Compass]** — 2026-05-08 — 企業信用情報 ([https://www.nikkei.com/compass](https://www.nikkei.com/compass))
 
 ---
-
-*Report generated: April 2026*
+*Report generated: 2026-06-20*
+*Data source: AMC Software Japan official website, Wikipedia*
