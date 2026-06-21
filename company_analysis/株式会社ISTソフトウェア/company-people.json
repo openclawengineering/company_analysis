@@ -2,8 +2,8 @@
   "company_name": "株式会社ISTソフトウェア",
   "english_name": "IST Software Corporation",
   "research_status": "RESEARCH PENDING",
-  "research_date": "2026-05-24",
-  "batch": "Batch 9 (Companies 84-93)",
+  "research_date": "2026-06-21",
+  "batch": "Batch 1 (Companies 1-10)",
   "limitations": {
     "web_search_disabled": "MiniMax API key not configured - Cannot search for executive information",
     "website_access_issues": "Company websites may not be accessible without proper authentication",

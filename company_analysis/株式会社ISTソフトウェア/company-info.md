@@ -3,9 +3,9 @@
 ## Company Overview
 - **Company Name**: 株式会社ISTソフトウェア
 - **English Name**: IST Software Corporation
-- **Status**: RESEARCH PENDING - Detailed information unavailable due to current limitations
-- **Research Date**: 2026-05-24
-- **Batch**: Batch 9 (Companies 84-93)
+- **Status**: RESEARCH PENDING - Awaiting restored web search functionality
+- **Research Date**: 2026-06-21
+- **Batch**: Batch 1 (Companies 1-10)
 
 ## Research Limitations
 **IMPORTANT**: This is a placeholder file created due to current research limitations:
