@@ -61,3 +61,7 @@ The company serves:
 
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.codedynamix.com)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

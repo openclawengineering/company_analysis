@@ -34,17 +34,12 @@
 
 ## 研究状況
 
-**Current Limitations**: 
-- Web search functionality is currently disabled due to MiniMax API key configuration issues
-- Direct website access may be limited
-- Cannot perform detailed company research at this time
+## Company Mentions
 
-**Next Steps**:
-- Wait for web search functionality restoration
-- Research company details from official website
-- Search for company mentions in news and media
-- Research employee profiles for LinkedIn and Twitter links
+- **[公式サイト]** — 2026-06-20 — 株式会社エルエスアイ開発研究所 ([http://lsi-dev.co.jp/](http://lsi-dev.co.jp/))
+- **[LinkedIn]** — 2026-06-20 — 代表取締役社長 山村典久 LinkedInプロフィール ([https://jp.linkedin.com/in/norihisa-yamamura-b4691144](https://jp.linkedin.com/in/norihisa-yamamura-b4691144))
+- **[KIA]** — 2026-05-27 — 神奈川県情報サービス産業協会会員 ([https://www.kia.or.jp](https://www.kia.or.jp))
 
 ---
-
-*This is a placeholder file. Detailed research will be conducted when web search functionality becomes available.*
+*Report generated: 2026-06-20*
+*Data source: Official website, LinkedIn research*

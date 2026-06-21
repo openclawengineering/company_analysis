@@ -231,3 +231,7 @@ The company positions itself as a trusted infrastructure partner, particularly f
 
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.ncj.co.jp/)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

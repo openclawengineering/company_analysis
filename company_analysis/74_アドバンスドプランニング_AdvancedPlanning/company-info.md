@@ -52,16 +52,16 @@
 2. 常にまごころを持った誠実な対応を心がける人づくり
 3. 常に切磋琢磨し技術力を向上させ責任を持って取り組む
 
-## Company Mentions
-
-*Note: Company mentions research was limited due to API access restrictions. Additional mentions may be available with full web search capabilities.*
-
 ## Representative Information
 
 ### 代表取締役 (Representative Director)
 - **Name**: 栗山浩 (Kuriyama Hiroshi)
 - **Contact**: 栗山浩 (採用担当：安河内 - Recruitment: Yasakouchi)
 - **Philosophy**: Focus on "always doing the best, creating trusted excellent design, sincere human development, and continuous technical improvement"
+
+## Company Mentions
+
+*Note: Company mentions research was limited due to API access restrictions. Additional mentions may be available with full web search capabilities.*
 
 ## Media Mentions
 

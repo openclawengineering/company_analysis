@@ -33,17 +33,12 @@
 
 ## 研究状況
 
-**Current Limitations**: 
-- Web search functionality is currently disabled due to MiniMax API key configuration issues
-- Direct website access may be limited
-- Cannot perform detailed company research at this time
+## Company Mentions
 
-**Next Steps**:
-- Wait for web search functionality restoration
-- Research company details from official website
-- Search for company mentions in news and media
-- Research employee profiles for LinkedIn and Twitter links
+- **[公式サイト]** — 2026-06-20 — エルテックス ([https://www.eltex.co.jp/](https://www.eltex.co.jp/))
+- **[KIA]** — 2026-05-27 — 神奈川県情報サービス産業協会会員 ([https://www.kia.or.jp](https://www.kia.or.jp))
 
 ---
-
-*This is a placeholder file. Detailed research will be conducted when web search functionality becomes available.*
+*Report generated: 2026-06-20*
+*Data source: KIA member list, official website (limited - SPA)*
+*Note: Representative info requires browser-based research*

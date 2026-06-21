@@ -27,3 +27,7 @@
 ---
 *Report generated: 2026-04-23*
 *Note: Limited data due to current access restrictions. Full research requires web access.*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

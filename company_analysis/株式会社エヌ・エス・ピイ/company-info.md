@@ -149,3 +149,7 @@ The company positions itself as a versatile IT partner that can handle various c
 
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.nspweb.jp/)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

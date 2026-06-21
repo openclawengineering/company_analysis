@@ -48,3 +48,7 @@ The company serves:
 
 *Report generated: May 6, 2026*
 *Data sources: Official company website (http://www.neo.co.jp/)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

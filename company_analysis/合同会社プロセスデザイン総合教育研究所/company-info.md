@@ -54,3 +54,7 @@ The company serves:
 
 *Report generated: May 6, 2026*
 *Data sources: Official website (https://pdli-web.jimdosite.com/)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

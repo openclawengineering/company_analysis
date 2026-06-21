@@ -104,3 +104,6 @@
 *Report generated: 2026-04-27*
 *Research quality: Low - basic information only, requires additional research*
 *Website status: Inaccessible - additional verification needed*
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

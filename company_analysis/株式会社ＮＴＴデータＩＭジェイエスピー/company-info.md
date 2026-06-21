@@ -21,3 +21,6 @@
 ---
 
 *このファイルはWeb検索機能が復旧されるまでプレースホルダーとして機能します。詳細な会社情報と関連データは後日追記されます。*
+## Company Mentions
+
+_No company mentions found yet. This section will be updated when research data becomes available._

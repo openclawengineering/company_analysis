@@ -45,3 +45,6 @@
 ---
 
 *This is a placeholder file. Detailed research will be conducted when web search functionality becomes available.*
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

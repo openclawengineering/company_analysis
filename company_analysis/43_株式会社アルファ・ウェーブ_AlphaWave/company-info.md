@@ -36,3 +36,6 @@ When full research capabilities are restored, this file will include:
 ---
 
 *This file was created as part of automated company research. Last updated: 2026-05-16*
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

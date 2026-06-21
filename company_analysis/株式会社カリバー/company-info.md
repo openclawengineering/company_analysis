@@ -1,51 +1,24 @@
-# 株式会社カリバー (Caliber Corporation)
+# 株式会社カリバー
 
 ## Basic Information
-- **Company Name**: 株式会社カリバー (Caliber Corporation)
-- **English Name**: Caliber Corporation
+- **Company Name**: 株式会社カリバー (Calibur Corporation)
+- **English Name**: Calibur Corporation
 - **Company Type**: Corporation
-- **Industry**: IT Services & Business Solutions
-- **Research Status**: ⚠️ PENDING - Limited by web search functionality
+- **Industry**: IT Services
+- **Research Status**: ⚠️ Limited - Website returned minimal content
 
-## Research Limitations
-**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
+## Company Information
+**Address**: 231-0033 横浜市中区長者町5-85 三井横浜ビル14F
+**Website**: https://www.calibur.co.jp/
 
-### Available Information
-- Company name and basic structure confirmed
-- Directory established for future research
-- Files prepared for when web search becomes available
-
-### Research Gap
-- ❌ Cannot access company website for official information
-- ❌ Limited ability to search for company news or updates
-- ❅ Unable to verify current business focus and services
-- ❅ Cannot research company history or founding details
-- ❅ No access to company size or employee count data
-
-## Company Structure
-**Directory**: `/company_analysis/株式会社カリバー/`
-
-**Files Created**:
-- ✅ company-info.md (this file)
-- ✅ company-people.json (placeholder)
-
-## Contact Information
-**Status**: Contact details unavailable due to web search limitations
-
-## Business Focus
-**Status**: Business focus and services details unavailable
+### Research Limitations
+- Website returned minimal content (only company name)
+- Web search functionality is disabled due to missing API key
+- Unable to retrieve company details, business focus, or personnel information
 
 ## Company Mentions
-**Status**: News and mentions research pending web search functionality
-
-## Next Steps
-Await restoration of web search functionality to conduct comprehensive research including:
-- Official company website analysis
-- Business service identification
-- Company history and background research
-- Current status and growth indicators
-- Industry positioning and competitive analysis
+*Note: Web search functionality is currently disabled. No company mentions found from available sources.*
 
 ---
-*Research completed: May 27, 2026*
-*Status: Placeholder files created - Full research pending web search restoration*
+*Research completed: June 20, 2026*
+*Status: Limited information available - Website has minimal content, web search disabled*

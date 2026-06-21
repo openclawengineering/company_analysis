@@ -54,3 +54,6 @@ This file should be updated when web search functionality is restored with accur
 **Status**: Placeholder created - Awaiting web search functionality restoration
 **Last Updated**: 2026-05-24
 **Next Action**: Research company details when web search becomes available
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

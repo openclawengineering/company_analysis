@@ -1,22 +1,99 @@
 {
-  "company_name": "株式会社エーアイネット・テクノロジ",
-  "english_name": "AI Net Technology Corporation",
-  "research_status": "limited",
-  "last_researched": "2026-05-27",
-  "limitations": {
-    "web_search_disabled": true,
-    "mini_max_api_key_missing": true,
-    "website_access_limited": true
+  "company": {
+    "name_jp": "株式会社エーアイネット・テクノロジ",
+    "name_en": "AI Net Technology Corporation",
+    "website": "https://www.a-inet.jp/"
   },
-  "people_identified": [],
-  "leadership_team": [],
-  "key_personnel": [],
-  "technical_staff": [],
-  "contact_persons": [],
-  "notes": [
-    "Company research limited due to web search functionality restrictions",
-    "Leadership team information unavailable without web access",
-    "Technical staff details pending web search restoration",
-    "Contact persons cannot be identified without official sources"
-  ]
+  "people": [
+    {
+      "name": "中山 泰秀",
+      "title": "会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "永原 隆吏",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "樫野 泰司",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "川口 裕之",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山田 昭彦",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "菅原 仁志",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中曽 寛",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小川 周三",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田辺 恵美子",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "川島 祐治",
+      "title": "特別顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "坂井 満",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-20"
 }

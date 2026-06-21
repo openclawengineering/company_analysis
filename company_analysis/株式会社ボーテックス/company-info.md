@@ -188,3 +188,7 @@ The company positions itself as a trusted IT partner capable of handling diverse
 
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.vtx.co.jp/)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_

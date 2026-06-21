@@ -134,3 +134,7 @@ The company positions itself as a trusted "best partner" for organizations requi
 
 *Report generated: May 6, 2026*
 *Data sources: Official company website (https://www.nds.co.jp/)*
+
+## Company Mentions
+
+_外部のプレスリリースやメディア掲載は現在確認できていません。_
