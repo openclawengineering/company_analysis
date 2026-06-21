@@ -1,51 +1,64 @@
-# 株式会社クロスユーアイエス_東京支社_CrossUISTokyo
+# 株式会社クロスユーアイエス (CROSS UIS Co., Ltd.)
 
-## Basic Information
-- **Company Name**: 株式会社クロスユーアイエス_東京支社 (CrossUIS Tokyo Branch)
-- **English Name**: CrossUIS Corporation Tokyo Branch
-- **Company Type**: Corporation (Branch Office)
-- **Industry**: IT Services & User Interface Solutions
-- **Research Status**: ⚠️ PENDING - Limited by web search functionality
+## 会社概要
 
-## Research Limitations
-**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
+| Field | Details |
+|-------|---------|
+| **社名** | 株式会社クロスユーアイエス (CROSS UIS Co., Ltd.) |
+| **設立** | 1987年（昭和62年）1月7日 |
+| **資本金** | 1億円 |
+| **従業員数** | 95名 (2026年4月現在) |
+| **代表者** | 代表取締役社長 神山 昌久 |
 
-### Available Information
-- Company name and basic structure confirmed
-- Directory established for future research
-- Files prepared for when web search becomes available
+## 所在地
 
-### Research Gap
-- ❌ Cannot access company website for official information
-- ❌ Limited ability to search for company news or updates
-- ❅ Unable to verify current business focus and services
-- ❅ Cannot research company history or founding details
-- ❅ No access to company size or employee count data
+| Type | Address |
+|------|---------|
+| **大阪本社** | 〒542-0081 大阪市中央区南船場4-2-4 日本生命御堂筋ビル (TEL 06-4708-7111) |
+| **中部支社** | 〒460-0008 名古屋市中区栄5-26-39 GS栄ビル (TEL 050-3821-7610) |
+| **東京支社** | 〒108-0075 東京都港区港南1-2-70 品川シーズンテラス20F |
 
-## Company Structure
-**Directory**: `/company_analysis/株式会社クロスユーアイエス_東京支社_CrossUISTokyo/`
+## 事業内容
 
-**Files Created**:
-- ✅ company-info.md (this file)
-- ✅ company-people.json (placeholder)
+- コンピュータ及び通信機器を利用した情報処理サービス並びにシステム開発の受託
+- FAシステムの受託開発
+- 汎用ソフトウェアパッケージの開発及び販売
+- コンピュータ及び通信機器の利用技術に関する教育並びにコンサルティング業務
+- ソフトウェア開発に関する技術役務提供
+- 情報処理機器及び関連製品の販売並びに賃貸
 
-## Contact Information
-**Status**: Contact details unavailable due to web search limitations
+## 認証
 
-## Business Focus
-**Status**: Business focus and services details unavailable
+- ISO/IEC 27001:2022 (ISMS)
+- ISO 9001:2015 (QMS)
+
+## 沿革
+
+| Date | Event |
+|------|-------|
+| 1987年1月 | ユニチカ情報システム株式会社設立（資本金1,000万円） |
+| 1989年2月 | 資本金を4,000万円に増資 |
+| 1991年2月 | 「システムインテグレータ企業」として通商産業省から認定 |
+| 2002年10月 | ユニチカ向けシステム部門を会社分割しユニチカビジネスサービス株式会社に移管 |
+| 2003年4月 | ユニチカテクノスタフ株式会社を吸収合併 |
+| 2003年7月 | 資本金を1億円に増資 |
+| 2006年4月 | 中部支社開設 |
+| 2009年6月 | ISO/IEC 27001:2005認証登録 |
+| 2015年6月 | 社名を株式会社クロスユーアイエスに変更 |
+| 2017年1月 | 創立30周年 |
+
+## 関連会社
+
+- 株式会社クロスキャット (https://www.xcat.co.jp/)
+- 株式会社クロスアクティブ (https://www.xactive.co.jp/)
+- 株式会社クロスリード (https://www.xlead.co.jp/)
+
+## 経営理念
+
+- 「挑戦と創造」「お客様第一」を基本理念とする
+- 勇気を持って新しい分野の技術、市場、顧客を拓く
+- 日常、お客様第一の考えで行動する
 
 ## Company Mentions
-**Status**: News and mentions research pending web search functionality
 
-## Next Steps
-Await restoration of web search functionality to conduct comprehensive research including:
-- Official company website analysis
-- Business service identification
-- Company history and background research
-- Current status and growth indicators
-- Industry positioning and competitive analysis
-
----
-*Research completed: May 27, 2026*
-*Status: Placeholder files created - Full research pending web search restoration*
+_No external news found on company website._

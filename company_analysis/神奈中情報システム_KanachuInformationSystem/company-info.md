@@ -74,4 +74,5 @@
 
 ## Company Mentions
 
-_No external press coverage or media mentions found at this time._
+- 2026年: 健康経営優良法人2026認定取得
+- 2026.03.10: 2027年3月卒採用募集開始

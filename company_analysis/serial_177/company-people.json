@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社第一コンピュータサービス",
+    "name_en": "Data Computer Service Co., Ltd. (DCS)",
+    "website": "https://www.dcs21.co.jp/"
+  },
+  "people": [
+    {
+      "name": "鮎沢 潤",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "増田 麻衣",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "永井 治司",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "細田 典義",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}

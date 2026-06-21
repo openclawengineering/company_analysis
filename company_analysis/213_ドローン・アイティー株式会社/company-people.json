@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "ドローン・アイティー株式会社",
+    "name_en": "Drone-IT Inc.",
+    "website": "https://www.drone-it.jp/"
+  },
+  "people": [
+    {
+      "name": "金子 信洋",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松本 隆裕",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}

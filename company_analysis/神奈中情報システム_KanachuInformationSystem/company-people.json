@@ -1,17 +1,43 @@
 {
     "company": {
         "name": "株式会社神奈中情報システム",
-        "name_en": "",
+        "name_en": "KANACHU INFORMATION SYSTEM Co.,Ltd.",
         "website": "https://www.kanachu-it.co.jp"
     },
     "people": [
         {
-            "name": "米山仁",
+            "name": "米山 仁",
             "title": "代表取締役社長",
-            "linkedin": "https://www.linkedin.com/in/michio-shirasaki-51985413b",
-            "twitter": null
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "市川 保広",
+            "title": "専務取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "大森 正章",
+            "title": "専務取締役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
+            "name": "早川 昌忠",
+            "title": "監査役",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    "social_profiles": [],
+    "last_updated": "2026-06-21"
 }

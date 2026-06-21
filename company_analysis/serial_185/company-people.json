@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "株式会社ディーインクリエイティブ",
+    "name_en": "DIN Creative Inc.",
+    "website": "https://www.d-in.jp/"
+  },
+  "people": [
+    {
+      "name": "山城 健",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "坪島 公生",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西江 浩一郎",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}

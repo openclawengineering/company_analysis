@@ -1,19 +1,27 @@
 {
     "company": {
-        "name_jp": "オレンジテクノロジーズ株式会社",
-        "name_en": "Orange Technologies Co., Ltd.",
+        "name_jp": "株式会社オレンジテクノロジーズ",
+        "name_en": "Orange Technologies Inc.",
         "website": "http://www.orangetech.co.jp/"
     },
     "people": [
         {
+            "name": "末久高平",
+            "title": "代表取締役会長",
+            "linkedin": null,
+            "twitter": null,
+            "department": "",
+            "email": ""
+        },
+        {
             "name": "末久祥平",
             "title": "代表取締役社長",
             "linkedin": null,
-            "twitter": null
+            "twitter": null,
+            "department": "",
+            "email": ""
         }
     ],
     "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "research_notes": "Representative name not publicly disclosed.",
-    "data_source": "tavily_ai_summary"
+    "last_updated": "2026-06-21"
 }

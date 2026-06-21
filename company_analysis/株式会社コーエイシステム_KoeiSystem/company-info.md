@@ -1,51 +1,57 @@
-# 株式会社コーエイシステム_KoeiSystem
+# 株式会社コーエイシステム (Koei System Inc.)
 
-## Basic Information
-- **Company Name**: 株式会社コーエイシステム (Koei System Corporation)
-- **English Name**: Koei System Corporation
-- **Company Type**: Corporation
-- **Industry**: IT Systems & Software Development
-- **Research Status**: ⚠️ PENDING - Limited by web search functionality
+## 会社概要
 
-## Research Limitations
-**Current Status**: Web search functionality is disabled due to MiniMax API key not configured. This limits comprehensive research capabilities.
+| Field | Details |
+|-------|---------|
+| **社名** | 株式会社コーエイシステム (Koei System Inc.) |
+| **設立** | 1986年（昭和61年）10月1日 |
+| **資本金** | 9,000万円 |
+| **従業員数** | 112名 (2026年3月1日現在) |
+| **代表者** | 小笠原 睦 |
+| **年商** | 1,280百万円 (2025年6月期実績) |
 
-### Available Information
-- Company name and basic structure confirmed
-- Directory established for future research
-- Files prepared for when web search becomes available
+## 所在地
 
-### Research Gap
-- ❌ Cannot access company website for official information
-- ❌ Limited ability to search for company news or updates
-- ❅ Unable to verify current business focus and services
-- ❅ Cannot research company history or founding details
-- ❅ No access to company size or employee count data
+| Type | Address |
+|------|---------|
+| **本社** | 〒102-0083 東京都千代田区麹町4丁目2番地 (TEL 03-5215-6630) |
 
-## Company Structure
-**Directory**: `/company_analysis/株式会社コーエイシステム_KoeiSystem/`
+## 事業内容
 
-**Files Created**:
-- ✅ company-info.md (this file)
-- ✅ company-people.json (placeholder)
+KSIのシステム開発力・保守力で社会の安全を支える。災害情報、変電所、ダム、通信事業者向け設備管理など情報通信・監視制御・計測システムの開発、運用、保守等。
 
-## Contact Information
-**Status**: Contact details unavailable due to web search limitations
+- システム開発
+- システム運用・保守
 
-## Business Focus
-**Status**: Business focus and services details unavailable
+## 主要取引先
+
+- ID&Eホールディングスグループ各社
+- 日本電気株式会社 (NEC) 他グループ各社
+- 株式会社日立製作所 他グループ各社
+- 株式会社ニッスイ 他
+
+## 沿革
+
+| Date | Event |
+|------|-------|
+| 1986年 | 横浜市港北区に設立 |
+| 1991年 | 一般市場へ進出、一般労働者派遣事業登録 |
+| 1997年 | 資本金3,000万円へ増資 |
+| 2001年 | 資本金9,000万円へ増資 |
+| 2003年 | 東京都千代田区に移転 |
+| 2009年 | ISO/IEC 27001:2013取得 |
+| 2012年 | 日本工営完全子会社化 |
+| 2023年 | ID&Eホールディングス(株)のグループ傘下となる |
+
+## 認証
+
+- ISO/IEC 27001:2013
+- 健康経営優良法人2026認定
+- 労働者派遣事業
 
 ## Company Mentions
-**Status**: News and mentions research pending web search functionality
 
-## Next Steps
-Await restoration of web search functionality to conduct comprehensive research including:
-- Official company website analysis
-- Business service identification
-- Company history and background research
-- Current status and growth indicators
-- Industry positioning and competitive analysis
-
----
-*Research completed: May 27, 2026*
-*Status: Placeholder files created - Full research pending web search restoration*
+- 2026.06.05: 「技術部門(クラウド系開発エンジニア)」の募集終了
+- 2026.03.10: 2027年3月卒採用募集開始
+- 2026.03.10: 健康経営優良法人2026認定取得

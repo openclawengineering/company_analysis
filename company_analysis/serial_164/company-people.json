@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "株式会社スプロテック",
+    "name_en": "Sprotec Co., Ltd.",
+    "website": "https://www.sprotec.com/"
+  },
+  "people": [
+    {
+      "name": "奥津 篤",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平川 恭",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡邊 洋之",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}

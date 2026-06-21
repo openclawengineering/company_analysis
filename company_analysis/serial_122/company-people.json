@@ -1,0 +1,19 @@
+{
+  "company": {
+    "name_jp": "ザ・コンピュータ株式会社",
+    "name_en": "The Computer Corporation",
+    "website": "https://thecomputer.co.jp/"
+  },
+  "people": [
+    {
+      "name": "山本 哲也",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}

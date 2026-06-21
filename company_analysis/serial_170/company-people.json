@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "株式会社ソフテム",
+    "name_en": "Softem Co., Ltd.",
+    "website": "https://softem-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "勝山 研人",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "楠瀬 修一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}

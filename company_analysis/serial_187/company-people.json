@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社ティー・エム・シー",
+    "name_en": "TMC Inc.",
+    "website": "https://www.tmc-world.co.jp/"
+  },
+  "people": [
+    {
+      "name": "千葉 拓未",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "末安 覚",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "飯高 一光",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山下 正純",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}
