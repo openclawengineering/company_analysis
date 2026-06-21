@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "インフォメーションサービスフォース株式会社",
+    "name_en": "Information Service Force Ltd.",
+    "website": "https://www.isforce.jp/"
+  },
+  "people": [
+    {
+      "name": "佐藤 雅紀",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中井 慎司",
+      "title": "取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "野村 累",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小山 満",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "南黒沢 晃",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-21"
+}
