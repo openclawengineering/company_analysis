@@ -6,7 +6,7 @@
   },
   "people": [
     {
-      "name": "小栁",
+      "name": "小栁 浩克",
       "title": "代表取締役 / CEO",
       "linkedin": null,
       "twitter": null,
@@ -14,7 +14,7 @@
       "email": ""
     },
     {
-      "name": "斎藤",
+      "name": "斎藤 悠貴",
       "title": "取締役 / COO",
       "linkedin": null,
       "twitter": null,
@@ -23,5 +23,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "last_updated": "2026-06-21",
+  "research_notes": "Attempted to find LinkedIn profiles for executives but encountered authentication requirements. Website contains detailed company information and executive bios."
 }
