@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "株式会社曙光システムズ",
+    "name_en": "Daybreak Systems Co., Ltd.",
+    "website": "http://daybreak-systems.com/"
+  },
+  "people": [
+    {
+      "name": "高橋",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田中",
+      "title": "取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

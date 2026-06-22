@@ -1,0 +1,19 @@
+{
+  "company": {
+    "name_jp": "有限会社シンク",
+    "name_en": "Shink",
+    "website": "https://www.shink.jp/"
+  },
+  "people": [
+    {
+      "name": "白石",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

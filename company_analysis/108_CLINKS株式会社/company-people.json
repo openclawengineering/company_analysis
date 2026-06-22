@@ -1,0 +1,116 @@
+{
+  "company": {
+    "name_jp": "CLINKS株式会社",
+    "name_en": "CLINKS Co., Ltd.",
+    "website": "https://www.clinks.jp/"
+  },
+  "people": [
+    {
+      "name": "河原",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "元木",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高野",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "金森",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片岡",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長",
+      "title": "社外取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "菊池",
+      "title": "社外取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "handle": "clinks.saiyo",
+      "url": "https://www.facebook.com/clinks.saiyo/",
+      "type": "company"
+    },
+    {
+      "platform": "twitter",
+      "handle": "clinks_pr",
+      "url": "https://twitter.com/clinks_pr",
+      "type": "company"
+    },
+    {
+      "platform": "tiktok",
+      "handle": "@clinks_pr",
+      "url": "https://www.tiktok.com/@clinks_pr",
+      "type": "company"
+    },
+    {
+      "platform": "youtube",
+      "handle": "UCM0imIksNT7n2Im_-WKQS4g",
+      "url": "https://www.youtube.com/channel/UCM0imIksNT7n2Im_-WKQS4g",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}
