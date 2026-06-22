@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "デジタルコム株式会社",
+    "name_en": "DIGITAL-COM Co., Ltd.",
+    "website": "https://www.digital-com.com"
+  },
+  "people": [
+    {
+      "name": "前山 浩志",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木村 昌博",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤 光男",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高橋 修司",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "須藤 伸之",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
