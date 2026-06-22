@@ -1,0 +1,29 @@
+{
+  "company": {
+    "name_jp": "湘南技術センター株式会社",
+    "name_en": "Shonan Technology Center, Inc.",
+    "website": "https://www.shonan-gijyutsuc.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [
+    {
+      "platform": "twitter",
+      "handle": "stc_shonan",
+      "url": "https://x.com/stc_shonan",
+      "type": "company"
+    },
+    {
+      "platform": "facebook",
+      "handle": "湘南技術センター株式会社",
+      "url": "https://www.facebook.com/p/湘南技術センター株式会社-100076114747591/",
+      "type": "company"
+    },
+    {
+      "platform": "instagram",
+      "handle": "stc_shonan_official",
+      "url": "https://www.instagram.com/stc_shonan_official/",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

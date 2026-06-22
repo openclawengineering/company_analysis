@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "コアフューテック株式会社",
+    "name_en": "CoreFutec Co., Ltd.",
+    "website": "https://www.corefutec.co.jp"
+  },
+  "people": [
+    {
+      "name": "松本",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "長坂",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
