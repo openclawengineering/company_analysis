@@ -134,3 +134,6 @@
 
 ### お問い合わせ先
 - E-mail: info@pisquare.co.jp
+## Company Mentions
+
+- **ピー・アイ・スクエア株式会社** — 2026年 — 【企業情報】

@@ -83,3 +83,7 @@ FAX: 055-265-1191
 ## YouTube
 
 https://www.youtube.com/@shiawase-naraba
+
+## Company Mentions
+
+- **株式会社ブリリアント** — 2026年 — 【企業情報】

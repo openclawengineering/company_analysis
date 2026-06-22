@@ -96,3 +96,7 @@ FAX: 046-839-4624
 ## ソーシャルメディア
 
 - X (Twitter): @ProGATE_1977
+
+## Company Mentions
+
+- **ProGATE株式会社** — 2026年 — 【企業情報】

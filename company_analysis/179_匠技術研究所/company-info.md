@@ -56,3 +56,7 @@ info@takumigiken.biz
 
 ## 加入団体
 川崎商工会議所、川崎西法人会、川崎西間税会、東京商工会議所、The LINUX Foundation (Individual Member)
+
+## Company Mentions
+
+- **株式会社匠技術研究所** — 2026年 — 【企業情報】

@@ -67,3 +67,7 @@ FAX: 0997-53-3357
 
 - プライバシーマーク取得
 - Facebook: https://www.facebook.com/fnet.ne.jp/
+
+## Company Mentions
+
+- **株式会社フューチャーネットワークス** — 2026年 — 【企業情報】

@@ -54,3 +54,7 @@ SBペイメントサービス株式会社、株式会社NTTデータビジネス
 
 - 一般：web@bestaff.co.jp
 - 採用：job@bestaff.co.jp
+
+## Company Mentions
+
+- **株式会社ベスタッフ** — 2026年 — 【企業情報】

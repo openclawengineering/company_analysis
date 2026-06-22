@@ -96,3 +96,6 @@ Amazon.com, Inc.、Apple Inc.、Google LLC、Meta Platforms, Inc.、TikTok Pte. 
 - 決算公告公開
 - 個人情報保護方針策定
 - 採用情報（新卒・中途採用）
+## Company Mentions
+
+- **株式会社ピー・アール・オー** — 2026年 — 【企業情報】

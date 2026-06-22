@@ -58,3 +58,5 @@
 *Report generated: 2026-04-23*
 *Data sources: Web research (limited data)*
 *Note: This report requires supplementary research from Japanese business databases*
+
+- **さくらケーエス株式会社 (Sakura KCS)** — 2026年 — 【企業情報】
