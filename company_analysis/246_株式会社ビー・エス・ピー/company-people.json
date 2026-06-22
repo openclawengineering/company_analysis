@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "株式会社ビー・エス・ピー",
+    "name_en": "Business.System.Planning.",
+    "website": "https://www.bsp-web.co.jp/"
+  },
+  "people": [
+    {
+      "name": "丸田 彩子",
+      "title": "取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小野 克巳",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

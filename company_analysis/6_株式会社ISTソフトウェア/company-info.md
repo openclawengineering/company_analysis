@@ -62,4 +62,7 @@
 - **生成AIソリューション**: 生成AIの真価を引き出しビジネスのさらなる成長をサポート
 - **サイバーセキュリティメニュー**: 安心・安全なサービスと強固なITガバナンスを実現
 
-## 会社 Mentions
+## Company Mentions
+
+- **株式会社ISTソフトウェア公式サイト** — 2026年 — 【企業向け生成AIサービス「ゼロプロ」正式ローンチ】([http://www.ist-software.co.jp/](http://www.ist-software.co.jp/))
+- **株式会社ISTソフトウェア公式サイト** — 2026年 — 【1972年創業のIT企業】([http://www.ist-software.co.jp/](http://www.ist-software.co.jp/))

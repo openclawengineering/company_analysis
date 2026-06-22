@@ -69,4 +69,7 @@
 - **E-mail**: okada@arz.co.jp
 - **担当**: 岡田
 
-## 会社 Mentions
+## Company Mentions
+
+- **アーズ総合開発株式会社公式サイト** — 2026-04-16 — 【契約終了済みの社内受託案件を簡易詳細ページに追記】([http://www.arz.co.jp/](http://www.arz.co.jp/))
+- **アーズ総合開発株式会社公式サイト** — 2024-08-01 — 【代表者挨拶】([http://www.arz.co.jp/](http://www.arz.co.jp/))

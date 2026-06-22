@@ -60,4 +60,8 @@
 - **2017.08**: 「楽王3」の販売を開始
 - **2021.06**: 楽王のサブスクリプションサービス「楽王CREW」「楽王LINK」の販売を開始
 
-## 会社 Mentions
+## Company Mentions
+
+- **アークシステム株式会社公式サイト** — 2025-12-17 — 【年末年始休業のお知らせ】([https://www.ark-sys.co.jp/](https://www.ark-sys.co.jp/))
+- **アークシステム株式会社公式サイト** — 2025-07-29 — 【創立記念休業のお知らせ】([https://www.ark-sys.co.jp/](https://www.ark-sys.co.jp/))
+- **アークシステム株式会社公式サイト** — 2024-11-28 — 【年末年始休業のお知らせ】([https://www.ark-sys.co.jp/](https://www.ark-sys.co.jp/))

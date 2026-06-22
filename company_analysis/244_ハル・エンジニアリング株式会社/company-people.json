@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name_jp": "ハル・エンジニアリング株式会社",
+    "name_en": "HaL Engineering Inc.",
+    "website": "https://www.haleng.co.jp"
+  },
+  "people": [
+    {
+      "name": "代表取締役社長",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22",
+  "notes": "ウェブサイトの文字化けにより代表者氏名が取得できませんでした。役員名は明記されていません。"
+}

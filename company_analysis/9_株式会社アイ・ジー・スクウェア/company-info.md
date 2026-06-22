@@ -11,4 +11,6 @@
 - 情報処理サービス
 - SES
 
-## 会社 Mentions
+## Company Mentions
+
+- **株式会社アイ・ジー・スクウェア公式サイト** — 2026年 — 【情報処理サービス、SESの提供】([https://www.igsquare.co.jp/](https://www.igsquare.co.jp/))

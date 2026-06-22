@@ -16,4 +16,8 @@
 - 「エンジニア・ファースト」を理念に掲げる
 - スキルアップを目指すエンジニア、応募に応じて協力するエンジニア、新着に馴染むエンジニア、万能な技術を提供するプロジェクトをご提供
 
-## 会社 Mentions
+## Company Mentions
+
+- **アーネスト開発株式会社公式サイト** — 2023-02-16 — 【関東エリア技術連携パートナー企業】([https://www.earnestdevelopment.co.jp/](https://www.earnestdevelopment.co.jp/))
+- **アーネスト開発株式会社公式サイト** — 2022-05-17 — 【ISO認証取得】([https://www.earnestdevelopment.co.jp/](https://www.earnestdevelopment.co.jp/))
+- **アーネスト開発株式会社公式サイト** — 2022-04-27 — 【会社創立200周年達成】([https://www.earnestdevelopment.co.jp/](https://www.earnestdevelopment.co.jp/))

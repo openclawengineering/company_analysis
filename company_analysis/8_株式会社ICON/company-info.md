@@ -7,4 +7,6 @@
 - **所在地**: 〒221-0834 横浜市神奈川区台町13-19　三栄ビル3F
 - **ウェブサイト**: http://www.e-icon.co.jp/
 
-## 会社 Mentions
+## Company Mentions
+
+- **株式会社ICON公式サイト** — 2026年 — 【特長】([http://www.e-icon.co.jp/](http://www.e-icon.co.jp/))

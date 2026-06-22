@@ -29,3 +29,5 @@
 
 ## Company Mentions
 
+- **アイシス株式会社公式サイト** — 2026年 — 【37周年を迎えるIT企業】([http://www.isis.co.jp/](http://www.isis.co.jp/))
+- **アイシス株式会社公式サイト** — 2026年 — 【会計、給与、人事管理システムの提供】([http://www.isis.co.jp/](http://www.isis.co.jp/))

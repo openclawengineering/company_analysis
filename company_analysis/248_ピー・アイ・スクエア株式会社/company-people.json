@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "ピー・アイ・スクエア株式会社",
+    "name_en": "Pike Intelligence Square",
+    "website": "https://www.pisquare.co.jp/"
+  },
+  "people": [
+    {
+      "name": "守屋 光博",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉田 圭介",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "前川 弘樹",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
