@@ -1,10 +1,46 @@
 {
   "company": {
     "name_jp": "ディエスソリューション株式会社",
-    "name_en": "DS Solution Co., Ltd.",
+    "name_en": "DS SOLUTION Inc.",
     "website": "https://www.dssolution.jp"
   },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "people": [
+    {
+      "name": "橋本 武",
+      "title": "代表取締役",
+      "linkedin": "https://www.linkedin.com/in/du-luong/",
+      "twitter": null,
+      "department": "",
+      "email": "",
+      "notes": "LinkedIn linked from official website (may be Vietnamese name profile - company has Vietnam offshore operations)"
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "linkedin",
+      "url": "https://jp.linkedin.com/company/dssolutioninc",
+      "type": "company",
+      "note": "LinkedIn company page - 1,121 followers"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/dssjp",
+      "type": "company",
+      "note": "Official Facebook page (linked from website footer)"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/DSSolution8",
+      "type": "company",
+      "note": "Official Twitter/X (linked from website footer)"
+    },
+    {
+      "platform": "note",
+      "url": "https://note.com/dssolution",
+      "type": "company",
+      "note": "Official note.com blog (linked from website footer)"
+    }
+  ],
+  "last_updated": "2026-06-22",
+  "research_notes": "Company about page scraped. Executive found with LinkedIn link on website. Multiple company social profiles found (LinkedIn, Facebook, Twitter, note.com). LinkedIn company page confirmed via direct fetch (jp.linkedin.com/company/dssolutioninc). Company founded Jan 2022, has Vietnam dev center. 25 employees on LinkedIn."
 }

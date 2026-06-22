@@ -1,0 +1,12 @@
+{
+  "company": {
+    "name_jp": "株式会社アズ・ソフトウェア・デザイン",
+    "name_en": "As Software Design Inc.",
+    "website": "http://www.asd-net.co.jp"
+  },
+  "people": [
+    {"name": "渡邉", "title": "代表者", "linkedin": null, "twitter": null, "department": "", "email": ""}
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

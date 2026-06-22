@@ -1,0 +1,15 @@
+{
+  "company": {
+    "name_jp": "アドバンスドプランニング株式会社",
+    "name_en": "Advanced Planning Corporation",
+    "website": "https://www.apc-inet.co.jp/"
+  },
+  "people": [
+    {"name": "今井", "title": "代表取締役", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "川瀬", "title": "監査役", "linkedin": null, "twitter": null, "department": "", "email": ""}
+  ],
+  "social_profiles": [
+    {"platform": "Facebook", "url": "https://www.facebook.com/AdvancedPlanningCorp/", "handle": "AdvancedPlanningCorp"}
+  ],
+  "last_updated": "2026-06-22"
+}

@@ -1,0 +1,14 @@
+{
+  "company": {
+    "name_jp": "株式会社アップロード",
+    "name_en": "Up Load Inc.",
+    "website": "http://www.upload21.jp/"
+  },
+  "people": [
+    {"name": "小檜山", "title": "代表取締役", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "小檜山", "title": "取締役", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "増田", "title": "取締役相談役", "linkedin": null, "twitter": null, "department": "", "email": ""}
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

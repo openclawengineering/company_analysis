@@ -1,7 +1,7 @@
 {
   "company": {
     "name_jp": "株式会社テクノリサーチ",
-    "name_en": null,
+    "name_en": "Techno Research Co., Ltd.",
     "website": "https://www.tecnet.or.jp/"
   },
   "people": [
@@ -14,6 +14,14 @@
       "email": ""
     }
   ],
-  "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "social_profiles": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/techno_research/",
+      "type": "company",
+      "note": "Official Instagram (linked from website footer)"
+    }
+  ],
+  "last_updated": "2026-06-22",
+  "research_notes": "Company pages scraped. One executive listed. Instagram found linked from website. Company based in Odawara, Kanagawa, founded 1988. 34 employees. No LinkedIn/Twitter found."
 }

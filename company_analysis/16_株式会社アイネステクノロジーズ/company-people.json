@@ -7,7 +7,7 @@
   "people": [
     {
       "name": "河村",
-      "title": "代表取締役 社長",
+      "title": "代表取締役社長",
       "linkedin": null,
       "twitter": null,
       "department": "代表",
@@ -40,6 +40,14 @@
     {
       "name": "小池",
       "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "坪井",
+      "title": "監査役",
       "linkedin": null,
       "twitter": null,
       "department": "",

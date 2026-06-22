@@ -11,7 +11,8 @@
       "linkedin": null,
       "twitter": null,
       "department": "",
-      "email": ""
+      "email": "",
+      "notes": "Founder since 1985"
     },
     {
       "name": "野田 徹",
@@ -19,9 +20,33 @@
       "linkedin": null,
       "twitter": null,
       "department": "",
-      "email": ""
+      "email": "",
+      "notes": "Became 取締役社長 in April 2024"
+    },
+    {
+      "name": "岩浅 宏明",
+      "title": "相談役（元取締役社長）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "",
+      "notes": "Was 取締役社長 Sep 2017 - Apr 2024, now 相談役"
     }
   ],
-  "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "social_profiles": [
+    {
+      "platform": "blog",
+      "url": "https://techblog.dearsystem.jp/",
+      "type": "company",
+      "note": "Tech Blog - エンジニアブログ"
+    },
+    {
+      "platform": "blog",
+      "url": "https://dsic.jp/blog/",
+      "type": "company",
+      "note": "Dear System Press - 社内勉強会・イベントブログ"
+    }
+  ],
+  "last_updated": "2026-06-22",
+  "research_notes": "Company outline page scraped. Full executive list confirmed. Tech blog and press blog found. No LinkedIn/Twitter links on website. Web search unavailable. Company founded 1985, ISO27001 certified."
 }

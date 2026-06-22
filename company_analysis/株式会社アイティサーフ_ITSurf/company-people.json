@@ -7,21 +7,47 @@
   "people": [
     {
       "name": "内堀 徹男",
+      "name_en": "Tetsuo Uchibori",
       "title": "代表取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
-      "email": ""
+      "email": "",
+      "note": "CEO/Founder, CSRページに署名あり"
     },
     {
       "name": "安齋 健志",
+      "name_en": "Kenji Anzai",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
-      "email": ""
+      "email": "",
+      "note": "役員紹介ページより"
+    },
+    {
+      "name": "杉原 拓実",
+      "name_en": "Takumi Sugihara",
+      "title": null,
+      "linkedin": null,
+      "twitter": null,
+      "qiita": "https://qiita.com/sugitaku03031",
+      "department": "システム開発部（推定）",
+      "email": "",
+      "note": "Qiita @sugitaku03031。IT SurfのQiita組織で18件の記事を投稿（Bash, Docker Compose, Wazuh, Growi, EntraID, Nvidia等）。43 contributions。"
+    },
+    {
+      "name": "春山 翔吾",
+      "name_en": "Shougo Haruyama",
+      "title": null,
+      "linkedin": null,
+      "twitter": null,
+      "qiita": "https://qiita.com/haluyama",
+      "department": "",
+      "email": "",
+      "note": "Qiita @haluyama。IT Surf組織メンバー。0 posts, 0 contributions。"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "last_updated": "2026-06-22"
 }

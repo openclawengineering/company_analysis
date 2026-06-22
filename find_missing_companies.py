@@ -13,7 +13,7 @@ def normalize_company_name(name):
     name = name.strip()
     
     # Remove common special characters
-    name = re.sub(r'[・\-＿＿（）（）\(\)\[\]【】\{\}「」『』＜＞〈〉《》‘'"'"', '', name)
+    name = re.sub(r'[・-＿＿（）（）\(\)\[\]【】｛｝「」『』＜＞〈〉《'"'"'"']', '', name)
     name = name.strip()
     
     return name

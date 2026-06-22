@@ -2,9 +2,125 @@
   "company": {
     "name_jp": "あさかわシステムズ株式会社",
     "name_en": "Asakawa Systems Co., Ltd.",
-    "website": "https://www.a-sk.co.jp/"
+    "website": "https://www.a-sk.co.jp/",
+    "short_name": "ASK",
+    "ticker": "5249",
+    "exchange": "TOKYO PRO Market",
+    "founded": "1984-07-04",
+    "employees": 107,
+    "headquarters": "大阪府泉佐野市りんくう往来北１番 SiSりんくうタワー"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "三宅 安幸",
+      "name_en": "Miyake Yasuyuki",
+      "role_jp": "代表取締役社長",
+      "role_en": "President & Representative Director",
+      "executive_type": "executive_officer",
+      "executive_role_jp": "社長執行役員",
+      "note": "Appeared on StockVoice at IPO ceremony (2023/1/26)"
+    },
+    {
+      "name_jp": "平野 眞幸",
+      "name_en": "Hirano Masayuki",
+      "role_jp": "取締役(非常勤)",
+      "role_en": "Director (Non-regular)",
+      "executive_type": "board"
+    },
+    {
+      "name_jp": "山本 芳通",
+      "name_en": "Yamamoto Yoshimichi",
+      "role_jp": "取締役",
+      "role_en": "Director",
+      "executive_type": "executive_officer",
+      "executive_role_jp": "常務執行役員"
+    },
+    {
+      "name_jp": "三宅 大佳",
+      "name_en": "Miyake Taika",
+      "role_jp": "取締役",
+      "role_en": "Director",
+      "executive_type": "executive_officer",
+      "executive_role_jp": "執行役員",
+      "certifications": ["公認会計士", "税理士", "社会保険労務士"],
+      "note": "Likely family member of president (三宅)"
+    },
+    {
+      "name_jp": "昼馬 義宏",
+      "name_en": "Hiuma Yoshihiro",
+      "role_jp": "社外取締役",
+      "role_en": "Outside Director",
+      "executive_type": "outside_board",
+      "certifications": ["税理士"]
+    },
+    {
+      "name_jp": "芝﨑 晃",
+      "name_en": "Shibasaki Akira",
+      "role_jp": "社外監査役",
+      "role_en": "Outside Corporate Auditor",
+      "executive_type": "outside_board",
+      "certifications": ["公認会計士", "税理士"]
+    },
+    {
+      "name_jp": "森 和幸",
+      "name_en": "Mori Kazuyuki",
+      "role_jp": "上席執行役員",
+      "role_en": "Senior Executive Officer",
+      "executive_type": "executive_officer",
+      "note": "Participated in IPO ceremony bell-ringing (2023/1/26)"
+    },
+    {
+      "name_jp": "鳥前 吉男",
+      "name_en": "Torimae Yoshio",
+      "role_jp": "執行役員",
+      "role_en": "Executive Officer",
+      "executive_type": "executive_officer"
+    },
+    {
+      "name_jp": "村林 篤司",
+      "name_en": "Murabayashi Atsushi",
+      "role_jp": "執行役員",
+      "role_en": "Executive Officer",
+      "executive_type": "executive_officer",
+      "note": "Participated in IPO ceremony bell-ringing (2023/1/26)"
+    },
+    {
+      "name_jp": "高岡 直人",
+      "name_en": "Takaoka Naoto",
+      "role_jp": "執行役員",
+      "role_en": "Executive Officer",
+      "executive_type": "executive_officer"
+    },
+    {
+      "name_jp": "橘 拓弥",
+      "name_en": "Tachibashi Takuya",
+      "role_jp": "執行役員",
+      "role_en": "Executive Officer",
+      "executive_type": "executive_officer"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-05-16"
+  "social_profiles_note": "No confirmed social profiles found for any executives. LinkedIn search requires authentication. X/Twitter search blocked by CAPTCHAs on all major search engines. Company website (a-sk.co.jp), product site (kensetsu-kaikei.com), and recruitment site have no links to executive social media accounts. Tried multiple URL pattern guesses on X (ask_co_jp, a_sk_co_jp, AsakawaSystems, gariver_series, kensetsu_kaikei) — all returned 404/account not found.",
+  "search_methods_attempted": [
+    "Direct fetch of company outline page (confirmed all executive names)",
+    "LinkedIn people search (blocked: requires login)",
+    "Direct LinkedIn profile URL guesses (blocked: rate-limited 999)",
+    "X/Twitter profile URL guesses (all 404/account not found)",
+    "Google search (blocked: CAPTCHA)",
+    "Bing search (blocked: CAPTCHA)",
+    "DuckDuckGo HTML search (blocked: CAPTCHA)",
+    "Ecosia search (blocked: CAPTCHA/firewall)",
+    "Yahoo Japan search (blocked: region restriction)",
+    "Company website footer/header scan (no social links)",
+    "Product website (kensetsu-kaikei.com) scan (no social links)",
+    "Recruitment site scan (no social links)",
+    "Group company website (asakawagumi.co.jp) scan (no social links)",
+    "YouTube channel guesses (no results)",
+    "Note profile guess (404)",
+    "Wantedly company page (redirected to homepage, not found)",
+    "Instagram hashtag search (no content returned)",
+    "Facebook search (error)"
+  ],
+  "last_updated": "2026-06-22",
+  "research_timestamp": "2026-06-22T04:14:00Z"
 }

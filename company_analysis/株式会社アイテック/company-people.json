@@ -1,10 +1,67 @@
 {
   "company": {
     "name_jp": "株式会社アイテック",
-    "name_en": "itec Co., Ltd.",
-    "website": "http://www.itec.co.jp"
+    "name_en": "ITEC Inc.",
+    "website": "https://www.itec.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
-  "last_updated": "2026-05-13"
+  "people": [
+    {
+      "name": "土元 克則",
+      "name_en": "Katsunori Tsuchimoto",
+      "title": "代表取締役社長 教育事業本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "経営",
+      "email": "",
+      "note": "1990年イタリア外資系PCメーカー入社→営業→EC/メールサーバー運用COO→取締役副社長→代表取締役社長。代表挨拶ページに詳細経歴あり。"
+    },
+    {
+      "name": "久保田 善之",
+      "name_en": "Yoshiyuki Kubota",
+      "title": "常務執行役員 管理本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "管理本部",
+      "email": "",
+      "note": ""
+    },
+    {
+      "name": "橋本 岳人",
+      "name_en": "Takehito Hashimoto",
+      "title": "執行役員 人材事業本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "人材事業本部",
+      "email": "",
+      "note": "人材派遣事業（クリエーティブソリューションズ）統括"
+    },
+    {
+      "name": "町 大輔",
+      "name_en": "Daisuke Machi",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "",
+      "note": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "X (Twitter)",
+      "handle": "ITEC_shikaku",
+      "url": "https://x.com/ITEC_shikaku"
+    },
+    {
+      "platform": "Facebook",
+      "handle": "ITEC.Community",
+      "url": "https://www.facebook.com/ITEC.Community"
+    },
+    {
+      "platform": "YouTube",
+      "handle": null,
+      "url": "https://www.youtube.com/channel/UCofiIa7m6fRw-mKtvyBW6_w"
+    }
+  ],
+  "last_updated": "2026-06-22"
 }

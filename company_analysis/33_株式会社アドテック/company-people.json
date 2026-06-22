@@ -1,0 +1,25 @@
+{
+  "company": {
+    "name_jp": "株式会社アドテック",
+    "name_en": "ADTEC Corporation",
+    "website": "https://www.adtec.co.jp"
+  },
+  "people": [
+    {"name": "下津", "title": "代表取締役社長", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "矢島", "title": "取締役 プロダクトセールス担当", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "岡田", "title": "取締役 IoTソリューション担当", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "高麗", "title": "取締役 新規事業・サーバー・ストレージ・ネットワーク担当", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "五十嵐", "title": "取締役 グループ会社連携担当", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "堀", "title": "取締役 管理本部担当", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "周", "title": "取締役", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "内藤", "title": "監査役", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "寺谷", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
+    {"name": "大浦", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""}
+  ],
+  "social_profiles": [
+    {"platform": "X (Twitter)", "url": "https://x.com/adtec_japan", "handle": "@adtec_japan"},
+    {"platform": "Facebook", "url": "https://www.facebook.com/ADTEC.jp/", "handle": "ADTEC.jp"},
+    {"platform": "LinkedIn", "url": "https://jp.linkedin.com/company/adteccorporation", "handle": "adteccorporation"}
+  ],
+  "last_updated": "2026-06-22"
+}

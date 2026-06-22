@@ -14,6 +14,14 @@
       "email": ""
     }
   ],
-  "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "social_profiles": [
+    {
+      "platform": "github",
+      "url": "https://github.com/technobrain",
+      "type": "company",
+      "note": "GitHub organization (linked from website footer)"
+    }
+  ],
+  "last_updated": "2026-06-22",
+  "research_notes": "Company pages scraped. One executive listed. GitHub organization found linked from website footer. Ruby-focused company, Gold certified Ruby SIER. Founded 1993. No LinkedIn/Twitter found."
 }

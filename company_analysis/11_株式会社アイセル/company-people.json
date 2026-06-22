@@ -2,7 +2,7 @@
   "company": {
     "name_jp": "株式会社アイセル",
     "name_en": "Aisel Corporation",
-    "website": "http://www.aisel.ne.jp"
+    "website": "https://www.aisel.ne.jp"
   },
   "people": [
     {
@@ -70,6 +70,14 @@
       "email": ""
     }
   ],
-  "social_profiles": [],
-  "last_updated": "2026-06-19"
+  "social_profiles": [
+    {
+      "platform": "blog",
+      "url": "https://blog.aisel.ne.jp/",
+      "type": "company",
+      "note": "アイセル通信 - official blog"
+    }
+  ],
+  "last_updated": "2026-06-22",
+  "research_notes": "Corporate page scraped. Full executive roster confirmed. Blog found at blog.aisel.ne.jp. No LinkedIn/Twitter links on website. Web search unavailable. Company became subsidiary of 株式会社アイティフォー in Oct 2025."
 }
