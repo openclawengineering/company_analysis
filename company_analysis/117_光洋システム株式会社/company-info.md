@@ -13,7 +13,7 @@
 - **Email:** info@koyo-system.co.jp
 - **URL:** http://www.koyo-system.co.jp
 - **Founded:** 1983年10月26日
-- **Capital:** 10,000,000 yen (1千万円)
+- **Capital:** 10,000,000円
 - **Employees:** 50名
 
 ### Business Description
@@ -30,7 +30,8 @@
 
 ### Major Clients
 
-**Automotive Industry (50 companies or more):**
+**自動車関連業界:**
+
 - NECソリューションイノベータ株式会社
 - NECマイクロソフト株式会社
 - クラリベイト・ディー・アール・エム株式会社
@@ -43,7 +44,8 @@
 - ベネッセコーポレーション
 - Yahoo Japan Corporation
 
-**Other Industries (50 companies or more):**
+**その他の業界:**
+
 - NPO法人 ウィメンエンブリックス(Emblix)
 - NPO法人 日本IT教育工学(JIET)
 - 神奈川県 さいのうりサービス事業所

@@ -8,8 +8,8 @@
 ### Basic Information
 
 - **Founded:** April 1, 2025 (2025年4月1日 - Spun off from 株式会社コスモス)
-- **Capital:** 20,000,000 yen (2,000万円)
-- **Employees:** 42名 (技術：39名　管理：3名)
+- **Capital:** 2,000万円
+- **Employees:** 42名(技術：39名　管理：3名)
 - **Revenue:** 2026年3月：3億0,600万円
 - **Headquarters:** 〒221-0824 神奈川県横浜市神奈川区広台太田町4-21 トラストワンビル22
 - **License:** 労働者派遣事業許可：派14-303681

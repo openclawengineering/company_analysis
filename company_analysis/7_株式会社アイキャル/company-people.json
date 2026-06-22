@@ -1,12 +1,12 @@
 {
   "company": {
     "name_jp": "株式会社アイキャル",
-    "name_en": "ICAL Co., Ltd.",
+    "name_en": "ICAL Co.Ltd",
     "website": "https://www.ical.jp/"
   },
   "people": [
     {
-      "name": "小谷 謙一",
+      "name": "小谷",
       "title": "代表取締役",
       "linkedin": null,
       "twitter": null,
@@ -15,6 +15,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "research_notes": "Company website scraped successfully. 小谷謙一 confirmed as Representative Director. No other executives listed on company website. No social media links found. Social profile research limited by platform access restrictions."
+  "last_updated": "2026-06-22"
 }

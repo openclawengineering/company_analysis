@@ -1,21 +1,21 @@
 {
   "company": {
     "name_jp": "アークシステム株式会社",
-    "name_en": "ARK SYSTEM Co., Ltd.",
+    "name_en": "ARK SYSTEM",
     "website": "https://www.ark-sys.co.jp/"
   },
   "people": [
     {
-      "name": "小栁 浩克",
-      "title": "代表取締役 / CEO",
+      "name": "小栁",
+      "title": "代表取締役 最高経営責任者",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "斎藤 悠貴",
-      "title": "取締役 / COO",
+      "name": "斎藤",
+      "title": "取締役 最高執行責任者",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -23,6 +23,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "research_notes": "Company website scraped successfully. Executive profiles confirmed: 小栁浩克 (CEO) and 斎藤悠貴 (COO). No social media links found on company website. LinkedIn and X/Twitter access requires login. Additional company mentions already documented in company-info.md. Social profile research limited by platform access restrictions."
+  "last_updated": "2026-06-22"
 }

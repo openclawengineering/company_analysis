@@ -9,7 +9,7 @@
 ### Basic Information
 
 - **Founded:** October 5, 2021 (2021年10月5日)
-- **Capital:** 20,000,000 yen (2,000万円)
+- **Capital:** 2,000万円
 - **Employees:** 278名
 - **Headquarters:** 東京都港区虎ノ門1丁目12-1 虎ノ門第一法規ビル2F
 - **TEL:** 03-5860-9447

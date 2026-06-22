@@ -8,7 +8,7 @@
 ### Basic Information
 
 - **Founded:** September 13, 1988 (1988年9月13日)
-- **Capital:** 10,000,000 yen
+- **Capital:** 10,000,000円
 - **Employees:** 28名
 - **Headquarters:** 〒252-0303 神奈川県相模原市南区相模大野3丁目13番1号 第一タカビル 3階
 - **TEL:** 042-744-7293

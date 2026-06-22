@@ -1,12 +1,12 @@
 {
   "company": {
     "name_jp": "アーズ総合開発株式会社",
-    "name_en": "Arz General Development Corporation",
+    "name_en": "",
     "website": "https://www.arz.co.jp/"
   },
   "people": [
     {
-      "name": "岡田 篤",
+      "name": "岡田",
       "title": "代表取締役",
       "linkedin": null,
       "twitter": null,
@@ -15,6 +15,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "research_notes": "Company website and Members page scraped successfully. Only one executive confirmed: 岡田篤 (Representative). No other executives found on company website. Company blog (社長の独り言) exists but no social media links provided. Email contact: okada@arz.co.jp. Social profile research limited by platform access restrictions. Company mentions documented in company-info.md."
+  "last_updated": "2026-06-22"
 }

@@ -3,22 +3,22 @@
 ## Company Overview
 
 **Japanese Name:** 株式会社ケイアイエス  
+**English Name:** KIS Co., Ltd.  
 **Website:** http://www.ki-s.co.jp  
 
 ### Basic Information
 
 - **Founded:** April 1, 2002 (平成14年4月1日)
-- **Capital:** 1,000,000 yen (1,000万円)
-- **Employees:** 21 (as of March 1, 2024)
-- **Headquarters:** 〒254-0034 神奈川県平塚市宝町12-1 麻生ビル202号
+- **Capital:** 1,000万円
+- **Employees:** 21名（2024年3月1日時点）
+- **Headquarters:** 〒254-0034 神奈川県平塚市宝町12-1　麻生ビル202号
 - **TEL:** 0463-24-9155
 - **FAX:** 0463-24-9156
-- **Email:** Not listed on website
 
 ### Certifications and Licenses
 
-- プライバシーマーク (Privacy Mark) - 第10824362号
-- 労働者派遣事業者 (Worker Dispatch Business) - 派14-301304
+- プライバシーマーク（第10824362)
+- 労働者派遣事業者（派14-301304)
 
 ### Business Description
 
@@ -28,11 +28,10 @@
 - ITの技術で、企業のお困りごとを解決します
 - クライアントが業務で使うアプリやシステムを開発
 - ITに関する「困った」を解決
-- 職種・業界未経験、第二新卒者歓迎
 
 ### Officers
 
-- **代表取締役社長:** 木富 博 (Kitomi Hiroshi)
+- **代表取締役社長:** 木富 博
 
 ### Member Organizations
 
@@ -54,6 +53,7 @@
 - 株式会社ジャステック
 - ランドシステム株式会社
 - 日本コンピュータシステム株式会社
+- 他
 
 ### Company Mentions
 

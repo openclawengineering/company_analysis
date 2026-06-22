@@ -1,18 +1,19 @@
 {
   "company": {
     "name_jp": "アイエスシー株式会社",
-    "name_en": "ISC Inc. (Integrated System Creator)",
-    "website": "http://www.isc-net.co.jp/"
+    "name_en": "ISC.inc",
+    "website": "http://www.isc-net.co.jp"
   },
-  "people": [],
-  "social_profiles": [
+  "people": [
     {
-      "platform": "blog",
-      "url": "http://www.isc-net.co.jp/",
-      "type": "company",
-      "note": "Official website with blog section"
+      "name": "寺田",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
-  "last_updated": "2026-06-22",
-  "research_notes": "Company website scraped successfully. Company focuses on image processing inspection equipment. No executive profiles found on company website - no dedicated company overview page listing executives. Need to check corporate registry or other sources for executive information. Social profile research limited by platform access restrictions."
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
 }
