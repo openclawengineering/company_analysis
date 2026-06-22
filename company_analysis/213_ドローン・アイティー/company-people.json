@@ -1,7 +1,7 @@
 {
   "company": {
     "name_jp": "ドローン・アイティー株式会社",
-    "name_en": "Drone-IT Inc.",
+    "name_en": "Drone-IT Co., Ltd.",
     "website": "https://www.drone-it.jp/"
   },
   "people": [
@@ -23,5 +23,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "last_updated": "2026-06-22"
 }

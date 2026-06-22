@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "Ｎａｋａｏｋａ Ｐａｒｔｎｅｒｓ合同会社",
+    "name_en": "Nakaoka Partners LLC",
+    "website": "https://nakaoka.work"
+  },
+  "people": [
+    {
+      "name": "中岡 敬行",
+      "title": "代表（CEO）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "雪本 賢一",
+      "title": "顧問（元シスメックス取締役専務執行役員）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西野 卓嗣",
+      "title": "顧問（弁理士・特定侵害訴訟代理）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "柿島 博志",
+      "title": "顧問（元臨床検査振興協議会事務局長）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

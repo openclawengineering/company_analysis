@@ -1,0 +1,67 @@
+{
+  "company": {
+    "name_jp": "日産車体コンピュータサービス株式会社",
+    "name_en": "NISSAN SHATAI COMPUTER SERVICE Co., Ltd.",
+    "website": "https://www.ncs-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "森 猛",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "牧田 裕",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "廣瀬 史明",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "萩原 誠広",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鈴木 宏章",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田中 英司",
+      "title": "理事",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山田 一幸",
+      "title": "理事",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

@@ -1,0 +1,92 @@
+{
+  "company": {
+    "name_jp": "株式会社日本アシスト",
+    "name_en": "Japan Assist Co., Ltd.",
+    "website": "https://www.n-assist.co.jp/"
+  },
+  "people": [
+    {
+      "name": "大島 正之",
+      "title": "代表取締役",
+      "name_en": "Masayuki Ohshima",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中村 洋介",
+      "title": "取締役兼営業本部本部長",
+      "name_en": "Yosuke Nakamura",
+      "linkedin": null,
+      "twitter": null,
+      "department": "営業本部",
+      "email": ""
+    },
+    {
+      "name": "水戸部 賢則",
+      "title": "取締役兼管理部部長",
+      "name_en": "Takanori Mitobe",
+      "linkedin": null,
+      "twitter": null,
+      "department": "管理部",
+      "email": ""
+    },
+    {
+      "name": "山崎 英明",
+      "title": "取締役兼BPO事業本部長",
+      "name_en": "Hideaki Yamazaki",
+      "linkedin": null,
+      "twitter": null,
+      "department": "BPO事業本部",
+      "email": ""
+    },
+    {
+      "name": "北山 洋",
+      "title": "取締役",
+      "name_en": "Hiroshi Kitayama",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "島田 富儀",
+      "title": "監査役",
+      "name_en": "Tomiyoshi Shimada",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "野尻 拓男",
+      "title": "執行役員 CSサポートセンター センター長",
+      "name_en": "Takuo Nojiri",
+      "linkedin": null,
+      "twitter": null,
+      "department": "CSサポートセンター",
+      "email": ""
+    },
+    {
+      "name": "新谷 敬介",
+      "title": "執行役員 ITソリューション事業本部 本部長",
+      "name_en": "Keisuke Shintani",
+      "linkedin": null,
+      "twitter": null,
+      "department": "ITソリューション事業本部",
+      "email": ""
+    },
+    {
+      "name": "白形 峰太",
+      "title": "執行役員 SD事業本部 本部長",
+      "name_en": "Mineta Shirakata",
+      "linkedin": null,
+      "twitter": null,
+      "department": "SD事業本部",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
