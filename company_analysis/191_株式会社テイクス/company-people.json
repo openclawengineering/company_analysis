@@ -2,11 +2,11 @@
   "company": {
     "name_jp": "株式会社テイクス",
     "name_en": "TAKES Co., Ltd.",
-    "website": "https://takes.ne.jp/"
+    "website": "https://www.takes.ne.jp/"
   },
   "people": [
     {
-      "name": "小笠原 芳市",
+      "name": "小笠原芳市",
       "title": "代表取締役会長",
       "linkedin": null,
       "twitter": null,
@@ -14,7 +14,7 @@
       "email": ""
     },
     {
-      "name": "常世 佳右",
+      "name": "常世佳右",
       "title": "代表取締役社長執行役員",
       "linkedin": null,
       "twitter": null,
@@ -22,7 +22,7 @@
       "email": ""
     },
     {
-      "name": "木下 富佐生",
+      "name": "木下富佐生",
       "title": "取締役専務執行役員",
       "linkedin": null,
       "twitter": null,
@@ -30,7 +30,7 @@
       "email": ""
     },
     {
-      "name": "合田 俊祐",
+      "name": "合田俊祐",
       "title": "取締役常務執行役員",
       "linkedin": null,
       "twitter": null,
@@ -38,7 +38,7 @@
       "email": ""
     },
     {
-      "name": "植田 太樹",
+      "name": "植田太樹",
       "title": "取締役常務執行役員",
       "linkedin": null,
       "twitter": null,
@@ -46,7 +46,7 @@
       "email": ""
     },
     {
-      "name": "青山 和明",
+      "name": "青山和明",
       "title": "取締役常務執行役員",
       "linkedin": null,
       "twitter": null,
@@ -54,7 +54,7 @@
       "email": ""
     },
     {
-      "name": "萩原 誠",
+      "name": "萩原誠",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -62,7 +62,7 @@
       "email": ""
     },
     {
-      "name": "高砂 将志",
+      "name": "高砂将志",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -70,7 +70,7 @@
       "email": ""
     },
     {
-      "name": "廣田 秀世",
+      "name": "廣田秀世",
       "title": "常勤監査役",
       "linkedin": null,
       "twitter": null,
@@ -78,7 +78,7 @@
       "email": ""
     },
     {
-      "name": "阿部 泰樹",
+      "name": "阿部泰樹",
       "title": "執行役員",
       "linkedin": null,
       "twitter": null,
@@ -86,7 +86,7 @@
       "email": ""
     },
     {
-      "name": "小林 信幸",
+      "name": "小林信幸",
       "title": "執行役員",
       "linkedin": null,
       "twitter": null,
@@ -94,7 +94,7 @@
       "email": ""
     },
     {
-      "name": "橋本 翔",
+      "name": "橋本翔",
       "title": "執行役員",
       "linkedin": null,
       "twitter": null,
@@ -102,26 +102,6 @@
       "email": ""
     }
   ],
-  "social_profiles": [
-    {
-      "platform": "twitter",
-      "url": "https://x.com/takes__official",
-      "type": "company",
-      "note": "Official X/Twitter (linked from website footer)"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/takes_it_official/",
-      "type": "company",
-      "note": "Official Instagram (linked from website footer)"
-    },
-    {
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@takes_it_official",
-      "type": "company",
-      "note": "Official TikTok (linked from website footer)"
-    }
-  ],
-  "last_updated": "2026-06-22",
-  "research_notes": "Management and profile pages scraped. Full executive roster (12 officers) from official website. Multiple company social profiles found (X, Instagram, TikTok) linked from footer. No individual executive social profiles found. Company has 974 employees (standalone), ISB Group consolidated 2,757. Revenue 7.34B JPY."
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
 }

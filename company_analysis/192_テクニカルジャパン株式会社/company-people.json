@@ -2,10 +2,10 @@
   "company": {
     "name_jp": "テクニカルジャパン株式会社",
     "name_en": "Technical Japan Co., Ltd.",
-    "website": "https://www.tjp.co.jp"
+    "website": "https://www.tjp.co.jp/"
   },
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-22",
-  "notes": "Website fetch failed (connection error). Web search unavailable (API key missing). No executives or social profiles identified."
+  "notes": "会社概要ページへのアクセスに問題があったため、役員情報を取得できませんでした。ウェブサイトからは組み込み系開発、WEB系開発、システム開発等の事業内容や、神奈川県内を中心とした勤務地であることが確認できます。"
 }
