@@ -1,19 +1,11 @@
 {
   "company": {
-    "name_jp": "株式会社ICON",
-    "name_en": "ICON Corporation",
-    "website": "https://www.e-icon.co.jp/"
+    "name_jp": "株式会社ＩＣＯＮ",
+    "name_en": "ICON Co., Ltd.",
+    "website": "http://www.e-icon.co.jp/"
   },
-  "people": [
-    {
-      "name": "土屋敏子",
-      "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
+  "people": [],
   "social_profiles": [],
-  "last_updated": "2026-05-21"
+  "last_updated": "2026-06-22",
+  "research_notes": "Initial directory created. Website needs to be scraped for executive information and company details."
 }

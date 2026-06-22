@@ -4,16 +4,8 @@
     "name_en": "IG Square Co., Ltd.",
     "website": "https://www.igsquare.co.jp/"
   },
-  "people": [
-    {
-      "name": "長興寺文夫",
-      "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    }
-  ],
+  "people": [],
   "social_profiles": [],
-  "last_updated": "2026-05-21"
+  "last_updated": "2026-06-22",
+  "research_notes": "Initial directory created. Website needs to be scraped for executive information and company details."
 }

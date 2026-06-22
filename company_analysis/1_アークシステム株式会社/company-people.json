@@ -23,6 +23,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-21",
-  "research_notes": "Attempted to find LinkedIn profiles for executives but encountered authentication requirements. Website contains detailed company information and executive bios."
+  "last_updated": "2026-06-22",
+  "research_notes": "Company website scraped successfully. Executive profiles confirmed: 小栁浩克 (CEO) and 斎藤悠貴 (COO). No social media links found on company website. LinkedIn and X/Twitter access requires login. Additional company mentions already documented in company-info.md. Social profile research limited by platform access restrictions."
 }
