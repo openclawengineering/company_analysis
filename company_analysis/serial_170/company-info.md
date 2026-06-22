@@ -29,3 +29,5 @@
 ## Website
 
 https://softem-net.co.jp/
+
+- **株式会社ソフテム** — 2026年 — 【企業情報】

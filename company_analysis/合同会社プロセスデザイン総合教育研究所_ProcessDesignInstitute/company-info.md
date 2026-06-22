@@ -42,3 +42,4 @@
 ## Company Mentions
 
 *Research placeholder - detailed company mentions require web search functionality*
+- **合同会社プロセスデザイン総合教育研究所** — 2026年 — 【企業情報】

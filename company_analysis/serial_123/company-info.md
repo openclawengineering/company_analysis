@@ -41,3 +41,5 @@
 ## Company Mentions
 
 (No news/blog section found on company website)
+
+- **株式会社サザン・エージェンシー** — 2026年 — 【企業情報】

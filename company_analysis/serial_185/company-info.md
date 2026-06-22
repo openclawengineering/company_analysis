@@ -30,3 +30,5 @@
 ## Website
 
 https://www.d-in.jp/
+
+- **株式会社ディーインクリエイティブ (DIN Creative Inc.)** — 2026年 — 【企業情報】

@@ -26,3 +26,5 @@
 ## Website
 
 http://daybreak-systems.com/
+
+- **株式会社曙光システムズ (Daybreak Systems Co., Ltd.)** — 2026年 — 【企業情報】

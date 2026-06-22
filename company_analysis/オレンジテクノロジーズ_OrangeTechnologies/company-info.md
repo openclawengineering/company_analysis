@@ -38,3 +38,5 @@ Orange Technologies Inc. is a Yokohama-based software development company establ
 - 令和6年2月: 本社部門ISO9001認証自主返納
 - 令和4年8月: びわ湖支社を滋賀県栗東市へ移転
 - 令和2年10月: びわ湖支社設立（滋賀県草津市）
+
+- **株式会社オレンジテクノロジーズ (Orange Technologies Inc.)** — 2026年 — 【企業情報】

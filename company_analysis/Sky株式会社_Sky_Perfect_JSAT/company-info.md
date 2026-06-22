@@ -75,3 +75,5 @@ As a space communications business, SKY Perfect JSAT creates value from the unkn
    https://prtimes.jp/main/html/searchrlp/company_id/1552
 
 ---
+
+- **スカパーフェクトJSAT株式会社 (SKY Perfect JSAT Corporation)** — 2026年 — 【企業情報】

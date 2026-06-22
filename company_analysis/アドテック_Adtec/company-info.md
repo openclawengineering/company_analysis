@@ -199,3 +199,5 @@ _No external press coverage or media mentions found at this time._
    https://finance.yahoo.co.jp/quote/6840.Q/news
 
 ---
+
+- **株式会社アドテック (Adtec Corporation)** — 2026年 — 【企業情報】

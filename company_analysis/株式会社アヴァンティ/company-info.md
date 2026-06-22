@@ -42,3 +42,6 @@
 ## Company Mentions
 
 *Research placeholder - detailed company mentions require web search functionality*
+- **株式会社アヴァンティ** — 2026年 — 【企業情報】
+
+- **株式会社アヴァンティ** — 2026年 — 【企業情報】

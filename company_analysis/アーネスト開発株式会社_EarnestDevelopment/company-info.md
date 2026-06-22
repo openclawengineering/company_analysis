@@ -44,3 +44,5 @@
 ---
 *最終更新: 2026-04-30*
 *情報ソース: 会社ウェブサイト (earnestdevelopment.co.jp)*
+
+- **アーネスト開発株式会社 (Earnest Development Co., Ltd.)** — 2026年 — 【企業情報】

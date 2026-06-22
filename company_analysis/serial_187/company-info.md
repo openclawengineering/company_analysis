@@ -34,3 +34,5 @@
 ## Website
 
 https://www.tmc-world.co.jp/
+
+- **株式会社ティー・エム・シー (TMC Inc.)** — 2026年 — 【企業情報】

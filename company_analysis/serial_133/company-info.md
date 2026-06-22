@@ -37,3 +37,5 @@
 ## Company Mentions
 
 (News/blog section not found on company website)
+
+- **株式会社ジェニシス** — 2026年 — 【企業情報】

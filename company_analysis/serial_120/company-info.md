@@ -36,3 +36,5 @@
 ## Company Mentions
 
 (No news/blog posts found on company website at time of research)
+
+- **株式会社コスモスシステム** — 2026年 — 【企業情報】

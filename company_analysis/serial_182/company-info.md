@@ -42,3 +42,5 @@
 ## Website
 
 https://tsunagu.ltd/
+
+- **株式会社TSUNAGU** — 2026年 — 【企業情報】

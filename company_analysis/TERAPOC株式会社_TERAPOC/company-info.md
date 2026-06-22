@@ -152,3 +152,5 @@ Iotを使って自社製品の開発、AI、ビックデータの活用などを
    https://www.openwork.jp/company_answer.php?m_id=a0C10000016sgVC&q_no=1
 
 ---
+
+- **TERAPOC株式会社** — 2026年 — 【企業情報】

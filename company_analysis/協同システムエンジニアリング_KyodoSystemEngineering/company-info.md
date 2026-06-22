@@ -42,3 +42,4 @@
 ## Company Mentions
 
 *Research placeholder - detailed company mentions require web search functionality*
+- **株式会社協同システムエンジニアリング** — 2026年 — 【企業情報】

@@ -42,3 +42,5 @@
 ## Company Mentions
 
 *Research placeholder - detailed company mentions require web search functionality*
+
+- **株式会社エルパ** — 2026年 — 【企業情報】

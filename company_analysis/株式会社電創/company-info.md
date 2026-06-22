@@ -91,3 +91,5 @@ _No external press coverage or media mentions found at this time._
 ---
 
 *Report generated: April 2026*
+
+- **株式会社電創 (Densou Inc.)** — 2026年 — 【企業情報】

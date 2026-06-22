@@ -13,3 +13,5 @@
 ## Company Mentions
 
 (Website returned minimal content; detailed information could not be extracted)
+
+- **株式会社サプライム** — 2026年 — 【企業情報】

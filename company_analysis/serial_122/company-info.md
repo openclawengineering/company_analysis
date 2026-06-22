@@ -32,3 +32,5 @@
 ## Company Mentions
 
 (Website uses JavaScript-heavy SPA; detailed news/blog content could not be extracted)
+
+- **ザ・コンピュータ株式会社** — 2026年 — 【企業情報】

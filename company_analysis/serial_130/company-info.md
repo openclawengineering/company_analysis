@@ -48,3 +48,5 @@
 ## Company Mentions
 
 (News/blog section exists at https://www.cal.ne.jp/news/ but specific posts not extracted)
+
+- **株式会社シーエーエル (CAL CO., LTD.)** — 2026年 — 【企業情報】

@@ -28,3 +28,5 @@
 ## Website
 
 https://www.2ndwave.jp/
+
+- **株式会社セカンド・ウェーブ (2ndWave, Inc.)** — 2026年 — 【企業情報】

@@ -42,3 +42,4 @@
 ## Company Mentions
 
 *Research placeholder - detailed company mentions require web search functionality*
+- **宮崎通信株式会社** — 2026年 — 【企業情報】

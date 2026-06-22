@@ -24,3 +24,5 @@
 ## Website
 
 https://www.sprotec.com/
+
+- **株式会社スプロテック** — 2026年 — 【企業情報】

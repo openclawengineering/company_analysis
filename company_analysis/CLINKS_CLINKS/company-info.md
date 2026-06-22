@@ -111,3 +111,5 @@ _No external press coverage or media mentions found at this time._
    https://www.dreamnews.jp/company/0000001378
 
 ---
+
+- **CLINKS株式会社** — 2026年 — 【企業情報】

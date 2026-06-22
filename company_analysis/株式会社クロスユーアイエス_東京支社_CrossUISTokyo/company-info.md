@@ -62,3 +62,5 @@
 ## Company Mentions
 
 _No external news found on company website._
+
+- **株式会社クロスユーアイエス (CROSS UIS Co., Ltd.)** — 2026年 — 【企業情報】

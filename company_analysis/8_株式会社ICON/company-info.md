@@ -9,4 +9,6 @@
 
 ## Company Mentions
 
+- **株式会社ICON** — 2026年 — 【企業情報】(http://www.e-icon.co.jp/)
+
 - **株式会社ICON公式サイト** — 2026年 — 【特長】([http://www.e-icon.co.jp/](http://www.e-icon.co.jp/))

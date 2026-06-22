@@ -21,3 +21,5 @@
 ## Website
 
 https://www.softem.co.jp/
+
+- **株式会社ソフテム (川崎市)** — 2026年 — 【企業情報】

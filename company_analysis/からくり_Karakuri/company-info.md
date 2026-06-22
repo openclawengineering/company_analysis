@@ -45,3 +45,5 @@
 ## Company Mentions
 
 _No external news found on company website._
+
+- **株式会社からくり (Kara-kuri Corporation)** — 2026年 — 【企業情報】
