@@ -1,0 +1,67 @@
+{
+  "company": {
+    "name_jp": "株式会社日本コンピュータコンサルタント",
+    "name_en": "Nihon Computer Consultant Co., Ltd.",
+    "website": "https://www.n-c-c.co.jp"
+  },
+  "people": [
+    {
+      "name": "冨田 松平",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松渕 辰生",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三谷 浩治",
+      "title": "常務取締役（設計本部長）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "設計本部",
+      "email": ""
+    },
+    {
+      "name": "二日市 信雄",
+      "title": "取締役（BP本部長）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "BP本部",
+      "email": ""
+    },
+    {
+      "name": "近藤 昭彦",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田村 洋",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松木 謙一郎",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

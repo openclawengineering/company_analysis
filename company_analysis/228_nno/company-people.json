@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "日本ノアーズ株式会社",
+    "name_en": "NIHON NOAH'S Co.,Ltd.",
+    "website": "https://www.nno.co.jp"
+  },
+  "people": [
+    {
+      "name": "持地 秀恒",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "持地 慶人",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

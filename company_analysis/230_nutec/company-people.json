@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "ニューテック株式会社",
+    "name_en": "NUTEC Corporation",
+    "website": "https://nutec-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "戸高 秀和",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "藤岡 大介",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "清水 大介",
+      "title": "取締役（社外取締役）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
