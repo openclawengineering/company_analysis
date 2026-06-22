@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "ディアシステム株式会社",
+    "name_en": "Dear System Inc.",
+    "website": "https://www.dsic.jp/"
+  },
+  "people": [
+    {
+      "name": "友中香代子",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "野田徹",
+      "title": "取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

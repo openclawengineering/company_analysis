@@ -1,0 +1,19 @@
+{
+  "company": {
+    "name_jp": "DELE株式会社",
+    "name_en": "DELE Inc.",
+    "website": "https://dele.gr/"
+  },
+  "people": [
+    {
+      "name": "福地真由香",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "info@dele.gr"
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

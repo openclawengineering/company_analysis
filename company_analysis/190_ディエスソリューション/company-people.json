@@ -1,0 +1,31 @@
+{
+  "company": {
+    "name_jp": "ディエスソリューション株式会社",
+    "name_en": "DS SOLUTION Inc.",
+    "website": "https://www.dssolution.jp"
+  },
+  "people": [
+    {
+      "name": "橋本武",
+      "title": "代表取締役",
+      "linkedin": "https://www.linkedin.com/in/du-luong/",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "橋本武",
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/du-luong/"
+    }
+  ],
+  "company_social": {
+    "facebook": "https://www.facebook.com/dssjp",
+    "twitter": "https://twitter.com/DSSolution8",
+    "linkedin": "https://www.linkedin.com/company/dsscompany",
+    "note": "https://note.com/dssolution"
+  },
+  "last_updated": "2026-06-22"
+}
