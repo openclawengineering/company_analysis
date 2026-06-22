@@ -1,0 +1,25 @@
+{
+  "company": {
+    "name_jp": "株式会社フューチャーネットワークス",
+    "name_en": "Future Networks Co., Ltd.",
+    "website": "https://www.fnet.ne.jp"
+  },
+  "people": [
+    {
+      "name": "中山",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "フューチャーネットワークス",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/fnet.ne.jp/"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

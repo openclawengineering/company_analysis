@@ -1,0 +1,25 @@
+{
+  "company": {
+    "name_jp": "株式会社ブリリアント",
+    "name_en": "Brilliant Co., Ltd.",
+    "website": "http://www.bril.co.jp/"
+  },
+  "people": [
+    {
+      "name": "井上 清美",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "ブリリアント",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@shiawase-naraba"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}
