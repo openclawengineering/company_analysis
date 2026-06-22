@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "株式会社オルトス",
+    "name_en": "Orthos Inc.",
+    "website": "http://www.orthos.co.jp/"
+  },
+  "people": [
+    {
+      "name": "金山",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "info@orthos.co.jp"
+    },
+    {
+      "name": "鈴木",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "敷地",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

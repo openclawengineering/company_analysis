@@ -1,0 +1,41 @@
+{
+  "company": {
+    "name_jp": "株式会社システムアイ",
+    "name_en": "SYSTEM I Co., Ltd.",
+    "website": "https://systemi.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [
+    {
+      "platform": "twitter",
+      "handle": "systemi_recruit",
+      "url": "https://twitter.com/systemi_recruit",
+      "type": "company"
+    },
+    {
+      "platform": "facebook",
+      "handle": "systemi.co.jp",
+      "url": "https://www.facebook.com/systemi.co.jp/",
+      "type": "company"
+    },
+    {
+      "platform": "wantedly",
+      "handle": "company_8807883",
+      "url": "https://www.wantedly.com/companies/company_8807883",
+      "type": "company"
+    },
+    {
+      "platform": "note",
+      "handle": "systemi",
+      "url": "https://note.com/systemi/",
+      "type": "company"
+    },
+    {
+      "platform": "qiita",
+      "handle": "systemi",
+      "url": "https://qiita.com/organizations/systemi",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

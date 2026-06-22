@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "株式会社システムズナカシマ 東京支店",
+    "name_en": "Systems Nakashima Co., Ltd. Tokyo Branch",
+    "website": "https://www.systems.nakashima.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "handle": "systems.nakashima",
+      "url": "https://www.facebook.com/systems.nakashima/",
+      "type": "company"
+    },
+    {
+      "platform": "twitter",
+      "handle": "StartNewChapter",
+      "url": "https://twitter.com/StartNewChapter",
+      "type": "company"
+    },
+    {
+      "platform": "instagram",
+      "handle": "Start.New.Chapter",
+      "url": "https://www.instagram.com/Start.New.Chapter/",
+      "type": "company"
+    },
+    {
+      "platform": "youtube",
+      "handle": "UCYVrsa_EzwOMDJAY5h9TThA",
+      "url": "https://youtube.com/channel/UCYVrsa_EzwOMDJAY5h9TThA",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

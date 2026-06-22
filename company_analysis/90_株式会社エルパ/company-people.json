@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "株式会社エルパ",
+    "name_en": "Laboratory of precise architecture CORP.",
+    "website": "https://www.lpa.co.jp/"
+  },
+  "people": [
+    {
+      "name": "渡口",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片岡",
+      "title": "相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

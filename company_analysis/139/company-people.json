@@ -1,0 +1,29 @@
+{
+  "company": {
+    "name_jp": "システムニコル株式会社",
+    "name_en": "System Nicol Co., Ltd.",
+    "website": "https://www.nicol.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "handle": "system.nicol",
+      "url": "https://ja-jp.facebook.com/system.nicol",
+      "type": "company"
+    },
+    {
+      "platform": "youtube",
+      "handle": "@システムニコル",
+      "url": "https://www.youtube.com/@システムニコル",
+      "type": "company"
+    },
+    {
+      "platform": "instagram",
+      "handle": "system_nicol",
+      "url": "https://www.instagram.com/system_nicol",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}
