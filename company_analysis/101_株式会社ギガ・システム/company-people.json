@@ -1,0 +1,58 @@
+{
+  "company": {
+    "name_jp": "株式会社ギガ・システム",
+    "name_en": "GigaSystem Co., Ltd.",
+    "website": "https://www.giga-system.co.jp/"
+  },
+  "people": [
+    {
+      "name": "山本",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石田",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "今井",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "村山",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "濱根",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "handle": "GIGA.Admin",
+      "url": "https://www.facebook.com/GIGA.Admin/",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

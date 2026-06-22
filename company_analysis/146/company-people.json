@@ -1,0 +1,17 @@
+{
+  "company": {
+    "name_jp": "株式会社情創",
+    "name_en": "Johso Co., Ltd.",
+    "website": "https://johso.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "handle": "johso2000",
+      "url": "https://www.facebook.com/johso2000",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

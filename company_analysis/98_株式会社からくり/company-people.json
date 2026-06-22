@@ -1,0 +1,19 @@
+{
+  "company": {
+    "name_jp": "株式会社からくり",
+    "name_en": "Kara-kuri Corporation",
+    "website": "https://www.kara-kuri.jp/"
+  },
+  "people": [
+    {
+      "name": "品川",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name_jp": "株式会社神奈中情報システム",
+    "name_en": "Kanachu Information System Co.,Ltd.",
+    "website": "https://www.kanachu-it.co.jp"
+  },
+  "people": [
+    {
+      "name": "米山",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "市川",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大森",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "早川",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
