@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "ネットワークプランニングサービス株式会社",
+    "name_en": "Network Planning Service, Inc.",
+    "website": "https://www.nps-inc.jp/"
+  },
+  "people": [
+    {
+      "name": "砂川 健太",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "砂川 幸久",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
