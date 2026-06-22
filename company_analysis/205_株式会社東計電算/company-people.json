@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "株式会社東計電算",
+    "name_en": "Toukei Computer Co., Ltd.",
+    "website": "https://www.toukei.co.jp/"
+  },
+  "people": [
+    {
+      "name": "甲田 英毅",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "古閑 祐二",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

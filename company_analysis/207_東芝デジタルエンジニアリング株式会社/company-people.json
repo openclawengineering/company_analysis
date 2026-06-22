@@ -55,7 +55,7 @@
     },
     {
       "name": "宮沢 忠彦",
-      "title": "取締役（非常勤）",
+      "title": "取締役＜非常勤＞",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -63,7 +63,7 @@
     },
     {
       "name": "椋本 進",
-      "title": "取締役（非常勤）",
+      "title": "取締役＜非常勤＞",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -79,7 +79,7 @@
     },
     {
       "name": "飯澤 聡明",
-      "title": "監査役（非常勤）",
+      "title": "監査役＜非常勤＞",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -87,5 +87,5 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-21"
+  "last_updated": "2026-06-22"
 }

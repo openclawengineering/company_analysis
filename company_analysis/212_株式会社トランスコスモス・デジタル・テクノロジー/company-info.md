@@ -1,9 +1,16 @@
 # 株式会社トランスコスモス・デジタル・テクノロジー
 
-## Company Overview
+## 会社概要
 
-- **社名**: 株式会社トランスコスモス・デジタル・テクノロジー (transcosmos digital technology inc.)
-- **所在地**: 〒220-0004 横浜市西区北幸2-8-4 横浜西口KNビル8F
-- **Website**: https://www.trans-cosmos-digtec.co.jp/
+- **商号**: 株式会社トランスコスモス・デジタル・テクノロジー
+- **英語名**: transcosmos digital technology inc.
+- **ウェブサイト**: https://www.trans-cosmos-digtec.co.jp/
+- **親会社**: トランスコスモス株式会社
 
-## Company Mentions
+### 事業内容
+
+デジタル技術を活用したソリューション提供。Wixベースのウェブサイトのため詳細な会社概要情報の抽出が困難。
+
+### 備考
+
+ウェブサイトがWixプラットフォームで構築されており、フェッチ時にCSS/SVGデータのみが返され、会社概要・役員情報などのテキスト内容を抽出できませんでした。後日ブラウザベースのスクレイピングによる再取得が必要です。

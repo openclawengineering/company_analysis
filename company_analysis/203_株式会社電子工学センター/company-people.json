@@ -1,0 +1,11 @@
+{
+  "company": {
+    "name_jp": "株式会社電子工学センター",
+    "name_en": "Electronic Engineering Center Co., Ltd.",
+    "website": "https://www.eec.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "notes": "Website fetch failed (timeout). No company or officer information could be retrieved from https://www.eec.co.jp/",
+  "last_updated": "2026-06-22"
+}
