@@ -1,0 +1,62 @@
+{
+  "company": {
+    "name_jp": "株式会社アイテック",
+    "name_en": "ITEC Inc.",
+    "website": "https://www.itec.co.jp"
+  },
+  "people": [
+    {
+      "name": "土元",
+      "title": "代表取締役社長 教育事業本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "代表",
+      "email": ""
+    },
+    {
+      "name": "久保田",
+      "title": "常務執行役員 管理本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "管理本部",
+      "email": ""
+    },
+    {
+      "name": "橋本",
+      "title": "執行役員 人材事業本部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "人材事業本部",
+      "email": ""
+    },
+    {
+      "name": "町",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "twitter",
+      "url": "https://x.com/ITEC_shikaku",
+      "name": "アイテック公式（資格情報）",
+      "type": "company"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ITEC.Community",
+      "name": "ITEC Community",
+      "type": "company"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCofiIa7m6fRw-mKtvyBW6_w",
+      "name": "アイテック公式チャンネル",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}

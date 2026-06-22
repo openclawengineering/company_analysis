@@ -1,0 +1,26 @@
+{
+  "company": {
+    "name_jp": "アイテックジャパン株式会社",
+    "name_en": "ITECJAPAN CO. LTD.",
+    "website": "https://itec-j.com"
+  },
+  "people": [
+    {
+      "name": "竹田",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "代表",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/itec_japan_official/",
+      "name": "アイテックジャパン公式",
+      "type": "company"
+    }
+  ],
+  "last_updated": "2026-06-22"
+}
