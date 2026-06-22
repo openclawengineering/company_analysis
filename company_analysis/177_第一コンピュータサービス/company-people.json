@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name_jp": "株式会社第一コンピュータサービス",
+    "name_en": "Daiichi Computer Service Co., Ltd.",
+    "website": "https://www.dcs21.co.jp/"
+  },
+  "people": [
+    {
+      "name": "鮎沢潤",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "増田洋一",
+      "title": "会長（前代表取締役）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "増田麻衣",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "永井治司",
+      "title": "取締役(非常勤)",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "細田典義",
+      "title": "取締役(非常勤)",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}

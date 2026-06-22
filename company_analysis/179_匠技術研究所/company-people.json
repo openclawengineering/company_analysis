@@ -1,0 +1,19 @@
+{
+  "company": {
+    "name_jp": "株式会社匠技術研究所",
+    "name_en": "Takumi Gijutsu Kenkyujo Co., Ltd.",
+    "website": "https://www.takumigiken.biz/"
+  },
+  "people": [
+    {
+      "name": "谷山亮治",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "info@takumigiken.biz"
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-22"
+}
