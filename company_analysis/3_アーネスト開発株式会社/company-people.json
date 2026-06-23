@@ -1,10 +1,19 @@
 {
   "company": {
     "name_jp": "アーネスト開発株式会社",
-    "name_en": "",
+    "name_en": "Earnest Development Co., Ltd.",
     "website": "https://www.earnestdevelopment.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "新海 貴浩",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-23"
 }

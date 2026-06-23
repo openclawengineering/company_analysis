@@ -29,5 +29,8 @@
 
 ## Company Mentions
 
-- **アイシス株式会社公式サイト** — 2026年 — 【37周年を迎えるIT企業】([http://www.isis.co.jp/](http://www.isis.co.jp/))
-- **アイシス株式会社公式サイト** — 2026年 — 【会計、給与、人事管理システムの提供】([http://www.isis.co.jp/](http://www.isis.co.jp/))
+- **アイシス株式会社公式サイト** — 2026-03-27 — 【労働者派遣事業に基づく情報提供】([https://www.isis.co.jp/2026/03/27/info-33/](https://www.isis.co.jp/2026/03/27/info-33/))
+- **アイシス株式会社公式サイト** — 2025-12-19 — 【年末のご挨拶】([https://www.isis.co.jp/2025/12/19/info-31/](https://www.isis.co.jp/2025/12/19/info-31/))
+- **アイシス株式会社公式サイト** — 2025-03-11 — 【労働者派遣事業に基づく情報提供】([https://www.isis.co.jp/2025/03/11/info-29/](https://www.isis.co.jp/2025/03/11/info-29/))
+- **アイシス株式会社公式サイト** — 2024-12-17 — 【一般事業主行動計画の公表について】([https://www.isis.co.jp/2024/12/17/info-30/](https://www.isis.co.jp/2024/12/17/info-30/))
+- **アイシス株式会社公式サイト** — 2024-12-16 — 【年末のご挨拶】([https://www.isis.co.jp/2024/12/16/info-28/](https://www.isis.co.jp/2024/12/16/info-28/))
