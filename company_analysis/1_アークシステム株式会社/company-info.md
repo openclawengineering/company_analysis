@@ -62,6 +62,8 @@
 
 ## Company Mentions
 
-- **アークシステム株式会社公式サイト** — 2025-12-17 — 【年末年始休業のお知らせ】([https://www.ark-sys.co.jp/](https://www.ark-sys.co.jp/))
-- **アークシステム株式会社公式サイト** — 2025-07-29 — 【創立記念休業のお知らせ】([https://www.ark-sys.co.jp/](https://www.ark-sys.co.jp/))
-- **アークシステム株式会社公式サイト** — 2024-11-28 — 【年末年始休業のお知らせ】([https://www.ark-sys.co.jp/](https://www.ark-sys.co.jp/))
+- **アークシステム株式会社公式サイト** — 2025-12-17 — 【2025年度 年末年始休業のお知らせ】([https://www.ark-sys.co.jp/news/2025%e5%b9%b4%e5%ba%a6-%e3%80%90%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91-2/](https://www.ark-sys.co.jp/news/2025%e5%b9%b4%e5%ba%a6-%e3%80%90%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91-2/))
+- **アークシステム株式会社公式サイト** — 2025-07-29 — 【2025年度 創立記念休業のお知らせ】([https://www.ark-sys.co.jp/news/2025%e5%b9%b4%e5%ba%a6%e3%80%90%e5%89%b5%e7%ab%8b%e8%a8%98%e5%bf%b5%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91/](https://www.ark-sys.co.jp/news/2025%e5%b9%b4%e5%ba%a6%e3%80%90%e5%89%b5%e7%ab%8b%e8%a8%98%e5%bf%b5%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91/))
+- **アークシステム株式会社公式サイト** — 2024-11-28 — 【2024年度 年末年始休業のお知らせ】([https://www.ark-sys.co.jp/news/2024%e5%b9%b4%e5%ba%a6-%e3%80%90%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91/](https://www.ark-sys.co.jp/news/2024%e5%b9%b4%e5%ba%a6-%e3%80%90%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91/))
+- **アークシステム株式会社公式サイト** — 2024-07-24 — 【創立記念日振替休業のお知らせ】([https://www.ark-sys.co.jp/news/%e5%89%b5%e7%ab%8b%e8%a8%98%e5%bf%b5%e6%97%a5%e6%8c%af%e6%9b%bf%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/](https://www.ark-sys.co.jp/news/%e5%89%b5%e7%ab%8b%e8%a8%98%e5%bf%b5%e6%97%a5%e6%8c%af%e6%9b%bf%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/))
+- **アークシステム株式会社公式サイト** — 2024-06-26 — 【2次元CADソフト「ZEROCAD」ソフトウェア販売・サポート終了のお知らせ】([https://www.ark-sys.co.jp/news/%e3%83%86%e3%82%b9%e3%83%88/](https://www.ark-sys.co.jp/news/%e3%83%86%e3%82%b9%e3%83%88/))
