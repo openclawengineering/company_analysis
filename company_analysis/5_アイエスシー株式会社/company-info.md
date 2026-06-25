@@ -43,3 +43,6 @@
 
 - **アイエスシー株式会社公式サイト** — 2026年 — 【画像処理検査装置で製品検査・外観検査の自動化】([http://www.isc-net.co.jp/](http://www.isc-net.co.jp/))
 - **アイエスシー株式会社公式サイト** — 2026年 — 【36年の歴史を持つ画像・映像処理技術】([http://www.isc-net.co.jp/](http://www.isc-net.co.jp/))
+- **アイエスシー株式会社公式サイト** — 2026年 — 【ハードウェア・ソフトウェアの両側からシステムソリューションを提案】([http://www.isc-net.co.jp/company/](http://www.isc-net.co.jp/company/))
+- **アイエスシー株式会社公式サイト** — 2026年 — 【36年にわたり培った画像処理技術による開発実績】([http://www.isc-net.co.jp/company/](http://www.isc-net.co.jp/company/))
+- **アイエスシー株式会社公式サイト** — 2026年 — 【海外への積極的展開】([http://www.isc-net.co.jp/company/](http://www.isc-net.co.jp/company/))
