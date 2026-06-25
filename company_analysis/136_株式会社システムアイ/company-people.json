@@ -4,7 +4,88 @@
     "name_en": "SYSTEM I Co., Ltd.",
     "website": "https://systemi.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "葛川 敬祐",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "上野 拓",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西岡田 信裕",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "難波 貞暁",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "後藤 岳",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "垂水 明子",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "緒方 聡",
+      "title": "執行役員兼CTO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "波多野 徹",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "仲田 喜昭",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "志渡澤 和典",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [
     {
       "platform": "twitter",
@@ -37,5 +118,6 @@
       "type": "company"
     }
   ],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-24",
+  "notes": "役員・執行役員・顧問情報はウェブサイトから確認済み（全10名）。ソーシャルプロファイルは会社アカウントのみ確認。個人プロファイルは認証が必要なため確認できず。"
 }

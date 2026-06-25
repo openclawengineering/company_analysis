@@ -1,11 +1,20 @@
 {
   "company": {
     "name_jp": "株式会社ジェニシス",
-    "name_en": "",
+    "name_en": "GENESIS Co., Ltd.",
     "website": "https://www.genesis-net.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "萩原 哲也",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-24",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。具体的な役員名の特定が必要です。"
+  "notes": "代表取締役社長の萩原哲也氏はウェブサイトから確認済み。LinkedIn/Twitterのプロファイルは認証が必要なため確認できず。"
 }

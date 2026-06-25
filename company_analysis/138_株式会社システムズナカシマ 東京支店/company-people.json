@@ -4,7 +4,72 @@
     "name_en": "Systems Nakashima Co., Ltd. Tokyo Branch",
     "website": "https://www.systems.nakashima.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "中島 義雄",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中島 崇喜",
+      "title": "取締役副会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "伊藤 孝",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石井 博光",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田畑 俊幸",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "斉藤 敏信",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "粕井 康人",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "児島 正典",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [
     {
       "platform": "facebook",
@@ -31,5 +96,6 @@
       "type": "company"
     }
   ],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-24",
+  "notes": "役員情報はウェブサイトから確認済み（全8名）。ソーシャルプロファイルは会社アカウントのみ確認。個人プロファイルは認証が必要なため確認できず。"
 }

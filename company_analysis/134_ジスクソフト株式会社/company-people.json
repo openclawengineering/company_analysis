@@ -92,9 +92,49 @@
       "twitter": null,
       "department": "",
       "email": ""
+    },
+    {
+      "name": "上坂 昌和",
+      "title": "相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "白川 正也",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "清 里至",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "粟津 潔貴",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "伊藤 祐助",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
   "last_updated": "2026-06-24",
-  "notes": "役員情報はウェブサイトから取得。ソーシャルプロファイルの調査が必要。"
+  "notes": "役員・相談役・顧問情報はウェブサイトから確認済み（全16名）。LinkedIn/Twitterのプロファイルは認証が必要なため確認できず。"
 }
