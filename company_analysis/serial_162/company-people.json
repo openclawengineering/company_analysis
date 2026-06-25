@@ -4,7 +4,56 @@
     "name_en": "Step Co., Ltd.",
     "website": "https://www.step-japan.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "小黒雅己",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "伊藤満",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "﨑村裕樹",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "神宮司誠",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鈴木秀之",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "下里亮",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-25"
 }

@@ -9,4 +9,4 @@
 
 ## Company Mentions
 
-(Company mentions research pending)
+- **Company research needed** — Actual company mentions research pending (web search tools unavailable)

@@ -1,21 +1,21 @@
 {
   "company": {
-    "name_jp": "株式会社ソフテム",
-    "name_en": "Softem Co., Ltd. (Kawasaki)",
-    "website": "https://www.softem.co.jp/"
+    "name_jp": "アークシステム株式会社",
+    "name_en": "ARK SYSTEM",
+    "website": "https://www.ark-sys.co.jp/"
   },
   "people": [
     {
-      "name": "山崎武志",
-      "title": "代表取締役",
+      "name": "小栁",
+      "title": "代表取締役 最高経営責任者",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "常山勝彦",
-      "title": "創業者・相談役",
+      "name": "斎藤",
+      "title": "取締役 最高執行責任者",
       "linkedin": null,
       "twitter": null,
       "department": "",

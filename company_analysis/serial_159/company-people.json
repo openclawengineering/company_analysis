@@ -4,7 +4,96 @@
     "name_en": "Sky Limit Co., Ltd.",
     "website": "http://www.sky-limit.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "高木健児",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡来賢",
+      "title": "代表取締役専務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "桝谷千恵美",
+      "title": "システムエンジニア総務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片田雄太",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "立石翔一",
+      "title": "システムエンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三浦頼",
+      "title": "システムエンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石橋佑介",
+      "title": "システムエンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "石井里佳",
+      "title": "システムエンジニア",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松山希美",
+      "title": "人事部",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "髙瀨直人",
+      "title": "2026年度入社 新卒",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "ネイリンチョー",
+      "title": "2026年度入社 新卒",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-25"
 }

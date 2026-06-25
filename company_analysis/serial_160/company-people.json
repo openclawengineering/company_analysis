@@ -4,7 +4,40 @@
     "name_en": "Presight Co., Ltd.",
     "website": "https://www.presight.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "小田泰久",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "廣田正晴",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大塚隆夫",
+      "title": "取締役非常勤",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉田勧",
+      "title": "監査役非常勤",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-25"
 }

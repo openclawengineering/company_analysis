@@ -4,7 +4,16 @@
     "name_en": "Sogo Keikaku Co., Ltd.",
     "website": "http://www.kk-sogokikaku.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "佐々木由太郎",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-25"
 }
