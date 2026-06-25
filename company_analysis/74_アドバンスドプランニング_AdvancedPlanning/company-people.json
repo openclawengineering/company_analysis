@@ -1,23 +1,24 @@
 {
-    "company": {
-        "name_jp": "有限会社アドバンプランニング",
-        "name_en": "Ad-Van Planning Co., Ltd.",
-        "website": "https://www.ad-planning.co.jp"
-    },
-    "people": [
-        {
-            "name": "栗山浩",
-            "name_ja": "栗山浩",
-            "title": "代表取締役",
-            "title_ja": "代表取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": "ad-plan@bell.ocn.ne.jp"
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-06-20",
-    "data_source": "official_website",
-    "notes": "Civil engineering company based in Fukuoka. May not be KIA member."
+  "company": {
+    "name_jp": "有限会社アドバンプランニング",
+    "name_en": "Ad-Van Planning Co., Ltd.",
+    "website": "https://www.ad-planning.co.jp"
+  },
+  "people": [
+    {
+      "name": "栗山浩",
+      "name_ja": "栗山浩",
+      "title": "代表取締役",
+      "title_ja": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "ad-plan@bell.ocn.ne.jp"
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-25",
+  "data_source": "official_website",
+  "notes": "Civil engineering company based in Fukuoka. May not be KIA member.",
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
 }
