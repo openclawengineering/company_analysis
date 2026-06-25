@@ -4,8 +4,96 @@
     "name_en": "IST Software Co., Ltd.",
     "website": "http://www.ist-software.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "瀬端 伸一",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小松 貴宏",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉澤 誠",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "立島 直記",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐伯 友道",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "今井 克幸",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小山 真一",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "木上 望",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "黒瀨 猶志郎",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "五十嵐 由紀夫",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "福井 秀和",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-23",
-  "research_notes": "Initial directory created. Website needs to be scraped for executive information and company details."
+  "last_updated": "2026-06-25"
 }
