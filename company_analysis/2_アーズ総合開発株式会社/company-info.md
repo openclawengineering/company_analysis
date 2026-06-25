@@ -71,5 +71,13 @@
 
 ## Company Mentions
 
-- **アーズ総合開発株式会社公式サイト** — 2026-04-16 — 【契約終了済みの社内受託案件を簡易詳細ページに追記】([http://www.arz.co.jp/](http://www.arz.co.jp/))
-- **アーズ総合開発株式会社公式サイト** — 2024-08-01 — 【代表者挨拶】([http://www.arz.co.jp/](http://www.arz.co.jp/))
+- **アーズ総合開発株式会社公式サイト** — 2026-04-16 — 【各省庁様等の契約終了済みの社内受託案件を簡易詳細ページに追記】([https://www.arz.co.jp/](https://www.arz.co.jp/))
+- **アーズ総合開発株式会社公式サイト** — 2025-01 — 【第20期決算報告終了（黒字）、21期連続黒字経営を達成】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2024-08 — 【ISO9001取得（適用範囲：システム部）】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2024-02 — 【第19期決算報告終了（黒字）、19期平均残業時間8.26時間・有休消化率103.43%】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2022-07 — 【ISO27001取得（適用範囲：システム部）】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2021-01 — 【プライバシーマーク更新】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2019-09 — 【資本金を3,100万円に増資】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2018-12 — 【神奈川県情報サービス産業協会に入会】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2018-08 — 【プライバシーマーク取得】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))
+- **アーズ総合開発株式会社公式サイト** — 2017-11 — 【商工会議所に入会・顧問団選定】([https://www.arz.co.jp/schedule/](https://www.arz.co.jp/schedule/))

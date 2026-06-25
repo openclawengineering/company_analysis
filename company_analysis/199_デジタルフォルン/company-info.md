@@ -65,3 +65,7 @@
 ## SNS
 
 - note: https://note.com/digital_vorn
+
+## Company Mentions
+
+_会社ウェブサイトのニュースセクションに記載が見当たりませんでした。会社の正式なプレスリリースやニュースについては、直接お問い合わせください。_

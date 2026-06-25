@@ -58,3 +58,7 @@
 
 - Facebook: https://www.facebook.com/delta.group.jp/
 - Twitter: https://twitter.com/O_DELTAGROUP
+
+## Company Mentions
+
+_会社ウェブサイトから特定のニュース・プレスリリース情報は見つかりませんでした。_

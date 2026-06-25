@@ -42,3 +42,7 @@
 ## 取引銀行
 
 三井住友銀行、三菱UFJ銀行、みずほ銀行、横浜銀行、川崎信用金庫
+
+## Company Mentions
+
+- **ネットリサーチ株式会社** — 2026-06-11 — Webサイト内の古い記載を更新 ([https://nrc-corp.jp/2026/06/11/site-renewal/](https://nrc-corp.jp/2026/06/11/site-renewal/))

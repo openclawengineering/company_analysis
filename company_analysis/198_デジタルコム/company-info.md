@@ -79,3 +79,16 @@
 - ISMS認証取得（ISMS/0393）
 - プライバシーマーク取得
 - 省庁統一資格（一般競争入札資格）取得
+
+## Company Mentions
+
+- **デジタルコム株式会社** — 2026-04-06 — マイナビへのリンクを更新しました (https://job.mynavi.jp/28/pc/search/corp81516/outline.html)
+- **デジタルコム株式会社** — 2026-04-06 — 採用情報－募集要項を更新しました (https://www.digital-com.com/recruit/guideline.html)
+- **デジタルコム株式会社** — 2025-08-07 — 組織図-加入団体を更新しました (https://www.digital-com.com/company.html)
+- **デジタルコム株式会社** — 2025-04-10 — マイナビへのリンクを更新しました (https://job.mynavi.jp/27/pc/search/corp81516/outline.html)
+- **デジタルコム株式会社** — 2025-04-10 — 採用情報-募集要項を更新しました (https://www.digital-com.com/recruit/guideline.html)
+- **デジタルコム株式会社** — 2025-04-10 — 情報セキュリティ基本方針を更新しました (https://www.digital-com.com/securitypolicy.html)
+- **デジタルコム株式会社** — 2024-09-19 — ホームページリニューアル、採用サイト新設しました
+- **デジタルコム株式会社** — 2024-06-26 — 採用情報-募集要項を更新しました (https://www.digital-com.com/recruit/guideline.html)
+- **デジタルコム株式会社** — 2024-06-26 — マイナビへのリンクを更新しました (https://job.mynavi.jp/26/pc/search/corp81516/outline.html)
+- **デジタルコム株式会社** — 2023-02-09 — 採用情報-募集要項を更新しました (https://www.digital-com.com/recruit/guideline.html)

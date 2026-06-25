@@ -42,3 +42,11 @@
 - 2024年8月: 神奈川東部職業能力開発推進協議会に加入
 - 2021年4月: 高度情報技術活用コンソーシアム(AITUC)に加入
 - 2021年3月: SDGsの取組を開始
+
+## Company Mentions
+
+- **株式会社ハクエイ** — 2026-04-29 — 採用情報ページをリニューアル ([https://www.hakuei-net.co.jp/saiyo.html](https://www.hakuei-net.co.jp/saiyo.html))
+- **株式会社ハクエイ** — 2025-05-02 — 神奈川県情報サービス産業協会に加入 ([https://www.hakuei-net.co.jp/](https://www.hakuei-net.co.jp/))
+- **株式会社ハクエイ** — 2024-08-01 — 神奈川東部職業能力開発推進協議会に加入 ([https://www.hakuei-net.co.jp/](https://www.hakuei-net.co.jp/))
+- **株式会社ハクエイ** — 2021-04-01 — 高度情報技術活用コンソーシアム（AITUC）に加入 ([https://www.hakuei-net.co.jp/](https://www.hakuei-net.co.jp/))
+- **株式会社ハクエイ** — 2020-07-15 — Sky株式会社から感謝状を受賞 ([https://www.hakuei-net.co.jp/](https://www.hakuei-net.co.jp/))

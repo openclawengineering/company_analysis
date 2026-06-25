@@ -53,3 +53,9 @@
 - 2010年: Doctor Web Pacificと国内一次代理店契約
 - 2014年: プライバシーマーク取得
 - 2023年: ソニーマーケティング株式会社と特約店契約
+
+## Company Mentions
+
+- **株式会社ネットフォレスト** — 2026-06-02 — かもめインターネットサービス開始30周年 ([https://www.netforest.ad.jp/topics/2026/20260602.html](https://www.netforest.ad.jp/topics/2026/20260602.html))
+- **株式会社ネットフォレスト** — 2025-10-08 — MTDDC Meetup Tokyo 2025にBronzeサポーターとして協賛 ([https://www.netforest.ad.jp/topics/2025/20251008.html](https://www.netforest.ad.jp/topics/2025/20251008.html))
+- **株式会社ネットフォレスト** — 2025-09-05 — JAIPA Cloud Conference 2025にシルバースポンサーとして協賛 ([https://www.netforest.ad.jp/topics/2025/20250905.html](https://www.netforest.ad.jp/topics/2025/20250905.html))

@@ -44,3 +44,10 @@
 - 一般社団法人 ドローン減災士協会
 - 一般社団法人 神奈川県情報サービス産業協会
 - 一般社団法人 BPS横須賀
+
+## Company Mentions
+
+- **ドローン・アイティー株式会社** — 2026-06-05 — 「第3回 SPEXA -【国際】宇宙ビジネス展-」ご来場お礼 ([https://www.drone-it.jp/archives/1843](https://www.drone-it.jp/archives/1843))
+- **ドローン・アイティー株式会社** — 2026-05-16 — 「自治体・公共Week 2026」ご来場お礼 ([https://www.drone-it.jp/archives/1835](https://www.drone-it.jp/archives/1835))
+- **ドローン・アイティー株式会社** — 2026-05-13 — 「第11回 Japan Drone 2026」出展のお知らせ ([https://www.drone-it.jp/archives/1830](https://www.drone-it.jp/archives/1830))
+- **ドローン・アイティー株式会社** — 2025-09-25 — 第30回かわさきロボット競技大会に協賛 ([https://www.drone-it.jp/archives/1310](https://www.drone-it.jp/archives/1310))

@@ -90,3 +90,7 @@
 - 新横浜ソフトウェア開発センター: https://sysdec.jp
 - 新横浜プログラミング教室: https://sy-programming-school.jp
 - achubi: https://achubi.jp
+
+## Company Mentions
+
+- **ITコーディネータ協会** — 2021-11-05 — ITコーディネータ協会20周年記念表彰 優秀賞を受賞 ([https://tetsuei-japan.co.jp/](https://tetsuei-japan.co.jp/))

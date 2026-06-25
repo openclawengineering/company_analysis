@@ -88,3 +88,7 @@
 ## SNS
 
 - Instagram: https://www.instagram.com/techno_research/
+
+## Company Mentions
+
+- **株式会社テクノリサーチ** — 2026-03-01 — 2027年採用情報のお知らせ (https://www.techno-recruit.com/)

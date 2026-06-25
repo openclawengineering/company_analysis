@@ -45,3 +45,11 @@
 
 **監査役＜非常勤＞**
 - 飯澤 聡明（いいざわ としあき）
+
+## Company Mentions
+
+- **東芝デジタルエンジニアリング株式会社** — 2026-05-22 — 「第2回［関西］製造業 人手不足対策 EXPO」に出展 ([https://www.toshiba-tden.co.jp/info/news/006040.htm](https://www.toshiba-tden.co.jp/info/news/006040.htm))
+- **東芝デジタルエンジニアリング株式会社** — 2026-04-28 — データ流出防止対策「Fortra DLP」販売開始の記事が日本経済新聞に掲載 ([https://www.toshiba-tden.co.jp/info/news/006027.htm](https://www.toshiba-tden.co.jp/info/news/006027.htm))
+- **東芝デジタルエンジニアリング株式会社** — 2026-04-23 — 生成AIからの意図せぬ機密情報漏えいを防止「Fortra DLP」を販売開始 ([https://www.toshiba-tden.co.jp/info/news/005991.htm](https://www.toshiba-tden.co.jp/info/news/005991.htm))
+- **東芝デジタルエンジニアリング株式会社** — 2026-04-06 — 女性活躍推進企業として「えるぼし認定（3段階目）」を取得 ([https://www.toshiba-tden.co.jp/info/news/006005.htm](https://www.toshiba-tden.co.jp/info/news/006005.htm))
+- **東芝デジタルエンジニアリング株式会社** — 2025-06-09 — Active Directoryマイグレーションサービスを販売開始 ([https://www.toshiba-tden.co.jp/info/news/005780.htm](https://www.toshiba-tden.co.jp/info/news/005780.htm))

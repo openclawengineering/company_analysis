@@ -67,3 +67,9 @@
 - 2009年4月: 廣木英雄が代表取締役に就任
 - 2022年11月: 金港町に移転
 - 2025年4月: サンアクセス株式会社と合併
+
+## Company Mentions
+
+- **株式会社パシオン** — 2026-06-11 — パシオン通信【春号】を掲載 ([https://www.pasion.co.jp/tuushin.htm](https://www.pasion.co.jp/tuushin.htm))
+- **株式会社パシオン** — 2025-04-01 — サンアクセス株式会社と合併 ([https://www.pasion.co.jp/kanpo.pdf](https://www.pasion.co.jp/kanpo.pdf))
+- **株式会社パシオン** — ISO27001認証取得 ([https://www.pasion.co.jp/](https://www.pasion.co.jp/))

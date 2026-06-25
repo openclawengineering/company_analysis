@@ -60,3 +60,14 @@
 - 経済産業省による「健康経営優良法人2026（大規模法人部門）」に認定
 - 「打刻ちゃんTouch2022」がビジトラAwardの勤怠管理部門にて「低コストNo.1」を受賞
 - スポーツ庁による「スポーツエールカンパニー」に認定
+
+## Company Mentions
+
+- **経済産業省** — 2026-03-26 — 「健康経営優良法人2026（大規模法人部門）」に認定されました (https://www.dps-net.co.jp/information/info-20260326.php)
+- **スポーツ庁** — 2026-01-30 — 「スポーツエールカンパニー」に認定されました (https://www.dps-net.co.jp/information/info-20260130.php)
+- **ビジトラAward** — 2025-05-20 — 「打刻ちゃんTouch2022」が勤怠管理部門にて「低コストNo.1」を受賞 (https://bizitora.jp/award/attendance-management/)
+- **かわさきSDGsゴールドパートナー** — 2024-07-30 — 認証を更新しました (https://www.dps-net.co.jp/information/info-20240730.php)
+- **帝国データバンク** — 2024-03-05 — 帝国ニュース神奈川県版にて取り組みと製品が紹介されました
+- **川崎商工会議所機関誌「かいぎしょ」** — 2024-04-01 — 代表が紹介されました (https://www.kawasaki-cci.or.jp/wp-content/uploads/2024/04/kaigisho202404_merged.pdf)
+- **かわさき☆えるぼし** — 2023-01-24 — 認証を更新しました (https://www.dps-net.co.jp/information/info-20230124.php)
+- **川崎市** — 2023-08-01 — 「小学生のためのお仕事ノート」（2023年度版）に掲載されました (https://www.dps-net.co.jp/information/info-20230801.php)

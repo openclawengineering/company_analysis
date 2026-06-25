@@ -60,3 +60,8 @@
 
 - 2026/04/07: Quantum Mesh社の液浸冷却システム搭載分散型エッジデータセンターの取扱い開始
 - 2026/03/06: ネットチャートとサイバーコア、IoT・AI分野で協業開始
+
+## Company Mentions
+
+- **ネットチャート株式会社** — 2026-06-25 — 産業オープンネット展2026に出展（7/7、9/11） ([https://www.ncj.co.jp/news/entry-136.html](https://www.ncj.co.jp/news/entry-136.html))
+- **ネットチャート株式会社** — 2026-04-07 — Quantum Mesh社の液浸冷却システム搭載分散型エッジデータセンターの取扱い開始 ([https://www.ncj.co.jp/news/entry-135.html](https://www.ncj.co.jp/news/entry-135.html))

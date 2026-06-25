@@ -45,3 +45,16 @@
 
 ## 主要取引銀行
 みずほ銀行 銀座支店、三菱UFJ銀行 新富町支店、三井住友銀行 築地支店
+
+## Company Mentions
+
+- **中小企業庁** — 2026-04-20 — 「１００億宣言」に参画しました (https://takes.ne.jp/news/information/1006/)
+- **株式会社テイクス** — 2026-04-01 — 健康優良企業「銀の認定」を更新しました (https://takes.ne.jp/news/information/934/)
+- **株式会社テイクス** — 2026-03-23 — 「柏サテライトオフィス」を開設しました (https://takes.ne.jp/news/corporate-news/1016/)
+- **株式会社テイクス** — 2026-02-16 — 「INTLOOPグループ レディースカップ2026」に協賛しました (https://takes.ne.jp/news/information/527/)
+- **株式会社テイクス** — 2026-02-02 — 「立川サテライトオフィス」を開設しました (https://takes.ne.jp/news/corporate-news/544/)
+- **株式会社テイクス** — 2026-01-05 — 「町田サテライトオフィス」を開設しました (https://takes.ne.jp/news/corporate-news/512/)
+- **厚生労働省** — 2025-11-05 — 全省庁統一資格を取得しました (https://takes.ne.jp/news/information/7/)
+- **株式会社テイクス** — 2025-08-15 — 女性活躍推進「えるぼし」の認定を取得しました (https://takes.ne.jp/news/recruit-news/14/)
+- **株式会社テイクス** — 2025-08-13 — プロゴルファー・西澤歩未選手とのスポンサー契約締結のお知らせ (https://takes.ne.jp/news/information/18/)
+- **株式会社テイクス** — 2025-08-07 — 事業譲り受けに関するお知らせ (https://takes.ne.jp/news/information/11/)

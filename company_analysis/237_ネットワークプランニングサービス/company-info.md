@@ -44,3 +44,9 @@ H2H Communications（Heart to Heart Communications）をコンセプトに、「
 - 藤沢市川名医療ビル
 - 釜石市復興ライブカメラ
 - casetta
+
+## Company Mentions
+
+- **ネットワークプランニングサービス株式会社** — 2015-11-05 — 介護用見守りシステム「見守ろう」が神奈川県の高齢者見守りサービス実施企業一覧に掲載 ([https://www.nps-inc.jp/](https://www.nps-inc.jp/))
+- **ネットワークプランニングサービス株式会社** — 2013-03-19 — 釜石市復興ライブカメラ（環境戦士 見守朗）の目録を釜石市長に贈呈 ([https://www.nps-inc.jp/130319news.html](https://www.nps-inc.jp/130319news.html))
+- **ネットワークプランニングサービス株式会社** — 2009-11 — 「iあんど」ビジネスオーディション受賞 ([https://www.nps-inc.jp/](https://www.nps-inc.jp/))

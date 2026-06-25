@@ -42,3 +42,9 @@
 - 業界に精通した専門コンサルタントが現場の課題に対応
 - 人材育成支援プラットフォーム「STePL（ステップル）」商標登録
 - 海外に特化した人材紹介事業「HR BURIZZI」
+
+## Company Mentions
+
+- **日本コンサルタントグループ（ニッコン）** — 2026-03-30 — 日本ショッピングセンター協会主催カスタマーハラスメントセミナーに講師登壇 ([https://www.niccon.co.jp/oshirase/](https://www.niccon.co.jp/oshirase/))
+- **日本コンサルタントグループ（ニッコン）** — 2025-07-16 — 人材育成支援プラットフォーム「STePL（ステップル）」商標登録完了 ([https://www.niccon.co.jp/oshirase/](https://www.niccon.co.jp/oshirase/))
+- **日本コンサルタントグループ（ニッコン）** — 2025-06-01 — 日本ショッピングセンター協会「SC JAPAN TODAY 2025年6月号」にカスタマーハラスメント記事掲載 ([https://www.niccon.co.jp/oshirase/](https://www.niccon.co.jp/oshirase/))

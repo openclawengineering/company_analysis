@@ -2,110 +2,47 @@
 
 ## 会社概要
 
-- **商号**: ディエスソリューション株式会社
-- **英名**: DS SOLUTION Inc.
-- **所在地**: 〒105-6004 東京都港区虎ノ門４−３−１ 城山トラストタワー４F Cozy Works Kamiyacho
-- **TEL**: 050-1725-2505
-- **会社設立**: 2022年1月20日
+- **社名**: ディエスソリューション株式会社
+- **英文名**: DS SOLUTION Inc.
+- **ホームページ**: https://www.dssolution.jp
+- **設立**: 2022年1月20日
 - **資本金**: 2,700万円
-- **取引金融機関**: 三菱ＵＦＪ銀行
+- **代表取締役**: 橋本武
+- **東京オフィス**: 〒105-6004 東京都港区虎ノ門4-3-1 城山トラストタワー4F Cozy Works Kamiyacho
+- **TEL**: 050-1725-2505
+- **取引金融機関**: 三菱UFJ銀行
 
-## 役員
-
-- 代表取締役: 橋本武
+## ベトナム拠点
+DS Solution Vietnam., JSC - 5F Rainbow Building, 19/5 Street, Van Quan, Ha Dong, Hanoi, Vietnam
 
 ## 事業内容
+日本とベトナムを拠点にする専属開発チームを世界中の企業に提供。
 
-### 1. エンジニアリングプラットフォーム
+### エンジニアリングプラットフォーム
+サービス系および業務系のWebシステム、モバイルアプリケーション、プラグイン等の開発支援から運用・保守まで一貫して提供。
 
-サービス系および業務系のWebシステム、モバイルアプリケーション、プラグイン等の開発支援から運用・保守まで一貫して提供しています
+### プロダクト＆ソリューションプラットフォーム
+コラボレーションと生産性を向上させる自社開発製品を開発・提供。
 
-### 2. プロダクト＆ソリューションプラットフォーム
+### サービス
+- Webシステム・アプリ開発（要件定義から開発、保守まで）
+- クラウドソリューション（Google Cloud・AWS）
+- オフショア開発
+- SaaS・エコシステム（Salesforce、Atlassianアプリ）
 
-コラボレーションと生産性を向上させる自社開発製品を開発・提供しています
-
-## サービス
-
-### Webシステム・アプリ開発
-
-要件定義から開発、保守までトータルでサポートします。
-
-### クラウドソリューション
-
-Google Cloud・AWSにおける技術的なご相談を承ります。
-
-### SaaS・エコシステム
-
-Salesforceでアプリ開発や、Atlassianアプリを構築します。
-
-## オフショア開発
-
-プロジェクトの規模や人材要件に合わせて専属の開発チームを形成し、継続的に支援します。
-
-## 選ばれる理由
-
-### Google Cloud、Atlassian からパートナー認定を取得しました
-
-会社設立1年で世界的にトップレベルのクラウドプロバイダからパートナーに認定されました。クラウド導入・設計・運用ノウハウや実績が評価されました。
-
-## ニュース
-
-- 2025-12-12: 2025〜2026年末年始休業のお知らせ
-- 2025-08-06: 2025 社員旅行レポ｜自然と笑顔に包まれた熱海の旅
-- 2025-04-23: アトラシアンのゴールドソリューションパートナーに認定のお知らせ
-
-## アクセス
-
-### 本社
-
-〒105-6004 東京都港区虎ノ門４−３−１城山トラストタワー４F Cozy Works Kamiyacho
-- 東京メトロ日比谷線「神谷町」駅、神谷町MTビル出口より徒歩5分
-- 東京メトロ南北線「六本木一丁目」駅、泉ガーデン出口より徒歩8分
-
-### 開発拠点
-
-DS Solution Vietnam., JSC
-5F Rainbow Building, 19/5 Street, Van Quan, Ha Dong, Hanoi City, Vietnam
+## パートナー認定
+- Google Cloud パートナー
+- Atlassian ゴールドソリューションパートナー
 
 ## ソーシャルメディア
-
 - Facebook: https://www.facebook.com/dssjp
 - Twitter: https://twitter.com/DSSolution8
 - LinkedIn: https://www.linkedin.com/company/dsscompany
 - note: https://note.com/dssolution
 
-## 開発事例
+## Company Mentions
 
-- ソフトウェア開発事例
-- IoTアプリ開発事例
-- Atlassianエコシステム開発事例
-- Salesforce開発事例
-
-## ブログ
-
-- DX Ready
-- 技術インサイト
-- オフショア開発
-
-## 主要クライアント
-
-- Ricksoft
-- Medidas
-- Asilla
-- Dreamforce Vietnam
-- Laniakea Tech
-- Circu
-
-## 会社理念
-
-変化の時代、高速開発を
-
-従来のビジネスの常識が通用しない時代、当社はアジャイル x オフショア開発を通してお客様のDXと事業成長を支援します。
-
-### 当社について
-
-私たちは、日本とベトナムを拠点にする専属開発チームを世界中の企業に提供いたします。
-
-### サービス
-
-日本とベトナムのエンジニアリソースを活用し、システムの構築から運用までワンストップでサービスを提供しています。
+- **Atlassian** — 2022-09-08 — DS Solution Vietnam announces partnership with Atlassian (https://www.dssolution.jp/en/announcement-ds-solution-vietnam-becomes-atlassian-silver-solution-partner/)
+- **Google Cloud** — 不明 — Google Cloudパートナー認定取得（設立から1年以内）
+- **DS SOLUTION, INC.** — 2023-08-05 — Vietnam ODC – Change of Legal Representative (https://www.dssolution.jp/en/notice-vietnam-odc-change-of-legal-representative/)
+- **DS SOLUTION, INC.** — 2023-06-19 — Vietnam ODC – Hanoi Office Relocation (https://www.dssolution.jp/en/notice-vietnam-odc-hanoi-office-relocation/)

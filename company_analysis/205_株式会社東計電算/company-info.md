@@ -39,3 +39,8 @@
 ### 企業理念
 
 お客様のNEEDSとIT SEEDSをつなぐ
+
+## Company Mentions
+
+- **東計電算** — 2026-05-25 — 「九州教育現場支援EXPO」に出展 ([https://www.toukei.co.jp/260525-news/](https://www.toukei.co.jp/260525-news/))
+- **東計電算** — 2026-05-07 — 株式の立会外分売に関するお知らせ ([https://www.toukei.co.jp/260507-ir-news/](https://www.toukei.co.jp/260507-ir-news/))

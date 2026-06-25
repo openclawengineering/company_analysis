@@ -39,3 +39,10 @@ DS Solution Vietnam., JSC - 5F Rainbow Building, 19/5 Street, Van Quan, Ha Dong,
 - Twitter: https://twitter.com/DSSolution8
 - LinkedIn: https://www.linkedin.com/company/dsscompany
 - note: https://note.com/dssolution
+
+## Company Mentions
+
+- **Atlassian** — 2022-09-08 — DS Solution Vietnam announces partnership with Atlassian (https://www.dssolution.jp/en/announcement-ds-solution-vietnam-becomes-atlassian-silver-solution-partner/)
+- **Google Cloud** — 不明 — Google Cloudパートナー認定取得（設立から1年以内）
+- **DS SOLUTION, INC.** — 2023-08-05 — Vietnam ODC – Change of Legal Representative (https://www.dssolution.jp/en/notice-vietnam-odc-change-of-legal-representative/)
+- **DS SOLUTION, INC.** — 2023-06-19 — Vietnam ODC – Hanoi Office Relocation (https://www.dssolution.jp/en/notice-vietnam-odc-hanoi-office-relocation/)

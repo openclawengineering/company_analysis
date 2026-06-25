@@ -53,3 +53,9 @@
 - 2013年5月: 横浜市中区常盤町に事務所移転
 - 2015年11月: 横浜市神奈川区三ツ沢中町に事務所移転
 - 2021年5月: プライバシーマーク取得
+
+## Company Mentions
+
+- **ハイライズ株式会社** — 2025-04 — プライバシーマーク更新 ([https://www.hirise.co.jp/](https://www.hirise.co.jp/))
+- **ハイライズ株式会社** — 2013-01 — 作業現場出退管理システム「Smart One Call」リリース ([https://www.hirise.co.jp/](https://www.hirise.co.jp/))
+- **ハイライズ株式会社** — 2009-11 — 「iあんど」ビジネスオーディション受賞 ([https://www.hirise.co.jp/](https://www.hirise.co.jp/))

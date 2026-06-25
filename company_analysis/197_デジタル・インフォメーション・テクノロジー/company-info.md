@@ -47,3 +47,18 @@
 ## パーパス
 
 「進歩」を続けるデジタル社会（変化）をITの力（対応力）で支え、人々の生活を豊かに。
+
+## Company Mentions
+
+- **ISTQB** — 2026-06-05 — 国際ソフトウェアテスト資格「ISTQB Platinum Partner」に認定 (https://www.ditgroup.jp/news/2026/260605_PressRelease.html)
+- **ダイヤモンド・ビジョナリー** — 2026-06-08 — ビジネスソリューションカンパニーの事業紹介が掲載されました (https://www.diamondv.jp/article/6BNDR9tYMHsnZZWHGffwKb)
+- **北海道松前郡松前町** — 2026-06-15 — DX推進に向け包括連携協定式を6月29日開催 (https://www.ditgroup.jp/news/2026/260615_PressRelease.html)
+- **デジタル・インフォメーション・テクノロジー株式会社** — 2026-06-24 — 代表取締役社長執行役員 市川聡が「サクセッションMEETs30」に登壇しました (https://www.ditgroup.jp/news/2026/260625_PressRelease.html)
+- **株式会社インベストメントブリッジ** — 2026-06-04 — IRレポートが公表されました (https://www.bridge-salon.jp/report_bridge/archives/2026/06/260603_3916.html)
+- **三菱UFJ eスマート証券** — 2026-06-04 — 個人投資家向けオンライン企業IRセミナーを開催
+- **LEADERS'AWARD2026** — 不明 — LEADERS'AWARD2026に掲載されました (https://www.leaders-award.jp/2026/entryia3zb.html)
+- **社長の名は** — 不明 — リニューアルされました (https://shachono-nawa.com/company/ow3v6jiy5)
+- **BS11「サスティナブルの羅針盤」** — 不明 — 市川聡愛媛カンパニーでの地方創生の取組みを出演
+- **日経CNBC『時代のNEW WAVE』** — 不明 — 市川聡 時代の先を読む自社商品を出演
+- **かぶこブリッジ** — 不明 — 26万人以上のXフォロワーを持つインフルエンサーたけぞう氏との対談動画が公開されました (https://kabu.bridge-salon.jp/3916-interview/)
+- **社長名鑑** — 不明 — 目指すは売上高500億円。「カンパニー制」で切り拓く新たな未来 (https://shachomeikan.jp/presidents/detail/10062976)
