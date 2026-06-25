@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "株式会社スカイリミット",
+    "name_en": "Sky Limit Co., Ltd.",
+    "website": "http://www.sky-limit.co.jp/"
+  },
+  "people": [
+    {
+      "name": "高木健児",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "渡来賢",
+      "title": "代表取締役専務",
+      "linkedin": null,
+      "twitter": null,
+      "department": "財務担当",
+      "email": ""
+    },
+    {
+      "name": "片田雄太",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-25"
+}

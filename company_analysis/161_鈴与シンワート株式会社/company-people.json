@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name_jp": "鈴与シンワート株式会社",
+    "name_en": "SUZUYO SHINWART CORPORATION",
+    "website": "https://www.shinwart.co.jp/"
+  },
+  "people": [
+    {
+      "name": "德田康行",
+      "title": "代表取締役 社長執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平野文康",
+      "title": "取締役 副社長執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "事業部門統括 兼 CIO 兼 CISO 兼 CQO",
+      "email": ""
+    },
+    {
+      "name": "道田隆典",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "西日本地区担当",
+      "email": ""
+    },
+    {
+      "name": "大川正",
+      "title": "取締役 執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "管理本部長",
+      "email": ""
+    },
+    {
+      "name": "大石素久",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "鈴与シンワ物流株式会社 代表取締役社長",
+      "email": ""
+    },
+    {
+      "name": "笠原茂",
+      "title": "常務執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "営業統括本部長",
+      "email": ""
+    },
+    {
+      "name": "上野山英樹",
+      "title": "常務執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "システム開発事業本部長",
+      "email": ""
+    },
+    {
+      "name": "村井暁",
+      "title": "常務執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "クラウドサービス事業本部長",
+      "email": ""
+    },
+    {
+      "name": "山地亙",
+      "title": "常務執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "HCMサービス事業本部長",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-25"
+}
