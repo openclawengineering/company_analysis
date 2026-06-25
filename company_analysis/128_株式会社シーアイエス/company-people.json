@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name_jp": "株式会社シーアイエス",
+    "name_en": "CIS Corporation",
+    "website": "https://www.cis.vc/"
+  },
+  "people": [
+    {
+      "name": "徳江清明",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤英雄",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西村恵美",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-25"
+}

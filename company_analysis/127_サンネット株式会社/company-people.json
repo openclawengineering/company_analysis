@@ -1,0 +1,83 @@
+{
+  "company": {
+    "name_jp": "サンネット株式会社",
+    "name_en": "Sunnet Co., Ltd.",
+    "website": "https://www.sunnet.co.jp/"
+  },
+  "people": [
+    {
+      "name": "市川聡",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "片岡秀文",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大田和俊彦",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "公認会計士・税理士",
+      "email": ""
+    },
+    {
+      "name": "石渡敏雄",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "税理士",
+      "email": ""
+    },
+    {
+      "name": "上村清",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "税理士",
+      "email": ""
+    },
+    {
+      "name": "水口学",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "観行宏彰",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "井上朋一",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "関根祐介",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-25"
+}
