@@ -1,10 +1,43 @@
 {
   "company": {
     "name_jp": "新明和ソフトテクノロジ株式会社",
-    "name_en": "Shinmeiwa Soft Technology Co., Ltd.",
+    "name_en": "ShinMaywa Soft Technologies, Ltd.",
     "website": "https://www.stec.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "深井浩司",
+      "title": "取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "熊谷弘之",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "芝原浩郎",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "重谷陽一",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "非常勤",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-24"
+  "last_updated": "2026-06-25"
 }

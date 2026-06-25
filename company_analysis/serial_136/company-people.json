@@ -1,1 +1,91 @@
-{"company":{"name_jp":"serial_136","name_en":"","website":""},"people":[],"social_profiles":[],"last_updated":"2026-06-22"}
+{
+  "company": {
+    "name_jp": "株式会社システムアイ",
+    "name_en": "SYSTEM I Co., Ltd.",
+    "website": "https://systemi.co.jp/"
+  },
+  "people": [
+    {
+      "name": "Kuzukawa Keisuke",
+      "title": "CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Ueno Taku",
+      "title": "Non-Executive Director",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Nishiokada Nobuhiro",
+      "title": "Non-Executive Director",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Namba Sadaaki",
+      "title": "Statutory Auditor (Non-executive)",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Goto Takeshi",
+      "title": "Executive Officer",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Tarumi Akiko",
+      "title": "Executive Officer",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Ogata Satoshi",
+      "title": "Executive Officer & CTO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Hatano Toru",
+      "title": "Advisor",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Nakata Yoshiaki",
+      "title": "Advisor",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "Shitozawa Kazunori",
+      "title": "Advisor",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-25"
+}
