@@ -22,5 +22,6 @@
       "type": "company"
     }
   ],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-25",
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
 }
