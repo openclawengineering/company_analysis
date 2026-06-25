@@ -5,12 +5,48 @@
     "website": "https://www.ata5.co.jp/"
   },
   "people": [
-    {"name": "三谷", "title": "代表取締役 兼 CEO", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "草木", "title": "取締役 兼 CFO 兼 社長室長", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "上野", "title": "取締役執行役員 兼 CTO", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "信藤", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "熊澤", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""}
+    {
+      "name": "三谷",
+      "title": "代表取締役 兼 CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "草木",
+      "title": "取締役 兼 CFO 兼 社長室長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "上野",
+      "title": "取締役執行役員 兼 CTO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "信藤",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "熊澤",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-25",
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
 }

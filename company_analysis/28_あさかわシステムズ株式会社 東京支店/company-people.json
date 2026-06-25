@@ -5,18 +5,96 @@
     "website": "https://www.a-sk.co.jp/"
   },
   "people": [
-    {"name": "三宅", "title": "代表取締役社長 / 社長執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "平野", "title": "取締役(非常勤)", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "山本", "title": "取締役 / 常務執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "三宅", "title": "取締役 / 執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "昼馬", "title": "社外取締役", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "芝﨑", "title": "社外監査役", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "森", "title": "上席執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "鳥前", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "村林", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "高岡", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""},
-    {"name": "橘", "title": "執行役員", "linkedin": null, "twitter": null, "department": "", "email": ""}
+    {
+      "name": "三宅",
+      "title": "代表取締役社長 / 社長執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "平野",
+      "title": "取締役(非常勤)",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山本",
+      "title": "取締役 / 常務執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三宅",
+      "title": "取締役 / 執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "昼馬",
+      "title": "社外取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "芝﨑",
+      "title": "社外監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "森",
+      "title": "上席執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鳥前",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "村林",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高岡",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "橘",
+      "title": "執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-25",
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
 }

@@ -5,8 +5,16 @@
     "website": "http://www.asd-net.co.jp"
   },
   "people": [
-    {"name": "渡邉", "title": "代表者", "linkedin": null, "twitter": null, "department": "", "email": ""}
+    {
+      "name": "渡邉",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-25",
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
 }
