@@ -6,6 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-23",
-  "research_notes": "Initial directory created. Website needs to be scraped for executive information and company details."
+  "last_updated": "2026-06-25",
+  "research_notes": "Initial directory created. Website needs to be scraped for executive information and company details. | Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
 }
