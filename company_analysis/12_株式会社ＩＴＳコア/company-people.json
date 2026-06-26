@@ -8,5 +8,5 @@
   "social_profiles": [],
   "last_updated": "2026-06-25",
   "notes": "Company website not accessible for management information retrieval. Web search unavailable (API key missing). No executives identified.",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing). Company website not accessible for management information retrieval."
 }
