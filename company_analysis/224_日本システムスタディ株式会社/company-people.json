@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "日本システムスタディ株式会社",
+    "name_en": "",
+    "website": "https://www.nss-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "青谷 哲也",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "古川 洋介",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "森下 隆一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "会社概要ページから役員情報を取得済み。本社は福岡で横浜は営業所。57名の従業員規模。"
+}

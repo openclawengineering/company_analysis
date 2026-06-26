@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "ネットチャート株式会社",
+    "name_en": "Net Chart Japan Inc.",
+    "website": "https://www.ncj.co.jp/"
+  },
+  "people": [
+    {
+      "name": "楠本 和弘",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "村上 浩幸",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小泉 良則",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "村田 昭夫",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "会社概要ページから全役員情報を取得済み。IIJ 100%子会社。194名。多数の許認可を取得。"
+}

@@ -1,0 +1,44 @@
+{
+  "company": {
+    "name_jp": "日本データスキル株式会社",
+    "name_en": "",
+    "website": "http://www.nds.co.jp"
+  },
+  "people": [
+    {
+      "name": "杉村 耕一",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "北川 一雄",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鈴木 伸幸",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "久保 朋一",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "会社概要ページから全役員情報を取得済み。519名、76.1億円売上の中堅IT企業。"
+}

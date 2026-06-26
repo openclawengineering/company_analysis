@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name_jp": "株式会社パシオン",
+    "name_en": "",
+    "website": "https://www.pasion.co.jp"
+  },
+  "people": [
+    {
+      "name": "廣木 英雄",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "山元 桂子",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "会社概要ページから代表者・役員・沿革情報を取得済み。代表取締役廣木英雄、資本金3,500万円。ISO9001/ISO27001認証取得。"
+}

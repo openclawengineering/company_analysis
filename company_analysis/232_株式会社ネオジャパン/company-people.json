@@ -1,0 +1,11 @@
+{
+  "company": {
+    "name_jp": "株式会社ネオジャパン",
+    "name_en": "NEOJAPAN",
+    "website": "http://www.neo.co.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "ウェブサイトがJavaScriptベースでコンテンツ取得ができず。タイトルのみ取得可能。詳細調査にはブラウザ自動化が必要。"
+}
