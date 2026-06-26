@@ -6,22 +6,31 @@
   },
   "people": [
     {
-      "name_jp": "芦澤 仁",
-      "title_jp": "代表取締役社長",
-      "title_en": "President & Representative Director"
+      "name": "芦澤 仁",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "info@andone-eng.co.jp"
     },
     {
-      "name_jp": "高橋 信春",
-      "title_jp": "取締役",
-      "title_en": "Director"
+      "name": "高橋 信春",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "清水 康",
-      "title_jp": "取締役",
-      "title_en": "Director"
+      "name": "清水 康",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company page. Executives include President & Representative Director 芦澤 仁, Director 高橋 信春, and Director 清水 康. Company established in February 2019 with capital of 30 million yen. All information sourced from official company website."
+  "research_notes": "2019年2月設立。資本金3,000万円。ISO27001取得。労働者派遣許可取得。かわさきSDGsゴールドパートナー認証。川崎市働き方改革表彰。"
 }

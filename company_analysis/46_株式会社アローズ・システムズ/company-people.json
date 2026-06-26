@@ -1,17 +1,25 @@
 {
   "company": {
     "name_jp": "株式会社アローズ・システムズ",
-    "name_en": "Arrows Systems Corp.",
+    "name_en": "Arrows Systems Co. Ltd.",
     "website": "https://www.arrows-systems.co.jp/"
   },
   "people": [
     {
-      "name_jp": "矢津 達彦",
-      "title_jp": "代表取締役社長",
-      "title_en": "President & Representative Director"
+      "name": "矢津 達彦",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
-  "social_profiles": [],
+  "social_profiles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/arrowssystems/"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company overview page. Only President & Representative Director 矢津 達彦 is listed. Other executives (directors, auditors) may exist but are not shown on this page. Company established in 1999 with 169 employees (263 including group companies). All information sourced from official company website."
+  "research_notes": "1999年2月設立。資本金6,132万円。従業員単体169名、グループ計263名。みなとみらい所在。グループ企業：株式会社宿研、株式会社良地良宿、minato coffee。"
 }
