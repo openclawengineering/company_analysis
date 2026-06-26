@@ -4,8 +4,41 @@
     "name_en": "",
     "website": "http://www.yashiba.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "本崎 勝也",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "本崎 恭代",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "本崎 勝之",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "東田 由子",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: http://www.yashiba.co.jp. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 本崎勝也. 取締役: 本崎恭代, 本崎勝之, 東田由子. 1989年創立、資本金1000万円。横浜市鶴見区（登記上）。制御系・業務系・通信系ソフトウェア開発。八芝グループ傘下。"
 }

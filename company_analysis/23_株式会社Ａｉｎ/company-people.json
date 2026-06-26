@@ -4,8 +4,17 @@
     "name_en": "",
     "website": "http://www.kk-ain.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "星澤 洋輔",
+      "title": "取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched 2026-06-26. ウェブサイト https://www.kk-ain.co.jp/ および会社概要ページを確認。代表取締役名は確認できず。人材・教育・ITサービス事業。"
+  "research_notes": "Researched 2026-06-26. 取締役社長: 星澤洋輔. 2011年設立、資本金1800万円。東京都渋谷区所在。IT事業・ソフトウェア開発・教育研修・人材派遣。"
 }

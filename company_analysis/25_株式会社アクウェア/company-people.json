@@ -4,8 +4,25 @@
     "name_en": "",
     "website": "https://www.acquware.com"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "関野 一彦",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "古田 茂雄",
+      "title": "非常勤顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched 2026-06-26. ウェブサイト https://www.acquware.com および会社情報ページを確認。神奈川県厚木市所在。代表取締役名は確認できず。システム開発・コンサルティング・技術者派遣。"
+  "research_notes": "Researched 2026-06-26. 代表取締役: 関野一彦. 非常勤顧問: 古田茂雄. 2001年設立、資本金1000万円。神奈川県厚木市所在。システム設計・ソフトウェア開発・コンサルティング・技術者派遣。従業員22名。日立システムズコアパートナー認定。"
 }

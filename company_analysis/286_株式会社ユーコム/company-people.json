@@ -4,8 +4,49 @@
     "name_en": "",
     "website": "https://www.ucm.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "今牧 一盛",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "原 知行",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西川 裕",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "今牧 弓雄",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松村 篤樹",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: https://www.ucm.co.jp. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 今牧一盛. 取締役: 原知行, 西川裕, 今牧弓雄. 監査役: 松村篤樹. 1983年設立、資本金2000万円、従業員360名。富山県射水市に本社。ISO9001/ISO27001/プライバシーマーク取得。日立・富士通・ソニー等が主要取引先。"
 }

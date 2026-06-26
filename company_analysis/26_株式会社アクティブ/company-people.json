@@ -4,8 +4,17 @@
     "name_en": "",
     "website": "http://www.active-web.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "野村 賢治",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched 2026-06-26. ウェブサイト http://www.active-web.co.jp/ およびkaisyaページを確認。代表取締役名は確認できず。"
+  "research_notes": "Researched 2026-06-26. 代表取締役: 野村賢治. 1996年設立、資本金2000万円。横浜市瀬谷区所在。アウトソーシング・IT人材派遣事業。ハタラクエール認証。"
 }

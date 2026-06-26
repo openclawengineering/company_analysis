@@ -4,8 +4,25 @@
     "name_en": "",
     "website": "http://hokuto-jpn.com/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "石村 龍二",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宮島 章",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched 2026-06-26. ウェブサイト http://hokuto-jpn.com/ およびcompanyページを確認。代表取締役名は確認できず。"
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 石村龍二. 専務取締役: 宮島章. 2012年設立、資本金1000万円。秋田県横手市に本社、横浜・山形・東京に事業所。EMS（電子機器受託製造）事業。製造子会社: LINNK・TOKYO HOKUTO。"
 }
