@@ -1,11 +1,20 @@
 {
   "company": {
     "name_jp": "株式会社アルファメディア",
-    "name_en": "Alpha Media Corporation",
+    "name_en": "Alphamedia Co., Ltd.",
     "website": "http://www.alphamedia.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "小湊 宏之",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アルファメディア. People found: 0. Website: http://www.alphamedia.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "1992年3月設立。資本金5,000万円。2022年3月創立30周年。ハードウェア・ソフトウェア開発、Web制作、IT人材派遣、富士通オープンカレッジ武蔵小杉校運営。関連会社：株式会社アルファメディアテクノロジー。"
 }

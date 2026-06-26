@@ -1,11 +1,25 @@
 {
   "company": {
     "name_jp": "株式会社アルネッツ",
-    "name_en": "Arnetz Corporation",
+    "name_en": "Alnetz Inc.",
     "website": "https://alnetz.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "渡邉 輝明",
+      "title": "代表取締役社長 CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/alnetz_official/"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アルネッツ. People found: 0. Website: https://alnetz.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "1998年設立。Cloud・IoT・Low Code・AIを手がけるDXパートナー。Mendix内製化支援。会社概要ページに役員詳細なし、トップメッセージから代表者名を確認。"
 }

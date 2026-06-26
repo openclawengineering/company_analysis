@@ -1,32 +1,44 @@
 {
   "company": {
     "name_jp": "株式会社アプリコット",
-    "name_en": "Apricot Corporation",
+    "name_en": "Apricot Co., Ltd.",
     "website": "https://www.apricotinc.co.jp/"
   },
   "people": [
     {
-      "name_jp": "畠山 英俊",
-      "title_jp": "代表取締役社長",
-      "title_en": "President & Representative Director"
+      "name": "畠山 英俊",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "畠山 欽伍",
-      "title_jp": "取締役",
-      "title_en": "Director"
+      "name": "畠山 欽伍",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "山田 幸子",
-      "title_jp": "取締役兼執行役員",
-      "title_en": "Director & Executive Officer"
+      "name": "山田 幸子",
+      "title": "取締役兼執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "前川 明宏",
-      "title_jp": "監査役",
-      "title_en": "Auditor"
+      "name": "前川 明宏",
+      "title": "監査役（税理士）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company profile page. Executives include President 畠山 英俊, Director 畠山 欽伍, Director & Executive Officer 山田 幸子, and Auditor 前川 明宏. All information sourced from official company website."
+  "research_notes": "1971年設立の老舗。資本金9,000万円、従業員280名。システム開発・第三者検証・プロジェクト支援・データ入力。ユーオス・グループ加盟。ISO9001/ISO27001取得。"
 }

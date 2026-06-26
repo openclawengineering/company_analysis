@@ -1,17 +1,33 @@
 {
   "company": {
     "name_jp": "アリサフテック・ジャパン株式会社",
-    "name_en": "AriSaf Tech Ltd.",
+    "name_en": "AriSaf Tech Japan Co., Ltd.",
     "website": "https://arisaftech.co.jp/"
   },
   "people": [
     {
-      "name_jp": "アブドゥラー・タリク",
-      "title_jp": "代表取締役",
-      "title_en": "Representative Director"
+      "name": "アブドゥラー・タリク",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "info@arisaftech.com"
     }
   ],
-  "social_profiles": [],
+  "social_profiles": [
+    {
+      "platform": "Twitter/X",
+      "url": "https://x.com/AriSafTechLtd"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/AriSafTech"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/arisaf-tech-ltd"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company profile page. Representative Director is アブドゥラー・タリク. Company has 4 employees in Japan and 18 in Bangladesh as of June 2022. All information sourced from official company website."
+  "research_notes": "2019年6月設立。バングラデシュ・ダッカにオフィスを持つオフショア開発会社。日本国内4名＋バングラデシュ18名。Webアプリ・スマホアプリ・AI開発。"
 }

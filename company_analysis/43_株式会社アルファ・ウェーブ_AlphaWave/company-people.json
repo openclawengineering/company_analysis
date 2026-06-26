@@ -1,11 +1,36 @@
 {
   "company": {
     "name_jp": "株式会社アルファ・ウェーブ",
-    "name_en": "Alpha Wave Corporation",
+    "name_en": "ALPHA WAVE Co., Ltd.",
     "website": "http://www.alphawave.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "奥田 史一",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "河本 二郎",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中島 寿",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アルファ・ウェーブ. People found: 0. Website: http://www.alphawave.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "1984年設立。資本金9,950万円。従業員271名（グループ全体）。自社ビル所有（港区三田）。ISO27001取得。ブログあり。2022年8月に奥田史一が代表取締役社長に就任。"
 }

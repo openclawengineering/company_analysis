@@ -1,27 +1,41 @@
 {
   "company": {
     "name_jp": "株式会社アミエル",
-    "name_en": "Amiel Corporation",
+    "name_en": "Amiel Japan Inc. / アミエル税理士法人",
     "website": "https://amiel.or.jp"
   },
   "people": [
     {
-      "name_jp": "留目津",
-      "title_jp": "代表社員 税理士 行政書士",
-      "title_en": "Representative Member, Tax Accountant, Administrative Scrivener"
+      "name": "留目 津",
+      "title": "代表社員 税理士 行政書士",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "田中 健一",
-      "title_jp": "所属税理士",
-      "title_en": "Affiliated Tax Accountant"
+      "name": "田中 健一",
+      "title": "所属税理士",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "阿部 和二",
-      "title_jp": "所属税理士",
-      "title_en": "Affiliated Tax Accountant"
+      "name": "阿部 和二",
+      "title": "所属税理士",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
-  "social_profiles": [],
+  "social_profiles": [
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@amieltax"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company introduction page. Amiel is a tax corporation (税理士法人) with Representative Member 留目津 who is also a Tax Accountant and Administrative Scrivener. Lists two affiliated tax accountants: 田中 健一 and 阿部 和二. All information sourced from official company website."
+  "research_notes": "アミエル税理士法人およびAmiel Japan株式会社、株式会社アミエルからなるグループ。2003年6月設立。代表の留目津は元大手会計事務所出身。東京・横浜にオフィス。"
 }

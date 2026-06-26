@@ -1,11 +1,57 @@
 {
   "company": {
     "name_jp": "株式会社アクロイト",
-    "name_en": "",
+    "name_en": "Acroit Corporation",
     "website": "https://www.acroit.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "田村 孝章",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宗片 敏昭",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "岡本 宏治",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田中 完",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/twi_acroit"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/acroit2019/"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/insta_acroit/"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アクロイト. People found: 0. Website: https://www.acroit.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "2019年7月に株式会社アド・ソアーから分社設立。代表の田村孝章はKIA常務理事。従業員67名。"
 }

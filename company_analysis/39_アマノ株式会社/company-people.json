@@ -1,82 +1,92 @@
 {
   "company": {
     "name_jp": "アマノ株式会社",
-    "name_en": "Amano Corporation",
+    "name_en": "AMANO CORPORATION",
     "website": "https://www.amano.co.jp/"
   },
   "people": [
     {
-      "name_jp": "津田 博之",
-      "title_jp": "代表取締役会長",
-      "title_en": "Chairman & Representative Director"
+      "name": "津田 博之",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "山﨑 学",
-      "title_jp": "代表取締役社長",
-      "title_en": "President & Representative Director"
+      "name": "山﨑 学",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "秦 芳彦",
-      "title_jp": "取締役 兼 常務執行役員",
-      "title_en": "Director & Managing Executive Officer"
+      "name": "秦 芳彦",
+      "title": "取締役 兼 常務執行役員",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "豊田 義昭",
-      "title_jp": "取締役 兼 常務執行役員",
-      "title_en": "Director & Managing Executive Officer"
+      "name": "大森 通伸",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "菊池 浩",
-      "title_jp": "取締役 兼 常務執行役員",
-      "title_en": "Director & Managing Executive Officer"
+      "name": "渡邉 寿美恵",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "長谷川 隆史",
-      "title_jp": "取締役 兼 常務執行役員",
-      "title_en": "Director & Managing Executive Officer"
+      "name": "田村 恵子",
+      "title": "取締役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "澤口 喜彦",
-      "title_jp": "取締役 兼 常務執行役員",
-      "title_en": "Director & Managing Executive Officer"
+      "name": "井原 邦弘",
+      "title": "常勤監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "大森 通伸",
-      "title_jp": "取締役（社外）",
-      "title_en": "Outside Director"
+      "name": "北見 智徳",
+      "title": "常勤監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "渡邉 寿美恵",
-      "title_jp": "取締役（社外）",
-      "title_en": "Outside Director"
+      "name": "中家 華江",
+      "title": "監査役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "田村 恵子",
-      "title_jp": "取締役（社外）",
-      "title_en": "Outside Director"
-    },
-    {
-      "name_jp": "井原 邦弘",
-      "title_jp": "常勤監査役",
-      "title_en": "Standing Auditor"
-    },
-    {
-      "name_jp": "北見 智徳",
-      "title_jp": "常勤監査役",
-      "title_en": "Standing Auditor"
-    },
-    {
-      "name_jp": "中家 華江",
-      "title_jp": "監査役（社外）",
-      "title_en": "Outside Auditor"
-    },
-    {
-      "name_jp": "永川 尚文",
-      "title_jp": "監査役（社外）",
-      "title_en": "Outside Auditor"
+      "name": "永川 尚文",
+      "title": "監査役（社外）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Found comprehensive executive information on company executives page. Includes 2 Representative Directors (Chairman & President), 7 Directors (including 3 Outside Directors), 4 Auditors (including 2 Standing Auditors and 2 Outside Auditors). Also lists multiple Executive Officers. All information sourced from official company website."
+  "research_notes": "東証プライム上場（証券コード6436）。時間情報事業・パーキング事業・環境事業・清掃ロボット。多数の社外取締役・監査役。"
 }

@@ -1,11 +1,25 @@
 {
   "company": {
     "name_jp": "株式会社アルネッツ",
-    "name_en": "Alnetz Corporation",
+    "name_en": "Alnetz Inc.",
     "website": "https://alnetz.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "渡邉 輝明",
+      "title": "代表取締役社長 CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/alnetz_official/"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Unable to find executive information on company overview page. The page lists company sections including MVV (Mission/Vision/Values) but does not display executive names or titles. May need to check other pages like corporate governance or officer information pages if they exist. Website is accessible but executive information not visible on main company page."
+  "research_notes": "1998年設立。Cloud・IoT・Low Code・AIを手がけるDXパートナー。Mendix内製化支援。会社概要ページに役員詳細なし、トップメッセージから代表者名を確認。"
 }

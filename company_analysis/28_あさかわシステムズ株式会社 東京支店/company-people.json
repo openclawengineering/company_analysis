@@ -1,20 +1,20 @@
 {
   "company": {
-    "name_jp": "あさかわシステムズ株式会社",
-    "name_en": "ASAKAWA SYSTEMS CO., LTD.",
+    "name_jp": "あさかわシステムズ株式会社 東京支店",
+    "name_en": "ASAKAWA SYSTEMS CO.,LTD.",
     "website": "https://www.a-sk.co.jp/"
   },
   "people": [
     {
-      "name": "三宅",
-      "title": "代表取締役社長 / 社長執行役員",
+      "name": "三宅 安幸",
+      "title": "代表取締役社長",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "平野",
+      "name": "平野 眞幸",
       "title": "取締役(非常勤)",
       "linkedin": null,
       "twitter": null,
@@ -22,72 +22,32 @@
       "email": ""
     },
     {
-      "name": "山本",
-      "title": "取締役 / 常務執行役員",
+      "name": "山本 芳通",
+      "title": "取締役",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "三宅",
-      "title": "取締役 / 執行役員",
+      "name": "三宅 大佳",
+      "title": "取締役（公認会計士、税理士、社会保険労務士）",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "昼馬",
-      "title": "社外取締役",
+      "name": "昼馬 義宏",
+      "title": "社外取締役（税理士）",
       "linkedin": null,
       "twitter": null,
       "department": "",
       "email": ""
     },
     {
-      "name": "芝﨑",
-      "title": "社外監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "森",
-      "title": "上席執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "鳥前",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "村林",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "高岡",
-      "title": "執行役員",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "橘",
-      "title": "執行役員",
+      "name": "芝﨑 晃",
+      "title": "社外監査役（公認会計士、税理士）",
       "linkedin": null,
       "twitter": null,
       "department": "",
@@ -96,5 +56,5 @@
   ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: あさかわシステムズ株式会社. People found: 11. Website: https://www.a-sk.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "東京PRO Market上場（証券コード5249）。建設業・工事業向けソフトの老舗。従業員107名、資本金6,480万円。"
 }

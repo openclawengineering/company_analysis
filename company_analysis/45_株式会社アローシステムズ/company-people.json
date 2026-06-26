@@ -1,32 +1,44 @@
 {
   "company": {
     "name_jp": "株式会社アローシステムズ",
-    "name_en": "Arrow Systems Corp.",
-    "website": "http://arrow-systems.co.jp/"
+    "name_en": "Arrow Systems Co., Ltd.",
+    "website": "https://arrow-systems.co.jp/"
   },
   "people": [
     {
-      "name_jp": "吉田 康宏",
-      "title_jp": "代表取締役社長",
-      "title_en": "President & Representative Director"
+      "name": "吉田 康宏",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "小島 努",
-      "title_jp": "専務取締役",
-      "title_en": "Managing Director"
+      "name": "小島 努",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "中野 博美",
-      "title_jp": "取締役",
-      "title_en": "Director"
+      "name": "中野 博美",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "金城 敦",
-      "title_jp": "監査役",
-      "title_en": "Auditor"
+      "name": "金城 敦",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company overview page. Executives include President & Representative Director 吉田 康宏, Managing Director 小島 努, Director 中野 博美, and Auditor 金城 敦. Company established in 2001 with 36 employees as of December 2025. Sales of 5.02 billion yen (2025 fiscal year). All information sourced from official company website."
+  "research_notes": "2001年設立。2025年12月に藤村宏から吉田康宏へ社長交代。従業員36名。売上50,200万円（2025年9月期）。健康優良企業認定、Pマーク取得。"
 }

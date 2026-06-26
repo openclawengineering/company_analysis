@@ -6,22 +6,48 @@
   },
   "people": [
     {
-      "name_jp": "田村 学",
-      "title_jp": "代表取締役",
-      "title_en": "Representative Director"
+      "name": "田村 学",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "小林 昌人",
-      "title_jp": "取締役",
-      "title_en": "Director"
+      "name": "小林 昌人",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
     {
-      "name_jp": "菅沼 真",
-      "title_jp": "取締役",
-      "title_en": "Director"
+      "name": "菅沼 真",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
-  "social_profiles": [],
+  "social_profiles": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/aptsystem"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/aptsystem/"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/aptsystem1107/"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/channel/UCILiWWIr2K3VlZXAEszaB4w"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Found executive information on company overview page. Executives include Representative Director 田村 学, Directors 小林 昌人 and 菅沼 真. All information sourced from official company website."
+  "research_notes": "1997年設立。横浜本社・東京支社。正社員42名＋契約社員30名。イントラマート開発パートナー。"
 }
