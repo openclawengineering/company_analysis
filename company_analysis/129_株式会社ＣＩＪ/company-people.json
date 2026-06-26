@@ -1,11 +1,108 @@
 {
   "company": {
     "name_jp": "株式会社ＣＩＪ",
-    "name_en": "株式会社ＣＩＪ",
+    "name_en": "Computer Institute of Japan, Ltd.",
     "website": "http://www.cij.co.jp"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "坂元昭彦",
+      "name_en": "Akihiko Sakamoto",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "茨木暢靖",
+      "name_en": "Nobuyasu Ibaraki",
+      "title": "取締役 / 常務執行役員 ADM本部長兼高度技術長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "川上淳",
+      "name_en": "Jun Kawakami",
+      "title": "取締役 / 常務執行役員 営業統括本部長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "久保重成",
+      "name_en": "Shigeshige Kubo",
+      "title": "取締役 / 上席執行役員 デジタルイノベーションビジネス事業部長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "白須英大",
+      "name_en": "Eidai Shirasu",
+      "title": "取締役 / 執行役員 経営戦略本部長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "川島祐治",
+      "name_en": "Yuji Kawashima",
+      "title": "取締役（社外取締役）",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "任田信行",
+      "name_en": "Nobuyuki Nitta",
+      "title": "取締役（社外取締役）",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "花川典子",
+      "name_en": "Noriko Hanakawa",
+      "title": "取締役（社外取締役）",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "秋山達也",
+      "name_en": "Tatsuya Akiyama",
+      "title": "監査役（社外監査役）",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "吉野松樹",
+      "name_en": "Shouki Yoshino",
+      "title": "監査役（社外監査役）",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "植木英次",
+      "name_en": "Eiji Ueki",
+      "title": "監査役（社外監査役）",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/cij_ltd",
+      "handle": "@cij_ltd",
+      "note": "公式X（旧Twitter）"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/cij.co.jp/",
+      "handle": null,
+      "note": "公式Facebookページ"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCMxyFAMQmmfxwFyZMaCPpmg",
+      "handle": null,
+      "note": "公式YouTubeチャンネル"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ＣＩＪ. People found: 0. Website: http://www.cij.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Officer page found at cij.co.jp/company/officer/ with full 役員 and 執行役員 listings. 代表取締役社長 坂元昭彦. Social profiles found on site: Twitter/X (@cij_ltd), Facebook, YouTube. No LinkedIn found. No individual social links for officers. Web search API unavailable (MiniMax key missing)."
 }

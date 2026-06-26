@@ -1,12 +1,11 @@
 {
   "company": {
     "name_jp": "株式会社ＩＴＳコア",
-    "name_en": "ITS Core Corporation",
+    "name_en": "",
     "website": "https://www.its-core.co.jp"
   },
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "notes": "Company website not accessible for management information retrieval. Web search unavailable (API key missing). No executives identified.",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing). Company website is JavaScript-rendered and not accessible via web_fetch. No executives identified."
+  "research_notes": "Website (its-core.co.jp) extraction failed - readability/parser returned no content. Sub-page /company/ returned 404 (Shift-JIS encoding issue on error page). No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
 }

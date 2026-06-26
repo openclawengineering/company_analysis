@@ -7,5 +7,5 @@
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社サプライム. People found: 0. Website: https://www.suprime.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Website (suprime.co.jp) is JavaScript-rendered - no content extractable via fetch. Tried /company/ subpage - also JS-rendered with no content. No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
 }

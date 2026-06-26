@@ -1,11 +1,11 @@
 {
   "company": {
     "name_jp": "株式会社協同システムエンジニアリング",
-    "name_en": "Kyodo System Engineering Co., Ltd.",
+    "name_en": "",
     "website": "https://www.kseltd.co.jp/"
   },
   "people": [],
   "social_profiles": [],
-  "research_notes": "Research date: 2026-06-26. Website https://www.kseltd.co.jp/ returned 403 Forbidden. No officer data could be obtained.",
-  "last_updated": "2026-06-26"
+  "last_updated": "2026-06-26",
+  "research_notes": "Website (kseltd.co.jp) returned 403 Forbidden - scraping blocked. No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
 }

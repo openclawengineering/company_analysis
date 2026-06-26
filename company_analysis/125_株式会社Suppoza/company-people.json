@@ -1,11 +1,11 @@
 {
   "company": {
     "name_jp": "株式会社Suppoza",
-    "name_en": "Suppoza Inc.",
+    "name_en": "Suppoza",
     "website": "https://www.suppoza.com"
   },
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社Suppoza. People found: 0. Website: https://www.suppoza.com. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Website (suppoza.com) is JavaScript-rendered - no content extractable via fetch. Tried /company/ and /about subpages - also JS-rendered with no content. No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
 }

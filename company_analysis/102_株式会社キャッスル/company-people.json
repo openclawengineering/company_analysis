@@ -1,11 +1,11 @@
 {
   "company": {
     "name_jp": "株式会社キャッスル",
-    "name_en": "Castle Co., Ltd.",
+    "name_en": "",
     "website": "http://www.castle-in.co.jp/"
   },
   "people": [],
   "social_profiles": [],
-  "research_notes": "Research date: 2026-06-26. Website http://www.castle-in.co.jp/ is inaccessible (connection failed). No officer data could be obtained.",
-  "last_updated": "2026-06-26"
+  "last_updated": "2026-06-26",
+  "research_notes": "Website (castle-in.co.jp) connection failed - could not scrape. No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
 }

@@ -4,8 +4,16 @@
     "name_en": "System Works Japan Co., Ltd.",
     "website": "https://www.swj.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "米田一樹",
+      "name_en": "Kazuki Yoneda",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: システムワークスジャパン株式会社. People found: 0. Website: https://www.swj.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Found from company about page (swj.co.jp/company/about/). 代表取締役社長 米田一樹. Parent company: 株式会社ソフトクリエイト (joined group 2024-04). No social profiles found on website. Web search API unavailable (MiniMax key missing)."
 }

@@ -4,27 +4,56 @@
     "name_en": "System Nicol Co., Ltd.",
     "website": "https://www.nicol.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "浅見秀一",
+      "name_en": "Shuichi Asami",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "花園泰",
+      "name_en": "Yasushi Hanazono",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "荒井修亮",
+      "name_en": "Nobuaki Arai",
+      "title": "取締役 / 博士（農学）京都大学名誉教授",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "平田達彦",
+      "name_en": "Tatsuhiko Hirata",
+      "title": "取締役 / ハル・エンジニアリング株式会社 代表取締役会長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [
     {
       "platform": "facebook",
-      "handle": "system.nicol",
-      "url": "https://ja-jp.facebook.com/system.nicol",
-      "type": "company"
+      "url": "https://www.facebook.com/system.nicol",
+      "handle": null,
+      "note": "公式Facebookページ"
     },
     {
       "platform": "youtube",
-      "handle": "@システムニコル",
       "url": "https://www.youtube.com/@システムニコル",
-      "type": "company"
+      "handle": null,
+      "note": "公式YouTubeチャンネル"
     },
     {
       "platform": "instagram",
-      "handle": "system_nicol",
       "url": "https://www.instagram.com/system_nicol",
-      "type": "company"
+      "handle": "@system_nicol",
+      "note": "公式Instagram"
     }
   ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: システムニコル株式会社. People found: 0. Website: https://www.nicol.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Found from company outline page (nicol.co.jp/company/companyoutline/). 代表取締役会長 浅見秀一, 代表取締役社長 花園泰, plus 2 取締役. Social profiles found: Facebook, YouTube, Instagram. No LinkedIn or Twitter/X found. Web search API unavailable (MiniMax key missing)."
 }

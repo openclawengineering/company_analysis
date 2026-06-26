@@ -7,6 +7,5 @@
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "notes": "ウェブサイトへのアクセスが403 Forbiddenで制限されているため、役員情報の取得ができません。",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システム・ロジックス. People found: 0. Website: http://www.syslg.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Website (syslg.co.jp) returned 403 Forbidden - scraping blocked. No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
 }

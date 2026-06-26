@@ -1,11 +1,40 @@
 {
   "company": {
-    "name_jp": "株式会社システムハウス．アイエヌジー 横浜支店",
-    "name_en": "System House. ING Co., Ltd. Yokohama Branch",
+    "name_jp": "株式会社システムハウス．アイエヌジー",
+    "name_en": "System House. ING Co., Ltd.",
     "website": "http://www.s-ing.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "村越伸夫",
+      "name_en": "Nobuo Murakoshi",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "酒井孝之",
+      "name_en": "Takayuki Sakai",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "武井善雄",
+      "name_en": "Yoshio Takei",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "矢作富夫",
+      "name_en": "Tomio Yahagi",
+      "title": "会長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システムハウス．アイエヌジー 横浜支店. People found: 0. Website: http://www.s-ing.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Found from company outline page (s-ing.co.jp/company/outline.html). 代表取締役社長 村越伸夫, plus 2 取締役 and 1 会長. No social profiles found on website. Web search API unavailable (MiniMax key missing)."
 }

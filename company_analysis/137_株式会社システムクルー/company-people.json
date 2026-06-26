@@ -1,11 +1,54 @@
 {
   "company": {
     "name_jp": "株式会社システムクルー",
-    "name_en": "SystemCrew Co., Ltd.",
+    "name_en": "",
     "website": "http://www.syscrew.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "櫻澤伸明",
+      "name_en": "Nobuaki Sakurazawa",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "小菅大二郎",
+      "name_en": "Daijiro Kosuga",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "西慶治",
+      "name_en": "Keiji Nishi",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "山本裕基",
+      "name_en": "Hiroki Yamamoto",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "高野凪沙",
+      "name_en": "Nagisa Takano",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "鈴木敏子",
+      "name_en": "Toshiko Suzuki",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システムクルー. People found: 0. Website: http://www.syscrew.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Found from company-info.html page (syscrew.co.jp/company-info.html). 代表取締役社長 櫻澤伸明, plus 4 取締役 and 1 監査役. No social profiles found on website. Web search API unavailable (MiniMax key missing)."
 }

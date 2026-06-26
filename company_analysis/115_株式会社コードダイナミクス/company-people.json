@@ -1,11 +1,19 @@
 {
   "company": {
     "name_jp": "株式会社コードダイナミクス",
-    "name_en": "",
+    "name_en": "CodeDynamix Co., Ltd.",
     "website": "https://www.codedynamix.com"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "中村好伸",
+      "name_en": "Yoshinobu Nakamura",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社コードダイナミクス. People found: 0. Website: https://www.codedynamix.com. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Found from company profile page (codedynamix.com/company/profile.php). 代表取締役 中村好伸. No LinkedIn or Twitter/X links found on website. No other social profiles detected. Web search API unavailable (MiniMax key missing)."
 }
