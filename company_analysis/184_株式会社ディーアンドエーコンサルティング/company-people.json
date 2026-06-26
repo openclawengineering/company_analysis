@@ -1,12 +1,12 @@
 {
   "company": {
     "name_jp": "株式会社ディーアンドエーコンサルティング",
-    "name_en": "D&A Consulting Co., Ltd.",
+    "name_en": "D&A Consulting",
     "website": "http://www.dacons.co.jp"
   },
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "notes": "ウェブサイトへのアクセスが禁止されています（403 Forbidden）。外部からのアクセスが制限されているため、会社情報および役員情報を取得できませんでした。",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ディーアンドエーコンサルティング. People found: 0. Website: http://www.dacons.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Website returns 403 Forbidden for all pages. Hosted on zenlogic.jp.",
+  "research_notes": "Website inaccessible - 403 Forbidden on all pages tried (homepage, /company/). Hosted on zenlogic.jp hosting. Could not retrieve officer information or social profiles."
 }

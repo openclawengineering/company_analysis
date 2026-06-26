@@ -1,11 +1,18 @@
 {
   "company": {
     "name_jp": "株式会社アイルミッション",
-    "name_en": "",
+    "name_en": "Aillumission Co., Ltd.",
     "website": "https://www.aillumission.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "辻高志",
+      "name_en": "Takashi Tsuji",
+      "title": "代表取締役社長"
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アイルミッション. People found: 0. Website: https://www.aillumission.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Found representative director from company profile page.",
+  "research_notes": "代表取締役社長 辻高志 found on /company/profile/ page. Founded 2013, 132 employees (as of 2025/4), headquartered in Yokohama with Nagasaki office. Capital: 50M yen. ISO 27001 certified. Member of KIA, NISA, KNBC, IIT, JNSA. No LinkedIn or Twitter/X links found on site."
 }

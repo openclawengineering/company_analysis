@@ -6,7 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "notes": "ウェブサイトの会社概要ページに役員欄の見出しありも氏名の記載なし。代表者情報はウェブサイト上で確認できず。",
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社日本グラフィックシステムズ. People found: 0. Website: http://k-ngs.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Company page has '役員' section but it is empty (no names listed).",
+  "research_notes": "Company outline page (company/) has a '役員' (officers) section but it contains no names - just an empty field. Greeting page has a CEO message but no name signature. Founded 1983 (Showa 58), based in Yokohama with Hokkaido office, 34 employees. Major clients include Hitachi group. Member of KIA. No social media links found."
 }

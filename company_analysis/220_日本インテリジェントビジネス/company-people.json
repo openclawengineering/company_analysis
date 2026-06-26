@@ -1,12 +1,26 @@
 {
   "company": {
     "name_jp": "株式会社日本インテリジェントビジネス",
-    "name_en": "Japan Intelligent Business CO., LTD.",
+    "name_en": "Japan Intelligent Business Co., Ltd.",
     "website": "https://www.jib-japan.com/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "萩原一成",
+      "name_en": "Kazunari Hagiwara",
+      "title": "代表取締役"
+    },
+    {
+      "name": "萩原加代",
+      "title": "取締役"
+    },
+    {
+      "name": "松江泰弘",
+      "title": "監査役"
+    }
+  ],
   "social_profiles": [],
-  "notes": "ウェブサイト上に代表者・役員の氏名は明記されていない。「取締役相談役挨拶」のページタイトルはあるが、氏名の記載なし。会社概要ページ（住所、資本金等）もウェブサイト上に見つからず。",
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社日本インテリジェントビジネス. People found: 0. Website: https://www.jib-japan.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Found officers from company outline page.",
+  "research_notes": "代表取締役 萩原一成, 取締役 萩原加代, 監査役 松江泰弘 found on /aboutus/outline/ page. 取締役相談役 萩原成美 (retired advisor) mentioned in 2021 history. Founded 1990 in Yokosuka, 10 employees, focused on mobile communications testing and accounting system development. Member of KIA and YRP. No LinkedIn or Twitter/X links found."
 }

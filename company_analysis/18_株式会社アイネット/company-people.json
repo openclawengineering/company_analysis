@@ -1,11 +1,12 @@
 {
   "company": {
     "name_jp": "株式会社アイネット",
-    "name_en": "",
+    "name_en": "I-NET Corp.",
     "website": "https://www.inet.jp/"
   },
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アイネット. People found: 0. Website: https://www.inet.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "DNS lookup failed for www.inet.jp - domain does not resolve.",
+  "research_notes": "Website unreachable - DNS lookup failed for www.inet.jp (getaddrinfo ENOTFOUND). Note: inet.co.jp is a different, larger company (I-NET Corp.) with full officer list. The listed URL www.inet.jp simply does not resolve."
 }

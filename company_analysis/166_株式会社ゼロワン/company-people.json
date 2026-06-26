@@ -1,0 +1,18 @@
+{
+  "company": {
+    "name_jp": "株式会社ゼロワン",
+    "name_en": "Zero One",
+    "website": "http://www.zerone-01.co.jp/"
+  },
+  "people": [
+    {
+      "name": "高橋智明",
+      "name_en": "Takaaki Takahashi",
+      "title": "代表取締役"
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "notes": "Found representative director from company info page (info.html).",
+  "research_notes": "代表取締役 高橋智明 found on info.html page. No LinkedIn or Twitter/X links found on site. Company established 2006, based in Yokohama, specialized in control/embedded system development."
+}

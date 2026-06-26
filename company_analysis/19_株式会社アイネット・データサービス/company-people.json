@@ -1,11 +1,26 @@
 {
   "company": {
     "name_jp": "株式会社アイネット・データサービス",
-    "name_en": "",
+    "name_en": "I-NET Data Service Corp.",
     "website": "https://www.inet-d.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "馬郡恵太",
+      "name_en": "Keita Magori",
+      "title": "代表取締役社長"
+    },
+    {
+      "name": "高野博司",
+      "title": "取締役"
+    },
+    {
+      "name": "石綿丈二",
+      "title": "取締役"
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アイネット・データサービス. People found: 0. Website: https://www.inet-d.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Found officers from corporate page. This is a special subsidiary of 株式会社アイネット.",
+  "research_notes": "3 officers found on /corporate/ page. 代表取締役社長 馬郡恵太, 取締役 高野博司, 取締役 石綿丈二. Special subsidiary (特例子会社) of I-NET Corp. established 2009, 37 employees (27 with disabilities). No LinkedIn or Twitter links found."
 }

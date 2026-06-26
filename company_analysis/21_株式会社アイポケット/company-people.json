@@ -1,11 +1,34 @@
 {
   "company": {
     "name_jp": "株式会社アイポケット",
-    "name_en": "",
+    "name_en": "i-pocket co.,ltd.",
     "website": "https://www.i-pocket.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "赤澤渡",
+      "name_en": "Wataru Akazawa",
+      "title": "代表取締役"
+    },
+    {
+      "name": "島田浩康",
+      "name_en": "Hiroyasu Shimada",
+      "title": "取締役"
+    },
+    {
+      "name": "尾崎和美",
+      "name_en": "Kazumi Ozaki",
+      "title": "取締役"
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/i.pocket.co.ltd",
+      "account": "i.pocket.co.ltd"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アイポケット. People found: 0. Website: https://www.i-pocket.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Found representative director and officers from about page. Facebook page found.",
+  "research_notes": "代表取締役 赤澤渡 (Wataru Akazawa) found prominently on about page with message. 取締役 島田浩康, 取締役 尾崎和美 also listed in company profile section. Facebook: https://www.facebook.com/i.pocket.co.ltd found in footer and body. No LinkedIn or Twitter/X links found. Established 2001, based in Yokohama."
 }

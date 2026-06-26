@@ -1,12 +1,20 @@
 {
   "company": {
-    "name_jp": "株式会社ゼロワン",
-    "name_en": "Zero One",
-    "website": "http://www.zerone-01.co.jp/"
+    "name_jp": "株式会社セブン・ワイズ 横浜営業所",
+    "name_en": "",
+    "website": "http://www.7ws.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "高見祐次",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-26",
-  "notes": "ウェブサイト上で役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ゼロワン. People found: 0. Website: http://www.zerone-01.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Research date: 2026-06-26. Website http://www.7ws.co.jp/ accessible. Founded 2000. Capital: 77M JPY. 40 employees. President: 高見祐次. HQ in Nagoya, Yokohama office. IT development and infrastructure. KIA member listed in master gist.",
+  "last_updated": "2026-06-26"
 }

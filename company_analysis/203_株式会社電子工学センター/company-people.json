@@ -1,12 +1,12 @@
 {
   "company": {
     "name_jp": "株式会社電子工学センター",
-    "name_en": "Electronic Engineering Center Co., Ltd.",
+    "name_en": "Electronics Engineering Center Co., Ltd.",
     "website": "https://www.eec.co.jp/"
   },
   "people": [],
   "social_profiles": [],
-  "notes": "Website fetch failed (timeout). No company or officer information could be retrieved from https://www.eec.co.jp/",
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社電子工学センター. People found: 0. Website: https://www.eec.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Website fetch failed on all attempted URLs (homepage, /company/, /outline/, /greeting.html).",
+  "research_notes": "Website unreachable - fetch failed or timed out on all attempted URLs. Could not retrieve officer information or social profiles."
 }

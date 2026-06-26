@@ -1,11 +1,12 @@
 {
   "company": {
-    "name_jp": "株式会社ソフテム（川崎）",
-    "name_en": "SOFTEM Co., Ltd. (Kawasaki)",
+    "name_jp": "株式会社ソフテム 川崎",
+    "name_en": "Softem Kawasaki",
     "website": "https://www.softem.co.jp/"
   },
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ソフテム（川崎）. People found: 0. Website: https://www.softem.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Website is down - Azure web app stopped (403 error on all pages including /company/).",
+  "research_notes": "Website unreachable - Azure web app stopped returning 403 on all URLs tried (homepage, /company/). Could not retrieve officer information. No social profiles found."
 }

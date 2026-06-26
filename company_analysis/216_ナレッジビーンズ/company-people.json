@@ -6,7 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "notes": "代表者・役員の情報がウェブサイト上に公開されていない。会社概要ページに役員名の記載なし。",
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: ナレッジビーンズ株式会社. People found: 0. Website: https://www.knowledgebeans.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "notes": "Company page has detailed business info but no officer/executive names listed.",
+  "research_notes": "Full company profile page loaded with corporate philosophy, office locations, and affiliations, but no 代表取締役 or officer names are listed on any accessible page (company.html, recruit.html). Member of KIA and TJK. Established 2001, headquartered in Toranomon Tokyo. No social media links found."
 }
