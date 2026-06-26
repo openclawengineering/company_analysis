@@ -4,8 +4,29 @@
     "name_en": "Iguazu Corp.",
     "website": "https://www.i-guazu.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "矢花 達也",
+      "title_jp": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "伊藤 瑞穂",
+      "title_jp": "取締役専務執行役員",
+      "title_en": "Director & Senior Managing Executive Officer"
+    },
+    {
+      "name_jp": "野沢 勝則",
+      "title_jp": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "田代 昭臣",
+      "title_jp": "監査役",
+      "title_en": "Auditor"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company profile page. Executives include President & Representative Director 矢花 達也, Director & Senior Managing Executive Officer 伊藤 瑞穂, Director 野沢 勝則, and Auditor 田代 昭臣. Also lists multiple Executive Officers (Managing Executive Officers and Senior Executive Officers). Company has 294 employees as of April 2026, 100% owned by IG Holdings. All information sourced from official company website."
 }

@@ -4,8 +4,79 @@
     "name_en": "Amano Corporation",
     "website": "https://www.amano.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "津田 博之",
+      "title_jp": "代表取締役会長",
+      "title_en": "Chairman & Representative Director"
+    },
+    {
+      "name_jp": "山﨑 学",
+      "title_jp": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "秦 芳彦",
+      "title_jp": "取締役 兼 常務執行役員",
+      "title_en": "Director & Managing Executive Officer"
+    },
+    {
+      "name_jp": "豊田 義昭",
+      "title_jp": "取締役 兼 常務執行役員",
+      "title_en": "Director & Managing Executive Officer"
+    },
+    {
+      "name_jp": "菊池 浩",
+      "title_jp": "取締役 兼 常務執行役員",
+      "title_en": "Director & Managing Executive Officer"
+    },
+    {
+      "name_jp": "長谷川 隆史",
+      "title_jp": "取締役 兼 常務執行役員",
+      "title_en": "Director & Managing Executive Officer"
+    },
+    {
+      "name_jp": "澤口 喜彦",
+      "title_jp": "取締役 兼 常務執行役員",
+      "title_en": "Director & Managing Executive Officer"
+    },
+    {
+      "name_jp": "大森 通伸",
+      "title_jp": "取締役（社外）",
+      "title_en": "Outside Director"
+    },
+    {
+      "name_jp": "渡邉 寿美恵",
+      "title_jp": "取締役（社外）",
+      "title_en": "Outside Director"
+    },
+    {
+      "name_jp": "田村 恵子",
+      "title_jp": "取締役（社外）",
+      "title_en": "Outside Director"
+    },
+    {
+      "name_jp": "井原 邦弘",
+      "title_jp": "常勤監査役",
+      "title_en": "Standing Auditor"
+    },
+    {
+      "name_jp": "北見 智徳",
+      "title_jp": "常勤監査役",
+      "title_en": "Standing Auditor"
+    },
+    {
+      "name_jp": "中家 華江",
+      "title_jp": "監査役（社外）",
+      "title_en": "Outside Auditor"
+    },
+    {
+      "name_jp": "永川 尚文",
+      "title_jp": "監査役（社外）",
+      "title_en": "Outside Auditor"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found comprehensive executive information on company executives page. Includes 2 Representative Directors (Chairman & President), 7 Directors (including 3 Outside Directors), 4 Auditors (including 2 Standing Auditors and 2 Outside Auditors). Also lists multiple Executive Officers. All information sourced from official company website."
 }

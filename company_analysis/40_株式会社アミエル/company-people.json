@@ -4,8 +4,24 @@
     "name_en": "Amiel Corporation",
     "website": "https://amiel.or.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "留目津",
+      "title_jp": "代表社員 税理士 行政書士",
+      "title_en": "Representative Member, Tax Accountant, Administrative Scrivener"
+    },
+    {
+      "name_jp": "田中 健一",
+      "title_jp": "所属税理士",
+      "title_en": "Affiliated Tax Accountant"
+    },
+    {
+      "name_jp": "阿部 和二",
+      "title_jp": "所属税理士",
+      "title_en": "Affiliated Tax Accountant"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company introduction page. Amiel is a tax corporation (税理士法人) with Representative Member 留目津 who is also a Tax Accountant and Administrative Scrivener. Lists two affiliated tax accountants: 田中 健一 and 阿部 和二. All information sourced from official company website."
 }

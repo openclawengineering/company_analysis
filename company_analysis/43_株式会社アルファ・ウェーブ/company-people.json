@@ -4,8 +4,24 @@
     "name_en": "Alpha Wave Corporation",
     "website": "http://www.alphawave.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "奥田 史一",
+      "title_jp": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "河本 二郎",
+      "title_jp": "代表取締役",
+      "title_en": "Representative Director"
+    },
+    {
+      "name_jp": "中島 寿",
+      "title_jp": "取締役",
+      "title_en": "Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company about page. Executives include President & Representative Director 奥田 史一, Representative Director 河本 二郎, and Director 中島 寿. Company established in 1984 with 271 employees as of April 2026. All information sourced from official company website."
 }

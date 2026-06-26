@@ -4,8 +4,24 @@
     "name_en": "AptSystem Co., Ltd.",
     "website": "https://www.aptsys.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "田村 学",
+      "title_jp": "代表取締役",
+      "title_en": "Representative Director"
+    },
+    {
+      "name_jp": "小林 昌人",
+      "title_jp": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "菅沼 真",
+      "title_jp": "取締役",
+      "title_en": "Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company overview page. Executives include Representative Director 田村 学, Directors 小林 昌人 and 菅沼 真. All information sourced from official company website."
 }

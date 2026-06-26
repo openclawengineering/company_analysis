@@ -4,8 +4,24 @@
     "name_en": "And One Software Engineering Inc.",
     "website": "https://andone-eng.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "芦澤 仁",
+      "title_jp": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "高橋 信春",
+      "title_jp": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "清水 康",
+      "title_jp": "取締役",
+      "title_en": "Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company page. Executives include President & Representative Director 芦澤 仁, Director 高橋 信春, and Director 清水 康. Company established in February 2019 with capital of 30 million yen. All information sourced from official company website."
 }
