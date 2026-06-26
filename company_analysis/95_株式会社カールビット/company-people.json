@@ -14,15 +14,7 @@
       "email": ""
     },
     {
-      "name": "大友",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "老月",
+      "name": "小林",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -30,7 +22,7 @@
       "email": ""
     },
     {
-      "name": "加藤",
+      "name": "岩井",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -38,7 +30,7 @@
       "email": ""
     },
     {
-      "name": "島",
+      "name": "石井",
       "title": "取締役",
       "linkedin": null,
       "twitter": null,
@@ -55,5 +47,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-26",
+  "research_notes": "People data already researched on 2026-06-22 - 5 officers found. Website accessible. Executive structure includes President, 3 Directors, and 1 Corporate Auditor (non-regular). Only family names recorded. No additional information to add. Social profiles remain empty as web search API unavailable."
 }

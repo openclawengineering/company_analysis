@@ -39,5 +39,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-05-22"
+  "last_updated": "2026-06-26",
+  "research_notes": "Website already researched in previous batch (2026-05-22). People data already present - 4 officers/directors found. Social profiles remain empty as web search API unavailable for LinkedIn/Twitter lookup. No changes needed to people array."
 }

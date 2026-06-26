@@ -14,12 +14,7 @@
       "email": ""
     }
   ],
-  "social_profiles": [
-    {
-      "platform": "facebook",
-      "url": "https://www.facebook.com/orientalinformationservice/",
-      "name": "オリエンタルインフォーメイションサービス"
-    }
-  ],
-  "last_updated": "2026-06-22"
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "People data already researched on 2026-06-22 - 1 officer (President) found. Website accessible. Company based in Yokohama (URL indicates location). Only family name recorded for President. No additional information to add. social_profiles field cleared to empty array per task instructions - previous Facebook company page entry removed."
 }

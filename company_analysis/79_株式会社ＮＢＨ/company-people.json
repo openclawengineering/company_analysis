@@ -1,10 +1,11 @@
 {
   "company": {
-    "name_jp": "株式会社ＮＢＥ",
+    "name_jp": "株式会社ＮＢＨ",
     "name_en": "NBE Corporation",
     "website": "Not specified in master list"
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-05-22"
+  "last_updated": "2026-06-26",
+  "research_notes": "No website URL specified in master list. Cannot research executive information. Name suggests possible relationship to NBE (company 79), but without a website URL, cannot verify or gather officer information. Social profiles not available without web search API."
 }

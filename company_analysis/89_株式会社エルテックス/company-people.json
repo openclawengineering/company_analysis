@@ -6,7 +6,6 @@
     },
     "people": [],
     "social_profiles": [],
-    "last_updated": "2026-06-20",
-    "data_source": "kia_member_list",
-    "notes": "Representative information not yet researched. Website is SPA (JavaScript-rendered), content not extractable via web_fetch."
+    "last_updated": "2026-06-26",
+    "research_notes": "Website is SPA (JavaScript-rendered) - content not extractable via web_fetch tool. Main page and /company/ page both show only 'Loading...' or minimal static content. Cannot access executive/officer information due to technical limitation of web_fetch with SPA sites. No data to add without browser-based scraping. Social profiles not available without web search API."
 }

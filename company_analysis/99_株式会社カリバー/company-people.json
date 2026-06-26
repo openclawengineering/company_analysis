@@ -6,5 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-26",
+  "research_notes": "Website is SPA (JavaScript-rendered) - content not extractable via web_fetch tool. Main page and /company/ page both show minimal or no static content accessible. Cannot access executive/officer information due to technical limitation of web_fetch with SPA sites. No data to add without browser-based scraping. Social profiles not available without web search API."
 }

@@ -4,8 +4,65 @@
     "name_en": "NTT Data IM JSP Corporation",
     "website": "https://www.jspnet.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "平松 淳",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大西 浩之",
+      "title": "常務取締役、CISO（セキュリティ）、CRO（リスクマネジメント）、内部統制推進室長、部門管掌（管理部）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "和田 誠",
+      "title": "取締役、部門管掌（エンジニアリングサービス事業部、システムソリューション事業部）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中山 義人",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "野澤 渉",
+      "title": "取締役、経営企画部長、ネクストイノベーション事業部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "後藤 史郎",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鈴木 誠",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found detailed officer information on company website.役員人事のお知らせ (2026/06/15) updated executive structure. Previously: 髙﨑 充弘 was 代表取締役副社長 but stepped down (退任). Company name changed (社名変更のお知らせ 2026/06/19). Website is accessible and provides officer details. Social profiles not available without web search API."
 }
