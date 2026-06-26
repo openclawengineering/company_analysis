@@ -6,15 +6,13 @@
   },
   "people": [
     {
-      "name": "小野 順季",
+      "name_jp": "小野順季",
+      "name_en": "Masaki Ono",
       "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "President & Representative Director"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company website (https://www.ex-corp.co.jp/). Website is primarily a gaming company (株式会社EX) focused on smartphone RPG titles like ミリオンモンスター and 終末のワルキューレ The Day of Judgment. President listed as 小野順季. Company develops and operates mobile games. Active press releases through 2026. Note: may be a game/gaming company rather than traditional IT system integrator."
 }

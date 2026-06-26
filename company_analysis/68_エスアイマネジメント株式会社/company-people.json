@@ -4,8 +4,27 @@
     "name_en": "SI Management Corporation",
     "website": "https://www.si-m.com/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "藤村基寛",
+      "name_en": "Motohiro Fujimura",
+      "title": "代表取締役",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "藤村隼也",
+      "name_en": "Shunya Fujimura",
+      "title": "専務取締役",
+      "title_en": "Senior Managing Director"
+    },
+    {
+      "name_jp": "高野正一",
+      "name_en": "Shoichi Takano",
+      "title": "取締役",
+      "title_en": "Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company page (https://www.si-m.com/company/). Listed 3 officers: 1 representative director (藤村基寛), 1 senior managing director (藤村隼也), 1 director (高野正一). Established 1994-11-02, capital 20M yen. HQ in Shibuya, Tokyo with branch in Sendai, Miyagi. System consulting, software development, package software, website/EC site development. Specialized in cemetery management systems (墓所使用者情報管理システム, デジタル参拝) with registered trademarks. Privacy Mark obtained 2024. KIA member."
 }

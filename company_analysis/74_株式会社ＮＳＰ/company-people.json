@@ -6,6 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Website (http://www.nsp-ltd.co.jp/) inaccessible - fetch failed, returned no content. Could not retrieve executive information. This is a different company from 73_株式会社エヌ・エス・ピイ (which uses nspweb.jp)."
 }

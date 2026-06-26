@@ -6,55 +6,49 @@
   },
   "people": [
     {
-      "name": "板橋 哲也",
+      "name_jp": "板橋哲也",
+      "name_en": "Tetsuya Itabashi",
       "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "President & Representative Director"
     },
     {
-      "name": "石原 健一",
+      "name_jp": "石原健一",
+      "name_en": "Kenichi Ishihara",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
     },
     {
-      "name": "中川 勇起夫",
+      "name_jp": "中川勇起夫",
+      "name_en": "Yukio Nakagawa",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
     },
     {
-      "name": "遠藤 毅",
+      "name_jp": "遠藤毅",
+      "name_en": "Tsuyoshi Endo",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
     },
     {
-      "name": "増田 紀之",
+      "name_jp": "増田紀之",
+      "name_en": "Noriyuki Masuda",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
     },
     {
-      "name": "佐藤 武次",
+      "name_jp": "佐藤武次",
+      "name_en": "Takeji Sato",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "中川麻弓",
+      "name_en": "Mayumi Nakagawa",
+      "title": "監査役",
+      "title_en": "Corporate Auditor"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found detailed executive information on company profile page (http://a-c-t.co.jp/about.html). Listed 7 officers: 1 representative director/president (板橋哲也), 5 directors (石原健一, 中川勇起夫, 遠藤毅, 増田紀之, 佐藤武次), 1 auditor (中川麻弓). Established 1989 (昭和元年), capital 49M yen. Located in Fujisawa, Kanagawa. System/app development from construction to operation. KIA member. Privacy Mark obtained 2006. Labor dispatch business permitted."
 }

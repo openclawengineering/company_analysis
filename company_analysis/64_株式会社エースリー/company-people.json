@@ -6,15 +6,13 @@
   },
   "people": [
     {
-      "name": "加藤 美幸",
+      "name_jp": "加藤美幸",
+      "name_en": "Miyuki Kato",
       "title": "代表取締役社長",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "President & Representative Director"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company page (https://www.acely.co.jp/company/). President message signed by 代表取締役社長 加藤美幸. News page mentions president transition notice dated 2024-12-05. Company established 1990, IT system integration. Motto: 誠実、行動、忍耐 and ウィン・ウィン. KIA member (神奈川県情報サービス産業協会 area)."
 }

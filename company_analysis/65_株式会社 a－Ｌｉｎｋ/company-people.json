@@ -6,39 +6,37 @@
   },
   "people": [
     {
-      "name": "桜井 容子",
+      "name_jp": "桜井容子",
+      "name_en": "Yoko Sakurai",
       "title": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "President & Representative Director"
     },
     {
-      "name": "法原 敏博",
+      "name_jp": "法原敏博",
+      "name_en": "Toshihiro Norihara",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
     },
     {
-      "name": "久保 重成",
+      "name_jp": "久保重成",
+      "name_en": "Shigeshige Kubo",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
     },
     {
-      "name": "白須 英大",
+      "name_jp": "白須英大",
+      "name_en": "Eidai Shirasu",
       "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "橋口渉",
+      "name_en": "Wataru Hashiguchi",
+      "title": "監査役",
+      "title_en": "Corporate Auditor"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found detailed executive information on company profile page (https://www.alink-group.co.jp/company/profile/). Listed 5 officers: 1 representative director (桜井容子), 3 directors (法原敏博, 久保重成, 白須英大), 1 auditor (橋口渉). Parent company: 株式会社CIJ (TSE Prime market). Part of CIJ group since 2021-07. Capital: 50M yen. Located in Yokohama (新横浜). ISO/IEC 27001 certified (2025). Software development, SES, offshore development, product development. Has Philippines offshore subsidiary (i-BRIDGE)."
 }

@@ -4,8 +4,27 @@
     "name_en": "Eternal Science Corporation",
     "website": "http://www.eternal.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "齋藤隆",
+      "name_en": "Takashi Saito",
+      "title": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "齊藤邦彦",
+      "name_en": "Kunihiko Saito",
+      "title": "取締役会長",
+      "title_en": "Chairman of the Board"
+    },
+    {
+      "name_jp": "鈴木正剛",
+      "name_en": "Masataka Suzuki",
+      "title": "非常勤取締役",
+      "title_en": "Outside Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company profile page (https://www.eternal.co.jp/company/index.html). Listed 3 officers: Chairman (齊藤邦彦), President (齋藤隆), Outside Director (鈴木正剛). Established 1975-03-20 (Showa 50), capital 40M yen. Located in Kawasaki, Kanagawa (武蔵小杉). Over 50 years of software development history. IT consulting, software design/development, package software. Public infrastructure (power, gas, water, highway, railway), medical/welfare, industrial sectors. KIA member. Had LA subsidiary (closed)."
 }

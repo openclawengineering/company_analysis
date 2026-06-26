@@ -6,19 +6,15 @@
   },
   "people": [
     {
-      "name": "栗山浩",
-      "name_ja": "栗山浩",
+      "name_jp": "栗山浩",
+      "name_en": "Hiroshi Kuriyama",
       "title": "代表取締役",
-      "title_ja": "代表取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": "ad-plan@bell.ocn.ne.jp"
+      "title_en": "President & Representative Director"
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "data_source": "official_website",
   "notes": "Civil engineering company based in Fukuoka. May not be KIA member.",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "research_notes": "Civil engineering company based in Fukuoka (有限会社アドバンスドプランニング). Representative: 栗山浩, email: ad-plan@bell.ocn.ne.jp. May not be a KIA IT member. Previous research notes mention this may be miscategorized."
 }

@@ -4,8 +4,15 @@
     "name_en": "NSP Corporation",
     "website": "https://www.nspweb.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "丸山裕",
+      "name_en": "Yutaka Maruyama",
+      "title": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company overview page (https://www.nspweb.jp/gaiyou/). President: 代表取締役社長 丸山裕. Also major shareholder. Established 1986-08-28, capital 30M yen, revenue 312M yen (FY2024), 45 employees. Located in Yokohama (南区). Major shareholders include 丸山裕, 片桐敏雄, 高井由男, 野村幸平, 中山鋼業株式会社. Related company: 中山鋼業株式会社. KIA member. Privacy Mark. Major clients: 日立ソリューションズ・クリエイト, 日立ハイシステム２１, 富士ソフト."
 }

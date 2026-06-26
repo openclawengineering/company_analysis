@@ -6,6 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Website (https://www.sfc-niigata.co.jp/) has encoding issues (Shift-JIS not properly decoded), making content extraction unreliable. From partial decode: company name is 株式会社エスエフシー新潟, established Showa 54 (1979), capital 8,000万円, based in Niigata with 9 branch offices nationwide (Niigata HQ, Tokyo, Sendai, Utsunomiya, Osaka, Nagoya, Hiroshima, Fukuoka). Software development company focused on hospital/care, shift management, nutrition management, and bathing facility software. JIS Q 27001 (ISO/IEC 27001) certified. Executive names could not be extracted due to encoding issues."
 }

@@ -4,8 +4,21 @@
     "name_en": "S&A JAPAN Corporation",
     "website": "http://www.sanda-japan.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "大村章",
+      "name_en": "Akira Omura",
+      "title": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "羽田一彰",
+      "name_en": "Kazuaki Hata",
+      "title": "取締役",
+      "title_en": "Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company overview page (https://www.sanda-japan.jp/会社概要/). President: 代表取締役社長 大村章. Also found 取締役 羽田一彰 mentioned in news articles (朝日新聞/マイベストプロ featured). Established 2011-12-07, located in Meguro, Tokyo. Business: SES, ISO certification consulting, MA tool sales and implementation, SIA services. Small Jimdo-based website."
 }
