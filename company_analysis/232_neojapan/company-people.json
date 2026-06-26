@@ -6,6 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイトがJavaScriptでレンダリングされており、会社概要および役員情報を取得できませんでした。手動での調査が必要です。"
+  "last_updated": "2026-06-26",
+  "notes": "ウェブサイトがJavaScriptでレンダリングされており、会社概要および役員情報を取得できませんでした。手動での調査が必要です。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ネオジャパン. People found: 0. Website: http://www.neo.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

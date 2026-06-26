@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "Iguazu Co., Ltd.",
-        "name_en": "Iguazu Co., Ltd.",
-        "website": "https://www.i-guazu.co.jp/"
-    },
-    "people": [
-        {
-            "name": "矢花 達也",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E9%81%94%E4%B9%9F-%E7%9F%A2%E8%8A%B1-61653657",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04"
+  "company": {
+    "name_jp": "Iguazu Co., Ltd.",
+    "name_en": "Iguazu Co., Ltd.",
+    "website": "https://www.i-guazu.co.jp/"
+  },
+  "people": [
+    {
+      "name": "矢花 達也",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E9%81%94%E4%B9%9F-%E7%9F%A2%E8%8A%B1-61653657",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Iguazu Co., Ltd.. People found: 1. Website: https://www.i-guazu.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

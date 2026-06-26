@@ -1,17 +1,18 @@
 {
-    "company": {
-        "name": "株式会社フォーラムサイエンス",
-        "name_en": "",
-        "website": "https://www.forum-science.co.jp/"
-    },
-    "people": [
-        {
-            "name": "斎藤実希",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E7%BE%A9%E6%96%87-%E6%B1%A0%E7%9",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name": "株式会社フォーラムサイエンス",
+    "name_en": "",
+    "website": "https://www.forum-science.co.jp/"
+  },
+  "people": [
+    {
+      "name": "斎藤実希",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E7%BE%A9%E6%96%87-%E6%B1%A0%E7%9",
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 1. Website: https://www.forum-science.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

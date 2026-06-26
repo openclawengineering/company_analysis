@@ -1,17 +1,18 @@
 {
-    "company": {
-        "name": "株式会社ＹＳＬソリューション（YSL Solution）",
-        "name_en": "",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "長堀真己",
-            "title": "代表取締役社長",
-            "linkedin": "https://www.linkedin.com/in/泉-長堀-068903aa/",
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name": "株式会社ＹＳＬソリューション（YSL Solution）",
+    "name_en": "",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "長堀真己",
+      "title": "代表取締役社長",
+      "linkedin": "https://www.linkedin.com/in/泉-長堀-068903aa/",
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 1. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

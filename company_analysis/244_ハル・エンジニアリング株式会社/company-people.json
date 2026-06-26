@@ -15,6 +15,7 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイトの文字化けにより代表者氏名が取得できませんでした。役員名は明記されていません。"
+  "last_updated": "2026-06-26",
+  "notes": "ウェブサイトの文字化けにより代表者氏名が取得できませんでした。役員名は明記されていません。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ハル・エンジニアリング株式会社. People found: 1. Website: https://www.haleng.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

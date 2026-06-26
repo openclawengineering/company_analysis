@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "アイセル株式会社",
-        "name_en": "AICEL Inc.",
-        "website": "https://www.aisel.ne.jp/"
-    },
-    "people": [
-        {
-            "name": "草川 麗子",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-13"
+  "company": {
+    "name_jp": "アイセル株式会社",
+    "name_en": "AICEL Inc.",
+    "website": "https://www.aisel.ne.jp/"
+  },
+  "people": [
+    {
+      "name": "草川 麗子",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: アイセル株式会社. People found: 1. Website: https://www.aisel.ne.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

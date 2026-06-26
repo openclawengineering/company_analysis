@@ -1,24 +1,25 @@
 {
-    "company": {
-        "name_jp": "株式会社HOKUTO",
-        "name_en": "HOKUTO",
-        "website": ""
+  "company": {
+    "name_jp": "株式会社HOKUTO",
+    "name_en": "HOKUTO",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "山下颯太",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E9%A2%AF%E5%A4%AA-%E5%B1%B1%E4%B",
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "山下颯太",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E9%A2%AF%E5%A4%AA-%E5%B1%B1%E4%B",
-            "twitter": null
-        },
-        {
-            "name": "五十嵐北斗",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "五十嵐北斗",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社HOKUTO. People found: 2. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

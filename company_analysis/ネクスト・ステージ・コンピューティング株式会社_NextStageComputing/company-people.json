@@ -1,17 +1,18 @@
 {
-    "company": {
-        "name": "ネクスト・ステージ・コンピューティング株式会社",
-        "name_en": "",
-        "website": "https://nscomputing.co.jp"
-    },
-    "people": [
-        {
-            "name": "内山勇次郎",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-06",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name": "ネクスト・ステージ・コンピューティング株式会社",
+    "name_en": "",
+    "website": "https://nscomputing.co.jp"
+  },
+  "people": [
+    {
+      "name": "内山勇次郎",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 1. Website: https://nscomputing.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

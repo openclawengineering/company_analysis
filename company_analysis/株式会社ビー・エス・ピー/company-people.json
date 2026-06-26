@@ -1,18 +1,19 @@
 {
-    "company": {
-        "name_jp": "株式会社ビー・エス・ピー",
-        "name_en": "ビー・エス・ピー",
-        "website": "https://natural-bsp.com/"
-    },
-    "people": [
-        {
-            "name": "武田政憲",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E6%94%BF%E6%86%B2-%E9%88%B4%E6%9",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社ビー・エス・ピー",
+    "name_en": "ビー・エス・ピー",
+    "website": "https://natural-bsp.com/"
+  },
+  "people": [
+    {
+      "name": "武田政憲",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%94%BF%E6%86%B2-%E9%88%B4%E6%9",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ビー・エス・ピー. People found: 1. Website: https://natural-bsp.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

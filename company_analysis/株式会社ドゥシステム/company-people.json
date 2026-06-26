@@ -1,24 +1,25 @@
 {
-    "company": {
-        "name_jp": "株式会社ドゥシステム",
-        "name_en": "ドゥシステム",
-        "website": ""
+  "company": {
+    "name_jp": "株式会社ドゥシステム",
+    "name_en": "ドゥシステム",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "木村三四朗",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "木村三四朗",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        },
-        {
-            "name": "成島優",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "成島優",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ドゥシステム. People found: 2. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,8 +1,9 @@
 {
   "company_name": "株式会社光洋システム",
   "company_name_en": "Koyo Systems Co., Ltd.",
-  "last_updated": "2026-05-26",
+  "last_updated": "2026-06-26",
   "status": "web_site_unreachable",
   "people": [],
-  "social_profiles": []
+  "social_profiles": [],
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 0. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,43 +1,44 @@
 {
-    "company": {
-        "name": "株式会社神奈中情報システム",
-        "name_en": "KANACHU INFORMATION SYSTEM Co.,Ltd.",
-        "website": "https://www.kanachu-it.co.jp"
+  "company": {
+    "name": "株式会社神奈中情報システム",
+    "name_en": "KANACHU INFORMATION SYSTEM Co.,Ltd.",
+    "website": "https://www.kanachu-it.co.jp"
+  },
+  "people": [
+    {
+      "name": "米山 仁",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "米山 仁",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "市川 保広",
-            "title": "専務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "大森 正章",
-            "title": "専務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "早川 昌忠",
-            "title": "監査役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-06-21"
+    {
+      "name": "市川 保広",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大森 正章",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "早川 昌忠",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 4. Website: https://www.kanachu-it.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

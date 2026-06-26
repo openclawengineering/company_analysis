@@ -1,59 +1,60 @@
 {
-    "company": {
-        "name_jp": "ディエスソリューション株式会社",
-        "name_en": "D-Solution Inc.",
-        "website": "https://www.d-solution.co.jp"
+  "company": {
+    "name_jp": "ディエスソリューション株式会社",
+    "name_en": "D-Solution Inc.",
+    "website": "https://www.d-solution.co.jp"
+  },
+  "people": [
+    {
+      "name": "大澤真理",
+      "title": "代表取締役 CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "大澤真理",
-            "title": "代表取締役 CEO",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "大澤隆之",
-            "title": "CCO/CSO/COO",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "安元政",
-            "title": "顧問公認会計士・税理士",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "吉成安友",
-            "title": "顧問弁護士",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "吉原朋重",
-            "title": "顧問弁理士",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "上塚寛",
-            "title": "顧問",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-06"
+    {
+      "name": "大澤隆之",
+      "title": "CCO/CSO/COO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "安元政",
+      "title": "顧問公認会計士・税理士",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉成安友",
+      "title": "顧問弁護士",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "吉原朋重",
+      "title": "顧問弁理士",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "上塚寛",
+      "title": "顧問",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ディエスソリューション株式会社. People found: 6. Website: https://www.d-solution.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

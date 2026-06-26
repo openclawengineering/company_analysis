@@ -20,15 +20,14 @@
   },
   "organizational_structure": {
     "executive_count": "[Number to be researched]",
-    "departments": ["Departments to be researched"],
-    "subsidiaries": ["Subsidiaries to be researched"]
+    "departments": [
+      "Departments to be researched"
+    ],
+    "subsidiaries": [
+      "Subsidiaries to be researched"
+    ]
   },
-  "research_notes": {
-    "background_context": "Research needed to understand executive team and company structure",
-    "industry_experience": "Experience backgrounds to be researched when data available",
-    "leadership_history": "Leadership backgrounds and career history to be researched",
-    "company_relationships": "Company partnerships and relationships to be researched"
-  },
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 0. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits.",
   "data_sources_needed": [
     "Company official website leadership section",
     "Japan corporate registry executive data",
@@ -38,5 +37,6 @@
     "Industry association executive listings"
   ],
   "placeholder_created": "2026-05-24",
-  "status_updated": "2026-05-24"
+  "status_updated": "2026-05-24",
+  "last_updated": "2026-06-26"
 }

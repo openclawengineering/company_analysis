@@ -1,20 +1,21 @@
 {
-    "company": {
-        "name_jp": "ピー・アイ・スクエア株式会社",
-        "name_en": "P.I.Square Co., Ltd.",
-        "website": "http://www.pisquare.co.jp/"
-    },
-    "people": [
-        {
-            "name": "守屋光博",
-            "title": "代表者",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-07",
-    "data_source": "company_website_research"
+  "company": {
+    "name_jp": "ピー・アイ・スクエア株式会社",
+    "name_en": "P.I.Square Co., Ltd.",
+    "website": "http://www.pisquare.co.jp/"
+  },
+  "people": [
+    {
+      "name": "守屋光博",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "company_website_research",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ピー・アイ・スクエア株式会社. People found: 1. Website: http://www.pisquare.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

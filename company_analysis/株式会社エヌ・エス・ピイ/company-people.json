@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "株式会社エヌ・エス・ピイ",
-        "name_en": "NSP Co., Ltd.",
-        "website": "https://www.nspweb.jp/"
-    },
-    "people": [
-        {
-            "name": "丸山 裕",
-            "title": "代表取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-06"
+  "company": {
+    "name_jp": "株式会社エヌ・エス・ピイ",
+    "name_en": "NSP Co., Ltd.",
+    "website": "https://www.nspweb.jp/"
+  },
+  "people": [
+    {
+      "name": "丸山 裕",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社エヌ・エス・ピイ. People found: 1. Website: https://www.nspweb.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

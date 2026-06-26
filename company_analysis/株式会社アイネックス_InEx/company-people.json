@@ -1,50 +1,51 @@
 {
-    "company": {
-        "name": "株式会社アイネックス",
-        "name_en": "",
-        "website": "https://in-ex.co.jp/"
+  "company": {
+    "name": "株式会社アイネックス",
+    "name_en": "",
+    "website": "https://in-ex.co.jp/"
+  },
+  "people": [
+    {
+      "name": "早坂宣則",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "早坂宣則",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "早川寛",
-            "title": "専務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "早坂美雪",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "田川大祐",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "天野和哉",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "last_updated": "2026-06-19"
+    {
+      "name": "早川寛",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "早坂美雪",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田川大祐",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "天野和哉",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 5. Website: https://in-ex.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

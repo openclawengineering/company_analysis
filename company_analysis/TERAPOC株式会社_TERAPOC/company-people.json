@@ -1,19 +1,19 @@
 {
-    "company": {
-        "name_jp": "TERAPOC株式会社",
-        "name_en": "TERAPOC Inc.",
-        "website": "https://terapoc.co.jp/"
-    },
-    "people": [
-        {
-            "name": "寺島秀雄",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E7%A7%80%E5%A4%AB-%E5%AF%BA%E5%B",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "research_notes": "Executive team information not publicly available. Company specializes in industrial machine control software development with focus on IoT, factory automation, and broadcast equipment control systems.",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "TERAPOC株式会社",
+    "name_en": "TERAPOC Inc.",
+    "website": "https://terapoc.co.jp/"
+  },
+  "people": [
+    {
+      "name": "寺島秀雄",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E7%A7%80%E5%A4%AB-%E5%AF%BA%E5%B",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: TERAPOC株式会社. People found: 1. Website: https://terapoc.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits.",
+  "data_source": "tavily_ai_summary"
 }

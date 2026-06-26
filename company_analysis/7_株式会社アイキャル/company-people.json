@@ -15,6 +15,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing). Company website successfully accessed on 2026-06-26. Found representative: 小谷 謙一. Company established 2005, 48 employees, capital 20M JPY, based in Yokohama. ISO/IEC 27001 certified. KIA member. 20th anniversary in July 2025."
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アイキャル. People found: 1. Website: https://www.ical.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

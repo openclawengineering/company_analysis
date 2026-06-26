@@ -23,7 +23,7 @@
     },
     "cto": {
       "name": "Not available",
-      "title": "Not available", 
+      "title": "Not available",
       "linkedin": null,
       "twitter": null,
       "bio": "Not available",
@@ -35,15 +35,16 @@
       "title": "Not available",
       "linkedin": null,
       "twitter": null,
-      "bio": "Not available", 
+      "bio": "Not available",
       "education": "Not available",
       "experience": "Not available"
     },
     "other_executives": []
   },
   "file_information": {
-    "created": 2026-05-14 08:00 UTC",
+    "created": "2026-05-14 08:00 UTC",
     "status": "placeholder",
     "awaiting_web_search": true
-  }
+  },
+  "last_updated": "2026-06-26"
 }

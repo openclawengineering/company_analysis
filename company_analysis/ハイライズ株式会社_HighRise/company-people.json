@@ -1,20 +1,21 @@
 {
-    "company": {
-        "name_jp": "ハイライズ株式会社",
-        "name_en": "HighRise Co., Ltd.",
-        "website": "https://www.hirise.co.jp"
-    },
-    "people": [
-        {
-            "name": "平岡卓也",
-            "title": "代表取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-07",
-    "data_source": "company_website_research"
+  "company": {
+    "name_jp": "ハイライズ株式会社",
+    "name_en": "HighRise Co., Ltd.",
+    "website": "https://www.hirise.co.jp"
+  },
+  "people": [
+    {
+      "name": "平岡卓也",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "company_website_research",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ハイライズ株式会社. People found: 1. Website: https://www.hirise.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

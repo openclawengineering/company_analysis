@@ -18,5 +18,7 @@
     "Leadership team information unavailable without web access",
     "Technical staff details pending web search restoration",
     "Contact persons cannot be identified without official sources"
-  ]
+  ],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 0. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

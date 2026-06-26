@@ -7,5 +7,6 @@
   "people": [],
   "social_profiles": [],
   "notes": "Website is Wix-based; fetch returned only CSS/SVG data without readable text content. No officer or detailed company info could be extracted.",
-  "last_updated": "2026-06-25"
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社トランスコスモス・デジタル・テクノロジー. People found: 0. Website: https://www.trans-cosmos-digtec.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

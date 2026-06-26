@@ -6,6 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社アクロイト. People found: 0. Website: https://www.acroit.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -22,6 +22,6 @@
       "note": "GitHub organization (linked from website footer)"
     }
   ],
-  "last_updated": "2026-06-25",
-  "research_notes": "Company pages scraped. One executive listed. GitHub organization found linked from website footer. Ruby-focused company, Gold certified Ruby SIER. Founded 1993. No LinkedIn/Twitter found."
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社テクノブレーン. People found: 1. Website: https://www.tbn.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,25 +1,26 @@
 {
-    "company": {
-        "name_jp": "ナレッジビーンズ株式会社",
-        "name_en": "Knowledgebeans Co., Ltd.",
-        "website": "https://www.knowledgebeans.co.jp"
+  "company": {
+    "name_jp": "ナレッジビーンズ株式会社",
+    "name_en": "Knowledgebeans Co., Ltd.",
+    "website": "https://www.knowledgebeans.co.jp"
+  },
+  "people": [
+    {
+      "name": "Kenji Kawanishi",
+      "title": "役員",
+      "linkedin": "https://jp.linkedin.com/in/kenji-kawanishi-84362b41",
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "Kenji Kawanishi",
-            "title": "役員",
-            "linkedin": "https://jp.linkedin.com/in/kenji-kawanishi-84362b41",
-            "twitter": null
-        },
-        {
-            "name": "Kenji Kawanishi",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-06",
-    "notes": "Website company page does not list officer/executive names. Only company overview info available.",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "Kenji Kawanishi",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "notes": "Website company page does not list officer/executive names. Only company overview info available.",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ナレッジビーンズ株式会社. People found: 2. Website: https://www.knowledgebeans.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,18 +1,19 @@
 {
-    "company": {
-        "name_jp": "株式会社ビット",
-        "name_en": "ビット",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "齋藤浩二",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E6%B5%A9%E4%BA%8C-%E9%BD%8B%E8%9",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社ビット",
+    "name_en": "ビット",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "齋藤浩二",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%B5%A9%E4%BA%8C-%E9%BD%8B%E8%9",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ビット. People found: 1. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

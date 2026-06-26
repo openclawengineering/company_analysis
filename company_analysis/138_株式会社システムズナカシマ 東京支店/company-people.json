@@ -96,6 +96,7 @@
       "type": "company"
     }
   ],
-  "last_updated": "2026-06-24",
-  "notes": "役員情報はウェブサイトから確認済み（全8名）。ソーシャルプロファイルは会社アカウントのみ確認。個人プロファイルは認証が必要なため確認できず。"
+  "last_updated": "2026-06-26",
+  "notes": "役員情報はウェブサイトから確認済み（全8名）。ソーシャルプロファイルは会社アカウントのみ確認。個人プロファイルは認証が必要なため確認できず。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システムズナカシマ 東京支店. People found: 8. Website: https://www.systems.nakashima.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

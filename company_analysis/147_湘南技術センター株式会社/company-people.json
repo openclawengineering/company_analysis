@@ -25,5 +25,6 @@
       "type": "company"
     }
   ],
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 湘南技術センター株式会社. People found: 0. Website: https://www.shonan-gijyutsuc.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

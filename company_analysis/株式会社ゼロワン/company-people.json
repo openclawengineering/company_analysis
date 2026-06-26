@@ -1,30 +1,31 @@
 {
-    "company": {
-        "name_jp": "株式会社ゼロワン",
-        "name_en": "ゼロワン",
-        "website": ""
+  "company": {
+    "name_jp": "株式会社ゼロワン",
+    "name_en": "ゼロワン",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "三嶋政美",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "三嶋政美",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        },
-        {
-            "name": "猪飼昭嗣",
-            "title": "役員",
-            "linkedin": null,
-            "twitter": null
-        },
-        {
-            "name": "南 祐希",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "猪飼昭嗣",
+      "title": "役員",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "南 祐希",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ゼロワン. People found: 3. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

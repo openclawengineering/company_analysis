@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "Arrows Systems Co., Ltd.",
-        "name_en": "Arrows Systems Co., Ltd.",
-        "website": "https://www.arrows-systems.co.jp/"
-    },
-    "people": [
-        {
-            "name": "矢津達彦",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/太郎-矢津-19734521a",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04"
+  "company": {
+    "name_jp": "Arrows Systems Co., Ltd.",
+    "name_en": "Arrows Systems Co., Ltd.",
+    "website": "https://www.arrows-systems.co.jp/"
+  },
+  "people": [
+    {
+      "name": "矢津達彦",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/太郎-矢津-19734521a",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Arrows Systems Co., Ltd.. People found: 1. Website: https://www.arrows-systems.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

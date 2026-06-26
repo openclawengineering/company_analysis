@@ -71,6 +71,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing). Company website successfully accessed on 2026-06-26. Found comprehensive executive information: Representative President: 瀬端 伸一, Managing Directors: 小松 貴宏, 吉澤 誠, Directors: 立島 直記, 佐伯 友道, 今井 克幸, 小山 真一, 木上 望, 黒瀨 猶志郎, Auditors: 五十嵐 由紀夫, 福井 秀和. Total 516 employees, 8.37B JPY revenue (2026). Listed on JASDAQ."
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ISTソフトウェア. People found: 8. Website: http://www.ist-software.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

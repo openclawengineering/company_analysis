@@ -1,23 +1,24 @@
 {
-    "company": {
-        "name": "株式会社ハクエイ",
-        "name_en": "",
-        "website": "https://www.hakuei-net.co.jp/"
+  "company": {
+    "name": "株式会社ハクエイ",
+    "name_en": "",
+    "website": "https://www.hakuei-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "森田真規",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E5%85%89-%E6%A3%AE%E7%94%B0-721a",
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "森田真規",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E5%85%89-%E6%A3%AE%E7%94%B0-721a",
-            "twitter": null
-        },
-        {
-            "name": "井上博栄",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "井上博栄",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 2. Website: https://www.hakuei-net.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

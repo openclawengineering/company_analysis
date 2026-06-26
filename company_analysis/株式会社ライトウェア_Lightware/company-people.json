@@ -1,30 +1,31 @@
 {
-    "company_name": "株式会社ライトウェア",
-    "english_name": "Lightware Inc.",
-    "executives": [
-        {
-            "name": "代表取締役",
-            "position": "代表取締役社長",
-            "background": "詳細不明"
-        }
-    ],
-    "key_personnel": [
-        {
-            "name": "不明",
-            "position": "役員名不明",
-            "background": "詳細不明"
-        }
-    ],
-    "board_members": [],
-    "advisors": [],
-    "people": [
-        {
-            "name": "平野 線治",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社ライトウェア",
+  "english_name": "Lightware Inc.",
+  "executives": [
+    {
+      "name": "代表取締役",
+      "position": "代表取締役社長",
+      "background": "詳細不明"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "不明",
+      "position": "役員名不明",
+      "background": "詳細不明"
+    }
+  ],
+  "board_members": [],
+  "advisors": [],
+  "people": [
+    {
+      "name": "平野 線治",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 1. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

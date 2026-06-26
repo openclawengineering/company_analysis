@@ -1,18 +1,19 @@
 {
-    "company": {
-        "name_jp": "株式会社デジタルフォルン",
-        "name_en": "デジタルフォルン",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "蕭 敬如",
-            "title": "代表取締役会長",
-            "linkedin": "https://tw.linkedin.com/in/%E5%A6%82%E7%A5%90-%E8%95%AD-976b",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社デジタルフォルン",
+    "name_en": "デジタルフォルン",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "蕭 敬如",
+      "title": "代表取締役会長",
+      "linkedin": "https://tw.linkedin.com/in/%E5%A6%82%E7%A5%90-%E8%95%AD-976b",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社デジタルフォルン. People found: 1. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

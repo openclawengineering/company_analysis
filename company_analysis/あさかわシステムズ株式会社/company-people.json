@@ -42,7 +42,11 @@
       "role_en": "Director",
       "executive_type": "executive_officer",
       "executive_role_jp": "執行役員",
-      "certifications": ["公認会計士", "税理士", "社会保険労務士"],
+      "certifications": [
+        "公認会計士",
+        "税理士",
+        "社会保険労務士"
+      ],
       "note": "Likely family member of president (三宅)"
     },
     {
@@ -51,7 +55,9 @@
       "role_jp": "社外取締役",
       "role_en": "Outside Director",
       "executive_type": "outside_board",
-      "certifications": ["税理士"]
+      "certifications": [
+        "税理士"
+      ]
     },
     {
       "name_jp": "芝﨑 晃",
@@ -59,7 +65,10 @@
       "role_jp": "社外監査役",
       "role_en": "Outside Corporate Auditor",
       "executive_type": "outside_board",
-      "certifications": ["公認会計士", "税理士"]
+      "certifications": [
+        "公認会計士",
+        "税理士"
+      ]
     },
     {
       "name_jp": "森 和幸",
@@ -121,6 +130,7 @@
     "Instagram hashtag search (no content returned)",
     "Facebook search (error)"
   ],
-  "last_updated": "2026-06-22",
-  "research_timestamp": "2026-06-22T04:14:00Z"
+  "last_updated": "2026-06-26",
+  "research_timestamp": "2026-06-22T04:14:00Z",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: あさかわシステムズ株式会社. People found: 11. Website: https://www.a-sk.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

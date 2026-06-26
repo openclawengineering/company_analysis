@@ -6,6 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "notes": "Website returned 403 Forbidden error. Unable to retrieve company information or personnel data. The site appears to be hosted on zenlogic.jp."
+  "last_updated": "2026-06-26",
+  "notes": "Website returned 403 Forbidden error. Unable to retrieve company information or personnel data. The site appears to be hosted on zenlogic.jp.",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ディーアンドエーコンサルティング. People found: 0. Website: http://www.dacons.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

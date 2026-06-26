@@ -1,36 +1,37 @@
 {
-    "company_name": "株式会社メトロ",
-    "english_name": "Metro Inc.",
-    "executives": [
-        {
-            "name": "代表取締役",
-            "position": "代表取締役社長",
-            "background": "詳細不明"
-        }
-    ],
-    "key_personnel": [
-        {
-            "name": "不明",
-            "position": "役員名不明",
-            "background": "詳細不明"
-        }
-    ],
-    "board_members": [],
-    "advisors": [],
-    "people": [
-        {
-            "name": "小川孝行",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A1%8C-%E5%B0%8F%E5%B",
-            "twitter": null
-        },
-        {
-            "name": "角元敬治",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company_name": "株式会社メトロ",
+  "english_name": "Metro Inc.",
+  "executives": [
+    {
+      "name": "代表取締役",
+      "position": "代表取締役社長",
+      "background": "詳細不明"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "不明",
+      "position": "役員名不明",
+      "background": "詳細不明"
+    }
+  ],
+  "board_members": [],
+  "advisors": [],
+  "people": [
+    {
+      "name": "小川孝行",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E5%AD%9D%E8%A1%8C-%E5%B0%8F%E5%B",
+      "twitter": null
+    },
+    {
+      "name": "角元敬治",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 2. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

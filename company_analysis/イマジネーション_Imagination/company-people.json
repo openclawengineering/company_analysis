@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "イマジネーション株式会社",
-        "name_en": "Imagination Co., Ltd.",
-        "website": "https://www.imagination.co.jp/"
-    },
-    "people": [
-        {
-            "name": "小笠原 有則",
-            "title": "代表取締役",
-            "linkedin": "https://jp.linkedin.com/in/%E9%8A%85%E5%B8%82-%E5%B0%8F%E7%A",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04"
+  "company": {
+    "name_jp": "イマジネーション株式会社",
+    "name_en": "Imagination Co., Ltd.",
+    "website": "https://www.imagination.co.jp/"
+  },
+  "people": [
+    {
+      "name": "小笠原 有則",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E9%8A%85%E5%B8%82-%E5%B0%8F%E7%A",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: イマジネーション株式会社. People found: 1. Website: https://www.imagination.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

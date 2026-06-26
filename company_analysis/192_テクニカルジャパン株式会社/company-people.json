@@ -6,6 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "会社概要ページへのアクセスに問題があったため、役員情報を取得できませんでした。ウェブサイトからは組み込み系開発、WEB系開発、システム開発等の事業内容や、神奈川県内を中心とした勤務地であることが確認できます。"
+  "last_updated": "2026-06-26",
+  "notes": "会社概要ページへのアクセスに問題があったため、役員情報を取得できませんでした。ウェブサイトからは組み込み系開発、WEB系開発、システム開発等の事業内容や、神奈川県内を中心とした勤務地であることが確認できます。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: テクニカルジャパン株式会社. People found: 0. Website: https://www.tjp.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

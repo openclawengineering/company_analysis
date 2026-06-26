@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "アーネスト開発株式会社",
-        "name_en": "Earnest Development Co., Ltd.",
-        "website": "https://www.earnestdevelopment.co.jp/"
-    },
-    "people": [
-        {
-            "name": "渡辺進二",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "notes": "会社ウェブサイトの文字化により代表者名を特定できず。ウェブサイト (earnestdevelopment.co.jp) のエンコーディング問題により人物情報を取得できなかった。",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "アーネスト開発株式会社",
+    "name_en": "Earnest Development Co., Ltd.",
+    "website": "https://www.earnestdevelopment.co.jp/"
+  },
+  "people": [
+    {
+      "name": "渡辺進二",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "notes": "会社ウェブサイトの文字化により代表者名を特定できず。ウェブサイト (earnestdevelopment.co.jp) のエンコーディング問題により人物情報を取得できなかった。",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: アーネスト開発株式会社. People found: 1. Website: https://www.earnestdevelopment.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,27 +1,28 @@
 {
-    "company": {
-        "name_jp": "アークシステム株式会社",
-        "name_en": "Ark System Co., Ltd.",
-        "website": "https://www.ark-sys.co.jp/"
+  "company": {
+    "name_jp": "アークシステム株式会社",
+    "name_en": "Ark System Co., Ltd.",
+    "website": "https://www.ark-sys.co.jp/"
+  },
+  "people": [
+    {
+      "name": "小栁",
+      "title": "代表取締役 最高経営責任者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "小栁",
-            "title": "代表取締役 最高経営責任者",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "斎藤",
-            "title": "取締役 最高執行責任者",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-14"
+    {
+      "name": "斎藤",
+      "title": "取締役 最高執行責任者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: アークシステム株式会社. People found: 2. Website: https://www.ark-sys.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

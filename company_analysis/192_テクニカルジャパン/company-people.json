@@ -6,6 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "Website fetch failed. Unable to retrieve company information or personnel data."
+  "last_updated": "2026-06-26",
+  "notes": "Website fetch failed. Unable to retrieve company information or personnel data.",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: テクニカルジャパン株式会社. People found: 0. Website: https://www.tjp.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

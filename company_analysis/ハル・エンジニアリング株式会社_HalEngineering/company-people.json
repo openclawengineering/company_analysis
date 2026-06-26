@@ -1,26 +1,27 @@
 {
-    "company": {
-        "name_jp": "ハル・エンジニアリング株式会社",
-        "name_en": "HaL Engineering Inc.",
-        "website": "https://www.haleng.co.jp"
-    },
-    "people": [
-        {
-            "name": "小野武彦",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/takehiko-ono-02813b7",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [
-        {
-            "name": "小野武彦",
-            "platform": "linkedin",
-            "url": "https://jp.linkedin.com/in/takehiko-ono-02813b7"
-        }
-    ],
-    "last_updated": "2026-05-07",
-    "data_source": "company_website_research"
+  "company": {
+    "name_jp": "ハル・エンジニアリング株式会社",
+    "name_en": "HaL Engineering Inc.",
+    "website": "https://www.haleng.co.jp"
+  },
+  "people": [
+    {
+      "name": "小野武彦",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/takehiko-ono-02813b7",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "小野武彦",
+      "platform": "linkedin",
+      "url": "https://jp.linkedin.com/in/takehiko-ono-02813b7"
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "company_website_research",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ハル・エンジニアリング株式会社. People found: 1. Website: https://www.haleng.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

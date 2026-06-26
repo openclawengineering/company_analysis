@@ -21,5 +21,6 @@
       "account": "orientalinformationservice"
     }
   ],
-  "last_updated": "2026-06-20"
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社オリエンタルインフォーメイションサービス. People found: 1. Website: https://www.ois-yokohama.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

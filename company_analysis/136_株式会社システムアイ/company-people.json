@@ -118,6 +118,7 @@
       "type": "company"
     }
   ],
-  "last_updated": "2026-06-24",
-  "notes": "役員・執行役員・顧問情報はウェブサイトから確認済み（全10名）。ソーシャルプロファイルは会社アカウントのみ確認。個人プロファイルは認証が必要なため確認できず。"
+  "last_updated": "2026-06-26",
+  "notes": "役員・執行役員・顧問情報はウェブサイトから確認済み（全10名）。ソーシャルプロファイルは会社アカウントのみ確認。個人プロファイルは認証が必要なため確認できず。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システムアイ. People found: 10. Website: https://systemi.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

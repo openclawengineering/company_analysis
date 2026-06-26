@@ -1,36 +1,37 @@
 {
-    "company": {
-        "name_jp": "株式会社ルーシップ",
-        "name_en": "Rootship Inc.",
-        "website": "https://www.rootship.co.jp"
+  "company": {
+    "name_jp": "株式会社ルーシップ",
+    "name_en": "Rootship Inc.",
+    "website": "https://www.rootship.co.jp"
+  },
+  "people": [
+    {
+      "name": "阿部豊",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "阿部豊",
-            "title": "代表取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "仁田脇武史",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "宮崎智行",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-15",
-    "notes": "Company has 29 employees as of April 2025. Executive information confirmed from company website. LinkedIn/Twitter profiles not found due to API limitations."
+    {
+      "name": "仁田脇武史",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宮崎智行",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "notes": "Company has 29 employees as of April 2025. Executive information confirmed from company website. LinkedIn/Twitter profiles not found due to API limitations.",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ルーシップ. People found: 3. Website: https://www.rootship.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

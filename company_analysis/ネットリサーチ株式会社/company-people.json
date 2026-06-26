@@ -1,18 +1,19 @@
 {
-    "company": {
-        "name_jp": "ネットリサーチ株式会社",
-        "name_en": "ネットリサーチ",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "岩鼻重雄",
-            "title": "代表取締役社長",
-            "linkedin": "https://www.linkedin.com/in/好雄-岩村-24a5711b0/",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-06",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "ネットリサーチ株式会社",
+    "name_en": "ネットリサーチ",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "岩鼻重雄",
+      "title": "代表取締役社長",
+      "linkedin": "https://www.linkedin.com/in/好雄-岩村-24a5711b0/",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ネットリサーチ株式会社. People found: 1. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

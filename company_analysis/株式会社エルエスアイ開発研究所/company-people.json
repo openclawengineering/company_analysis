@@ -1,34 +1,43 @@
 {
-    "company": {
-        "name_jp": "株式会社エルエスアイ開発研究所",
-        "name_en": "LSI Development Research Institute",
-        "website": "http://lsi-dev.co.jp/"
-    },
-    "people": [
+  "company": {
+    "name_jp": "株式会社エルエスアイ開発研究所",
+    "name_en": "LSI Development Research Institute",
+    "website": "http://lsi-dev.co.jp/"
+  },
+  "people": [
+    {
+      "name": "山村 典久",
+      "name_ja": "山村 典久",
+      "title": "代表取締役社長",
+      "title_ja": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/norihisa-yamamura-b4691144",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "Norihisa Yamamura",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/norihisa-yamamura-b4691144/en",
+      "headline": "R&D LSI, Mid/High Voltage Power Management for Automotive Apps",
+      "location": "Semiconductor Manufacture",
+      "experience": [
         {
-            "name": "山村 典久",
-            "name_ja": "山村 典久",
-            "title": "代表取締役社長",
-            "title_ja": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/norihisa-yamamura-b4691144",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [
+          "role": "デザインエンジニア",
+          "company": "半導体製造",
+          "period": "Oct 2017 - Present"
+        },
         {
-            "name": "Norihisa Yamamura",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/norihisa-yamamura-b4691144/en",
-            "headline": "R&D LSI, Mid/High Voltage Power Management for Automotive Apps",
-            "location": "Semiconductor Manufacture",
-            "experience": [
-                {"role": "デザインエンジニア", "company": "半導体製造", "period": "Oct 2017 - Present"},
-                {"role": "代表", "company": "", "period": "Oct 2010 - Sep 2017"}
-            ]
+          "role": "代表",
+          "company": "",
+          "period": "Oct 2010 - Sep 2017"
         }
-    ],
-    "last_updated": "2026-06-20",
-    "data_source": "official_website_linkedin"
+      ]
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "official_website_linkedin",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社エルエスアイ開発研究所. People found: 1. Website: http://lsi-dev.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

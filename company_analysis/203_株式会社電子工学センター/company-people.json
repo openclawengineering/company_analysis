@@ -7,5 +7,6 @@
   "people": [],
   "social_profiles": [],
   "notes": "Website fetch failed (timeout). No company or officer information could be retrieved from https://www.eec.co.jp/",
-  "last_updated": "2026-06-25"
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社電子工学センター. People found: 0. Website: https://www.eec.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

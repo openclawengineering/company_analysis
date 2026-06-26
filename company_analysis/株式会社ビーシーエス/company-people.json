@@ -1,24 +1,25 @@
 {
-    "company": {
-        "name_jp": "株式会社ビーシーエス",
-        "name_en": "ビーシーエス",
-        "website": ""
+  "company": {
+    "name_jp": "株式会社ビーシーエス",
+    "name_en": "ビーシーエス",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "岡﨑 正俊",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "岡﨑 正俊",
-            "title": "代表取締役",
-            "linkedin": null,
-            "twitter": null
-        },
-        {
-            "name": "岩崎 哲也",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "岩崎 哲也",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ビーシーエス. People found: 2. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

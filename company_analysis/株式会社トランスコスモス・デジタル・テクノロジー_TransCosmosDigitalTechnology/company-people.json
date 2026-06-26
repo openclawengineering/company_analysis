@@ -1,23 +1,24 @@
 {
-    "company": {
-        "name": "株式会社トランスコスモス・デジタル・テクノロジー",
-        "name_en": "",
-        "website": "https://www.trans-cosmos-digtec.co.jp/"
+  "company": {
+    "name": "株式会社トランスコスモス・デジタル・テクノロジー",
+    "name_en": "",
+    "website": "https://www.trans-cosmos-digtec.co.jp/"
+  },
+  "people": [
+    {
+      "name": "所年雄",
+      "title": "代表取締役社長",
+      "linkedin": "https://www.linkedin.com/in/雄佑-國方-96301023b/",
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "所年雄",
-            "title": "代表取締役社長",
-            "linkedin": "https://www.linkedin.com/in/雄佑-國方-96301023b/",
-            "twitter": null
-        },
-        {
-            "name": "奥田昌孝",
-            "title": "取締役会長",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "奥田昌孝",
+      "title": "取締役会長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 2. Website: https://www.trans-cosmos-digtec.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

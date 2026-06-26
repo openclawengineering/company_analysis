@@ -1,10 +1,11 @@
 {
-    "company": {
-        "name_jp": "株式会社テクノコア",
-        "name_en": "Techno Core Co., Ltd.",
-        "website": "https://www.techno-core.jp/"
-    },
-    "people": [],
-    "social_profiles": [],
-    "last_updated": "2026-05-06"
+  "company": {
+    "name_jp": "株式会社テクノコア",
+    "name_en": "Techno Core Co., Ltd.",
+    "website": "https://www.techno-core.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社テクノコア. People found: 0. Website: https://www.techno-core.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

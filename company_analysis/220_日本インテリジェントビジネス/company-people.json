@@ -7,5 +7,6 @@
   "people": [],
   "social_profiles": [],
   "notes": "ウェブサイト上に代表者・役員の氏名は明記されていない。「取締役相談役挨拶」のページタイトルはあるが、氏名の記載なし。会社概要ページ（住所、資本金等）もウェブサイト上に見つからず。",
-  "last_updated": "2026-06-25"
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社日本インテリジェントビジネス. People found: 0. Website: https://www.jib-japan.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,28 +1,29 @@
 {
-    "company": {
-        "name_jp": "ツークレスト株式会社",
-        "name_en": "Two Crest Co., Ltd.",
-        "website": "https://www.twocrest.com"
-    },
-    "people": [
-        {
-            "name": "川田真司",
-            "title": "代表取締役",
-            "linkedin": "https://jp.linkedin.com/in/%E7%9C%9F%E5%8F%B8-%E8%A1%A8-1b56",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [
-        {
-            "name": "川田真司",
-            "title": "代表取締役",
-            "linkedin": "https://jp.linkedin.com/in/%E7%9C%9F%E5%8F%B8-%E8%A1%A8-1b56",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "last_updated": "2026-05-06"
+  "company": {
+    "name_jp": "ツークレスト株式会社",
+    "name_en": "Two Crest Co., Ltd.",
+    "website": "https://www.twocrest.com"
+  },
+  "people": [
+    {
+      "name": "川田真司",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E7%9C%9F%E5%8F%B8-%E8%A1%A8-1b56",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "川田真司",
+      "title": "代表取締役",
+      "linkedin": "https://jp.linkedin.com/in/%E7%9C%9F%E5%8F%B8-%E8%A1%A8-1b56",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ツークレスト株式会社. People found: 1. Website: https://www.twocrest.com. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

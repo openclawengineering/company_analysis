@@ -1,18 +1,19 @@
 {
-    "company": {
-        "name_jp": "株式会社哲英",
-        "name_en": "哲英",
-        "website": "https://www.idec.or.jp/business/csr/company_info.html?id=412"
-    },
-    "people": [
-        {
-            "name": "矢野英治",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E7%9F%A2%E9%8",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "株式会社哲英",
+    "name_en": "哲英",
+    "website": "https://www.idec.or.jp/business/csr/company_info.html?id=412"
+  },
+  "people": [
+    {
+      "name": "矢野英治",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E7%9F%A2%E9%8",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社哲英. People found: 1. Website: https://www.idec.or.jp/business/csr/company_info.html?id=412. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

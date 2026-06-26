@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "株式会社言語サービス",
-        "name_en": "Language Services Co., Ltd.",
-        "website": "https://www.ls-jp.com/"
-    },
-    "people": [
-        {
-            "name": "史　莉",
-            "title": "代表取締役社長",
-            "linkedin": "https://www.linkedin.com/in/%E8%8E%89-%E5%8F%B2-197492142",
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-01"
+  "company": {
+    "name_jp": "株式会社言語サービス",
+    "name_en": "Language Services Co., Ltd.",
+    "website": "https://www.ls-jp.com/"
+  },
+  "people": [
+    {
+      "name": "史　莉",
+      "title": "代表取締役社長",
+      "linkedin": "https://www.linkedin.com/in/%E8%8E%89-%E5%8F%B2-197492142",
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社言語サービス. People found: 1. Website: https://www.ls-jp.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

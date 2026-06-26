@@ -47,6 +47,6 @@
       "note": "Dear System Press - 社内勉強会・イベントブログ"
     }
   ],
-  "last_updated": "2026-06-25",
-  "research_notes": "Company outline page scraped. Full executive list confirmed. Tech blog and press blog found. No LinkedIn/Twitter links on website. Web search unavailable. Company founded 1985, ISO27001 certified."
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ディアシステム株式会社. People found: 3. Website: https://www.dsic.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -135,6 +135,7 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-24",
-  "notes": "役員・相談役・顧問情報はウェブサイトから確認済み（全16名）。LinkedIn/Twitterのプロファイルは認証が必要なため確認できず。"
+  "last_updated": "2026-06-26",
+  "notes": "役員・相談役・顧問情報はウェブサイトから確認済み（全16名）。LinkedIn/Twitterのプロファイルは認証が必要なため確認できず。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ジスクソフト株式会社. People found: 16. Website: https://www.jisc.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

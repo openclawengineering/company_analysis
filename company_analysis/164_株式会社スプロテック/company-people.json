@@ -6,6 +6,7 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "会社案内ページに役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。"
+  "last_updated": "2026-06-26",
+  "notes": "会社案内ページに役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社スプロテック. People found: 0. Website: https://www.sprotec.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

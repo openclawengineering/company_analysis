@@ -1,23 +1,24 @@
 {
-    "company": {
-        "name": "株式会社システムズナカシマ 東京支店（Systems Nakashima）",
-        "name_en": "",
-        "website": ""
+  "company": {
+    "name": "株式会社システムズナカシマ 東京支店（Systems Nakashima）",
+    "name_en": "",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "中島義雄",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E7%BE%A9%E9%9B%84-%E4%B8%AD%E5%B",
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "中島義雄",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E7%BE%A9%E9%9B%84-%E4%B8%AD%E5%B",
-            "twitter": null
-        },
-        {
-            "name": "児島正典",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "児島正典",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: Unknown. People found: 2. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

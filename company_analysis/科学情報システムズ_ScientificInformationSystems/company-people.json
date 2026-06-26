@@ -1,67 +1,68 @@
 {
-    "company": {
-        "name_jp": "株式会社科学情報システムズ",
-        "name_en": "Science Information Systems Co.,Ltd. (SIS)",
-        "website": "https://www.sisinc.co.jp/"
+  "company": {
+    "name_jp": "株式会社科学情報システムズ",
+    "name_en": "Science Information Systems Co.,Ltd. (SIS)",
+    "website": "https://www.sisinc.co.jp/"
+  },
+  "people": [
+    {
+      "name": "浜地 歩",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "浜地 歩",
-            "title": "代表取締役社長",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "藤澤 義彦",
-            "title": "専務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "阿部 真樹",
-            "title": "常務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "武田 祐二",
-            "title": "常務取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "春田 克己",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "加藤岡 照",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "大島 正春",
-            "title": "監査役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-06-21"
+    {
+      "name": "藤澤 義彦",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "阿部 真樹",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "武田 祐二",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "春田 克己",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "加藤岡 照",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大島 正春",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社科学情報システムズ. People found: 7. Website: https://www.sisinc.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

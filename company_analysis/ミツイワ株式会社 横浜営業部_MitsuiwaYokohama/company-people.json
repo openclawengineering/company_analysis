@@ -1,19 +1,20 @@
 {
-    "company": {
-        "name_jp": "ミツイワ株式会社 横浜営業部",
-        "name_en": "Mitsuiwa Co., Ltd. Yokohama Sales Department",
-        "website": "https://www.mitsuiwa.co.jp"
-    },
-    "people": [
-        {
-            "name": "高橋 洋喜",
-            "title": "代表取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "last_updated": "2026-05-07",
-    "data_source": "company_website_research"
+  "company": {
+    "name_jp": "ミツイワ株式会社 横浜営業部",
+    "name_en": "Mitsuiwa Co., Ltd. Yokohama Sales Department",
+    "website": "https://www.mitsuiwa.co.jp"
+  },
+  "people": [
+    {
+      "name": "高橋 洋喜",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "last_updated": "2026-06-26",
+  "data_source": "company_website_research",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ミツイワ株式会社 横浜営業部. People found: 1. Website: https://www.mitsuiwa.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

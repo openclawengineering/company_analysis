@@ -1,18 +1,19 @@
 {
-    "company": {
-        "name_jp": "湘南技術センター株式会社",
-        "name_en": "湘南技術センター",
-        "website": ""
-    },
-    "people": [
-        {
-            "name": "武部昭彦",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E6%98%AD%E5%BD%A6-%E6%AD%A6%E9%8",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+  "company": {
+    "name_jp": "湘南技術センター株式会社",
+    "name_en": "湘南技術センター",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "武部昭彦",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%98%AD%E5%BD%A6-%E6%AD%A6%E9%8",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 湘南技術センター株式会社. People found: 1. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

@@ -1,17 +1,18 @@
 {
-    "company": {
-        "name_jp": "ネットワークプランニングサービス株式会社",
-        "name_en": "ネットワークプランニングサービス",
-        "website": "https://www.nps-inc.jp/"
-    },
-    "people": [
-        {
-            "name": "砂川健太",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA-%E5%B2%A1%E7%9",
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-07"
+  "company": {
+    "name_jp": "ネットワークプランニングサービス株式会社",
+    "name_en": "ネットワークプランニングサービス",
+    "website": "https://www.nps-inc.jp/"
+  },
+  "people": [
+    {
+      "name": "砂川健太",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA-%E5%B2%A1%E7%9",
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: ネットワークプランニングサービス株式会社. People found: 1. Website: https://www.nps-inc.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

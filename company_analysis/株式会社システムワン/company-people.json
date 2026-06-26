@@ -1,24 +1,25 @@
 {
-    "company": {
-        "name_jp": "株式会社システムワン",
-        "name_en": "システムワン",
-        "website": ""
+  "company": {
+    "name_jp": "株式会社システムワン",
+    "name_en": "システムワン",
+    "website": ""
+  },
+  "people": [
+    {
+      "name": "三谷明定",
+      "title": "代表取締役社長",
+      "linkedin": "https://jp.linkedin.com/in/%E6%98%8E%E5%AE%9A-%E4%B8%89%E8%B",
+      "twitter": null
     },
-    "people": [
-        {
-            "name": "三谷明定",
-            "title": "代表取締役社長",
-            "linkedin": "https://jp.linkedin.com/in/%E6%98%8E%E5%AE%9A-%E4%B8%89%E8%B",
-            "twitter": null
-        },
-        {
-            "name": "阿部俊一",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-04",
-    "data_source": "tavily_ai_summary"
+    {
+      "name": "阿部俊一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "data_source": "tavily_ai_summary",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システムワン. People found: 2. Website: . Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }

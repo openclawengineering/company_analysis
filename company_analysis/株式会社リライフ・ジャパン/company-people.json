@@ -1,35 +1,36 @@
 {
-    "company": {
-        "name_jp": "株式会社リライフ・ジャパン",
-        "name_en": "RLJ co.,ltd",
-        "website": "https://www.rlj.co.jp/"
+  "company": {
+    "name_jp": "株式会社リライフ・ジャパン",
+    "name_en": "RLJ co.,ltd",
+    "website": "https://www.rlj.co.jp/"
+  },
+  "people": [
+    {
+      "name": "佐川 学",
+      "title": "代表取締役CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     },
-    "people": [
-        {
-            "name": "佐川 学",
-            "title": "代表取締役CEO",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "黒田 健二",
-            "title": "取締役COO",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        },
-        {
-            "name": "西山 達矢",
-            "title": "取締役",
-            "linkedin": null,
-            "twitter": null,
-            "department": "",
-            "email": ""
-        }
-    ],
-    "social_profiles": [],
-    "last_updated": "2026-05-06"
+    {
+      "name": "黒田 健二",
+      "title": "取締役COO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "西山 達矢",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社リライフ・ジャパン. People found: 3. Website: https://www.rlj.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
 }
