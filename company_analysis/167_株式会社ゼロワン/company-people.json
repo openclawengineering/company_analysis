@@ -1,12 +1,12 @@
 {
   "company": {
-    "name_jp": "株式会社セブン・ワイズ 横浜営業所",
-    "name_en": "Seven Wise Yokohama Office",
-    "website": "http://www.7ws.co.jp/"
+    "name_jp": "株式会社ゼロワン",
+    "name_en": "",
+    "website": "http://www.zerone-01.co.jp/"
   },
   "people": [
     {
-      "name": "高見祐次",
+      "name": "高橋智明",
       "title": "代表取締役",
       "linkedin": null,
       "twitter": null,
@@ -15,6 +15,6 @@
     }
   ],
   "social_profiles": [],
-  "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社セブン・ワイズ 横浜営業所. People found: 1. Website: http://www.7ws.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Research date: 2026-06-26. Website http://www.zerone-01.co.jp/ accessible. Founded 2006. Capital: 10M JPY. President: 高橋智明. Embedded/control system development specialist in Yokohama. Subsidiary: ZAT-01 for FA business. KIA member listed in master gist.",
+  "last_updated": "2026-06-26"
 }
