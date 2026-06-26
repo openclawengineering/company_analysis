@@ -12,89 +12,9 @@
       "twitter": null,
       "department": "",
       "email": ""
-    },
-    {
-      "name": "小松 貴宏",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "吉澤 誠",
-      "title": "常務取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "立島 直記",
-      "title": "取締役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "佐伯 友道",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "今井 克幸",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "小山 真一",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "木上 望",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "黒瀨 猶志郎",
-      "title": "取締役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "五十嵐 由紀夫",
-      "title": "監査役",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
-    },
-    {
-      "name": "福井 秀和",
-      "title": "監査役（非常勤）",
-      "linkedin": null,
-      "twitter": null,
-      "department": "",
-      "email": ""
     }
   ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing). Company structure and executive information obtained from official company website."
+  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing). Company website accessed on 2026-06-26, found representative director: 瀬端 伸一. Company provides system development, outsourcing, AI and cloud support services to promote corporate DX. Founded in 1976, 50th anniversary in 2026. Part of A-Net Group."
 }
