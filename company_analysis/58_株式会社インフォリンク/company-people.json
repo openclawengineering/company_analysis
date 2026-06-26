@@ -4,8 +4,15 @@
     "name_en": "Infolink Corp.",
     "website": "http://www.inflnk.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "竹田好宏",
+      "name_en": "Yoshihiro Takeda",
+      "title": "代表取締役",
+      "title_en": "President & Representative Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company profile page (https://www.inflnk.co.jp/company/). Listed as '代表取締役 竹田 好宏' in company overview and CEO message."
 }

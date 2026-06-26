@@ -4,8 +4,27 @@
     "name_en": "Web Frontier Corp.",
     "website": "https://webfrontier.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "村上健太",
+      "name_en": "Kenta Murakami",
+      "title": "代表取締役",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "土佐翔",
+      "name_en": "Sho Tosa",
+      "title": "専務取締役",
+      "title_en": "Senior Managing Director"
+    },
+    {
+      "name_jp": "宿久創",
+      "name_en": "So Yukuhisa",
+      "title": "常務取締役",
+      "title_en": "Managing Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company profile page (https://webfrontier.co.jp/company/). Listed 3 executives in '役員' section: 1 representative director, 1 senior managing director, and 1 managing director."
 }

@@ -4,8 +4,15 @@
     "name_en": "Withearth System Corp.",
     "website": "http://withearth-system.com/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "葛西淳也",
+      "name_en": "Junya Kasai",
+      "title": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on executive introduction page (https://withearth-system.com/leader.html). Listed as '代表取締役社長 葛西 淳也' with biography details."
 }

@@ -4,8 +4,15 @@
     "name_en": "Imagine Corp.",
     "website": "http://www.kk-imagine.com/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "實石正昭",
+      "name_en": "Masaaki Sanoseki",
+      "title": "代表取締役",
+      "title_en": "President & Representative Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company profile page (https://www.kk-imagine.com/profile/). Listed as '代表者代表取締役 實石 正昭' in company overview."
 }

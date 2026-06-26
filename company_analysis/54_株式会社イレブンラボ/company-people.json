@@ -4,8 +4,15 @@
     "name_en": "Eleven Lab Corp.",
     "website": "https://www.eleven-lab.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "加藤寛",
+      "name_en": "Hiroshi Kato",
+      "title": "代表取締役",
+      "title_en": "President & Representative Director"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company profile page (https://www.eleven-lab.co.jp/about/company-profile.php). Listed as '代表 代表取締役 加藤寛' in company profile."
 }

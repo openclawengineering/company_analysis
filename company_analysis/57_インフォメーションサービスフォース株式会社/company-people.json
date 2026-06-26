@@ -4,8 +4,39 @@
     "name_en": "Information Service Force Corp.",
     "website": "https://www.isforce.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "佐藤雅紀",
+      "name_en": "Masaki Sato",
+      "title": "代表取締役",
+      "title_en": "Representative Director"
+    },
+    {
+      "name_jp": "中井慎司",
+      "name_en": "Shinji Nakai",
+      "title": "取締役社長",
+      "title_en": "President & Director"
+    },
+    {
+      "name_jp": "野村累",
+      "name_en": "Rui Nomura",
+      "title": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "小山満",
+      "name_en": "Mitsuru Koyama",
+      "title": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "南黒沢晃",
+      "name_en": "Akira Minamikurosawa",
+      "title": "監査役",
+      "title_en": "Auditor"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company outline page (https://www.isforce.jp/company/outline.html). Listed 5 executives in '役員' section including 2 representative directors, 2 directors, and 1 auditor."
 }

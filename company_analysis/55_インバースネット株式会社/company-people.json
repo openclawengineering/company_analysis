@@ -4,8 +4,45 @@
     "name_en": "Inversenet Corp.",
     "website": "https://www.inversenet.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name_jp": "山本慶次郎",
+      "name_en": "Keijiro Yamamoto",
+      "title": "代表取締役社長",
+      "title_en": "President & Representative Director"
+    },
+    {
+      "name_jp": "吉岡浩之",
+      "name_en": "Hiroyuki Yoshioka",
+      "title": "専務取締役",
+      "title_en": "Senior Managing Director"
+    },
+    {
+      "name_jp": "長谷川仁",
+      "name_en": "Hitoshi Hasegawa",
+      "title": "取締役",
+      "title_en": "Director"
+    },
+    {
+      "name_jp": "宮本和彦",
+      "name_en": "Kazuhiko Miyamoto",
+      "title": "執行役員",
+      "title_en": "Executive Officer"
+    },
+    {
+      "name_jp": "徳堂文隆",
+      "name_en": "Fumitaka Tokudo",
+      "title": "執行役員",
+      "title_en": "Executive Officer"
+    },
+    {
+      "name_jp": "鈴木麻生",
+      "name_en": "Mao Suzuki",
+      "title": "執行役員",
+      "title_en": "Executive Officer"
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-25",
-  "research_notes": "Researched for individual executive social profiles (LinkedIn/Twitter). No profiles found via website scraping. Web search API unavailable (MiniMax key missing)."
+  "last_updated": "2026-06-26",
+  "research_notes": "Found executive information on company outline page (https://www.inversenet.co.jp/company/outline/). Listed 6 executives in '役員' section including 1 representative director, 1 senior managing director, 1 director, and 3 executive officers."
 }
