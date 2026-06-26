@@ -1,0 +1,11 @@
+{
+  "company": {
+    "name_jp": "株式会社テクノコア",
+    "name_en": "",
+    "website": "https://www.techno-core.jp/"
+  },
+  "people": [],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "Website heavily JS-rendered, minimal content extractable. No representative director name found from web scraping. Company is a KIA member. Address confirmed from KIA member list."
+}

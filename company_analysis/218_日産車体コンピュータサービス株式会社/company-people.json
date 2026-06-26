@@ -1,0 +1,52 @@
+{
+  "company": {
+    "name_jp": "日産車体コンピュータサービス株式会社",
+    "name_en": "NISSAN SHATAI COMPUTER SERVICE Co., Ltd.",
+    "website": "http://www.ncs-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "森 猛",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "牧田 裕",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "廣瀬 史明",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "萩原 誠広",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鈴木 宏章",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "President 森猛 and full officer list confirmed from company profile page. Founded 1987-01-01 as spin-off from Nissan Shatai's IT dept. 100% Nissan Shatai subsidiary. 282 employees. Capital 1億円. Multiple offices across Japan plus Thailand. ISO9001 certified for 20+ years with special award in 2023. AMO Tier1 vendor for Nissan Motor."
+}

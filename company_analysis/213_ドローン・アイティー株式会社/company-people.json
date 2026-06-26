@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name_jp": "ドローン・アイティー株式会社",
+    "name_en": "",
+    "website": "https://www.drone-it.jp/"
+  },
+  "people": [
+    {
+      "name": "金子 信洋",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松本 隆裕",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "last_updated": "2026-06-26",
+  "research_notes": "President 金子信洋 and Director 松本隆裕 confirmed from company page. Founded 2019-08-01. Capital 800万JPY. Multiple government certifications including MLIT registered training organization. Drone×IT® is a registered trademark. Note: registered address in task (磯子区汐見台) differs from website address (西区北幸); website shows actual office location."
+}
