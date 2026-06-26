@@ -1,7 +1,28 @@
 {
-  "company": { "name_jp": "フォーディーネットワークス株式会社", "name_en": "4D Networks", "website": "http://www.4dn.co.jp/" },
-  "people": [],
+  "company": {
+    "name_jp": "フォーディーネットワークス株式会社",
+    "name_en": "4D Networks",
+    "website": "http://www.4dn.co.jp/"
+  },
+  "people": [
+    {
+      "name": "山本 哲男",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "森 淳",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "research_notes": "Researched on 2026-06-26. Company established April 2000. Capital: 30 million JPY. Located in Minato-ku, Tokyo. TEL: 03-5798-0012. Business: MFP solutions, drone services, 4D Pocket System. Officers: CEO 山本哲男, Auditor 森淳. Related company: Aerial Photo Service.",
+  "last_updated": "2026-06-26"
 }

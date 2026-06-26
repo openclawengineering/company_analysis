@@ -4,8 +4,17 @@
     "name_en": "Human And Technology",
     "website": "http://hat-world.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "濱田 篤由",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。"
+  "research_notes": "Researched on 2026-06-26. Company established August 1993 (Heisei 5). Capital: 10 million JPY. Employees: 30. Sales: 249 million JPY (FY2022). Located in Aoba-ku, Yokohama. CEO: 濱田篤由. Business: Railway systems, electronic money, embedded systems, business applications.",
+  "last_updated": "2026-06-26"
 }

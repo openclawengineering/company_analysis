@@ -1,7 +1,28 @@
 {
-  "company": { "name_jp": "株式会社フォーラム・サイエンス", "name_en": "Forum Science", "website": "http://www.forum-science.co.jp/" },
-  "people": [],
+  "company": {
+    "name_jp": "株式会社フォーラム・サイエンス",
+    "name_en": "Forum Science",
+    "website": "http://www.forum-science.co.jp/"
+  },
+  "people": [
+    {
+      "name": "斎藤 実希",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田中 一嘉",
+      "title": "個人情報保護管理者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "システム営業部",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "research_notes": "Researched on 2026-06-26. Company established December 1996 (Heisei 8). Capital: 10 million JPY. Located in Toshima-ku, Tokyo. TEL: 03-5911-3233. Business: IT processing services (SE/PG/Operators). CEO: 斎藤実希. Privacy protection officer: 田中一嘉 (System Sales Dept). KIA member. Privacy Mark certified.",
+  "last_updated": "2026-06-26"
 }

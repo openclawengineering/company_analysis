@@ -4,14 +4,41 @@
     "name_en": "Bit Global Unit",
     "website": "https://bit-gu.com/"
   },
-  "people": [],
-  "social_profiles": [
+  "people": [
     {
-      "platform": "facebook",
-      "url": "https://www.facebook.com/BitGlobalUnit/",
-      "account": "BitGlobalUnit"
+      "name": "立見 髙浩",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "鈴木 雅巳",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "中馬 智親",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田所 主裕",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
     }
   ],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。"
+  "social_profiles": [],
+  "research_notes": "Researched on 2026-06-26. Company established 1997-07-18 (as Total Net Create, renamed 2020-07). Capital: 23 million JPY. Employees: 24 (as of 2025-01-01). Located in Yokohama Minato Mirai. Officers found: CEO 立見髙浩, Directors 鈴木雅巳 and 中馬智親, Auditor 田所主裕. Subsidiary of Bit Holdings.",
+  "last_updated": "2026-06-26"
 }

@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "株式会社ワールドインテック", "name_en": "", "website": "https://www.witc.co.jp/service/si-c/" },
+  "company": {
+    "name_jp": "株式会社ワールドインテック",
+    "name_en": "",
+    "website": "https://www.witc.co.jp/service/si-c/"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "last_updated": "2026-06-26",
+  "research_notes": "Researched on 2026-06-26. Website: https://www.witc.co.jp/service/si-c/. No executive/officer information found on website."
 }

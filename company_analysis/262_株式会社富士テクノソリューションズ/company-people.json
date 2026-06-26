@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "株式会社富士テクノソリューションズ", "name_en": "Fuji Techno Solutions", "website": "http://www.fjtsc.co.jp" },
+  "company": {
+    "name_jp": "株式会社富士テクノソリューションズ",
+    "name_en": "Fuji Techno Solutions",
+    "website": "http://www.fjtsc.co.jp"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "research_notes": "Researched on 2026-06-26. Website fetch failed - unable to access http://www.fjtsc.co.jp. No executive information available.",
+  "last_updated": "2026-06-26"
 }

@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "株式会社リッケイ", "name_en": "", "website": "https://rikkeisoft.com/ja/company-overview/" },
+  "company": {
+    "name_jp": "株式会社リッケイ",
+    "name_en": "",
+    "website": "https://rikkeisoft.com/ja/company-overview/"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "last_updated": "2026-06-26",
+  "research_notes": "Researched on 2026-06-26. Website: https://rikkeisoft.com/ja/company-overview/. No executive/officer information found on website."
 }

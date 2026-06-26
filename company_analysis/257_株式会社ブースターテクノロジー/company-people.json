@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "株式会社ブースターテクノロジー", "name_en": "Booster Technology", "website": "http://www.booster-technology.com/" },
+  "company": {
+    "name_jp": "株式会社ブースターテクノロジー",
+    "name_en": "Booster Technology",
+    "website": "http://www.booster-technology.com/"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "research_notes": "Researched on 2026-06-26. Company located in Kawasaki, Kanagawa. TEL: 044-711-1617. Business: AI/machine learning, web systems, mobile apps, cloud infrastructure, security diagnosis. Website accessible but no executive/officer information found on company profile page.",
+  "last_updated": "2026-06-26"
 }

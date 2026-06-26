@@ -1,7 +1,20 @@
 {
-  "company": { "name_jp": "株式会社フジシステムズ", "name_en": "FUJI SYSTEMS", "website": "https://www.fujisystems.co.jp/" },
-  "people": [],
+  "company": {
+    "name_jp": "株式会社フジシステムズ",
+    "name_en": "FUJI SYSTEMS",
+    "website": "https://www.fujisystems.co.jp/"
+  },
+  "people": [
+    {
+      "name": "吉田 孝広",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "research_notes": "Researched on 2026-06-26. Company established April 1982. Capital: 30 million JPY (authorized capital 120 million JPY). Employees: 110. Located in Nishi-ku, Yokohama. Business: System development, infrastructure, consulting. Part of Fujisankei Group. CEO: 吉田孝広. ISO9001 certified, Privacy Mark certified. KIA member.",
+  "last_updated": "2026-06-26"
 }

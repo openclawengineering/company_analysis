@@ -1,7 +1,7 @@
 {
   "company": {
     "name_jp": "株式会社ブリリアント",
-    "name_en": "Brilliant Co., Ltd.",
+    "name_en": "",
     "website": "http://www.bril.co.jp/"
   },
   "people": [
@@ -14,12 +14,7 @@
       "email": ""
     }
   ],
-  "social_profiles": [
-    {
-      "name": "ブリリアント",
-      "platform": "youtube",
-      "url": "https://www.youtube.com/@shiawase-naraba"
-    }
-  ],
-  "last_updated": "2026-06-22"
+  "social_profiles": [],
+  "research_notes": "Researched on 2026-06-26. Company established August 1995. Capital: 86 million JPY. Offices in Tokyo (Tachikawa) and Yamanashi (Fuefuki). Business: System development, software development, information services, hardware/software sales. CEO: 井上清美. ISO9001 certified. KIA member. Recipient of multiple Yamanashi Advertising Awards. Recognized as 'Yamanashi Erumin' (diversity certification).",
+  "last_updated": "2026-06-26"
 }

@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "株式会社ユニテック", "name_en": "", "website": "https://www.unitec-net.co.jp/" },
+  "company": {
+    "name_jp": "株式会社ユニテック",
+    "name_en": "",
+    "website": "https://www.unitec-net.co.jp/"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "last_updated": "2026-06-26",
+  "research_notes": "Researched on 2026-06-26. Website: https://www.unitec-net.co.jp/. No executive/officer information found on website."
 }

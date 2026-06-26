@@ -6,6 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイトがJavaScriptでレンダリングされており、役員情報を取得できませんでした。"
+  "research_notes": "Researched on 2026-06-26. Website accessible but JavaScript-rendered content prevents scraping executive information. No officer data available through web fetch.",
+  "last_updated": "2026-06-26"
 }

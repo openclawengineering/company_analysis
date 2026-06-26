@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "ロケットソフトウェアジャパン株式会社", "name_en": "", "website": "http://www.rocketsoftware.com/ja/" },
+  "company": {
+    "name_jp": "ロケットソフトウェアジャパン株式会社",
+    "name_en": "",
+    "website": "http://www.rocketsoftware.com/ja/"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "last_updated": "2026-06-26",
+  "research_notes": "Researched on 2026-06-26. Website: http://www.rocketsoftware.com/ja/. No executive/officer information found on website."
 }

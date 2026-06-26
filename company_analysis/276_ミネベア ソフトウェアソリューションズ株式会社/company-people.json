@@ -1,7 +1,11 @@
 {
-  "company": { "name_jp": "ミネベア ソフトウェアソリューションズ株式会社", "name_en": "", "website": "https://www.minebea-ss.com/" },
+  "company": {
+    "name_jp": "ミネベア ソフトウェアソリューションズ株式会社",
+    "name_en": "",
+    "website": "https://www.minebea-ss.com/"
+  },
   "people": [],
   "social_profiles": [],
-  "last_updated": "2026-06-22",
-  "notes": "ウェブサイト上で役員情報が見つかりませんでした。"
+  "last_updated": "2026-06-26",
+  "research_notes": "Researched on 2026-06-26. Website: https://www.minebea-ss.com/. No executive/officer information found on website."
 }
