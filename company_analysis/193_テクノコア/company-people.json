@@ -8,5 +8,5 @@
   "social_profiles": [],
   "last_updated": "2026-06-26",
   "notes": "Website loads but contains no officer/executive information on any accessible pages.",
-  "research_notes": "Website accessible but minimal content - only shows company name and tagline 'Committing the Service'. Tried /company/, /about/, /profile/ - all return 404 or same minimal page. No officer names, no social media links found."
+  "research_notes": "Website accessible but minimal content - only shows company name and tagline 'Committing the Service'. Tried /company/, /about/, /profile/ - all return 404. No officer names, no social media links found. Requires browser automation."
 }
