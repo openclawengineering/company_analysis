@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "ソリューション・ラボ・ジャパン株式会社",
+    "name_en": "Solution Lab Japan Co., Ltd.",
+    "website": "https://www.slj-net.co.jp/"
+  },
+  "people": [
+    {
+      "name": "森原達夫",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高橋渉",
+      "title": "取締役副社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "宮本範生",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://www.slj-net.co.jp/ accessible. Founded 1992. Capital: 100M JPY. 216 employees. President: 森原達夫. IBM infrastructure specialist. HQ in Yokohama Noge-Chome. Offices in Tokyo, Fukuoka, Osaka. ISMS & Privacy Mark certified. KIA member. Name changed to SLJ in 2022.",
+  "last_updated": "2026-06-26"
+}

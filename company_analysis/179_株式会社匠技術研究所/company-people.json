@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name_jp": "株式会社匠技術研究所",
+    "name_en": "",
+    "website": "https://www.takumigiken.biz/"
+  },
+  "people": [
+    {
+      "name": "谷山亮治",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": "info@takumigiken.biz"
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "twitter",
+      "handle": "takuminews",
+      "url": "https://twitter.com/takuminews",
+      "type": "company"
+    }
+  ],
+  "research_notes": "Research date: 2026-06-26. Website https://www.takumigiken.biz/ accessible. Founded 2002. Capital: 10M JPY. 3 employees. President: 谷山亮治. Very small tech consulting and infrastructure company in Kawasaki. Known for Yamaha router expertise. Linux Foundation member. KIA member listed in master gist.",
+  "last_updated": "2026-06-26"
+}

@@ -4,8 +4,16 @@
     "name_en": "System One",
     "website": "http://www.sys1.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "伊賀 宏行",
+      "name_en": "Iga Hiroyuki",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社システムワン. People found: 0. Website: http://www.sys1.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director on company profile page. No social media links found on website. Founded 1995 (Heisei 7), 30 employees as of 2020. Privacy Mark certified since 2009."
 }

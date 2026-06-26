@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name_jp": "株式会社ＴＳＵＮＡＧＵ",
+    "name_en": "",
+    "website": "https://tsunagu.ltd/"
+  },
+  "people": [
+    {
+      "name": "田村逸人",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://tsunagu.ltd/ accessible. Founded 2018 (LLC), incorporated 2019. Capital: 10M JPY. 15 employees. President: 田村逸人. Software development, system support, matching services. 3 offices: Yokohama, Fukuoka, Masuda (Shimane). ISMS at Masuda office. KIA member listed in master gist. Note: HQ moved to 獅子ケ谷 (230-0073) in Feb 2024, different from master gist address (230-0051 鶴見中央).",
+  "last_updated": "2026-06-26"
+}

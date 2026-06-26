@@ -4,8 +4,16 @@
     "name_en": "Think Tank of Japan Co., Ltd.",
     "website": "http://www.ktt-oj.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "菊地 大介",
+      "name_en": "Kikuchi Daisuke",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社シンクタンクオブジャパン. People found: 0. Website: http://www.ktt-oj.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director on company profile page. Founded 1983, capital 30M JPY, 100 employees. Privacy Mark certified. Offices in Kawasaki and Niigata. Primary clients: NEC group."
 }

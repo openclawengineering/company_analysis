@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社SOLUMINA",
+    "name_en": "",
+    "website": "https://solumina.co.jp/"
+  },
+  "people": [
+    {
+      "name": "田中洋史",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "島村和義",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "神山和典",
+      "title": "取締役技術統括管理部長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://solumina.co.jp/ accessible. Founded 1983 as 株式会社セントラルシステムズ, renamed to SOLUMINA in 2023. Capital: 42M JPY. 149 employees. President: 田中洋史. Medical cloud solutions (QLIFICA series) + system integration. ISO27001, Privacy Mark. HQ in Minatomirai, Yokohama. KIA member.",
+  "last_updated": "2026-06-26"
+}

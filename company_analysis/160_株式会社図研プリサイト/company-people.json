@@ -1,11 +1,48 @@
 {
   "company": {
     "name_jp": "株式会社図研プリサイト",
-    "name_en": "Zuken Presight Co., Ltd.",
+    "name_en": "Zuken PreSight Inc.",
     "website": "https://www.presight.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "小田 泰久",
+      "name_en": "Oda Yasuhisa",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "廣田 正晴",
+      "name_en": "Hirota Masaharu",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "大塚 隆夫",
+      "name_en": "Otsuka Takao",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "吉田 勧",
+      "name_en": "Yoshida Susumu",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "twitter",
+      "handle": null,
+      "url": "https://x.com/presight_pr",
+      "type": "company",
+      "note": "X/Twitter link referenced on site footer via # icon"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社図研プリサイト. People found: 0. Website: https://www.presight.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director president and full officer list on company about page. Founded 2016 (Zuken 100% subsidiary), capital 300M JPY. Products: Visual BOM, Knowledge Explorer, Qualityforce, XVL Studio Z. Parent: 株式会社図研."
 }

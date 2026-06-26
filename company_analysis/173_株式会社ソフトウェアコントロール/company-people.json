@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社ソフトウェアコントロール",
+    "name_en": "",
+    "website": "https://www.scnet.co.jp/"
+  },
+  "people": [
+    {
+      "name": "細田武志",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "土居弘幸",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "畑中歳之",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://www.scnet.co.jp/ accessible. Founded 1978. Capital: 54M JPY. 274 employees. President: 細田武志. Tokyo HQ + Osaka office. Subsidiary of 株式会社アイネット (100%). ISMS certified. KIA member.",
+  "last_updated": "2026-06-26"
+}

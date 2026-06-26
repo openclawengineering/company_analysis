@@ -4,7 +4,36 @@
     "name_en": "Shonan Software Co., Ltd.",
     "website": "https://www.ssw-nw.co.jp"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "齋藤 和義",
+      "name_en": "Saito Kazuyoshi",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "大橋 麻絵子",
+      "name_en": "Oohashi Maeko",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "原 冨久江",
+      "name_en": "Hara Fukue",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "金子 敏明",
+      "name_en": "Kaneko Toshiaki",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [
     {
       "platform": "facebook",
@@ -14,5 +43,5 @@
     }
   ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ショウナンソフトウェア. People found: 0. Website: https://www.ssw-nw.co.jp. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director and full officer list on company info page. Founded 1984, capital 20M JPY. Facebook page found. Board director at KIA. Primary client: NEC."
 }

@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name_jp": "株式会社ソフテム",
+    "name_en": "",
+    "website": "https://www.softem.co.jp/"
+  },
+  "people": [
+    {
+      "name": "",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://www.softem.co.jp/ returned 403 error (Azure Web Apps stopped). Unable to obtain company details (president name, founding date, capital). Address from master gist: 210-0007 川崎市川崎区駅前本町11-2 川崎フロンティアビル5F. KIA member.",
+  "last_updated": "2026-06-26"
+}

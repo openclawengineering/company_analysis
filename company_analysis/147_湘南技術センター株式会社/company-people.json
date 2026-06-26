@@ -4,7 +4,15 @@
     "name_en": "Shonan Technology Center, Inc.",
     "website": "https://www.shonan-gijyutsuc.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "武部 昭彦",
+      "name_en": "Takebe Akihiko",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [
     {
       "platform": "twitter",
@@ -26,5 +34,5 @@
     }
   ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 湘南技術センター株式会社. People found: 0. Website: https://www.shonan-gijyutsuc.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director on company outline page. X, Facebook, and Instagram profiles found. Founded 1974, 140 employees. Major clients include Toshiba, Denso, Nissan, Bridgestone, Kobe Steel."
 }

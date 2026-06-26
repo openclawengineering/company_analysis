@@ -1,0 +1,20 @@
+{
+  "company": {
+    "name_jp": "株式会社ソフト 東京支社",
+    "name_en": "",
+    "website": "https://www.soft-co.co/"
+  },
+  "people": [
+    {
+      "name": "",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://www.soft-co.co/ DNS resolution failed (getaddrinfo ENOTFOUND). Unable to obtain company details. Address from master gist: 220-0011 横浜市西区高島2-19-12 スカイビル20F (listed as 東京支社). KIA member.",
+  "last_updated": "2026-06-26"
+}

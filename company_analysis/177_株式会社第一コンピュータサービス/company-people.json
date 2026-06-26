@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name_jp": "株式会社第一コンピュータサービス",
+    "name_en": "",
+    "website": "https://www.dcs21.co.jp/"
+  },
+  "people": [
+    {
+      "name": "鮎沢潤",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "増田麻衣",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "永井治司",
+      "title": "取締役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [],
+  "research_notes": "Research date: 2026-06-26. Website https://www.dcs21.co.jp/ accessible. Founded 1976. 460 employees. President: 鮎沢潤. System development solutions. ISO27001, ISO9001:2015, Privacy Mark certified. HQ at Muza Kawasaki Central Tower. Multiple subsidiaries (DCS Holdings, System Works, Data Labo, Hybrid Service). KIA member.",
+  "last_updated": "2026-06-26"
+}

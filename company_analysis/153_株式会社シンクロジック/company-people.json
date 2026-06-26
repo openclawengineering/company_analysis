@@ -4,8 +4,30 @@
     "name_en": "Think Logic Co., Ltd.",
     "website": "https://www.thinklogic.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "早川 晋史",
+      "name_en": "Hayakawa Shinji",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "入山 幸司",
+      "name_en": "Iriyama Koji",
+      "title": "専務取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "畑尾 龍弘",
+      "name_en": "Hatao Tatsuhiro",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社シンクロジック. People found: 0. Website: https://www.thinklogic.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director president and full officer list from officer page. Founded 1998 by 島田琢也 (Shimada Takuya). Online game development company located in Yokohama Landmark Tower 38F. Member of JOGA and KIA."
 }

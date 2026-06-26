@@ -4,8 +4,37 @@
     "name_en": "Shin-Nippon Computer Service Inc.",
     "website": "https://www.sncs.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "本田 尚道",
+      "name_en": "Honda Naomi",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "南條 善明",
+      "name_en": "Nanjo Yoshiaki",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "加藤 絵里",
+      "name_en": "Kato Eri",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "壬生 米秋",
+      "name_en": "Mibu Yoneaki",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社新日本コンピュータサービス. People found: 0. Website: https://www.sncs.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director president and full officer list on company about page. Founded 1971, capital 20M JPY, 92 employees. Offices in Yamato and Sagamihara. Related company: 株式会社千代田ラフト."
 }

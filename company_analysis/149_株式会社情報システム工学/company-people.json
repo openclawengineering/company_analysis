@@ -1,11 +1,19 @@
 {
   "company": {
     "name_jp": "株式会社情報システム工学",
-    "name_en": "Information Systems Engineering Co., Ltd.",
+    "name_en": "Information System Engineering Co., Ltd.",
     "website": "https://ise-group.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "石橋 重徳",
+      "name_en": "Ishibashi Shigenori",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社情報システム工学. People found: 0. Website: https://ise-group.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director president on corporate page. Founded 1979, capital 198M JPY, 306 employees, revenue 7.4B JPY (FY2026/3). ISO 27001 certified. Group company: 株式会社アイ・エス・イー総合研究所."
 }

@@ -4,9 +4,30 @@
     "name_en": "Sprotec",
     "website": "https://www.sprotec.com/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "奥津 篤",
+      "name_en": "Okutsu Atsushi",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "平川 恭",
+      "name_en": "Hirakawa Yasushi",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    },
+    {
+      "name": "渡邊 洋之",
+      "name_en": "Watanabe Hiroyuki",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "notes": "会社案内ページに役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社スプロテック. People found: 0. Website: https://www.sprotec.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director and full officer list on company page. Founded 1985, capital 10.6M JPY, 9 employees. Software/embedded development. Member of KIA. Note: website copyright says 2018, may not be actively maintained."
 }

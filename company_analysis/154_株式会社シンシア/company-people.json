@@ -7,5 +7,5 @@
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社シンシア. People found: 0. Website: https://sincere-biz.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Website is JavaScript-rendered (SPA), web_fetch only returned 8 chars of content. Unable to extract officer names or social profiles. No /company/ subpage exists (404). Requires browser automation for proper scraping."
 }

@@ -1,12 +1,32 @@
 {
   "company": {
     "name_jp": "株式会社セカンド・ウェーブ",
-    "name_en": "Second Wave",
+    "name_en": "Second Wave Inc.",
     "website": "https://www.2ndwave.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "本田 篤志",
+      "name_en": "Honda Atsushi",
+      "title": "代表取締役",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "instagram",
+      "handle": "2ndwave_info",
+      "url": "https://www.instagram.com/2ndwave_info/",
+      "type": "company"
+    },
+    {
+      "platform": "facebook",
+      "handle": "2ndwave.jp",
+      "url": "https://m.facebook.com/2ndwave.jp/",
+      "type": "company"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "notes": "ウェブサイト上で役員情報が見つからず、具体的な役員名や役職情報を取得できませんでした。",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社セカンド・ウェーブ. People found: 0. Website: https://www.2ndwave.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director on president message page. Instagram and Facebook profiles found on website footer. Web system development and site construction. Related to 株式会社情創. Note: Not the same person as 本田尚道 (SNCS)."
 }

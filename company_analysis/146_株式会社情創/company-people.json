@@ -4,7 +4,15 @@
     "name_en": "Johso Co., Ltd.",
     "website": "https://johso.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "富樫 和弘",
+      "name_en": "Togashi Kazuhiro",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [
     {
       "platform": "facebook",
@@ -14,5 +22,5 @@
     }
   ],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社情創. People found: 0. Website: https://johso.co.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director president on company page. Facebook page found. 46 employees. VP of KIA (神奈川県情報サービス産業協会). Related company: 株式会社アナザーウェア, 株式会社セカンド・ウェーブ."
 }

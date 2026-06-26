@@ -4,8 +4,16 @@
     "name_en": "Sysmic Co., Ltd.",
     "website": "http://www.sysmic.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "佐々木 博史",
+      "name_en": "Sasaki Hiroshi",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: シスミック株式会社. People found: 0. Website: http://www.sysmic.jp/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Updated 2026-06-26. Found representative director president on company message page. Founded 1985, ISO 27001 certified, Privacy Mark certified. Primary partner: Mitsubishi Electric Group."
 }
