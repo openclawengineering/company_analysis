@@ -1,11 +1,28 @@
 {
   "company": {
     "name_jp": "株式会社デジタルフォルン",
-    "name_en": "",
+    "name_en": "DIGITAL VORN CO.LTD.",
     "website": "https://www.vorn.co.jp/"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "䔥敬如",
+      "title": "代表取締役 上席執行役員 CEO",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "株式会社デジタルフォルン",
+      "title": "Company",
+      "linkedin": null,
+      "twitter": null,
+      "note": "note.com profile: https://note.com/digital_vorn"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "No representative director name found from web scraping. Company provides SFE solutions for pharma, DX/automation, data analytics, system development, and embedded/machine design. KIA member with HQ in Kasumigaseki, Tokyo."
+  "research_notes": "CEO name: 䔥敬如 (from CEO message page /company/message). note.com blog: https://note.com/digital_vorn. Founded 1961, provides SFE support for pharma, DX/automation, data analytics, system development, embedded/machine design. No LinkedIn/Twitter found."
 }

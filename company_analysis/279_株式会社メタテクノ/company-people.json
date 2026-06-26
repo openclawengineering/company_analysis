@@ -4,8 +4,57 @@
     "name_en": "",
     "website": "https://www.meta.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "中山 聖",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "武田 昌弘",
+      "title": "常務取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "高林 秀樹",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田尾 啓一",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "古賀 道夫",
+      "title": "相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "福重 一彦",
+      "title": "相談役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: https://www.meta.co.jp/. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 中山聖. 常務取締役: 武田昌弘. 取締役: 高林秀樹. 監査役: 田尾啓一. 相談役: 古賀道夫, 福重一彦. 1984年設立。売上21億円(2025年度)。従業員195名。組込み・クラウド・AI等多様な開発事業。スリランカに子会社あり。"
 }

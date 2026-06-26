@@ -4,8 +4,49 @@
     "name_en": "",
     "website": "https://www.metro.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "國清 康之",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "真野 謙一",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "小高 慎司",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "佐藤 三男",
+      "title": "監査役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "大矢 さゆり",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: https://www.metro.co.jp/. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 國清康之. 取締役: 真野謙一, 小高慎司. 監査役: 佐藤三男, 大矢さゆり(非常勤). 執行役員: 石田英之, 髙森髙志. 1971年設立。資本金32億円。従業員379名。データクレンジング・HPC・セキュリティ等のITソリューション。沼津に開発センター。"
 }

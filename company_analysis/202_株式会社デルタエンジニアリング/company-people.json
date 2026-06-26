@@ -1,11 +1,24 @@
 {
   "company": {
     "name_jp": "株式会社デルタエンジニアリング",
-    "name_en": "",
+    "name_en": "DELTA ENGINEERING Co.Ltd.",
     "website": "https://www.delta-group.co.jp/totec/"
   },
   "people": [],
-  "social_profiles": [],
+  "social_profiles": [
+    {
+      "name": "DELTA GROUP",
+      "title": "Group",
+      "linkedin": null,
+      "twitter": "https://twitter.com/O_DELTAGROUP"
+    },
+    {
+      "name": "DELTA GROUP",
+      "title": "Group",
+      "linkedin": null,
+      "twitter": "https://twitter.com/deltakyujin"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Part of DELTA GROUP. Website URL redirects from /totec/ to /delta-engineering/. No representative director name found from web scraping. Focuses on engineer dispatch and staffing services. KIA member."
+  "research_notes": "Part of DELTA GROUP. URL redirects from /totec/ to /delta-engineering/. No individual officer names found for デルタエンジニアリング specifically (group corporate page lists only company info, not officers). Group Twitter: @O_DELTAGROUP, @deltakyujin. Group Facebook: https://www.facebook.com/delta.group.jp/. Headquartered in Marunouchi, Tokyo."
 }

@@ -1,11 +1,20 @@
 {
   "company": {
     "name_jp": "株式会社日本コンサルタントグループ",
-    "name_en": "",
+    "name_en": "Nippon Consultants Group Inc.",
     "website": "https://www.niccon.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "清水秀一",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "代表取締役名はウェブサイトから確認できず。企業情報ページはメニュー構造のみ取得可能で詳細テキストを取得できなかった。"
+  "research_notes": "代表取締役社名: 清水秀一 (from 会社概要 page at /kigyoujouhou/kaisyagaiyou/). Founded 1956, headquartered in Shinjuku, Tokyo. No LinkedIn/Twitter found on website."
 }

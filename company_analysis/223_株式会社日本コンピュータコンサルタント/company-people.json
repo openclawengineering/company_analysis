@@ -4,8 +4,73 @@
     "name_en": "Nihon Computer Consultant Co., Ltd.",
     "website": "https://www.n-c-c.co.jp"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "冨田松平",
+      "title": "代表取締役会長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松渕辰生",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "三谷浩治",
+      "title": "常務取締役（設計本部長）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "設計本部",
+      "email": ""
+    },
+    {
+      "name": "二日市信雄",
+      "title": "取締役（BP本部長）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "BP本部",
+      "email": ""
+    },
+    {
+      "name": "近藤昭彦",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "田村洋",
+      "title": "取締役",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    },
+    {
+      "name": "松木謙一郎",
+      "title": "監査役（非常勤）",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "name": "株式会社日本コンピュータコンサルタント",
+      "title": "Company",
+      "linkedin": null,
+      "twitter": null,
+      "youtube": "https://www.youtube.com/@kaisyuf"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "会社案内ページのテキストが途中で途切れており、代表取締役名を確認できず。1980年8月設立、日立ソフトグループ出身であることは確認済み。"
+  "research_notes": "Full officer list found on company overview page (/company/overview/). Founded 1980 in Yokohama, 295 employees. Also operates moopad.biz and 連絡上手 services. Related family brand: 介舟ファミリー (kaisyuf.jp). YouTube: https://www.youtube.com/@kaisyuf. Major Hitachi group partner."
 }

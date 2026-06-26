@@ -4,8 +4,17 @@
     "name_en": "",
     "website": "https://www.melius-tech.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "篠﨑 雄二",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: https://www.melius-tech.co.jp/. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 篠﨑雄二. 2024年8月設立（新会社）。資本金1000万円。システム企画・設計・開発、ネットワーク/サーバ構築。元日立システムズのPLM導入PM経験。横浜市神奈川区所在。"
 }

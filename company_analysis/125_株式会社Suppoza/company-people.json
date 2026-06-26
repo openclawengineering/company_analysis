@@ -7,5 +7,5 @@
   "people": [],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Website (suppoza.com) is JavaScript-rendered - no content extractable via fetch. Tried /company/ and /about subpages - also JS-rendered with no content. No officer names or social profiles found. Web search API unavailable (MiniMax key missing)."
+  "research_notes": "Website (suppoza.com) is JavaScript-rendered SPA - no content extractable via fetch on any page (/company, homepage). Tagline: 'Proper Security for Change'. No officer names or social profiles found. Requires browser automation."
 }

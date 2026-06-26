@@ -8,5 +8,5 @@
   "social_profiles": [],
   "last_updated": "2026-06-26",
   "notes": "ウェブサイトから役員・代表者の情報が取得できませんでした。会社情報ページの読み込みに失敗しました。",
-  "research_notes": "Updated 2026-06-26 via batch processing. Company: 株式会社ビーシーエス. People found: 0. Website: https://www.biz-cs.com/. Web search API unavailable (MiniMax key missing) - social profiles could not be researched. Website scraping deferred due to rate limits."
+  "research_notes": "Researched 2026-06-26. ウェブサイト https://www.biz-cs.com/ へのアクセスが失敗（fetch failed）。代表取締役名は未取得。"
 }

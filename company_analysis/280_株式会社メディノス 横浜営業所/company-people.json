@@ -4,8 +4,17 @@
     "name_en": "",
     "website": "http://www.medinos.co.jp/"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "山田 浩司",
+      "title": "代表取締役社長",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
   "social_profiles": [],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: http://www.medinos.co.jp/. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表取締役社長: 山田浩司. 1998年設立。資本金3000万円。大阪本社＋横浜営業所。ソフトウェア・ハードウェア設計開発、画像解析・FAソリューション。ISO27001認証取得。"
 }

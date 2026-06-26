@@ -6,6 +6,6 @@
   },
   "people": [],
   "social_profiles": [],
-  "research_notes": "Researched on 2026-06-26. Website accessible but JavaScript-rendered content prevents scraping executive information. No officer data available through web fetch.",
+  "research_notes": "Researched 2026-06-26. ウェブサイト https://www.hm-net.co.jp/ はJavaScript-renderedコンテンツでスクレイピング不可。代表取締役名は確認できず。業務アプリ・組込制御ソフト開発。",
   "last_updated": "2026-06-26"
 }

@@ -4,8 +4,34 @@
     "name_en": "",
     "website": "http://www.msk.co.jp"
   },
-  "people": [],
-  "social_profiles": [],
+  "people": [
+    {
+      "name": "宮川 恒太郎",
+      "title": "代表者",
+      "linkedin": null,
+      "twitter": null,
+      "department": "",
+      "email": ""
+    }
+  ],
+  "social_profiles": [
+    {
+      "platform": "Twitter",
+      "url": "https://x.com/msk_1939"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61553600442401"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/msk__1939/?hl=ja"
+    },
+    {
+      "platform": "Note",
+      "url": "https://note.com/msk_1939/"
+    }
+  ],
   "last_updated": "2026-06-26",
-  "research_notes": "Researched on 2026-06-26. Website: http://www.msk.co.jp. No executive/officer information found on website."
+  "research_notes": "Researched 2026-06-26. 代表者: 宮川恒太郎. 1939年創立、85年の歴史。資本金1億円、従業員191名。RFID・顔認証・環境監視・LTEルータ等のソリューション展開。SNS: X(@msk_1939), Facebook, Instagram, note。"
 }
